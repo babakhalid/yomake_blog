@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://blog.yomake.ai/</loc>
+    <lastmod>2024-12-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Articles Index -->
+  <url>
+    <loc>https://blog.yomake.ai/articles</loc>
+    <lastmod>2024-12-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Individual Articles -->
+  <url>
+    <loc>https://blog.yomake.ai/articles/getting-started-with-yomake</loc>
+    <lastmod>2024-12-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.yomake.ai/images/blog/getting-started.svg</image:loc>
+      <image:title>Getting Started with Yomake: Your First AI-Built Website</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.yomake.ai/articles/vibe-coding-explained</loc>
+    <lastmod>2024-12-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.yomake.ai/images/blog/vibe-coding.svg</image:loc>
+      <image:title>What is Vibe Coding? The Future of Web Development</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.yomake.ai/articles/ai-web-development-tips</loc>
+    <lastmod>2024-12-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.yomake.ai/images/blog/ai-tips.svg</image:loc>
+      <image:title>5 Tips for Better AI-Generated Websites</image:title>
+    </image:image>
+  </url>
+
+</urlset>
