@@ -351,6 +351,36 @@
   object-fit: cover;
 }
 
+/* Load More / Infinite Scroll */
+.load-more-trigger {
+  display: flex;
+  justify-content: center;
+  padding: 2rem 0;
+}
+
+.loading-indicator {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--muted-foreground);
+  font-size: 0.8rem;
+}
+
+.loading-indicator .spinner {
+  width: 16px;
+  height: 16px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
 /* CTA Section */
 .cta {
   padding: 4rem 0;

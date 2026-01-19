@@ -1,17 +1,48 @@
-import { useState, useRef } from 'react';
+import { useState, useRef, useEffect, useCallback } from 'react';
 import { Link } from 'react-router-dom';
 import { getAllArticles, formatDate } from '@/utils';
 import { SEO, generateBlogSchema } from '@/components/SEO';
 import './HomePage.css';
 
+const INITIAL_ARTICLES = 4;
+const ARTICLES_PER_LOAD = 4;
+
 export function HomePage() {
   const articles = getAllArticles();
   const [featuredArticle, ...restArticles] = articles;
-  const recentArticles = restArticles.slice(0, 4);
 
+  const [displayCount, setDisplayCount] = useState(INITIAL_ARTICLES);
   const [hoveredImage, setHoveredImage] = useState<string | null>(null);
   const [mousePos, setMousePos] = useState({ x: 0, y: 0 });
   const listRef = useRef<HTMLDivElement>(null);
+  const loadMoreRef = useRef<HTMLDivElement>(null);
+
+  const displayedArticles = restArticles.slice(0, displayCount);
+  const hasMore = displayCount < restArticles.length;
+
+  // Intersection Observer for infinite scroll
+  const loadMore = useCallback(() => {
+    if (hasMore) {
+      setDisplayCount((prev) => Math.min(prev + ARTICLES_PER_LOAD, restArticles.length));
+    }
+  }, [hasMore, restArticles.length]);
+
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting && hasMore) {
+          loadMore();
+        }
+      },
+      { threshold: 0.1, rootMargin: '100px' }
+    );
+
+    if (loadMoreRef.current) {
+      observer.observe(loadMoreRef.current);
+    }
+
+    return () => observer.disconnect();
+  }, [hasMore, loadMore]);
 
   const handleMouseMove = (e: React.MouseEvent) => {
     if (listRef.current) {
@@ -108,7 +139,7 @@ export function HomePage() {
             onMouseMove={handleMouseMove}
             onMouseLeave={() => setHoveredImage(null)}
           >
-            {recentArticles.map((article, index) => (
+            {displayedArticles.map((article, index) => (
               <Link
                 key={article.slug}
                 to={`/articles/${article.slug}`}
@@ -138,6 +169,18 @@ export function HomePage() {
               </div>
             )}
           </div>
+
+          {hasMore && (
+            <div className="load-more-trigger" ref={loadMoreRef}>
+              <div className="loading-indicator">
+                <svg className="spinner" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                  <circle cx="12" cy="12" r="10" strokeOpacity="0.25" />
+                  <path d="M12 2a10 10 0 0 1 10 10" strokeLinecap="round" />
+                </svg>
+                <span>Loading more...</span>
+              </div>
+            </div>
+          )}
         </div>
       </section>
 

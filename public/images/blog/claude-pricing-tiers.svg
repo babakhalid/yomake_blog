@@ -1,0 +1,40 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="price-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#price-bg)"/>
+
+  <!-- Pro tier card -->
+  <rect x="250" y="120" width="300" height="400" rx="16" fill="#21262d" stroke="#3b82f6" stroke-width="2"/>
+  <rect x="250" y="120" width="300" height="80" fill="#3b82f6" opacity="0.2"/>
+  <text x="400" y="165" font-family="system-ui" font-size="24" fill="#3b82f6" text-anchor="middle" font-weight="bold">Pro</text>
+  <text x="400" y="250" font-family="system-ui" font-size="48" fill="#e5e7eb" text-anchor="middle" font-weight="bold">$20</text>
+  <text x="400" y="280" font-family="system-ui" font-size="16" fill="#9ca3af" text-anchor="middle">/month</text>
+  <!-- Features -->
+  <text x="290" y="340" font-family="system-ui" font-size="14" fill="#9ca3af">✓ All Claude models</text>
+  <text x="290" y="370" font-family="system-ui" font-size="14" fill="#9ca3af">✓ Extended context</text>
+  <text x="290" y="400" font-family="system-ui" font-size="14" fill="#9ca3af">✓ Priority access</text>
+  <text x="290" y="430" font-family="system-ui" font-size="14" fill="#9ca3af">✓ Standard limits</text>
+  <rect x="290" y="460" width="220" height="40" rx="20" fill="#3b82f6" opacity="0.3"/>
+  <text x="400" y="485" font-family="system-ui" font-size="14" fill="#60a5fa" text-anchor="middle">Best for individuals</text>
+
+  <!-- Max tier card -->
+  <rect x="650" y="100" width="300" height="440" rx="16" fill="#21262d" stroke="#8b5cf6" stroke-width="3"/>
+  <rect x="650" y="100" width="300" height="80" fill="#8b5cf6" opacity="0.3"/>
+  <rect x="750" y="85" width="100" height="30" rx="15" fill="#8b5cf6"/>
+  <text x="800" y="105" font-family="system-ui" font-size="12" fill="white" text-anchor="middle" font-weight="bold">POPULAR</text>
+  <text x="800" y="150" font-family="system-ui" font-size="24" fill="#8b5cf6" text-anchor="middle" font-weight="bold">Max</text>
+  <text x="800" y="240" font-family="system-ui" font-size="36" fill="#e5e7eb" text-anchor="middle" font-weight="bold">$100-200</text>
+  <text x="800" y="270" font-family="system-ui" font-size="16" fill="#9ca3af" text-anchor="middle">/month</text>
+  <!-- Features -->
+  <text x="690" y="330" font-family="system-ui" font-size="14" fill="#c4b5fd">✓ Everything in Pro</text>
+  <text x="690" y="360" font-family="system-ui" font-size="14" fill="#c4b5fd">✓ Unlimited usage</text>
+  <text x="690" y="390" font-family="system-ui" font-size="14" fill="#c4b5fd">✓ Priority processing</text>
+  <text x="690" y="420" font-family="system-ui" font-size="14" fill="#c4b5fd">✓ Early feature access</text>
+  <text x="690" y="450" font-family="system-ui" font-size="14" fill="#c4b5fd">✓ Higher rate limits</text>
+  <rect x="690" y="480" width="220" height="40" rx="20" fill="#8b5cf6"/>
+  <text x="800" y="505" font-family="system-ui" font-size="14" fill="white" text-anchor="middle" font-weight="600">Best for power users</text>
+</svg>

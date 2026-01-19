@@ -1,0 +1,44 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mem-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#mem-bg)"/>
+  <!-- Memory side -->
+  <rect x="150" y="150" width="380" height="350" rx="16" fill="#21262d" stroke="#6366f1" stroke-width="2"/>
+  <text x="340" y="200" font-family="system-ui" font-size="20" fill="#6366f1" text-anchor="middle" font-weight="600">Memory</text>
+  <!-- Memory items -->
+  <rect x="180" y="230" width="320" height="50" rx="8" fill="#6366f1" opacity="0.15"/>
+  <circle cx="210" cy="255" r="12" fill="#6366f1" opacity="0.5"/>
+  <text x="235" y="250" font-family="system-ui" font-size="12" fill="#a5b4fc">Preferences saved</text>
+  <text x="235" y="268" font-family="system-ui" font-size="10" fill="#6366f1" opacity="0.7">Code style: TypeScript</text>
+
+  <rect x="180" y="295" width="320" height="50" rx="8" fill="#6366f1" opacity="0.15"/>
+  <circle cx="210" cy="320" r="12" fill="#6366f1" opacity="0.5"/>
+  <text x="235" y="315" font-family="system-ui" font-size="12" fill="#a5b4fc">Project context</text>
+  <text x="235" y="333" font-family="system-ui" font-size="10" fill="#6366f1" opacity="0.7">React + Vite application</text>
+
+  <rect x="180" y="360" width="320" height="50" rx="8" fill="#6366f1" opacity="0.15"/>
+  <circle cx="210" cy="385" r="12" fill="#6366f1" opacity="0.5"/>
+  <text x="235" y="380" font-family="system-ui" font-size="12" fill="#a5b4fc">Team conventions</text>
+  <text x="235" y="398" font-family="system-ui" font-size="10" fill="#6366f1" opacity="0.7">ESLint + Prettier config</text>
+
+  <!-- Divider -->
+  <line x1="600" y1="180" x2="600" y2="470" stroke="#30363d" stroke-width="2" stroke-dasharray="8,4"/>
+
+  <!-- Incognito side -->
+  <rect x="670" y="150" width="380" height="350" rx="16" fill="#21262d" stroke="#f59e0b" stroke-width="2"/>
+  <text x="860" y="200" font-family="system-ui" font-size="20" fill="#f59e0b" text-anchor="middle" font-weight="600">Incognito</text>
+  <!-- Incognito icon -->
+  <circle cx="860" cy="315" r="60" fill="none" stroke="#f59e0b" stroke-width="3" opacity="0.3"/>
+  <!-- Glasses/mask icon -->
+  <ellipse cx="825" cy="305" rx="25" ry="20" fill="none" stroke="#f59e0b" stroke-width="3"/>
+  <ellipse cx="895" cy="305" rx="25" ry="20" fill="none" stroke="#f59e0b" stroke-width="3"/>
+  <line x1="850" y1="305" x2="870" y2="305" stroke="#f59e0b" stroke-width="3"/>
+  <line x1="800" y1="295" x2="785" y2="280" stroke="#f59e0b" stroke-width="3"/>
+  <line x1="920" y1="295" x2="935" y2="280" stroke="#f59e0b" stroke-width="3"/>
+  <text x="860" y="410" font-family="system-ui" font-size="14" fill="#fcd34d" text-anchor="middle" opacity="0.8">No data retained</text>
+  <text x="860" y="435" font-family="system-ui" font-size="12" fill="#f59e0b" text-anchor="middle" opacity="0.6">Private conversation mode</text>
+</svg>

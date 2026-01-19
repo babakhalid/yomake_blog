@@ -71,8 +71,29 @@
 
 .article-card-tags {
   display: flex;
-  flex-wrap: wrap;
   gap: 0.5rem;
+  overflow-x: auto;
+  padding-bottom: 0.25rem;
+  scrollbar-width: thin;
+  scrollbar-color: var(--muted) transparent;
+  -webkit-overflow-scrolling: touch;
+}
+
+.article-card-tags::-webkit-scrollbar {
+  height: 4px;
+}
+
+.article-card-tags::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.article-card-tags::-webkit-scrollbar-thumb {
+  background-color: var(--muted);
+  border-radius: 2px;
+}
+
+.article-card-tags::-webkit-scrollbar-thumb:hover {
+  background-color: var(--muted-foreground);
 }
 
 .article-card-tag {
@@ -82,4 +103,6 @@
   color: var(--secondary-foreground);
   border-radius: 9999px;
   font-weight: 500;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
