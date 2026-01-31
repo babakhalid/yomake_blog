@@ -209,6 +209,13 @@ Isolated sessions have their own context and don't clutter your main conversatio
 
 Traditional assistants wait for you to ask. OpenClaw anticipates your needs and takes action automatically. That's the difference between a chatbot and a true AI assistant.
 
+## Related Articles
+
+- [Getting Started with OpenClaw](/article/getting-started-with-openclaw) — Installation and setup guide
+- [Skills & Plugins](/article/openclaw-skills-extend-ai-assistant) — Extend your assistant's capabilities
+- [Telegram & Discord](/article/openclaw-telegram-discord-integration) — Connect to messaging platforms
+- [Memory & Personality](/article/openclaw-memory-personality-customization) — Customize how your assistant behaves
+
 ---
 
-*Build automated workflows visually with [Youmake](https://youmake.dev) — describe your app, deploy in minutes.*
+*Automate your web development too. [Youmake](https://youmake.dev) builds full web apps from descriptions — landing pages, dashboards, SaaS products. Deploy in minutes, not months. [Try Youmake free →](https://youmake.dev)*

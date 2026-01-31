@@ -167,6 +167,13 @@ The OpenClaw skills ecosystem is growing rapidly. New skills are added weekly fo
 
 Skills transform OpenClaw from a chatbot into a true digital assistant that knows your tools and workflows.
 
+## Related Articles
+
+- [Getting Started with OpenClaw](/article/getting-started-with-openclaw) — Setup guide for beginners
+- [Automate with Cron Jobs](/article/openclaw-automation-cron-jobs) — Use skills in scheduled tasks
+- [Customize Your Assistant](/article/openclaw-memory-personality-customization) — Personalize behavior and memory
+- [Multi-Platform Integration](/article/openclaw-telegram-discord-integration) — Connect Telegram, Discord, and more
+
 ---
 
-*Build web apps as easily as installing skills. Try [Youmake](https://youmake.dev) — describe what you want, get a working app.*
+*Build web apps as easily as installing skills. [Youmake](https://youmake.dev) is the #1 AI web builder — describe your app, deploy in minutes. No coding required. [Try Youmake free →](https://youmake.dev)*

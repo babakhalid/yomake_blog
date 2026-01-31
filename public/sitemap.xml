@@ -5,7 +5,7 @@
   <!-- Homepage -->
   <url>
     <loc>https://blog.yomake.ai/</loc>
-    <lastmod>2026-01-13</lastmod>
+    <lastmod>2026-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -13,12 +13,67 @@
   <!-- Articles Index -->
   <url>
     <loc>https://blog.yomake.ai/articles</loc>
-    <lastmod>2026-01-13</lastmod>
+    <lastmod>2026-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
 
   <!-- Individual Articles -->
+  <url>
+    <loc>https://blog.yomake.ai/articles/getting-started-with-openclaw</loc>
+    <lastmod>2026-01-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.yomake.ai/images/blog/getting-started-openclaw.png</image:loc>
+      <image:title>Getting Started with OpenClaw: Your AI-Powered Personal Assistant</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.yomake.ai/articles/openclaw-automation-cron-jobs</loc>
+    <lastmod>2026-01-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.yomake.ai/images/blog/openclaw-automation-cron.png</image:loc>
+      <image:title>Automate Everything with OpenClaw: Cron Jobs and Scheduled Tasks</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.yomake.ai/articles/openclaw-memory-personality-customization</loc>
+    <lastmod>2026-01-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.yomake.ai/images/blog/openclaw-customization.png</image:loc>
+      <image:title>Customize Your OpenClaw: Memory, Personality, and Making It Yours</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.yomake.ai/articles/openclaw-skills-extend-ai-assistant</loc>
+    <lastmod>2026-01-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.yomake.ai/images/blog/openclaw-skills-plugins.png</image:loc>
+      <image:title>OpenClaw Skills: How to Extend Your AI Assistant with Powerful Plugins</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.yomake.ai/articles/openclaw-telegram-discord-integration</loc>
+    <lastmod>2026-01-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.yomake.ai/images/blog/openclaw-telegram-discord.png</image:loc>
+      <image:title>Connect OpenClaw to Telegram and Discord: Complete Integration Guide</image:title>
+    </image:image>
+  </url>
+
   <url>
     <loc>https://blog.yomake.ai/articles/agent-sdk-sandboxed-cloud-environments</loc>
     <lastmod>2026-01-13</lastmod>

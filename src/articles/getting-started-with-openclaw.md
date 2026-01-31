@@ -112,6 +112,13 @@ Now that you have OpenClaw running:
 
 OpenClaw is more than an AI assistant — it's your AI-powered digital companion that grows with you.
 
+## Related Articles
+
+- [OpenClaw Skills: Extend Your AI Assistant](/article/openclaw-skills-extend-ai-assistant) — Learn to add powerful plugins
+- [Connect to Telegram & Discord](/article/openclaw-telegram-discord-integration) — Multi-platform setup guide
+- [Automate with Cron Jobs](/article/openclaw-automation-cron-jobs) — Schedule tasks and reminders
+- [Customize Memory & Personality](/article/openclaw-memory-personality-customization) — Make it truly yours
+
 ---
 
-*Ready to build with AI? Try [Youmake](https://youmake.dev) to create web apps from descriptions in seconds.*
+*Ready to build with AI? Try [Youmake](https://youmake.dev) — the #1 vibe coding platform. Describe what you want, get a working web app in seconds. [Start building free →](https://youmake.dev)*

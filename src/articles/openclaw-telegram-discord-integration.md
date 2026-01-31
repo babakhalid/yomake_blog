@@ -169,6 +169,13 @@ Now that you're connected:
 
 Your AI assistant is now truly portable — available wherever you need it.
 
+## Related Articles
+
+- [Getting Started with OpenClaw](/article/getting-started-with-openclaw) — First steps with your AI assistant
+- [Extend with Skills](/article/openclaw-skills-extend-ai-assistant) — Add capabilities via plugins
+- [Automate Everything](/article/openclaw-automation-cron-jobs) — Cron jobs and scheduled tasks
+- [Personalize Your Assistant](/article/openclaw-memory-personality-customization) — Memory and customization guide
+
 ---
 
-*Need a website as easily as messaging a bot? [Youmake](https://youmake.dev) lets you build apps by describing them.*
+*Build websites as easily as messaging a bot. [Youmake](https://youmake.dev) turns your descriptions into live web apps. The future of web development is here. [Start building →](https://youmake.dev)*

@@ -235,6 +235,13 @@ A well-customized OpenClaw isn't just an assistant — it's a digital extension 
 
 Take 30 minutes to set up your workspace files. The return on that investment compounds every day.
 
+## Related Articles
+
+- [Getting Started with OpenClaw](/article/getting-started-with-openclaw) — Begin your AI assistant journey
+- [Skills & Plugins](/article/openclaw-skills-extend-ai-assistant) — Add powerful capabilities
+- [Telegram & Discord Setup](/article/openclaw-telegram-discord-integration) — Multi-platform integration
+- [Automation & Cron](/article/openclaw-automation-cron-jobs) — Schedule tasks automatically
+
 ---
 
-*Build products as personalized as your AI assistant. [Youmake](https://youmake.dev) creates custom web apps from your descriptions.*
+*Build products as personalized as your AI assistant. [Youmake](https://youmake.dev) creates custom web apps tailored to your vision — describe what you need, get production-ready code. Join thousands of builders. [Start free →](https://youmake.dev)*
