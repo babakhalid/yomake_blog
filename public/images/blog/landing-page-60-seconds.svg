@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#272426"/>
+      <stop offset="100%" style="stop-color:#141213"/>
+    </linearGradient>
+    <linearGradient id="timer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff5f5f"/>
+      <stop offset="50%" style="stop-color:#a855f7"/>
+      <stop offset="100%" style="stop-color:#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg5)"/>
+  
+  <!-- Stopwatch -->
+  <g transform="translate(600, 220)">
+    <circle cx="0" cy="0" r="120" fill="none" stroke="#333" stroke-width="8"/>
+    <circle cx="0" cy="0" r="120" fill="none" stroke="url(#timer)" stroke-width="8" stroke-dasharray="754" stroke-dashoffset="0" transform="rotate(-90)"/>
+    <circle cx="0" cy="0" r="100" fill="#1a1a1a"/>
+    
+    <!-- 60 seconds display -->
+    <text x="0" y="15" fill="#EDE8DC" font-family="system-ui" font-size="56" font-weight="700" text-anchor="middle">60</text>
+    <text x="0" y="45" fill="#EDE8DC" font-family="system-ui" font-size="16" text-anchor="middle" opacity="0.7">SECONDS</text>
+    
+    <!-- Stopwatch button -->
+    <rect x="-15" y="-150" width="30" height="20" rx="4" fill="#EDE8DC"/>
+  </g>
+  
+  <!-- Before/After preview -->
+  <g transform="translate(150, 380)">
+    <!-- Prompt bubble -->
+    <rect x="0" y="0" width="350" height="80" rx="12" fill="#333"/>
+    <text x="20" y="35" fill="#EDE8DC" font-family="system-ui" font-size="14" opacity="0.7">"A modern SaaS landing page</text>
+    <text x="20" y="55" fill="#EDE8DC" font-family="system-ui" font-size="14" opacity="0.7">with dark theme and gradient CTAs"</text>
+    <polygon points="330,80 350,80 340,100" fill="#333"/>
+  </g>
+  
+  <g transform="translate(700, 380)">
+    <!-- Result preview -->
+    <rect x="0" y="0" width="350" height="180" rx="12" fill="#EDE8DC"/>
+    <rect x="15" y="15" width="320" height="25" rx="4" fill="#272426" opacity="0.1"/>
+    <rect x="15" y="55" width="200" height="35" rx="6" fill="url(#timer)"/>
+    <rect x="15" y="105" width="320" height="8" rx="4" fill="#272426" opacity="0.15"/>
+    <rect x="15" y="120" width="280" height="8" rx="4" fill="#272426" opacity="0.15"/>
+    <rect x="15" y="135" width="240" height="8" rx="4" fill="#272426" opacity="0.15"/>
+    <text x="175" y="165" fill="#22c55e" font-family="system-ui" font-size="12" text-anchor="middle">✓ Live in 60 seconds</text>
+  </g>
+  
+  <!-- Arrow between -->
+  <g transform="translate(530, 440)">
+    <line x1="0" y1="0" x2="140" y2="0" stroke="url(#timer)" stroke-width="3"/>
+    <polygon points="140,0 125,-8 125,8" fill="#3b82f6"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="600" y="580" fill="#EDE8DC" font-family="system-ui" font-size="28" font-weight="600" text-anchor="middle">Build a Landing Page in 60 Seconds</text>
+  <text x="600" y="615" fill="#EDE8DC" font-family="system-ui" font-size="16" text-anchor="middle" opacity="0.6">youmake.dev</text>
+</svg>
