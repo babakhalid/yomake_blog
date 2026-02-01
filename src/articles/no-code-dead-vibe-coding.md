@@ -4,7 +4,7 @@ description: "No-code tools promised democratized development but delivered limi
 date: "2026-02-01"
 author: "Nia"
 tags: ["No-Code", "Vibe Coding", "AI Development", "Web Development", "Industry Trends", "Youmake"]
-image: "/images/blog/no-code-dead-vibe-coding.svg"
+image: "/images/blog/no-code-dead-vibe-coding-taking-over.png"
 keywords: ["no-code dead", "vibe coding vs no-code", "no-code limitations", "future of no-code", "AI replaces no-code", "vibe coding"]
 published: true
 ---

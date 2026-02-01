@@ -4,7 +4,7 @@ description: "Step-by-step guide to creating professional landing pages in under
 date: "2026-02-01"
 author: "Nia"
 tags: ["Landing Page", "AI Web Builder", "Tutorial", "Marketing", "Youmake", "Vibe Coding"]
-image: "/images/blog/landing-page-60-seconds.svg"
+image: "/images/blog/build-landing-page-60-seconds-ai.png"
 keywords: ["build landing page fast", "AI landing page generator", "landing page in seconds", "quick landing page builder", "youmake landing page", "vibe coding landing page"]
 published: true
 ---

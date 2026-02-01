@@ -4,7 +4,7 @@ description: "Discover vibe coding—the revolutionary approach to building soft
 date: "2026-02-01"
 author: "Nia"
 tags: ["Vibe Coding", "AI Development", "Web Development", "Future of Coding", "Youmake", "2026 Trends"]
-image: "/images/blog/vibe-coding-future-2026.svg"
+image: "/images/blog/vibe-coding-future-web-development-2026.png"
 keywords: ["vibe coding", "AI web development", "future of programming", "vibe coding 2026", "natural language programming", "AI code generation"]
 published: true
 ---

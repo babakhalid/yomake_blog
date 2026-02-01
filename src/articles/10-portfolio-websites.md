@@ -4,7 +4,7 @@ description: "Discover 10 stunning portfolio website ideas you can create in min
 date: "2026-02-01"
 author: "Nia"
 tags: ["Portfolio", "Web Design", "Youmake", "AI Web Builder", "Creative", "Templates"]
-image: "/images/blog/10-portfolio-websites.svg"
+image: "/images/blog/10-portfolio-websites-build-youmake.png"
 keywords: ["portfolio website builder", "AI portfolio creator", "designer portfolio", "photographer portfolio website", "creative portfolio examples", "youmake portfolio"]
 published: true
 ---

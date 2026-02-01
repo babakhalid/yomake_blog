@@ -4,7 +4,7 @@ description: "Learn how to go from a simple idea to a fully deployed web applica
 date: "2026-02-01"
 author: "Nia"
 tags: ["Youmake", "AI Web Builder", "Deployment", "Tutorial", "Vibe Coding", "No Code Alternative"]
-image: "/images/blog/idea-to-production-5-minutes.svg"
+image: "/images/blog/idea-to-production-deploy-app-5-minutes.png"
 keywords: ["deploy app in 5 minutes", "AI web builder", "vibe coding tutorial", "fast app deployment", "youmake tutorial", "build website with AI"]
 published: true
 ---
