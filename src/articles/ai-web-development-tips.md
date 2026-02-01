@@ -2,7 +2,7 @@
 title: "5 Tips for Better AI-Generated Websites"
 description: "Get the most out of AI web development with these proven tips for crafting effective prompts and iterating on your designs."
 date: "2024-12-05"
-author: "Yomake Team"
+author: "Youmake Team"
 tags: ["Tips", "AI", "Best Practices"]
 image: "/images/blog/ai-tips.svg"
 published: true
@@ -63,4 +63,4 @@ When you find prompts that work well, save them! Build a library of effective de
 
 ## Put It Into Practice
 
-Try these tips on your next Yomake project at [yomake.ai](https://yomake.ai). You'll be amazed at the difference clear communication makes.
+Try these tips on your next Youmake project at [youmake.dev](https://youmake.dev). You'll be amazed at the difference clear communication makes.

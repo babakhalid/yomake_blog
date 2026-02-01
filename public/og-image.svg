@@ -18,7 +18,7 @@
   <!-- Logo placeholder -->
   <g transform="translate(100, 80)">
     <rect width="40" height="40" rx="8" fill="#ebe6db"/>
-    <text x="50" y="30" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="600" fill="#ebe6db">Yomake Blog</text>
+    <text x="50" y="30" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="600" fill="#ebe6db">Youmake Blog</text>
   </g>
 
   <!-- Main text -->
@@ -29,5 +29,5 @@
   <text x="100" y="480" font-family="Inter, -apple-system, sans-serif" font-size="24" fill="#8a8886">The #1 Vibe Coding Platform</text>
 
   <!-- URL -->
-  <text x="100" y="560" font-family="Inter, -apple-system, sans-serif" font-size="20" fill="#6b6967">blog.yomake.ai</text>
+  <text x="100" y="560" font-family="Inter, -apple-system, sans-serif" font-size="20" fill="#6b6967">blog.youmake.dev</text>
 </svg>

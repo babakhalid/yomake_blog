@@ -8,13 +8,13 @@ export function Header() {
       <div className="container header-container">
         <Link to="/" className="logo">
           <img
-            src="/yomake_logo.svg"
-            alt="Yomake"
+            src="/youmake_logo.svg"
+            alt="Youmake"
             className="logo-icon"
             width="32"
             height="32"
           />
-          <span className="logo-text">Yomake Blog</span>
+          <span className="logo-text">Youmake Blog</span>
         </Link>
 
         <nav className="nav">
@@ -25,12 +25,12 @@ export function Header() {
             Articles
           </Link>
           <a
-            href="https://yomake.ai"
+            href="https://youmake.dev"
             target="_blank"
             rel="noopener noreferrer"
             className="nav-button"
           >
-            Try Yomake
+            Try Youmake
           </a>
           <ThemeToggle />
         </nav>

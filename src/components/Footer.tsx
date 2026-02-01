@@ -7,7 +7,7 @@ export function Footer() {
     <footer className="footer">
       <div className="container footer-container">
         <div className="footer-brand">
-          <span className="footer-logo">Yomake</span>
+          <span className="footer-logo">Youmake</span>
           <p className="footer-tagline">
             Build websites and web apps with AI - just describe what you want
           </p>
@@ -16,13 +16,13 @@ export function Footer() {
         <div className="footer-links">
           <div className="footer-column">
             <h4>Product</h4>
-            <a href="https://yomake.ai" target="_blank" rel="noopener noreferrer">
-              Try Yomake
+            <a href="https://youmake.dev" target="_blank" rel="noopener noreferrer">
+              Try Youmake
             </a>
-            <a href="https://yomake.ai/pricing" target="_blank" rel="noopener noreferrer">
+            <a href="https://youmake.dev/pricing" target="_blank" rel="noopener noreferrer">
               Pricing
             </a>
-            <a href="https://yomake.ai/docs" target="_blank" rel="noopener noreferrer">
+            <a href="https://youmake.dev/docs" target="_blank" rel="noopener noreferrer">
               Documentation
             </a>
           </div>
@@ -30,17 +30,17 @@ export function Footer() {
           <div className="footer-column">
             <h4>Company</h4>
             <a href="/articles">Blog</a>
-            <a href="https://twitter.com/yomake_io" target="_blank" rel="noopener noreferrer">
+            <a href="https://twitter.com/youmake_dev" target="_blank" rel="noopener noreferrer">
               Twitter
             </a>
-            <a href="https://github.com/yomake" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/youmake" target="_blank" rel="noopener noreferrer">
               GitHub
             </a>
           </div>
         </div>
 
         <div className="footer-bottom">
-          <p>&copy; {currentYear} Yomake. All rights reserved.</p>
+          <p>&copy; {currentYear} Youmake. All rights reserved.</p>
           <p className="footer-built">
             #1 Vibe Coding Platform
           </p>

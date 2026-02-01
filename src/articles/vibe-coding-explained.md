@@ -2,7 +2,7 @@
 title: "What is Vibe Coding? The Future of Web Development"
 description: "Discover vibe coding - a new approach to building software where you describe the experience you want, and AI creates the code."
 date: "2024-12-10"
-author: "Yomake Team"
+author: "Youmake Team"
 tags: ["Vibe Coding", "AI", "Web Development"]
 image: "/images/blog/vibe-coding.svg"
 published: true
@@ -44,7 +44,7 @@ The term captures the essence of this approach: you're not writing code, you're 
 
 ## The Technology Behind It
 
-Vibe coding platforms like Yomake use large language models trained on millions of websites and applications. They understand:
+Vibe coding platforms like Youmake use large language models trained on millions of websites and applications. They understand:
 
 - Design patterns and best practices
 - Modern frameworks and libraries
@@ -62,4 +62,4 @@ Vibe coding is perfect for:
 
 ## Get Started Today
 
-Experience vibe coding for yourself at [yomake.ai](https://yomake.ai). Build your first website in minutes.
+Experience vibe coding for yourself at [youmake.dev](https://youmake.dev). Build your first website in minutes.

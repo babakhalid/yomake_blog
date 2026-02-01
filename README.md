@@ -71,4 +71,4 @@ export default defineConfig([
   },
 ])
 ```
-# yomake_blog
+# youmake_blog

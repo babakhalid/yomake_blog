@@ -58,7 +58,7 @@ export function HomePage() {
     <div className="home-page">
       <SEO
         title="Ideas, Tutorials & Insights for Building with AI"
-        description="Discover tutorials, tips, and insights about vibe coding and AI-powered web development. Learn how to build websites and web apps with Yomake - the #1 Vibe Coding Platform."
+        description="Discover tutorials, tips, and insights about vibe coding and AI-powered web development. Learn how to build websites and web apps with Youmake - the #1 Vibe Coding Platform."
         url="/"
         structuredData={generateBlogSchema()}
       />
@@ -71,7 +71,7 @@ export function HomePage() {
           <div className="hero-badge-wrapper">
             <span className="hero-badge">
               <span className="hero-badge-dot" />
-              Yomake Blog
+              Youmake Blog
             </span>
           </div>
           <h1 className="hero-title">
@@ -190,12 +190,12 @@ export function HomePage() {
             <p className="cta-label">Start building</p>
             <h2 className="cta-title">Ready to create with AI?</h2>
             <a
-              href="https://yomake.ai"
+              href="https://youmake.dev"
               target="_blank"
               rel="noopener noreferrer"
               className="cta-button"
             >
-              Try Yomake
+              Try Youmake
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                 <line x1="7" y1="17" x2="17" y2="7" />
                 <polyline points="7 7 17 7 17 17" />

@@ -4,7 +4,7 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://blog.yomake.ai/</loc>
+    <loc>https://blog.youmake.dev/</loc>
     <lastmod>2026-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -12,7 +12,7 @@
 
   <!-- Articles Index -->
   <url>
-    <loc>https://blog.yomake.ai/articles</loc>
+    <loc>https://blog.youmake.dev/articles</loc>
     <lastmod>2026-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -20,309 +20,309 @@
 
   <!-- Individual Articles -->
   <url>
-    <loc>https://blog.yomake.ai/articles/getting-started-with-openclaw</loc>
+    <loc>https://blog.youmake.dev/articles/getting-started-with-openclaw</loc>
     <lastmod>2026-01-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/getting-started-openclaw.png</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/getting-started-openclaw.png</image:loc>
       <image:title>Getting Started with OpenClaw: Your AI-Powered Personal Assistant</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/openclaw-automation-cron-jobs</loc>
+    <loc>https://blog.youmake.dev/articles/openclaw-automation-cron-jobs</loc>
     <lastmod>2026-01-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/openclaw-automation-cron.png</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/openclaw-automation-cron.png</image:loc>
       <image:title>Automate Everything with OpenClaw: Cron Jobs and Scheduled Tasks</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/openclaw-memory-personality-customization</loc>
+    <loc>https://blog.youmake.dev/articles/openclaw-memory-personality-customization</loc>
     <lastmod>2026-01-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/openclaw-customization.png</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/openclaw-customization.png</image:loc>
       <image:title>Customize Your OpenClaw: Memory, Personality, and Making It Yours</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/openclaw-skills-extend-ai-assistant</loc>
+    <loc>https://blog.youmake.dev/articles/openclaw-skills-extend-ai-assistant</loc>
     <lastmod>2026-01-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/openclaw-skills-plugins.png</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/openclaw-skills-plugins.png</image:loc>
       <image:title>OpenClaw Skills: How to Extend Your AI Assistant with Powerful Plugins</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/openclaw-telegram-discord-integration</loc>
+    <loc>https://blog.youmake.dev/articles/openclaw-telegram-discord-integration</loc>
     <lastmod>2026-01-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/openclaw-telegram-discord.png</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/openclaw-telegram-discord.png</image:loc>
       <image:title>Connect OpenClaw to Telegram and Discord: Complete Integration Guide</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/agent-sdk-sandboxed-cloud-environments</loc>
+    <loc>https://blog.youmake.dev/articles/agent-sdk-sandboxed-cloud-environments</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/agent-sdk-sandbox.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/agent-sdk-sandbox.svg</image:loc>
       <image:title>Agent SDK and Sandboxed Cloud Environments: Building Autonomous AI Systems Safely</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/async-sub-agents-parallel-execution</loc>
+    <loc>https://blog.youmake.dev/articles/async-sub-agents-parallel-execution</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/async-sub-agents.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/async-sub-agents.svg</image:loc>
       <image:title>Async Sub-Agents: Parallel Task Execution for Maximum Efficiency</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/claude-code-2-1-0-agent-lifecycle-hooks</loc>
+    <loc>https://blog.youmake.dev/articles/claude-code-2-1-0-agent-lifecycle-hooks</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/claude-code-2-1-0.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/claude-code-2-1-0.svg</image:loc>
       <image:title>Claude Code 2.1.0: Agent Lifecycle Hooks and Skill Improvements Transform Developer Workflows</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/claude-haiku-4-5-fastest-cost-efficient</loc>
+    <loc>https://blog.youmake.dev/articles/claude-haiku-4-5-fastest-cost-efficient</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/claude-haiku-4-5.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/claude-haiku-4-5.svg</image:loc>
       <image:title>Claude Haiku 4.5: Speed and Efficiency for High-Volume AI Applications</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/claude-in-chrome-browser-extension</loc>
+    <loc>https://blog.youmake.dev/articles/claude-in-chrome-browser-extension</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/claude-in-chrome.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/claude-in-chrome.svg</image:loc>
       <image:title>Claude in Chrome: AI-Powered Browser Assistance at Your Fingertips</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/claude-in-excel-beta</loc>
+    <loc>https://blog.youmake.dev/articles/claude-in-excel-beta</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/claude-in-excel.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/claude-in-excel.svg</image:loc>
       <image:title>Claude in Excel: AI-Powered Spreadsheet Intelligence for Enterprise Users</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/claude-mem-persistent-memory</loc>
+    <loc>https://blog.youmake.dev/articles/claude-mem-persistent-memory</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/claude-mem.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/claude-mem.svg</image:loc>
       <image:title>Claude Mem: Persistent Memory That Transforms AI Assistance</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/claude-memory-incognito-enterprise</loc>
+    <loc>https://blog.youmake.dev/articles/claude-memory-incognito-enterprise</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/claude-memory-incognito.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/claude-memory-incognito.svg</image:loc>
       <image:title>Memory and Incognito Chat: Enterprise Privacy Controls for Claude</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/claude-mobile-file-editing</loc>
+    <loc>https://blog.youmake.dev/articles/claude-mobile-file-editing</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/claude-mobile-editing.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/claude-mobile-editing.svg</image:loc>
       <image:title>File Creation and Editing on Mobile: Claude&apos;s Expanded Mobile Capabilities</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/claude-opus-4-5-advanced-reasoning-model</loc>
+    <loc>https://blog.youmake.dev/articles/claude-opus-4-5-advanced-reasoning-model</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/claude-opus-4-5.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/claude-opus-4-5.svg</image:loc>
       <image:title>Claude Opus 4.5: Inside Anthropic&apos;s Most Advanced Reasoning Model</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/claude-pro-vs-max-pricing-tiers</loc>
+    <loc>https://blog.youmake.dev/articles/claude-pro-vs-max-pricing-tiers</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/claude-pricing-tiers.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/claude-pricing-tiers.svg</image:loc>
       <image:title>Claude Pro vs Max: Understanding Anthropic&apos;s Pricing Tiers</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/claude-skills-repeatable-workflows</loc>
+    <loc>https://blog.youmake.dev/articles/claude-skills-repeatable-workflows</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/claude-skills.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/claude-skills.svg</image:loc>
       <image:title>Skills Feature: Teaching Claude Repeatable Workflows for Consistent Results</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/claude-sonnet-4-5-coding-agentic-tasks</loc>
+    <loc>https://blog.youmake.dev/articles/claude-sonnet-4-5-coding-agentic-tasks</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/claude-sonnet-4-5.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/claude-sonnet-4-5.svg</image:loc>
       <image:title>Claude Sonnet 4.5: The Optimal Choice for Coding and Agentic Tasks</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/constitutional-ai-safety-hallucinations</loc>
+    <loc>https://blog.youmake.dev/articles/constitutional-ai-safety-hallucinations</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/constitutional-ai-safety.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/constitutional-ai-safety.svg</image:loc>
       <image:title>Constitutional AI: How Anthropic Reduces Hallucinations and Ensures Safety</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/extended-context-windows-document-analysis</loc>
+    <loc>https://blog.youmake.dev/articles/extended-context-windows-document-analysis</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/extended-context-windows.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/extended-context-windows.svg</image:loc>
       <image:title>Extended Context Windows: Revolutionizing Long-Form Document Analysis with Claude</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/hot-reload-skills-claude-code</loc>
+    <loc>https://blog.youmake.dev/articles/hot-reload-skills-claude-code</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/hot-reload-skills.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/hot-reload-skills.svg</image:loc>
       <image:title>Hot Reload for Skills: Accelerating Skill Development in Claude Code</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/improved-reasoning-engine-performance</loc>
+    <loc>https://blog.youmake.dev/articles/improved-reasoning-engine-performance</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/reasoning-engine-performance.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/reasoning-engine-performance.svg</image:loc>
       <image:title>30-40% Faster Performance: Inside Claude&apos;s Improved Reasoning Engine</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/organization-skill-management-teams</loc>
+    <loc>https://blog.youmake.dev/articles/organization-skill-management-teams</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/org-skill-management.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/org-skill-management.svg</image:loc>
       <image:title>Organization-Wide Skill Management: Standardizing AI Workflows Across Teams</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/session-teleportation-remote-environments</loc>
+    <loc>https://blog.youmake.dev/articles/session-teleportation-remote-environments</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/session-teleportation.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/session-teleportation.svg</image:loc>
       <image:title>Session Teleportation: Seamlessly Move Claude Conversations Across Environments</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/vim-motions-terminal-ux-improvements</loc>
+    <loc>https://blog.youmake.dev/articles/vim-motions-terminal-ux-improvements</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/vim-terminal-ux.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/vim-terminal-ux.svg</image:loc>
       <image:title>Vim Motions and Terminal UX: Claude Code&apos;s Enhanced Developer Experience</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/getting-started-with-yomake</loc>
+    <loc>https://blog.youmake.dev/articles/getting-started-with-youmake</loc>
     <lastmod>2024-12-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/getting-started.svg</image:loc>
-      <image:title>Getting Started with Yomake: Your First AI-Built Website</image:title>
+      <image:loc>https://blog.youmake.dev/images/blog/getting-started.svg</image:loc>
+      <image:title>Getting Started with Youmake: Your First AI-Built Website</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/vibe-coding-explained</loc>
+    <loc>https://blog.youmake.dev/articles/vibe-coding-explained</loc>
     <lastmod>2024-12-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/vibe-coding.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/vibe-coding.svg</image:loc>
       <image:title>What is Vibe Coding? The Future of Web Development</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://blog.yomake.ai/articles/ai-web-development-tips</loc>
+    <loc>https://blog.youmake.dev/articles/ai-web-development-tips</loc>
     <lastmod>2024-12-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://blog.yomake.ai/images/blog/ai-tips.svg</image:loc>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-tips.svg</image:loc>
       <image:title>5 Tips for Better AI-Generated Websites</image:title>
     </image:image>
   </url>

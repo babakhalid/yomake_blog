@@ -1,9 +1,9 @@
 import { Helmet } from 'react-helmet-async';
 
-const SITE_URL = 'https://blog.yomake.ai';
-const SITE_NAME = 'Yomake Blog';
+const SITE_URL = 'https://blog.youmake.dev';
+const SITE_NAME = 'Youmake Blog';
 const DEFAULT_IMAGE = `${SITE_URL}/og-image.svg`;
-const TWITTER_HANDLE = '@yomake_io';
+const TWITTER_HANDLE = '@youmake_dev';
 
 interface SEOProps {
   title?: string;
@@ -21,13 +21,13 @@ interface SEOProps {
 
 export function SEO({
   title,
-  description = 'Discover tutorials, tips, and insights about vibe coding and AI-powered web development. Learn how to build websites and web apps with Yomake.',
+  description = 'Discover tutorials, tips, and insights about vibe coding and AI-powered web development. Learn how to build websites and web apps with Youmake.',
   image = DEFAULT_IMAGE,
   url = SITE_URL,
   type = 'website',
   publishedTime,
   modifiedTime,
-  author = 'Yomake Team',
+  author = 'Youmake Team',
   tags = [],
   noIndex = false,
   structuredData,
@@ -145,10 +145,10 @@ export function generateArticleSchema({
     },
     publisher: {
       '@type': 'Organization',
-      name: 'Yomake',
+      name: 'Youmake',
       logo: {
         '@type': 'ImageObject',
-        url: `${SITE_URL}/yomake_logo.svg`,
+        url: `${SITE_URL}/youmake_logo.svg`,
       },
     },
     mainEntityOfPage: {
@@ -169,10 +169,10 @@ export function generateBlogSchema() {
     url: SITE_URL,
     publisher: {
       '@type': 'Organization',
-      name: 'Yomake',
+      name: 'Youmake',
       logo: {
         '@type': 'ImageObject',
-        url: `${SITE_URL}/yomake_logo.svg`,
+        url: `${SITE_URL}/youmake_logo.svg`,
       },
     },
   };

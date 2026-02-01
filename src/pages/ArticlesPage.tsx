@@ -71,15 +71,15 @@ export function ArticlesPage() {
   const collectionSchema = {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
-    name: 'All Articles - Yomake Blog',
+    name: 'All Articles - Youmake Blog',
     description: 'Explore our latest tutorials, insights, and updates about building with AI and vibe coding.',
-    url: 'https://blog.yomake.ai/articles',
+    url: 'https://blog.youmake.dev/articles',
     mainEntity: {
       '@type': 'ItemList',
       itemListElement: allArticles.slice(0, 10).map((article, index) => ({
         '@type': 'ListItem',
         position: index + 1,
-        url: `https://blog.yomake.ai/articles/${article.slug}`,
+        url: `https://blog.youmake.dev/articles/${article.slug}`,
         name: article.frontmatter.title,
       })),
     },
@@ -89,7 +89,7 @@ export function ArticlesPage() {
     <div className="articles-page">
       <SEO
         title="All Articles"
-        description="Explore our latest tutorials, insights, and updates about building websites and web apps with AI. Learn vibe coding with Yomake."
+        description="Explore our latest tutorials, insights, and updates about building websites and web apps with AI. Learn vibe coding with Youmake."
         url="/articles"
         structuredData={[breadcrumbSchema, collectionSchema]}
       />

@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const SITE_URL = 'https://blog.yomake.ai';
+const SITE_URL = 'https://blog.youmake.dev';
 const articlesDir = path.join(__dirname, '../src/articles');
 const outputPath = path.join(__dirname, '../public/sitemap.xml');
 

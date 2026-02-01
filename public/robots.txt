@@ -1,11 +1,11 @@
-# Robots.txt for blog.yomake.ai
+# Robots.txt for blog.youmake.dev
 # https://www.robotstxt.org/robotstxt.html
 
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://blog.yomake.ai/sitemap.xml
+Sitemap: https://blog.youmake.dev/sitemap.xml
 
 # Crawl-delay for polite crawling
 Crawl-delay: 1
