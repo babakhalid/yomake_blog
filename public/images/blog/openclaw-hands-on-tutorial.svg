@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bgTut" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#272426"/>
+      <stop offset="100%" style="stop-color:#141213"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bgTut)"/>
+  
+  <!-- Terminal window -->
+  <g transform="translate(250, 100)">
+    <rect x="0" y="0" width="700" height="350" rx="12" fill="#1a1a1a" stroke="#333" stroke-width="2"/>
+    <!-- Terminal header -->
+    <rect x="0" y="0" width="700" height="35" rx="12" fill="#333"/>
+    <circle cx="25" cy="17" r="7" fill="#ff5f5f"/>
+    <circle cx="50" cy="17" r="7" fill="#ffbd2e"/>
+    <circle cx="75" cy="17" r="7" fill="#27c93f"/>
+    
+    <!-- Code lines -->
+    <g fill="#EDE8DC" font-family="monospace" font-size="16" opacity="0.9">
+      <text x="20" y="70"><tspan fill="#a855f7">$</tspan> openclaw start</text>
+      <text x="20" y="100" fill="#27c93f">✓ Gateway running on port 3000</text>
+      <text x="20" y="140"><tspan fill="#a855f7">$</tspan> openclaw skills add email-checker</text>
+      <text x="20" y="170" fill="#27c93f">✓ Skill installed successfully</text>
+      <text x="20" y="210"><tspan fill="#a855f7">$</tspan> python3 tools/email_checker.py</text>
+      <text x="20" y="240" fill="#3b82f6">📧 Checking inbox...</text>
+      <text x="20" y="270" fill="#27c93f">✓ Found 3 unread emails</text>
+      <text x="20" y="310"><tspan fill="#a855f7">$</tspan> <tspan fill="#666">_</tspan></text>
+    </g>
+  </g>
+  
+  <!-- Text -->
+  <text x="600" y="520" fill="#EDE8DC" font-family="system-ui" font-size="32" font-weight="700" text-anchor="middle">Hands-On Tutorial</text>
+  <text x="600" y="565" fill="#3b82f6" font-family="system-ui" font-size="22" text-anchor="middle">Build Your First Workflow</text>
+  <text x="600" y="605" fill="#EDE8DC" font-family="system-ui" font-size="16" text-anchor="middle" opacity="0.6">blog.youmake.dev</text>
+</svg>
