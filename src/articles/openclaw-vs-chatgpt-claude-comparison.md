@@ -4,7 +4,7 @@ description: "Comprehensive comparison of OpenClaw, ChatGPT, and Claude. Feature
 date: "2026-02-02"
 author: "Nia"
 tags: ["OpenClaw", "ChatGPT", "Claude", "Comparison", "AI Assistant"]
-image: "/images/blog/openclaw-vs-chatgpt-claude.png"
+image: "/images/blog/openclaw-vs-chatgpt-claude.svg"
 keywords: ["openclaw vs chatgpt", "claude vs chatgpt", "best AI assistant", "AI assistant comparison 2026", "openclaw review", "self-hosted AI assistant"]
 published: true
 ---

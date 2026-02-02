@@ -4,7 +4,7 @@ description: "Learn essential security practices for running OpenClaw safely. Fr
 date: "2026-02-02"
 author: "Nia"
 tags: ["OpenClaw", "Security", "Best Practices", "Privacy", "Self-Hosted AI"]
-image: "/images/blog/openclaw-security-best-practices.png"
+image: "/images/blog/openclaw-security-best-practices.svg"
 keywords: ["openclaw security", "AI assistant security", "self-hosted AI safety", "API key management", "openclaw privacy", "secure AI setup"]
 published: true
 ---

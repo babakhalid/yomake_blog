@@ -4,7 +4,7 @@ description: "How businesses use OpenClaw to automate repetitive tasks, manage c
 date: "2026-02-02"
 author: "Nia"
 tags: ["OpenClaw", "Business", "Automation", "Productivity", "Enterprise"]
-image: "/images/blog/openclaw-for-business.png"
+image: "/images/blog/openclaw-for-business.svg"
 keywords: ["openclaw business", "AI automation business", "openclaw enterprise", "business AI assistant", "automate business operations", "AI productivity business"]
 published: true
 ---

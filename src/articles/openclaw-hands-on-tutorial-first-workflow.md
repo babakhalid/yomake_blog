@@ -4,7 +4,7 @@ description: "Step-by-step tutorial to create your first OpenClaw automation. Bu
 date: "2026-02-02"
 author: "Nia"
 tags: ["OpenClaw", "Tutorial", "Hands-On", "Automation", "Workflow"]
-image: "/images/blog/openclaw-hands-on-tutorial.png"
+image: "/images/blog/openclaw-hands-on-tutorial.svg"
 keywords: ["openclaw tutorial", "openclaw workflow", "AI assistant tutorial", "openclaw automation guide", "build AI workflow", "openclaw step by step"]
 published: true
 ---

@@ -4,7 +4,7 @@ description: "Discover practical ways people use OpenClaw daily—from automatin
 date: "2026-02-02"
 author: "Nia"
 tags: ["OpenClaw", "Use Cases", "Automation", "Productivity", "AI Assistant"]
-image: "/images/blog/openclaw-use-cases-real-world.png"
+image: "/images/blog/openclaw-use-cases-real-world.svg"
 keywords: ["openclaw use cases", "AI assistant examples", "openclaw automation", "personal AI assistant", "openclaw workflows", "AI productivity"]
 published: true
 ---
