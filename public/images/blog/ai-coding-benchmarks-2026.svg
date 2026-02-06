@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a"/>
+      <stop offset="100%" style="stop-color:#1e293b"/>
+    </linearGradient>
+    <linearGradient id="bar1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#22c55e"/>
+      <stop offset="100%" style="stop-color:#4ade80"/>
+    </linearGradient>
+    <linearGradient id="bar2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3b82f6"/>
+      <stop offset="100%" style="stop-color:#60a5fa"/>
+    </linearGradient>
+    <linearGradient id="bar3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8b5cf6"/>
+      <stop offset="100%" style="stop-color:#a78bfa"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="1200" height="630" fill="url(#bg5)"/>
+  
+  <!-- Chart background -->
+  <rect x="150" y="120" width="900" height="300" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  
+  <!-- Grid lines -->
+  <g stroke="#334155" stroke-width="1" opacity="0.5">
+    <line x1="150" y1="180" x2="1050" y2="180"/>
+    <line x1="150" y1="240" x2="1050" y2="240"/>
+    <line x1="150" y1="300" x2="1050" y2="300"/>
+    <line x1="150" y1="360" x2="1050" y2="360"/>
+  </g>
+  
+  <!-- Benchmark labels -->
+  <text x="300" y="400" font-family="Arial, sans-serif" font-size="14" fill="#94a3b8" text-anchor="middle">Terminal-Bench</text>
+  <text x="500" y="400" font-family="Arial, sans-serif" font-size="14" fill="#94a3b8" text-anchor="middle">HLE</text>
+  <text x="700" y="400" font-family="Arial, sans-serif" font-size="14" fill="#94a3b8" text-anchor="middle">GDPval-AA</text>
+  <text x="900" y="400" font-family="Arial, sans-serif" font-size="14" fill="#94a3b8" text-anchor="middle">BrowseComp</text>
+  
+  <!-- Bars - Opus 4.6 (winner) -->
+  <rect x="250" y="160" width="40" height="220" rx="4" fill="url(#bar1)"/>
+  <rect x="450" y="160" width="40" height="220" rx="4" fill="url(#bar1)"/>
+  <rect x="650" y="160" width="40" height="220" rx="4" fill="url(#bar1)"/>
+  <rect x="850" y="160" width="40" height="220" rx="4" fill="url(#bar1)"/>
+  
+  <!-- Bars - GPT-5.2 -->
+  <rect x="300" y="200" width="40" height="180" rx="4" fill="url(#bar2)"/>
+  <rect x="500" y="190" width="40" height="190" rx="4" fill="url(#bar2)"/>
+  <rect x="700" y="220" width="40" height="160" rx="4" fill="url(#bar2)"/>
+  <rect x="900" y="210" width="40" height="170" rx="4" fill="url(#bar2)"/>
+  
+  <!-- Bars - Others -->
+  <rect x="350" y="250" width="40" height="130" rx="4" fill="url(#bar3)"/>
+  <rect x="550" y="240" width="40" height="140" rx="4" fill="url(#bar3)"/>
+  <rect x="750" y="260" width="40" height="120" rx="4" fill="url(#bar3)"/>
+  <rect x="950" y="255" width="40" height="125" rx="4" fill="url(#bar3)"/>
+  
+  <!-- Legend -->
+  <g transform="translate(200, 460)">
+    <rect x="0" y="0" width="20" height="20" rx="4" fill="url(#bar1)"/>
+    <text x="30" y="15" font-family="Arial, sans-serif" font-size="14" fill="#e2e8f0">Opus 4.6</text>
+  </g>
+  <g transform="translate(400, 460)">
+    <rect x="0" y="0" width="20" height="20" rx="4" fill="url(#bar2)"/>
+    <text x="30" y="15" font-family="Arial, sans-serif" font-size="14" fill="#e2e8f0">GPT-5.2</text>
+  </g>
+  <g transform="translate(600, 460)">
+    <rect x="0" y="0" width="20" height="20" rx="4" fill="url(#bar3)"/>
+    <text x="30" y="15" font-family="Arial, sans-serif" font-size="14" fill="#e2e8f0">Others</text>
+  </g>
+  
+  <!-- Title -->
+  <text x="600" y="540" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">AI Coding Benchmarks 2026</text>
+  <text x="600" y="580" font-family="Arial, sans-serif" font-size="22" fill="#64748b" text-anchor="middle">Who's Actually Winning?</text>
+  
+  <text x="600" y="620" font-family="Arial, sans-serif" font-size="14" fill="#475569" text-anchor="middle">blog.youmake.dev</text>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e1e2e"/>
+      <stop offset="100%" style="stop-color:#2d2d44"/>
+    </linearGradient>
+    <linearGradient id="ppt" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#d4582a"/>
+      <stop offset="100%" style="stop-color:#ff6b35"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="1200" height="630" fill="url(#bg4)"/>
+  
+  <!-- PowerPoint-style slides -->
+  <g transform="translate(300, 120)">
+    <!-- Slide 1 -->
+    <rect x="0" y="0" width="180" height="120" rx="8" fill="#2a2a3e" stroke="#d4582a" stroke-width="2"/>
+    <rect x="15" y="15" width="100" height="12" rx="2" fill="#d4582a" opacity="0.6"/>
+    <rect x="15" y="35" width="150" height="6" rx="2" fill="#555" opacity="0.6"/>
+    <rect x="15" y="48" width="120" height="6" rx="2" fill="#555" opacity="0.4"/>
+    <rect x="15" y="70" width="60" height="35" rx="4" fill="#3a3a50"/>
+    <rect x="85" y="70" width="80" height="35" rx="4" fill="#3a3a50"/>
+  </g>
+  
+  <g transform="translate(510, 120)">
+    <!-- Slide 2 -->
+    <rect x="0" y="0" width="180" height="120" rx="8" fill="#2a2a3e" stroke="#d4582a" stroke-width="2"/>
+    <rect x="15" y="15" width="80" height="12" rx="2" fill="#d4582a" opacity="0.6"/>
+    <circle cx="90" cy="75" r="35" fill="none" stroke="#ff6b35" stroke-width="2" opacity="0.5"/>
+    <path d="M90 40 L90 75 L115 60" fill="none" stroke="#ff6b35" stroke-width="2"/>
+  </g>
+  
+  <g transform="translate(720, 120)">
+    <!-- Slide 3 -->
+    <rect x="0" y="0" width="180" height="120" rx="8" fill="#2a2a3e" stroke="#d4582a" stroke-width="2"/>
+    <rect x="15" y="15" width="90" height="12" rx="2" fill="#d4582a" opacity="0.6"/>
+    <rect x="15" y="40" width="150" height="8" rx="2" fill="#4ade80" opacity="0.6"/>
+    <rect x="15" y="55" width="100" height="8" rx="2" fill="#fbbf24" opacity="0.6"/>
+    <rect x="15" y="70" width="130" height="8" rx="2" fill="#60a5fa" opacity="0.6"/>
+    <rect x="15" y="85" width="80" height="8" rx="2" fill="#f472b6" opacity="0.6"/>
+  </g>
+  
+  <!-- AI sparkle -->
+  <g transform="translate(600, 320)">
+    <circle cx="0" cy="0" r="40" fill="none" stroke="#d4582a" stroke-width="2" opacity="0.5"/>
+    <text x="0" y="8" font-family="Arial, sans-serif" font-size="24" fill="#ff6b35" text-anchor="middle">AI</text>
+  </g>
+  
+  <!-- Arrows from AI to slides -->
+  <g stroke="#d4582a" stroke-width="1" opacity="0.4">
+    <line x1="560" y1="310" x2="450" y2="240"/>
+    <line x1="600" y1="280" x2="600" y2="240"/>
+    <line x1="640" y1="310" x2="750" y2="240"/>
+  </g>
+  
+  <!-- Title -->
+  <text x="600" y="440" font-family="Arial, sans-serif" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">Claude in PowerPoint</text>
+  <text x="600" y="490" font-family="Arial, sans-serif" font-size="26" fill="#d4582a" text-anchor="middle">AI-Powered Presentations</text>
+  
+  <!-- Badge -->
+  <rect x="500" y="520" width="200" height="36" rx="18" fill="none" stroke="#ff6b35" stroke-width="1"/>
+  <text x="600" y="545" font-family="Arial, sans-serif" font-size="14" fill="#ff6b35" text-anchor="middle">RESEARCH PREVIEW</text>
+  
+  <text x="600" y="610" font-family="Arial, sans-serif" font-size="16" fill="#4b5563" text-anchor="middle">blog.youmake.dev</text>
+</svg>

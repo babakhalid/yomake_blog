@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0c0c1d"/>
+      <stop offset="100%" style="stop-color:#1a1a3e"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f59e0b"/>
+      <stop offset="100%" style="stop-color:#fbbf24"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="1200" height="630" fill="url(#bg3)"/>
+  
+  <!-- Large 1M text -->
+  <text x="600" y="280" font-family="Arial, sans-serif" font-size="180" font-weight="bold" fill="url(#gold)" text-anchor="middle" opacity="0.9">1M</text>
+  
+  <!-- Token visualization dots -->
+  <g fill="#f59e0b" opacity="0.3">
+    <circle cx="150" cy="150" r="4"/>
+    <circle cx="200" cy="180" r="3"/>
+    <circle cx="170" cy="220" r="5"/>
+    <circle cx="250" cy="160" r="3"/>
+    <circle cx="1000" cy="140" r="4"/>
+    <circle cx="1050" cy="190" r="5"/>
+    <circle cx="980" cy="230" r="3"/>
+    <circle cx="1020" cy="170" r="4"/>
+  </g>
+  
+  <!-- Subtitle box -->
+  <rect x="350" y="320" width="500" height="60" rx="30" fill="none" stroke="url(#gold)" stroke-width="2"/>
+  <text x="600" y="358" font-family="Arial, sans-serif" font-size="24" fill="#fbbf24" text-anchor="middle">TOKEN CONTEXT WINDOW</text>
+  
+  <!-- Stats -->
+  <g transform="translate(200, 450)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="36" fill="#ffffff">750K</text>
+    <text x="0" y="30" font-family="Arial, sans-serif" font-size="16" fill="#9ca3af">Words</text>
+  </g>
+  <g transform="translate(500, 450)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="36" fill="#ffffff">15</text>
+    <text x="0" y="30" font-family="Arial, sans-serif" font-size="16" fill="#9ca3af">Full Novels</text>
+  </g>
+  <g transform="translate(800, 450)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="36" fill="#ffffff">76%</text>
+    <text x="0" y="30" font-family="Arial, sans-serif" font-size="16" fill="#9ca3af">MRCR v2 Score</text>
+  </g>
+  
+  <!-- Title -->
+  <text x="600" y="550" font-family="Arial, sans-serif" font-size="28" fill="#ffffff" text-anchor="middle">The End of Context Rot</text>
+  
+  <text x="600" y="610" font-family="Arial, sans-serif" font-size="16" fill="#4b5563" text-anchor="middle">blog.youmake.dev</text>
+</svg>
