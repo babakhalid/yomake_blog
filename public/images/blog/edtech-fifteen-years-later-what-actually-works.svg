@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0a2e"/>
+      <stop offset="100%" style="stop-color:#2d1b4e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg2)"/>
+  <!-- Book shape -->
+  <path d="M500 180 L500 400 Q600 370 600 370 Q600 370 700 400 L700 180 Q600 210 600 210 Q600 210 500 180Z" fill="none" stroke="#ffd700" stroke-width="2.5"/>
+  <line x1="600" y1="210" x2="600" y2="370" stroke="#ffd700" stroke-width="1.5" opacity="0.5"/>
+  <!-- Digital elements on right page -->
+  <rect x="620" y="240" width="50" height="6" rx="3" fill="#00d4ff" opacity="0.4"/>
+  <rect x="620" y="260" width="40" height="6" rx="3" fill="#00d4ff" opacity="0.3"/>
+  <rect x="620" y="280" width="55" height="6" rx="3" fill="#00d4ff" opacity="0.4"/>
+  <rect x="620" y="300" width="35" height="6" rx="3" fill="#00d4ff" opacity="0.3"/>
+  <!-- Analog elements on left page -->
+  <rect x="520" y="240" width="50" height="6" rx="3" fill="#ffd700" opacity="0.4"/>
+  <rect x="530" y="260" width="40" height="6" rx="3" fill="#ffd700" opacity="0.3"/>
+  <rect x="520" y="280" width="55" height="6" rx="3" fill="#ffd700" opacity="0.4"/>
+  <rect x="535" y="300" width="35" height="6" rx="3" fill="#ffd700" opacity="0.3"/>
+  <!-- Floating screens -->
+  <rect x="280" y="200" width="120" height="80" rx="6" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.4"/>
+  <rect x="800" y="200" width="120" height="80" rx="6" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.4"/>
+  <rect x="340" y="340" width="80" height="55" rx="4" fill="none" stroke="#ffd700" stroke-width="1" opacity="0.3"/>
+  <rect x="780" y="340" width="80" height="55" rx="4" fill="none" stroke="#ffd700" stroke-width="1" opacity="0.3"/>
+  <!-- People silhouettes -->
+  <circle cx="400" cy="160" r="12" fill="#ffffff" opacity="0.15"/>
+  <circle cx="800" cy="160" r="12" fill="#ffffff" opacity="0.15"/>
+  <circle cx="600" cy="140" r="14" fill="#ffd700" opacity="0.2"/>
+  <!-- Text -->
+  <text x="600" y="480" text-anchor="middle" font-family="system-ui, sans-serif" font-size="28" font-weight="700" fill="#ffffff">EdTech's Honest Reckoning</text>
+  <text x="600" y="515" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#ffd700" opacity="0.8">15 Years and Billions Later — What Actually Works?</text>
+</svg>
