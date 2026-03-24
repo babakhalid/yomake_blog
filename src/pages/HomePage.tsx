@@ -1,11 +1,11 @@
-import { useState, useRef, useEffect, useCallback } from 'react';
+import { useState, useRef } from 'react';
 import { Link } from 'react-router-dom';
 import { getAllArticles, formatDate } from '@/utils';
 import { SEO, generateBlogSchema } from '@/components/SEO';
 import './HomePage.css';
 
-const INITIAL_ARTICLES = 4;
-const ARTICLES_PER_LOAD = 4;
+const INITIAL_ARTICLES = 6;
+const ARTICLES_PER_LOAD = 6;
 
 export function HomePage() {
   const articles = getAllArticles();
@@ -15,34 +15,13 @@ export function HomePage() {
   const [hoveredImage, setHoveredImage] = useState<string | null>(null);
   const [mousePos, setMousePos] = useState({ x: 0, y: 0 });
   const listRef = useRef<HTMLDivElement>(null);
-  const loadMoreRef = useRef<HTMLDivElement>(null);
 
   const displayedArticles = restArticles.slice(0, displayCount);
   const hasMore = displayCount < restArticles.length;
 
-  // Intersection Observer for infinite scroll
-  const loadMore = useCallback(() => {
-    if (hasMore) {
-      setDisplayCount((prev) => Math.min(prev + ARTICLES_PER_LOAD, restArticles.length));
-    }
-  }, [hasMore, restArticles.length]);
-
-  useEffect(() => {
-    const observer = new IntersectionObserver(
-      (entries) => {
-        if (entries[0].isIntersecting && hasMore) {
-          loadMore();
-        }
-      },
-      { threshold: 0.1, rootMargin: '100px' }
-    );
-
-    if (loadMoreRef.current) {
-      observer.observe(loadMoreRef.current);
-    }
-
-    return () => observer.disconnect();
-  }, [hasMore, loadMore]);
+  const loadMore = () => {
+    setDisplayCount((prev) => Math.min(prev + ARTICLES_PER_LOAD, restArticles.length));
+  };
 
   const handleMouseMove = (e: React.MouseEvent) => {
     if (listRef.current) {
@@ -170,17 +149,19 @@ export function HomePage() {
             )}
           </div>
 
-          {hasMore && (
-            <div className="load-more-trigger" ref={loadMoreRef}>
-              <div className="loading-indicator">
-                <svg className="spinner" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                  <circle cx="12" cy="12" r="10" strokeOpacity="0.25" />
-                  <path d="M12 2a10 10 0 0 1 10 10" strokeLinecap="round" />
+          <div className="articles-footer">
+            <span className="articles-count">
+              Showing {displayedArticles.length + 1} of {restArticles.length + 1} articles
+            </span>
+            {hasMore && (
+              <button className="load-more-btn" onClick={loadMore}>
+                Load more
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                  <polyline points="6 9 12 15 18 9" />
                 </svg>
-                <span>Loading more...</span>
-              </div>
-            </div>
-          )}
+              </button>
+            )}
+          </div>
         </div>
       </section>
 
