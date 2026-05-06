@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm run generate-sitemap && tsc -b && vite build && node scripts/prerender-meta.js",
+    "build": "npm run interlink && npm run generate-sitemap && tsc -b && vite build && node scripts/prerender-meta.js",
+    "interlink": "node scripts/interlink-articles.js --all",
     "generate-sitemap": "node scripts/generate-sitemap.js",
     "lint": "eslint .",
     "preview": "vite preview"

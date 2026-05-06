@@ -134,3 +134,10 @@ That's not a tech concept. That's a human one. Bandura knew it decades ago. Stoi
 So yes, "agentic" is a cringy word. But the mindset it points to? That's the most valuable thing you can develop right now.
 
 Stop waiting for the prompt. Start writing it.
+---
+
+## Read Next
+
+- [The AI Job Apocalypse Isn't Coming — Here's What's Actually Happening](/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening)
+- [KPMG Just Told Us What Skills Actually Matter in the AI Era — And It's Not Coding](/articles/kpmg-critical-thinking-over-technical-skills-ai-era)
+- [The Last Mile Mindset: Why Finishing Beats Starting in the AI Era](/articles/the-last-mile-mindset-why-finishing-beats-starting-in-the-ai-era)

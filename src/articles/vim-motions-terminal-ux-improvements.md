@@ -85,3 +85,10 @@ Terminal UX improvements consider accessibility needs. Screen reader compatibili
 These improvements reflect Claude Code's commitment to developer experience. Tools that fight existing habits create adoption barriers. Tools that complement established workflows become indispensable.
 
 For developers whose fingers know Vim keybindings instinctively, Claude Code's Vim support removes friction between thought and action. The AI assistant becomes as natural to use as their most familiar tools. Combined with comprehensive terminal UX polish, Claude Code achieves the seamless integration that makes AI assistance feel like a natural extension of development practice.
+---
+
+## Read Next
+
+- [Hot Reload for Skills: Accelerating Skill Development in Claude Code](/articles/hot-reload-skills-claude-code)
+- [Claude Code 2.1.0: Agent Lifecycle Hooks and Skill Improvements Transform Developer Workflows](/articles/claude-code-2-1-0-agent-lifecycle-hooks)
+- [The Last Mile Mindset: Why Finishing Beats Starting in the AI Era](/articles/the-last-mile-mindset-why-finishing-beats-starting-in-the-ai-era)

@@ -85,3 +85,10 @@ That shift is long overdue. The next chapter of ed-tech should be written by res
 ---
 
 *The 2026 EdTech Evidence Report from Instructure and InnovateEDU analyzed 150 common classroom tools against ESSA frameworks, interoperability standards, and accessibility certifications. The full report is available through Instructure's website.*
+---
+
+## Read Next
+
+- [Fifteen Years and Billions Later: EdTech's Honest Reckoning With What Actually Works](/articles/edtech-fifteen-years-later-what-actually-works)
+- [Universities Are Finally Writing the AI Rulebook—And It's About Time](/articles/universities-are-finally-writing-the-ai-rulebook)
+- [27 States Are Writing AI Education Rules Right Now — And Most Schools Aren't Ready](/articles/ai-education-legislation-2026-states-are-writing-the-rules)

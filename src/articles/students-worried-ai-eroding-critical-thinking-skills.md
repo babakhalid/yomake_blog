@@ -81,3 +81,10 @@ This is what we're building at Youmake — tools that augment human capability w
 ---
 
 *The RAND survey data referenced in this article comes from the American Youth Panel, which surveys a nationally representative sample of students across multiple grade levels. The full report is available at [rand.org](https://www.rand.org/pubs/research_reports/RRA4742-1.html).*
+---
+
+## Read Next
+
+- [Utah Wants Students to Opt Out of Coursework They Disagree With — Here's Why That's a Problem](/articles/utah-conscientious-objection-education-dangerous-precedent)
+- [Universities Have an AI Trust Crisis — And It's About to Get Worse](/articles/universities-ai-trust-crisis-who-controls-research-agenda)
+- [27 States Are Writing AI Education Rules Right Now — And Most Schools Aren't Ready](/articles/ai-education-legislation-2026-states-are-writing-the-rules)

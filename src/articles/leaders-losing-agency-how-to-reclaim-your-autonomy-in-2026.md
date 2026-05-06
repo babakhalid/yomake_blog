@@ -80,3 +80,10 @@ But withdrawing isn't the answer. The organizations that will win the next decad
 Your agency isn't something the world takes from you. It's something you stop exercising. And the moment you recognize that, you can start taking it back.
 
 One decision at a time.
+---
+
+## Read Next
+
+- [The Leadership Paradox: Why the Most Successful People Have the Worst Days](/articles/the-leadership-paradox-why-the-most-successful-people-have-the-worst-days)
+- [The AI Job Apocalypse Isn't Coming — Here's What's Actually Happening](/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening)
+- [Stop Mandating AI Adoption — Let Your Team Lead the Way](/articles/stop-mandating-ai-adoption-let-your-team-lead-the-way)

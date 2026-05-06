@@ -72,3 +72,10 @@ The next time someone asks you what's happening in AI, don't point them to the l
 ---
 
 *Building something with AI? [Youmake](https://youmake.dev) helps you go from idea to deployed app in minutes. Your app is one prompt away.*
+---
+
+## Read Next
+
+- [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
+- [OpenAI Wants to Buy Fusion Energy — And That Should Tell You Everything About AI's Power Problem](/articles/openai-fusion-energy-helion-deal-ai-power-crisis)
+- [Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right](/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right)

@@ -81,3 +81,10 @@ Tablet interfaces provide expanded editing real estate. While phone screens suff
 Mobile file capabilities represent Claude's recognition that modern work happens everywhere. Confining AI assistance to desktop sessions ignores how people actually work—across devices, locations, and circumstances.
 
 For users who've wished they could capture Claude-assisted work during mobile moments, file creation and editing capabilities deliver that functionality. The AI assistant becomes truly portable, productive on any device where users need help creating and refining files.
+---
+
+## Read Next
+
+- [Claude in Chrome: AI-Powered Browser Assistance at Your Fingertips](/articles/claude-in-chrome-browser-extension)
+- [Getting Started with OpenClaw: Your AI-Powered Personal Assistant](/articles/getting-started-with-openclaw)
+- [10 Real-World OpenClaw Use Cases: How People Actually Use Their AI Assistant](/articles/openclaw-use-cases-real-world)

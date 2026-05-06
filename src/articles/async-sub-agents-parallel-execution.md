@@ -91,3 +91,10 @@ Session teleportation preserves sub-agent state. Ongoing parallel operations con
 Async sub-agents represent a fundamental improvement in AI-assisted development efficiency. Time spent waiting for sequential task completion converts directly into time available for productive work.
 
 For developers whose workflows include multiple independent operations—and most workflows do—sub-agents offer immediate, tangible time savings. The feature works automatically in many cases, requiring no explicit invocation. Better efficiency emerges simply from using Claude Code for complex tasks.
+---
+
+## Read Next
+
+- [Agent Teams in Claude Code: Multi-Agent AI Development Is Here](/articles/agent-teams-claude-code-multi-agent)
+- [Claude Code 2.1.0: Agent Lifecycle Hooks and Skill Improvements Transform Developer Workflows](/articles/claude-code-2-1-0-agent-lifecycle-hooks)
+- [Hot Reload for Skills: Accelerating Skill Development in Claude Code](/articles/hot-reload-skills-claude-code)

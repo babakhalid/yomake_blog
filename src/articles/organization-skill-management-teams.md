@@ -83,3 +83,9 @@ Champions within teams can accelerate adoption. When respected practitioners emb
 Organizations that master skill management gain significant advantages. Consistent quality across AI-assisted work, reduced time spent on routine tasks, and captured institutional knowledge benefit everyone. Skills become organizational assets that compound in value over time.
 
 For enterprises deploying Claude at scale, organization-wide skill management transforms AI from individual tools into organizational capability. The investment in skill development and management returns dividends across every team member who benefits from standardized, high-quality AI assistance.
+---
+
+## Read Next
+
+- [Skills Feature: Teaching Claude Repeatable Workflows for Consistent Results](/articles/claude-skills-repeatable-workflows)
+- [Extended Context Windows: Revolutionizing Long-Form Document Analysis with Claude](/articles/extended-context-windows-document-analysis)

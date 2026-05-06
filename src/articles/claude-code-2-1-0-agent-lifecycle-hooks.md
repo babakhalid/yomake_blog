@@ -65,3 +65,10 @@ The improvements particularly benefit developers working with large codebases. F
 Claude Code 2.1.0 establishes a foundation for increasingly sophisticated development automation. The hook system and skill improvements create an extensible platform that will continue evolving with developer needs.
 
 For development teams seeking to amplify their productivity through AI assistance, Claude Code 2.1.0 represents a substantial leap forward. The combination of powerful new features and refinements to existing capabilities makes it an essential upgrade for current users and a compelling entry point for those new to AI-assisted development.
+---
+
+## Read Next
+
+- [Hot Reload for Skills: Accelerating Skill Development in Claude Code](/articles/hot-reload-skills-claude-code)
+- [Session Teleportation: Seamlessly Move Claude Conversations Across Environments](/articles/session-teleportation-remote-environments)
+- [Skills Feature: Teaching Claude Repeatable Workflows for Consistent Results](/articles/claude-skills-repeatable-workflows)

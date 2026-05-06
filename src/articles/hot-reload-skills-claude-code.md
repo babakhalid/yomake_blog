@@ -91,3 +91,10 @@ Document changes as you make them. The rapid iteration can produce substantial m
 Hot reload fundamentally changes how skill development feels. What was tedious becomes fluid. What was discouraging becomes engaging. The gap between imagining improvements and implementing them nearly disappears.
 
 For developers investing in skill quality, hot reload removes the friction that previously limited refinement. The feature enables a level of polish that wasn't practical before—and that polish translates directly into better AI assistance for everyone who uses the skills.
+---
+
+## Read Next
+
+- [Claude Code 2.1.0: Agent Lifecycle Hooks and Skill Improvements Transform Developer Workflows](/articles/claude-code-2-1-0-agent-lifecycle-hooks)
+- [Session Teleportation: Seamlessly Move Claude Conversations Across Environments](/articles/session-teleportation-remote-environments)
+- [Vim Motions and Terminal UX: Claude Code's Enhanced Developer Experience](/articles/vim-motions-terminal-ux-improvements)

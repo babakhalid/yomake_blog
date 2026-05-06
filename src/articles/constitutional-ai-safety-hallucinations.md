@@ -79,3 +79,10 @@ Constitutional AI reflects Anthropic's commitment to AI systems that genuinely b
 As AI systems take on increasingly important roles, reliability becomes non-negotiable. Constitutional AI provides a framework for building AI that earns trust through demonstrated honesty and accuracy. The methodology points toward AI development that prioritizes genuine benefit over impressive-seeming but potentially misleading capabilities.
 
 For users choosing among AI assistants, Constitutional AI training represents meaningful differentiation. Claude's reduced hallucination rates and principled approach to honesty provide a foundation for trustworthy AI assistance. The methodology delivers on the promise of AI that helps without misleading.
+---
+
+## Read Next
+
+- [AI Models Are Now Protecting Each Other From Being Deleted — And That Should Make Us Think](/articles/ai-models-protect-each-other-peer-preservation-research)
+- [1 Million Token Context: The End of 'Context Rot' in AI](/articles/1m-context-window-revolution)
+- [Adaptive Thinking: AI That Knows When to Think Deeper](/articles/adaptive-thinking-ai-context-aware-reasoning)

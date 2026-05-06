@@ -63,3 +63,10 @@ Vibe coding is perfect for:
 ## Get Started Today
 
 Experience vibe coding for yourself at [youmake.dev](https://youmake.dev). Build your first website in minutes.
+---
+
+## Read Next
+
+- [Vibe Coding: The Future of Web Development in 2026](/articles/vibe-coding-future-2026)
+- [Why No-Code is Dead and Vibe Coding is Taking Over](/articles/no-code-dead-vibe-coding)
+- [The AI Job Apocalypse Isn't Coming — Here's What's Actually Happening](/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening)

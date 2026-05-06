@@ -105,3 +105,10 @@ So here's my challenge to you: this week, find one hour where you think without 
 It will feel uncomfortable. That discomfort is your brain waking up.
 
 And in 2026, a brain that's fully awake is the rarest competitive advantage you can have.
+---
+
+## Read Next
+
+- [Cognitive Surrender: What Happens When You Let AI Think for You](/articles/cognitive-surrender-when-ai-thinks-for-you-system-3)
+- [The Last Mile Mindset: Why Finishing Beats Starting in the AI Era](/articles/the-last-mile-mindset-why-finishing-beats-starting-in-the-ai-era)
+- [The Secret AI Users: Why Nobody Admits They're Using AI — And Why That Mindset Needs to Change](/articles/hidden-ai-adoption-why-nobody-admits-using-ai-at-work)

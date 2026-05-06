@@ -86,3 +86,10 @@ It's just the same old power dynamic wearing a neural network.
 The question isn't whether AI will reshape the workplace. It already has. The question is whether we'll build that future *with* the people it affects, or just build it *from* them.
 
 I know which side I'm on.
+---
+
+## Read Next
+
+- [Meta's Avocado Delay Signals Something Bigger About the AI Race](/articles/meta-avocado-delay-signals-ai-race-shifting)
+- [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
+- [Dead Companies Are Feeding AI — And It's More Dystopian Than You Think](/articles/dead-companies-are-feeding-ai-and-its-more-dystopian-than-you-think)

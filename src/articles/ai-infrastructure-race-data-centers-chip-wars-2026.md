@@ -78,3 +78,10 @@ AMD's ACE extension is a perfect example of how this happens incrementally. No s
 The question isn't whether AI will be transformative. That debate is over. The question is who gets to decide how the transformation happens, and whether the people building and powering this technology have any say in where it goes.
 
 Right now, the answer seems to be: not really. And that's the thing worth watching.
+---
+
+## Read Next
+
+- [OpenAI Wants to Buy Fusion Energy — And That Should Tell You Everything About AI's Power Problem](/articles/openai-fusion-energy-helion-deal-ai-power-crisis)
+- [Nvidia GTC 2026: The AI Infrastructure Race Just Entered a New Phase](/articles/nvidia-gtc-2026-ai-infrastructure-race-heats-up)
+- [Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right](/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right)

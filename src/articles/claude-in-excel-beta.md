@@ -73,3 +73,9 @@ The Claude in Excel beta is available now for Claude Max, Team, and Enterprise s
 Claude in Excel represents the beginning of truly intelligent spreadsheet assistance. As capabilities expand, increasingly sophisticated analysis and automation become conversationally accessible. The spreadsheet evolves from a tool requiring expertise to one that amplifies any user's analytical capabilities.
 
 For organizations where spreadsheets remain central to operations, Claude in Excel offers immediate productivity gains. Complex tasks become simple, expertise becomes accessible, and the humble spreadsheet gains capabilities previously requiring specialized tools and training.
+---
+
+## Read Next
+
+- [Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right](/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right)
+- [The Oscars Just Banned AI Performances — And It Reveals Something Bigger About Creative AI](/articles/oscars-ban-ai-performances-what-it-means-for-creative-ai)

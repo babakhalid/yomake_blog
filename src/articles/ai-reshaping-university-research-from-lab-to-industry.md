@@ -82,3 +82,10 @@ The gap between lab and launch is closing. The only question is who gets to walk
 ---
 
 *Turning research into reality? [Youmake](https://youmake.dev) lets you build AI-powered applications at the speed of thought. Your app is one prompt away.*
+---
+
+## Read Next
+
+- [Universities Are Finally Writing the AI Rulebook—And It's About Time](/articles/universities-are-finally-writing-the-ai-rulebook)
+- [The Ed-Tech Evidence Crisis: Why Schools Are Finally Asking 'Does This Actually Work?'](/articles/ed-tech-evidence-crisis-schools-rethinking-digital-tools)
+- [27 States Are Writing AI Education Rules Right Now — And Most Schools Aren't Ready](/articles/ai-education-legislation-2026-states-are-writing-the-rules)

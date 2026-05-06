@@ -90,3 +90,10 @@ Because when your leaders have better days, everyone does.
 ---
 
 *Data referenced from Gallup's 2026 State of the Global Workplace report.*
+---
+
+## Read Next
+
+- [Leaders Are Losing Their Sense of Agency — Here's How to Reclaim It](/articles/leaders-losing-agency-how-to-reclaim-your-autonomy-in-2026)
+- [Stop Mandating AI Adoption — Let Your Team Lead the Way](/articles/stop-mandating-ai-adoption-let-your-team-lead-the-way)
+- [Slow Decisions Are Killing Your Startup: The Speed Mindset That Separates Winners from Zombies](/articles/slow-decisions-are-killing-your-startup-speed-mindset)

@@ -75,3 +75,9 @@ Research teams use project memories to maintain context across extended investig
 Memory capabilities continue advancing. Upcoming features include more sophisticated memory organization, improved relevance filtering, and enhanced sharing controls. The goal remains empowering users with personalized AI assistance while maintaining complete control over their information.
 
 For enterprises seeking AI that combines personalization with privacy, Claude's memory and incognito features provide the necessary foundation. Organizations can deploy AI confidently, knowing that data governance requirements are met while users receive increasingly personalized assistance.
+---
+
+## Read Next
+
+- [AI Agents Are About to Spend Your Money — Who Controls the Wallet?](/articles/ai-agents-spending-your-money-who-controls-the-wallet)
+- [Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right](/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right)

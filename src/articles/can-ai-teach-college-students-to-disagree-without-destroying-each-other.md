@@ -74,3 +74,10 @@ The technology is ready. The question is whether institutions have the courage t
 Because here's the thing: these students are going to graduate. They're going to enter workplaces, communities, and voting booths. And the skills they develop (or don't develop) in college will shape how they engage with disagreement for the rest of their lives.
 
 That's not just an education problem. It's an everyone problem.
+---
+
+## Read Next
+
+- [Universities Have an AI Trust Crisis — And It's About to Get Worse](/articles/universities-ai-trust-crisis-who-controls-research-agenda)
+- [The Ed-Tech Evidence Crisis: Why Schools Are Finally Asking 'Does This Actually Work?'](/articles/ed-tech-evidence-crisis-schools-rethinking-digital-tools)
+- [Universities Are Finally Writing the AI Rulebook—And It's About Time](/articles/universities-are-finally-writing-the-ai-rulebook)

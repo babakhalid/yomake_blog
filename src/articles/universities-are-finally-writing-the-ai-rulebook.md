@@ -108,3 +108,10 @@ SUNY's policy isn't perfect. No first-generation framework is. But it represents
 The universities that get this right will thrive. The ones that move fast and break things will discover that in education, the things you break are people's futures.
 
 And those don't reassemble easily.
+---
+
+## Read Next
+
+- [27 States Are Writing AI Education Rules Right Now — And Most Schools Aren't Ready](/articles/ai-education-legislation-2026-states-are-writing-the-rules)
+- [From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry](/articles/ai-reshaping-university-research-from-lab-to-industry)
+- [The Ed-Tech Evidence Crisis: Why Schools Are Finally Asking 'Does This Actually Work?'](/articles/ed-tech-evidence-crisis-schools-rethinking-digital-tools)

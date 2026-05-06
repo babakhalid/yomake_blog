@@ -80,3 +80,10 @@ Google processing 16 billion tokens per minute. Seventy-five percent AI-generate
 The companies that figure out agentic coding workflows will build software at speeds that seem impossible today. The ones that don't will struggle to compete. And for individual developers, the choice is simple: learn to work with these tools, or spend the next few years watching your peers ship 10x faster.
 
 The 75% number isn't the ceiling. It's the new floor.
+---
+
+## Read Next
+
+- [Amazon Just Put Guardrails on AI Coding — Here's What Every Engineering Team Should Learn](/articles/amazon-ai-coding-guardrails-what-every-engineering-team-should-learn)
+- [Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right](/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right)
+- [Google Just Bet $40 Billion on Anthropic. Here's Why That Should Make You Think.](/articles/google-anthropic-40-billion-ai-power-concentration)

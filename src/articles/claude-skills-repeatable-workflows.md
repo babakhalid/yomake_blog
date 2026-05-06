@@ -73,3 +73,10 @@ Sharing successful skills across teams multiplies benefits. What works for one g
 Skills transform Claude from a generic assistant into a customized team member that knows organizational standards and preferences. As skill capabilities expand, increasingly sophisticated workflows become capturable. The future points toward AI assistants that understand not just general knowledge but specific organizational context and preferences.
 
 For teams seeking consistent, high-quality outputs from AI assistance, skills provide the mechanism to achieve it. The investment in skill development pays dividends across every future invocation.
+---
+
+## Read Next
+
+- [Organization-Wide Skill Management: Standardizing AI Workflows Across Teams](/articles/organization-skill-management-teams)
+- [Claude Code 2.1.0: Agent Lifecycle Hooks and Skill Improvements Transform Developer Workflows](/articles/claude-code-2-1-0-agent-lifecycle-hooks)
+- [Hot Reload for Skills: Accelerating Skill Development in Claude Code](/articles/hot-reload-skills-claude-code)

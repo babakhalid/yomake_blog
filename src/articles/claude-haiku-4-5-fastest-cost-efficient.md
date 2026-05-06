@@ -69,3 +69,10 @@ Educational institutions, nonprofits, and resource-constrained organizations ben
 Claude Haiku 4.5 demonstrates that capability and efficiency need not conflict. As the model line continues advancing, each tier becomes more capable while maintaining its cost and speed positioning. Today's Haiku capabilities would have seemed remarkable for a flagship model not long ago.
 
 For applications where speed and cost drive decisions, Haiku 4.5 represents an essential tool. Its combination of meaningful capability with exceptional efficiency makes AI practical for use cases that were simply impossible before.
+---
+
+## Read Next
+
+- [1 Million Token Context: The End of 'Context Rot' in AI](/articles/1m-context-window-revolution)
+- [Adaptive Thinking: AI That Knows When to Think Deeper](/articles/adaptive-thinking-ai-context-aware-reasoning)
+- [Agent Teams in Claude Code: Multi-Agent AI Development Is Here](/articles/agent-teams-claude-code-multi-agent)

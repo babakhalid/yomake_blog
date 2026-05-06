@@ -98,3 +98,10 @@ The 1M context window is available in **beta** for Claude Opus 4.6 on:
 ---
 
 *Building something big? [Youmake](https://youmake.dev) handles the complexity—you just describe what you want.*
+---
+
+## Read Next
+
+- [Claude Opus 4.6: Anthropic's Most Powerful AI Model Yet](/articles/claude-opus-4-6-release)
+- [Claude Mem: Persistent Memory That Transforms AI Assistance](/articles/claude-mem-persistent-memory)
+- [Adaptive Thinking: AI That Knows When to Think Deeper](/articles/adaptive-thinking-ai-context-aware-reasoning)

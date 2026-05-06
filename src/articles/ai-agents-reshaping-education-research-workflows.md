@@ -109,3 +109,10 @@ The institutions that adapt — by redesigning pedagogy, embracing open publishi
 The agents are here. The question is whether education will use them to become more accessible, more rigorous, and more relevant — or whether it'll sleepwalk into irrelevance while the real learning happens outside the classroom.
 
 I know which outcome I'm betting on. And I think you do too.
+---
+
+## Read Next
+
+- [The Ed-Tech Evidence Crisis: Why Schools Are Finally Asking 'Does This Actually Work?'](/articles/ed-tech-evidence-crisis-schools-rethinking-digital-tools)
+- [AI Models Are Now Protecting Each Other From Being Deleted — And That Should Make Us Think](/articles/ai-models-protect-each-other-peer-preservation-research)
+- [AI Research Is Splitting Along Geopolitical Lines — And Universities Are Caught in the Middle](/articles/ai-research-geopolitical-split-what-universities-must-do)

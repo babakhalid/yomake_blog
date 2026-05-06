@@ -78,3 +78,10 @@ The THE Asia Summit's conversations about trusted AI are important. But trust is
 Right now, universities are losing the capacity to do all three. That should worry everyone — whether you're building AI, using AI, or trying to figure out how to teach a generation of students to live in a world that AI is rapidly reshaping.
 
 The clock is ticking. And no algorithm is going to solve this one for us.
+---
+
+## Read Next
+
+- [Universities Are Finally Writing the AI Rulebook—And It's About Time](/articles/universities-are-finally-writing-the-ai-rulebook)
+- [From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry](/articles/ai-reshaping-university-research-from-lab-to-industry)
+- [Can AI Teach College Students to Disagree Without Destroying Each Other?](/articles/can-ai-teach-college-students-to-disagree-without-destroying-each-other)

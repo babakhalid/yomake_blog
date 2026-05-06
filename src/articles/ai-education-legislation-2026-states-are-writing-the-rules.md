@@ -102,3 +102,10 @@ But there's a risk too. Overly rigid regulation could freeze out innovation at e
 **The next 18 months will determine the regulatory landscape for AI in education for the next decade.** If you're in this space — as an educator, builder, researcher, or parent — now is the time to engage. These rules are being written. And once they're written, they're very hard to rewrite.
 
 The states aren't waiting. Neither should you.
+---
+
+## Read Next
+
+- [Universities Are Finally Writing the AI Rulebook—And It's About Time](/articles/universities-are-finally-writing-the-ai-rulebook)
+- [The Ed-Tech Evidence Crisis: Why Schools Are Finally Asking 'Does This Actually Work?'](/articles/ed-tech-evidence-crisis-schools-rethinking-digital-tools)
+- [From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry](/articles/ai-reshaping-university-research-from-lab-to-industry)

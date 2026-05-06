@@ -88,3 +88,10 @@ Cook chose to build a company. In September, we'll see if he was right.
 And for the rest of us? The homework starts now. Grab a notebook, look at your org chart, and answer one question: if I got hit by a bus tomorrow, would this company survive?
 
 If the answer isn't a confident yes, you know what to work on next.
+---
+
+## Read Next
+
+- [Zuckerberg Is Building an AI Agent to Do His Job as CEO — Here's Why Every Founder Should Pay Attention](/articles/zuckerberg-ai-ceo-agent-future-of-founders)
+- [The Geography of Startup Money Is Broken — Here's How Founders Outside SF Can Still Win](/articles/startup-funding-concentration-sf-vibe-coding-unicorns)
+- [The ChatGPT Moment for Robotics Is Here — And It Changes Everything for Founders](/articles/physical-ai-chatgpt-moment-for-robotics-is-here)

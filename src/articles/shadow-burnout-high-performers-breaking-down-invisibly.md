@@ -96,3 +96,10 @@ Start somewhere. Get a blood panel. Track your sleep. Take the cold shower. Do t
 But whatever you do, stop pretending you're fine when you're not. Shadow burnout thrives in silence. The moment you name it, you start to reclaim power over it.
 
 Your startup needs you. But it needs the real you — not the performance of you running on fumes.
+---
+
+## Read Next
+
+- [The Overthinking Trap: Why Smart People Build Nothing](/articles/the-overthinking-trap-why-smart-people-build-nothing)
+- [The ChatGPT Moment for Robotics Is Here — And It Changes Everything for Founders](/articles/physical-ai-chatgpt-moment-for-robotics-is-here)
+- [The Geography of Startup Money Is Broken — Here's How Founders Outside SF Can Still Win](/articles/startup-funding-concentration-sf-vibe-coding-unicorns)

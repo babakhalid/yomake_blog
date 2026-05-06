@@ -85,3 +85,10 @@ Sandboxed environments are available through Anthropic's cloud platform. Free ti
 Agent capabilities continue advancing. Future developments will enable more sophisticated autonomy, better judgment in ambiguous situations, and smoother integration with human workflows. The Agent SDK and sandboxed environments provide the foundation for this evolution.
 
 For developers ready to build the next generation of AI applications, the Agent SDK offers powerful capabilities with appropriate safeguards. Autonomous operation becomes practical while maintaining the control essential for responsible deployment.
+---
+
+## Read Next
+
+- [AI Agents Are About to Spend Your Money — Who Controls the Wallet?](/articles/ai-agents-spending-your-money-who-controls-the-wallet)
+- [OpenAI Just Broke Free From Azure — And the AI Cloud Wars Will Never Be the Same](/articles/openai-aws-deal-end-of-cloud-exclusivity-ai-infrastructure)
+- [Why 40% of Corporate AI Agent Projects Will Fail — And How to Be in the Other 60%](/articles/why-40-percent-of-corporate-ai-agent-projects-will-fail)

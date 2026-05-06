@@ -125,3 +125,10 @@ Speed is a mindset before it's a process. It starts with a genuine belief that *
 The world doesn't wait for your perfect strategy deck. Ship it. Learn. Adjust. Repeat.
 
 That's the mindset. Everything else is just process.
+---
+
+## Read Next
+
+- [The Leadership Paradox: Why the Most Successful People Have the Worst Days](/articles/the-leadership-paradox-why-the-most-successful-people-have-the-worst-days)
+- [Stop Mandating AI Adoption — Let Your Team Lead the Way](/articles/stop-mandating-ai-adoption-let-your-team-lead-the-way)
+- [Stop Optimizing, Start Doing: Why Clarity Beats Perfection Every Time](/articles/stop-optimizing-start-doing-clarity-over-perfection)

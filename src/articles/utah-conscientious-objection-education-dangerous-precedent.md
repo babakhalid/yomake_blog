@@ -102,3 +102,10 @@ Build tools that **expand** perspectives, not narrow them. Design experiences th
 ---
 
 *Education that never challenges you isn't education. It's confirmation bias with a tuition bill.*
+---
+
+## Read Next
+
+- [Students Know AI Is Making Them Worse at Thinking — And They Can't Stop Using It](/articles/students-worried-ai-eroding-critical-thinking-skills)
+- [27 States Are Writing AI Education Rules Right Now — And Most Schools Aren't Ready](/articles/ai-education-legislation-2026-states-are-writing-the-rules)
+- [The Ed-Tech Evidence Crisis: Why Schools Are Finally Asking 'Does This Actually Work?'](/articles/ed-tech-evidence-crisis-schools-rethinking-digital-tools)

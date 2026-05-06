@@ -109,3 +109,10 @@ The goal isn't to replace your skills—it's to amplify them. You bring the idea
 ---
 
 *Prefer to skip the slides entirely? [Youmake](https://youmake.dev) turns your ideas directly into working apps.*
+---
+
+## Read Next
+
+- [Adaptive Thinking: AI That Knows When to Think Deeper](/articles/adaptive-thinking-ai-context-aware-reasoning)
+- [Claude Opus 4.6: Anthropic's Most Powerful AI Model Yet](/articles/claude-opus-4-6-release)
+- [Claude in Chrome: AI-Powered Browser Assistance at Your Fingertips](/articles/claude-in-chrome-browser-extension)

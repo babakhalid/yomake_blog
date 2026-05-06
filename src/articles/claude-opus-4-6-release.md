@@ -115,3 +115,10 @@ The future of AI-assisted development just got a lot more capable.
 ---
 
 *Want to build apps at the speed of thought? Try [Youmake](https://youmake.dev)—your app is one prompt away.*
+---
+
+## Read Next
+
+- [1 Million Token Context: The End of 'Context Rot' in AI](/articles/1m-context-window-revolution)
+- [Claude Sonnet 4.5: The Optimal Choice for Coding and Agentic Tasks](/articles/claude-sonnet-4-5-coding-agentic-tasks)
+- [Agent Teams in Claude Code: Multi-Agent AI Development Is Here](/articles/agent-teams-claude-code-multi-agent)
