@@ -91,4 +91,4 @@ For developers whose fingers know Vim keybindings instinctively, Claude Code's V
 
 - [Hot Reload for Skills: Accelerating Skill Development in Claude Code](/articles/hot-reload-skills-claude-code)
 - [Claude Code 2.1.0: Agent Lifecycle Hooks and Skill Improvements Transform Developer Workflows](/articles/claude-code-2-1-0-agent-lifecycle-hooks)
-- [The Last Mile Mindset: Why Finishing Beats Starting in the AI Era](/articles/the-last-mile-mindset-why-finishing-beats-starting-in-the-ai-era)
+- [Agent Teams in Claude Code: Multi-Agent AI Development Is Here](/articles/agent-teams-claude-code-multi-agent)

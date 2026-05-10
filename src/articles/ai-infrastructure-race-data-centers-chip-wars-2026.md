@@ -84,4 +84,4 @@ Right now, the answer seems to be: not really. And that's the thing worth watchi
 
 - [OpenAI Wants to Buy Fusion Energy — And That Should Tell You Everything About AI's Power Problem](/articles/openai-fusion-energy-helion-deal-ai-power-crisis)
 - [Nvidia GTC 2026: The AI Infrastructure Race Just Entered a New Phase](/articles/nvidia-gtc-2026-ai-infrastructure-race-heats-up)
-- [Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right](/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right)
+- [Google Just Bet $40 Billion on Anthropic. Here's Why That Should Make You Think.](/articles/google-anthropic-40-billion-ai-power-concentration)

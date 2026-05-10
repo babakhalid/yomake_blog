@@ -121,5 +121,5 @@ The vibes get you started. The precision gets you there.
 ## Read Next
 
 - [The Geography of Startup Money Is Broken — Here's How Founders Outside SF Can Still Win](/articles/startup-funding-concentration-sf-vibe-coding-unicorns)
-- [AI Is Splitting Every Industry in Two — Which Side Are You On?](/articles/ai-thinking-amplifier-or-replacement-the-split-that-defines-your-career)
-- [Cognitive Surrender: What Happens When You Let AI Think for You](/articles/cognitive-surrender-when-ai-thinks-for-you-system-3)
+- [Vibe Coding vs Traditional Coding: Which Approach Wins in 2026?](/articles/vibe-coding-vs-traditional-coding)
+- [What is Vibe Coding? Complete Guide to the AI Coding Revolution (2026)](/articles/what-is-vibe-coding)

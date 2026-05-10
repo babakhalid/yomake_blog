@@ -102,4 +102,4 @@ Walmart learned that lesson the hard way. You don't have to.
 
 - [The White House Wants to Vet AI Models Before Release — Here's What It Means for Builders](/articles/white-house-ai-oversight-what-it-means-for-builders)
 - [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
-- [Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right](/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right)
+- [Google Now Generates 75% of Its Code With AI — Here's Why That Changes Everything](/articles/google-75-percent-ai-generated-code-agentic-shift)

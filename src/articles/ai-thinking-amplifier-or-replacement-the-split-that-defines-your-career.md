@@ -110,4 +110,4 @@ Choose wisely. Your future self is counting on it.
 
 - [Cognitive Surrender: What Happens When You Let AI Think for You](/articles/cognitive-surrender-when-ai-thinks-for-you-system-3)
 - [The AI Job Apocalypse Isn't Coming — Here's What's Actually Happening](/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening)
-- [The Last Mile Mindset: Why Finishing Beats Starting in the AI Era](/articles/the-last-mile-mindset-why-finishing-beats-starting-in-the-ai-era)
+- [KPMG Just Told Us What Skills Actually Matter in the AI Era — And It's Not Coding](/articles/kpmg-critical-thinking-over-technical-skills-ai-era)

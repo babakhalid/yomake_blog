@@ -101,5 +101,5 @@ Your startup needs you. But it needs the real you — not the performance of you
 ## Read Next
 
 - [The Overthinking Trap: Why Smart People Build Nothing](/articles/the-overthinking-trap-why-smart-people-build-nothing)
-- [The ChatGPT Moment for Robotics Is Here — And It Changes Everything for Founders](/articles/physical-ai-chatgpt-moment-for-robotics-is-here)
 - [The Geography of Startup Money Is Broken — Here's How Founders Outside SF Can Still Win](/articles/startup-funding-concentration-sf-vibe-coding-unicorns)
+- [Tim Cook Just Stepped Down From Apple. Here's the Succession Playbook Every Founder Should Steal.](/articles/tim-cook-steps-down-apple-succession-playbook-for-founders)

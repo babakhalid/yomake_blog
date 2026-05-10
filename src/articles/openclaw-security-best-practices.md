@@ -335,6 +335,6 @@ For more on setting up OpenClaw, see our [getting started guide](/blog/getting-s
 
 ## Read Next
 
-- [AI Agents Are About to Spend Your Money — Who Controls the Wallet?](/articles/ai-agents-spending-your-money-who-controls-the-wallet)
 - [OpenClaw vs ChatGPT vs Claude: Which AI Assistant Is Right for You?](/articles/openclaw-vs-chatgpt-claude-comparison)
+- [AI Agents Are About to Spend Your Money — Who Controls the Wallet?](/articles/ai-agents-spending-your-money-who-controls-the-wallet)
 - [Getting Started with OpenClaw: Your AI-Powered Personal Assistant](/articles/getting-started-with-openclaw)

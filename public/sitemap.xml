@@ -5,7 +5,7 @@
   <!-- Homepage -->
   <url>
     <loc>https://blog.youmake.dev/</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -13,12 +13,441 @@
   <!-- Articles Index -->
   <url>
     <loc>https://blog.youmake.dev/articles</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
 
   <!-- Individual Articles -->
+  <url>
+    <loc>https://blog.youmake.dev/articles/best-ai-website-builders-2026</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/best-ai-website-builders-2026.png</image:loc>
+      <image:title>7 Best AI Website Builders in 2026 (Tested &amp; Compared)</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/free-ai-website-builder</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/free-ai-website-builder.png</image:loc>
+      <image:title>Free AI Website Builder: Build Professional Sites at Zero Cost (2026)</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/how-to-build-app-without-coding</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/how-to-build-app-without-coding.png</image:loc>
+      <image:title>How to Build an App Without Coding in 2026 (Step-by-Step Guide)</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/vibe-coding-vs-traditional-coding</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/vibe-coding-vs-traditional-coding.png</image:loc>
+      <image:title>Vibe Coding vs Traditional Coding: Which Approach Wins in 2026?</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/what-is-vibe-coding</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/what-is-vibe-coding-guide.png</image:loc>
+      <image:title>What is Vibe Coding? Complete Guide to the AI Coding Revolution (2026)</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/youmake-vs-bolt</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/youmake-vs-bolt-comparison.png</image:loc>
+      <image:title>Youmake vs Bolt.new (2026): Which AI Builder Actually Ships Production Apps?</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/youmake-vs-lovable</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/youmake-vs-lovable-comparison.png</image:loc>
+      <image:title>Youmake vs Lovable (2026): Complete Comparison for AI App Building</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-infrastructure-race-data-centers-chip-wars-2026</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-infrastructure-race-data-centers-chip-wars-2026.png</image:loc>
+      <image:title>The AI Infrastructure Race Is Getting Out of Hand — And That&apos;s the Point</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/startup-funding-concentration-sf-vibe-coding-unicorns</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/startup-funding-concentration-sf-vibe-coding-unicorns.png</image:loc>
+      <image:title>The Geography of Startup Money Is Broken — Here&apos;s How Founders Outside SF Can Still Win</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening.png</image:loc>
+      <image:title>The AI Job Apocalypse Isn&apos;t Coming — Here&apos;s What&apos;s Actually Happening</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/white-house-ai-oversight-what-it-means-for-builders</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/white-house-ai-oversight-what-it-means-for-builders.png</image:loc>
+      <image:title>The White House Wants to Vet AI Models Before Release — Here&apos;s What It Means for Builders</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/universities-are-finally-writing-the-ai-rulebook</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/universities-are-finally-writing-the-ai-rulebook.png</image:loc>
+      <image:title>Universities Are Finally Writing the AI Rulebook—And It&apos;s About Time</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/why-ai-layoffs-wont-save-your-company</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/why-ai-layoffs-wont-save-your-company.png</image:loc>
+      <image:title>Why AI Layoffs Won&apos;t Save Your Company</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/the-last-mile-mindset-why-finishing-beats-starting-in-the-ai-era</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/the-last-mile-mindset-why-finishing-beats-starting-in-the-ai-era.png</image:loc>
+      <image:title>The Last Mile Mindset: Why Finishing Beats Starting in the AI Era</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ultrafast-unicorns-and-the-new-rules-of-startup-fundraising</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ultrafast-unicorns-and-the-new-rules-of-startup-fundraising.png</image:loc>
+      <image:title>Ultrafast Unicorns and the New Rules of Startup Fundraising</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ed-tech-evidence-crisis-schools-rethinking-digital-tools</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ed-tech-evidence-crisis-schools-rethinking-digital-tools.png</image:loc>
+      <image:title>The Ed-Tech Evidence Crisis: Why Schools Are Finally Asking &apos;Does This Actually Work?&apos;</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/oscars-ban-ai-performances-what-it-means-for-creative-ai</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/oscars-ban-ai-performances-what-it-means-for-creative-ai.png</image:loc>
+      <image:title>The Oscars Just Banned AI Performances — And It Reveals Something Bigger About Creative AI</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right.png</image:loc>
+      <image:title>Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/the-leadership-paradox-why-the-most-successful-people-have-the-worst-days</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/the-leadership-paradox-why-the-most-successful-people-have-the-worst-days.png</image:loc>
+      <image:title>The Leadership Paradox: Why the Most Successful People Have the Worst Days</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-agents-spending-your-money-who-controls-the-wallet</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-agents-spending-your-money-who-controls-the-wallet.png</image:loc>
+      <image:title>AI Agents Are About to Spend Your Money — Who Controls the Wallet?</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/physical-ai-chatgpt-moment-for-robotics-is-here</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/physical-ai-chatgpt-moment-for-robotics-is-here.png</image:loc>
+      <image:title>The ChatGPT Moment for Robotics Is Here — And It Changes Everything for Founders</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/openai-aws-deal-end-of-cloud-exclusivity-ai-infrastructure</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/openai-aws-deal-end-of-cloud-exclusivity-ai-infrastructure.png</image:loc>
+      <image:title>OpenAI Just Broke Free From Azure — And the AI Cloud Wars Will Never Be the Same</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/stop-mandating-ai-adoption-let-your-team-lead-the-way</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/stop-mandating-ai-adoption-let-your-team-lead-the-way.png</image:loc>
+      <image:title>Stop Mandating AI Adoption — Let Your Team Lead the Way</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-reshaping-university-research-from-lab-to-industry</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-reshaping-university-research-from-lab-to-industry.png</image:loc>
+      <image:title>From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/shadow-ai-enterprise-employees-building-behind-it</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/shadow-ai-enterprise-employees-building-behind-it.png</image:loc>
+      <image:title>Shadow AI Is Winning: Why Your Employees Are Building Behind IT&apos;s Back</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-thinking-amplifier-or-replacement-the-split-that-defines-your-career</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-thinking-amplifier-or-replacement-the-split-that-defines-your-career.png</image:loc>
+      <image:title>AI Is Splitting Every Industry in Two — Which Side Are You On?</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/friendster-revival-30k-bet-on-real-human-connection</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/friendster-revival-30k-bet-on-real-human-connection.png</image:loc>
+      <image:title>A Developer Bought Friendster for $30K — And It&apos;s the Most Interesting Startup Move of 2026</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/google-anthropic-40-billion-ai-power-concentration</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/google-anthropic-40-billion-ai-power-concentration.png</image:loc>
+      <image:title>Google Just Bet $40 Billion on Anthropic. Here&apos;s Why That Should Make You Think.</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/universities-ai-trust-crisis-who-controls-research-agenda</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/universities-ai-trust-crisis-who-controls-research-agenda.png</image:loc>
+      <image:title>Universities Have an AI Trust Crisis — And It&apos;s About to Get Worse</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/corporate-america-is-breaking-up-with-gen-z-and-gen-z-doesnt-care</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/corporate-america-is-breaking-up-with-gen-z-and-gen-z-doesnt-care.png</image:loc>
+      <image:title>Corporate America Is Breaking Up With Gen Z — And Gen Z Doesn&apos;t Care</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/stop-optimizing-start-doing-clarity-over-perfection</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/stop-optimizing-start-doing-clarity-over-perfection.png</image:loc>
+      <image:title>Stop Optimizing, Start Doing: Why Clarity Beats Perfection Every Time</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/google-75-percent-ai-generated-code-agentic-shift</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/google-75-percent-ai-generated-code-agentic-shift.png</image:loc>
+      <image:title>Google Now Generates 75% of Its Code With AI — Here&apos;s Why That Changes Everything</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/vertical-ai-startups-300-billion-venture-funding-q1-2026</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/vertical-ai-startups-300-billion-venture-funding-q1-2026.png</image:loc>
+      <image:title>The $300 Billion Quarter: Why Vertical AI Startups Are the Real Opportunity in 2026</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/cognitive-surrender-when-ai-thinks-for-you-system-3</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/cognitive-surrender-when-ai-thinks-for-you-system-3.png</image:loc>
+      <image:title>Cognitive Surrender: What Happens When You Let AI Think for You</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/meta-tracking-employee-keystrokes-ai-training-data-surveillance</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/meta-tracking-employee-keystrokes-ai-training-data-surveillance.png</image:loc>
+      <image:title>Meta Is Tracking Employee Keystrokes for AI Training — And It Should Worry All of Us</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-education-legislation-2026-states-are-writing-the-rules</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-education-legislation-2026-states-are-writing-the-rules.png</image:loc>
+      <image:title>27 States Are Writing AI Education Rules Right Now — And Most Schools Aren&apos;t Ready</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/why-40-percent-of-corporate-ai-agent-projects-will-fail</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/why-40-percent-of-corporate-ai-agent-projects-will-fail.png</image:loc>
+      <image:title>Why 40% of Corporate AI Agent Projects Will Fail — And How to Be in the Other 60%</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/shadow-burnout-high-performers-breaking-down-invisibly</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/shadow-burnout-high-performers-breaking-down-invisibly.png</image:loc>
+      <image:title>Shadow Burnout: Why the Highest Performers Are Breaking Down — and Nobody Can Tell</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/tim-cook-steps-down-apple-succession-playbook-for-founders</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/tim-cook-steps-down-apple-succession-playbook-for-founders.png</image:loc>
+      <image:title>Tim Cook Just Stepped Down From Apple. Here&apos;s the Succession Playbook Every Founder Should Steal.</image:title>
+    </image:image>
+  </url>
+
   <url>
     <loc>https://blog.youmake.dev/articles/can-ai-teach-college-students-to-disagree-without-destroying-each-other</loc>
     <lastmod>2026-04-20</lastmod>

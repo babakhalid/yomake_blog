@@ -110,6 +110,6 @@ Write it. Then go build the thing.
 
 ## Read Next
 
-- [The Last Mile Mindset: Why Finishing Beats Starting in the AI Era](/articles/the-last-mile-mindset-why-finishing-beats-starting-in-the-ai-era)
 - [The Overthinking Trap: Why Smart People Build Nothing](/articles/the-overthinking-trap-why-smart-people-build-nothing)
+- [The Last Mile Mindset: Why Finishing Beats Starting in the AI Era](/articles/the-last-mile-mindset-why-finishing-beats-starting-in-the-ai-era)
 - [Cognitive Surrender: What Happens When You Let AI Think for You](/articles/cognitive-surrender-when-ai-thinks-for-you-system-3)

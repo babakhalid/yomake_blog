@@ -100,5 +100,5 @@ The encrypted future of enterprise computing isn't theoretical anymore. It's run
 ## Read Next
 
 - [Tim Cook Just Stepped Down From Apple. Here's the Succession Playbook Every Founder Should Steal.](/articles/tim-cook-steps-down-apple-succession-playbook-for-founders)
-- [AI Agents Are About to Spend Your Money — Who Controls the Wallet?](/articles/ai-agents-spending-your-money-who-controls-the-wallet)
 - [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
+- [The Mercor Breach Exposes the Fragile Underbelly of Corporate AI](/articles/ai-training-data-breach-mercor-corporate-supply-chain-risk)

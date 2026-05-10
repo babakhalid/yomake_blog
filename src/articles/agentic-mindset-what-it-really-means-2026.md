@@ -140,4 +140,4 @@ Stop waiting for the prompt. Start writing it.
 
 - [The AI Job Apocalypse Isn't Coming — Here's What's Actually Happening](/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening)
 - [KPMG Just Told Us What Skills Actually Matter in the AI Era — And It's Not Coding](/articles/kpmg-critical-thinking-over-technical-skills-ai-era)
-- [The Last Mile Mindset: Why Finishing Beats Starting in the AI Era](/articles/the-last-mile-mindset-why-finishing-beats-starting-in-the-ai-era)
+- [AI Is Splitting Every Industry in Two — Which Side Are You On?](/articles/ai-thinking-amplifier-or-replacement-the-split-that-defines-your-career)

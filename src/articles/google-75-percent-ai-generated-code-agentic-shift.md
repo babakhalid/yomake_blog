@@ -85,5 +85,5 @@ The 75% number isn't the ceiling. It's the new floor.
 ## Read Next
 
 - [Amazon Just Put Guardrails on AI Coding — Here's What Every Engineering Team Should Learn](/articles/amazon-ai-coding-guardrails-what-every-engineering-team-should-learn)
-- [Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right](/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right)
 - [Google Just Bet $40 Billion on Anthropic. Here's Why That Should Make You Think.](/articles/google-anthropic-40-billion-ai-power-concentration)
+- [Meta's Avocado Delay Signals Something Bigger About the AI Race](/articles/meta-avocado-delay-signals-ai-race-shifting)

@@ -132,4 +132,4 @@ The best founders in 2026 are building with less because they finally can. The q
 
 - [The Vibe Coding Revolution: Why Non-Technical Founders Are Winning in 2026](/articles/vibe-coding-startup-revolution-building-with-ai-agents)
 - [The Geography of Startup Money Is Broken — Here's How Founders Outside SF Can Still Win](/articles/startup-funding-concentration-sf-vibe-coding-unicorns)
-- [Ultrafast Unicorns and the New Rules of Startup Fundraising](/articles/ultrafast-unicorns-and-the-new-rules-of-startup-fundraising)
+- [A Developer Bought Friendster for $30K — And It's the Most Interesting Startup Move of 2026](/articles/friendster-revival-30k-bet-on-real-human-connection)

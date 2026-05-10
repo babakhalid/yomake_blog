@@ -120,6 +120,6 @@ Meanwhile, Gen Z will keep building. Not because they're rebels. Because you lef
 
 ## Read Next
 
-- [Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right](/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right)
 - [RentAHuman: When AI Agents Start Hiring People](/articles/rentahuman-ai-agents-hiring-people-future-of-work)
 - [Shadow AI Is Winning: Why Your Employees Are Building Behind IT's Back](/articles/shadow-ai-enterprise-employees-building-behind-it)
+- [Why AI Layoffs Won't Save Your Company](/articles/why-ai-layoffs-wont-save-your-company)

@@ -68,6 +68,6 @@ Try these tips on your next Youmake project at [youmake.dev](https://youmake.dev
 
 ## Read Next
 
-- [The Oscars Just Banned AI Performances — And It Reveals Something Bigger About Creative AI](/articles/oscars-ban-ai-performances-what-it-means-for-creative-ai)
 - [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
-- [Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right](/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right)
+- [The Oscars Just Banned AI Performances — And It Reveals Something Bigger About Creative AI](/articles/oscars-ban-ai-performances-what-it-means-for-creative-ai)
+- [The AI Job Apocalypse Isn't Coming — Here's What's Actually Happening](/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening)

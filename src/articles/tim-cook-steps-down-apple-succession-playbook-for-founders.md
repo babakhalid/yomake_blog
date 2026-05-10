@@ -94,4 +94,4 @@ If the answer isn't a confident yes, you know what to work on next.
 
 - [Zuckerberg Is Building an AI Agent to Do His Job as CEO — Here's Why Every Founder Should Pay Attention](/articles/zuckerberg-ai-ceo-agent-future-of-founders)
 - [The Geography of Startup Money Is Broken — Here's How Founders Outside SF Can Still Win](/articles/startup-funding-concentration-sf-vibe-coding-unicorns)
-- [The ChatGPT Moment for Robotics Is Here — And It Changes Everything for Founders](/articles/physical-ai-chatgpt-moment-for-robotics-is-here)
+- [Shadow Burnout: Why the Highest Performers Are Breaking Down — and Nobody Can Tell](/articles/shadow-burnout-high-performers-breaking-down-invisibly)
