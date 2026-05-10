@@ -86,6 +86,6 @@ And that's the most important AI story in education right now.
 
 ## Read Next
 
+- [OpenAI's Codex Now Lives in Your Browser — And That Changes Everything](/articles/openai-codex-chrome-extension-ai-agents-enter-your-browser)
 - [Google Now Generates 75% of Its Code With AI — Here's Why That Changes Everything](/articles/google-75-percent-ai-generated-code-agentic-shift)
 - [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
-- [From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry](/articles/ai-reshaping-university-research-from-lab-to-industry)

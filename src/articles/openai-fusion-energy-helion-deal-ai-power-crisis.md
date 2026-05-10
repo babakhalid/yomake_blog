@@ -74,4 +74,4 @@ The race for AI dominance was always going to become a race for energy. That rac
 
 - [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
 - [OpenAI Just Broke Free From Azure — And the AI Cloud Wars Will Never Be the Same](/articles/openai-aws-deal-end-of-cloud-exclusivity-ai-infrastructure)
-- [Nvidia GTC 2026: The AI Infrastructure Race Just Entered a New Phase](/articles/nvidia-gtc-2026-ai-infrastructure-race-heats-up)
+- [OpenAI's Codex Now Lives in Your Browser — And That Changes Everything](/articles/openai-codex-chrome-extension-ai-agents-enter-your-browser)

@@ -111,6 +111,6 @@ That's not a crisis. But it is a signal. And the smart move is to listen.
 
 ## Read Next
 
+- [Nearly 3,000 Papers Have Fake Citations: The AI-Fueled Crisis Threatening Academic Research](/articles/fake-citations-ai-crisis-threatening-academic-research)
 - [AI Agents Are Quietly Reshaping How We Learn, Research, and Publish](/articles/ai-agents-reshaping-education-research-workflows)
 - [AI Research Is Splitting Along Geopolitical Lines — And Universities Are Caught in the Middle](/articles/ai-research-geopolitical-split-what-universities-must-do)
-- [Universities Are Finally Writing the AI Rulebook—And It's About Time](/articles/universities-are-finally-writing-the-ai-rulebook)

@@ -84,6 +84,6 @@ The 75% number isn't the ceiling. It's the new floor.
 
 ## Read Next
 
+- [OpenAI's Codex Now Lives in Your Browser — And That Changes Everything](/articles/openai-codex-chrome-extension-ai-agents-enter-your-browser)
 - [Amazon Just Put Guardrails on AI Coding — Here's What Every Engineering Team Should Learn](/articles/amazon-ai-coding-guardrails-what-every-engineering-team-should-learn)
 - [Google Just Bet $40 Billion on Anthropic. Here's Why That Should Make You Think.](/articles/google-anthropic-40-billion-ai-power-concentration)
-- [Meta's Avocado Delay Signals Something Bigger About the AI Race](/articles/meta-avocado-delay-signals-ai-race-shifting)

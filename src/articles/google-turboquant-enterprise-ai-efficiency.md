@@ -92,4 +92,4 @@ The companies that treat AI efficiency as a strategic priority, not just an engi
 
 - [Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right](/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right)
 - [Shadow AI Is Winning: Why Your Employees Are Building Behind IT's Back](/articles/shadow-ai-enterprise-employees-building-behind-it)
-- [Why AI Layoffs Won't Save Your Company](/articles/why-ai-layoffs-wont-save-your-company)
+- [Why Your Digital Transformation Needs Three Leaders, Not One](/articles/why-your-digital-transformation-needs-three-leaders-not-one)

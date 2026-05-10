@@ -31,6 +31,17 @@
   </url>
 
   <url>
+    <loc>https://blog.youmake.dev/articles/fake-citations-ai-crisis-threatening-academic-research</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/fake-citations-ai-crisis-threatening-academic-research.png</image:loc>
+      <image:title>Nearly 3,000 Papers Have Fake Citations: The AI-Fueled Crisis Threatening Academic Research</image:title>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://blog.youmake.dev/articles/free-ai-website-builder</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>monthly</changefreq>
@@ -49,6 +60,17 @@
     <image:image>
       <image:loc>https://blog.youmake.dev/images/blog/how-to-build-app-without-coding.png</image:loc>
       <image:title>How to Build an App Without Coding in 2026 (Step-by-Step Guide)</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/stop-treating-ai-agents-like-employees-corporate-playbook</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/stop-treating-ai-agents-like-employees-corporate-playbook.png</image:loc>
+      <image:title>Stop Treating AI Agents Like Employees — Here&apos;s What Actually Works</image:title>
     </image:image>
   </url>
 
@@ -93,6 +115,72 @@
     <image:image>
       <image:loc>https://blog.youmake.dev/images/blog/youmake-vs-lovable-comparison.png</image:loc>
       <image:title>Youmake vs Lovable (2026): Complete Comparison for AI App Building</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/less-is-more-why-removing-features-is-the-new-startup-superpower</loc>
+    <lastmod>2026-05-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/less-is-more-why-removing-features-is-the-new-startup-superpower.png</image:loc>
+      <image:title>Less Is More: Why Removing Features Is the New Startup Superpower</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/stop-waiting-to-feel-ready-the-myth-of-the-perfect-moment</loc>
+    <lastmod>2026-05-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/stop-waiting-to-feel-ready-the-myth-of-the-perfect-moment.png</image:loc>
+      <image:title>Stop Waiting to Feel Ready: The Myth of the Perfect Moment</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-education-governance-schools-moving-beyond-experimentation</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-education-governance-schools-moving-beyond-experimentation.png</image:loc>
+      <image:title>Schools Are Done Experimenting With AI — Now Comes the Hard Part</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/openai-codex-chrome-extension-ai-agents-enter-your-browser</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/openai-codex-chrome-extension-ai-agents-enter-your-browser.png</image:loc>
+      <image:title>OpenAI&apos;s Codex Now Lives in Your Browser — And That Changes Everything</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/the-leadership-paradox-why-successful-leaders-have-worse-days</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/the-leadership-paradox-why-successful-leaders-have-worse-days.png</image:loc>
+      <image:title>The Leadership Paradox: Why the Most Successful Leaders Have the Worst Days</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/why-your-digital-transformation-needs-three-leaders-not-one</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/why-your-digital-transformation-needs-three-leaders-not-one.png</image:loc>
+      <image:title>Why Your Digital Transformation Needs Three Leaders, Not One</image:title>
     </image:image>
   </url>
 

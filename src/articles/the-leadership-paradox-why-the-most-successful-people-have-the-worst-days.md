@@ -94,6 +94,6 @@ Because when your leaders have better days, everyone does.
 
 ## Read Next
 
+- [The Leadership Paradox: Why the Most Successful Leaders Have the Worst Days](/articles/the-leadership-paradox-why-successful-leaders-have-worse-days)
 - [Leaders Are Losing Their Sense of Agency — Here's How to Reclaim It](/articles/leaders-losing-agency-how-to-reclaim-your-autonomy-in-2026)
-- [Stop Mandating AI Adoption — Let Your Team Lead the Way](/articles/stop-mandating-ai-adoption-let-your-team-lead-the-way)
-- [Slow Decisions Are Killing Your Startup: The Speed Mindset That Separates Winners from Zombies](/articles/slow-decisions-are-killing-your-startup-speed-mindset)
+- [Stop Waiting to Feel Ready: The Myth of the Perfect Moment](/articles/stop-waiting-to-feel-ready-the-myth-of-the-perfect-moment)

@@ -94,4 +94,4 @@ Start building.
 
 - [Tim Cook Just Stepped Down From Apple. Here's the Succession Playbook Every Founder Should Steal.](/articles/tim-cook-steps-down-apple-succession-playbook-for-founders)
 - [The Geography of Startup Money Is Broken — Here's How Founders Outside SF Can Still Win](/articles/startup-funding-concentration-sf-vibe-coding-unicorns)
-- [The Vibe Coding Revolution: Why Non-Technical Founders Are Winning in 2026](/articles/vibe-coding-startup-revolution-building-with-ai-agents)
+- [Less Is More: Why Removing Features Is the New Startup Superpower](/articles/less-is-more-why-removing-features-is-the-new-startup-superpower)

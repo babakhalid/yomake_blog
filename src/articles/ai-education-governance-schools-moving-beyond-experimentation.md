@@ -90,3 +90,10 @@ That second question is harder, less glamorous, and far more important. It requi
 The schools getting this right won't make headlines for flashy AI demos. They'll be the ones where, three years from now, students are actually learning more — and their data is still safe.
 
 That's the hard part. And we're just getting started.
+---
+
+## Read Next
+
+- [27 States Are Writing AI Education Rules Right Now — And Most Schools Aren't Ready](/articles/ai-education-legislation-2026-states-are-writing-the-rules)
+- [Universities Are Finally Writing the AI Rulebook—And It's About Time](/articles/universities-are-finally-writing-the-ai-rulebook)
+- [The Ed-Tech Evidence Crisis: Why Schools Are Finally Asking 'Does This Actually Work?'](/articles/ed-tech-evidence-crisis-schools-rethinking-digital-tools)

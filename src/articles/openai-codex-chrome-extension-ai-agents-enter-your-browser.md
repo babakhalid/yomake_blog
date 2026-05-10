@@ -96,3 +96,10 @@ The Codex Chrome extension is a remarkable piece of engineering. It's also a sta
 Your browser was already your most important app. Now it's about to have a very capable roommate.
 
 Choose your boundaries wisely.
+---
+
+## Read Next
+
+- [OpenAI Just Broke Free From Azure — And the AI Cloud Wars Will Never Be the Same](/articles/openai-aws-deal-end-of-cloud-exclusivity-ai-infrastructure)
+- [Google Now Generates 75% of Its Code With AI — Here's Why That Changes Everything](/articles/google-75-percent-ai-generated-code-agentic-shift)
+- [OpenAI Wants to Buy Fusion Energy — And That Should Tell You Everything About AI's Power Problem](/articles/openai-fusion-energy-helion-deal-ai-power-crisis)

@@ -86,5 +86,5 @@ This is what we're building at Youmake — tools that augment human capability w
 ## Read Next
 
 - [Utah Wants Students to Opt Out of Coursework They Disagree With — Here's Why That's a Problem](/articles/utah-conscientious-objection-education-dangerous-precedent)
-- [Universities Have an AI Trust Crisis — And It's About to Get Worse](/articles/universities-ai-trust-crisis-who-controls-research-agenda)
-- [27 States Are Writing AI Education Rules Right Now — And Most Schools Aren't Ready](/articles/ai-education-legislation-2026-states-are-writing-the-rules)
+- [Schools Are Done Experimenting With AI — Now Comes the Hard Part](/articles/ai-education-governance-schools-moving-beyond-experimentation)
+- [Nearly 3,000 Papers Have Fake Citations: The AI-Fueled Crisis Threatening Academic Research](/articles/fake-citations-ai-crisis-threatening-academic-research)

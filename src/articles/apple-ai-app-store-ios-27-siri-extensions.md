@@ -90,5 +90,5 @@ And honestly? It might work.
 ## Read Next
 
 - [Apple's Gemini Distillation Deal With Google Changes Everything About On-Device AI](/articles/apple-google-gemini-distillation-deal-what-it-means-for-ai)
+- [OpenAI's Codex Now Lives in Your Browser — And That Changes Everything](/articles/openai-codex-chrome-extension-ai-agents-enter-your-browser)
 - [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
-- [Google Now Generates 75% of Its Code With AI — Here's Why That Changes Everything](/articles/google-75-percent-ai-generated-code-agentic-shift)

@@ -107,5 +107,5 @@ The states aren't waiting. Neither should you.
 ## Read Next
 
 - [Universities Are Finally Writing the AI Rulebook—And It's About Time](/articles/universities-are-finally-writing-the-ai-rulebook)
+- [Schools Are Done Experimenting With AI — Now Comes the Hard Part](/articles/ai-education-governance-schools-moving-beyond-experimentation)
 - [The Ed-Tech Evidence Crisis: Why Schools Are Finally Asking 'Does This Actually Work?'](/articles/ed-tech-evidence-crisis-schools-rethinking-digital-tools)
-- [From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry](/articles/ai-reshaping-university-research-from-lab-to-industry)

@@ -113,6 +113,6 @@ I know which outcome I'm betting on. And I think you do too.
 
 ## Read Next
 
+- [Nearly 3,000 Papers Have Fake Citations: The AI-Fueled Crisis Threatening Academic Research](/articles/fake-citations-ai-crisis-threatening-academic-research)
+- [Schools Are Done Experimenting With AI — Now Comes the Hard Part](/articles/ai-education-governance-schools-moving-beyond-experimentation)
 - [The Ed-Tech Evidence Crisis: Why Schools Are Finally Asking 'Does This Actually Work?'](/articles/ed-tech-evidence-crisis-schools-rethinking-digital-tools)
-- [AI Models Are Now Protecting Each Other From Being Deleted — And That Should Make Us Think](/articles/ai-models-protect-each-other-peer-preservation-research)
-- [AI Research Is Splitting Along Geopolitical Lines — And Universities Are Caught in the Middle](/articles/ai-research-geopolitical-split-what-universities-must-do)

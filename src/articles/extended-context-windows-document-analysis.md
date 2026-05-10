@@ -65,3 +65,4 @@ For organizations currently constrained by information processing bottlenecks, e
 
 - [Claude Opus 4.5: Inside Anthropic's Most Advanced Reasoning Model](/articles/claude-opus-4-5-advanced-reasoning-model)
 - [Organization-Wide Skill Management: Standardizing AI Workflows Across Teams](/articles/organization-skill-management-teams)
+- [Stop Waiting to Feel Ready: The Myth of the Perfect Moment](/articles/stop-waiting-to-feel-ready-the-myth-of-the-perfect-moment)

@@ -104,6 +104,6 @@ The question is whether they'll fight for it, or quietly let it go.
 
 ## Read Next
 
+- [Nearly 3,000 Papers Have Fake Citations: The AI-Fueled Crisis Threatening Academic Research](/articles/fake-citations-ai-crisis-threatening-academic-research)
 - [AI Agents Are Quietly Reshaping How We Learn, Research, and Publish](/articles/ai-agents-reshaping-education-research-workflows)
 - [AI Models Are Now Protecting Each Other From Being Deleted — And That Should Make Us Think](/articles/ai-models-protect-each-other-peer-preservation-research)
-- [From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry](/articles/ai-reshaping-university-research-from-lab-to-industry)

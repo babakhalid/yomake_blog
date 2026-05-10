@@ -101,6 +101,6 @@ The mandate is real. But it's not the mandate most executives think it is.
 
 ## Read Next
 
+- [Why Your Digital Transformation Needs Three Leaders, Not One](/articles/why-your-digital-transformation-needs-three-leaders-not-one)
 - [Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right](/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right)
 - [The CFO Is the New CEO: How Corporate Strategy Shifted in 2026](/articles/the-cfo-is-the-new-ceo-how-corporate-strategy-shifted-in-2026)
-- [Corporate America Is Breaking Up With Gen Z — And Gen Z Doesn't Care](/articles/corporate-america-is-breaking-up-with-gen-z-and-gen-z-doesnt-care)

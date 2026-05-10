@@ -101,5 +101,5 @@ That's not a strategic plan. That's a way of being.
 ## Read Next
 
 - [What the Global RAM Crisis Teaches Every Business About Corporate Resilience](/articles/corporate-resilience-ram-crisis-supply-chain-strategy)
+- [Stop Treating AI Agents Like Employees — Here's What Actually Works](/articles/stop-treating-ai-agents-like-employees-corporate-playbook)
 - [Why 40% of Corporate AI Agent Projects Will Fail — And How to Be in the Other 60%](/articles/why-40-percent-of-corporate-ai-agent-projects-will-fail)
-- [JD.com Just Launched Joybuy in Europe — And Amazon Should Be Nervous](/articles/jd-com-joybuy-europe-amazon-challenger)

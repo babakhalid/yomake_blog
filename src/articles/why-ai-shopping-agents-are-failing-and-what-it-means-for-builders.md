@@ -100,6 +100,6 @@ Walmart learned that lesson the hard way. You don't have to.
 
 ## Read Next
 
+- [OpenAI's Codex Now Lives in Your Browser — And That Changes Everything](/articles/openai-codex-chrome-extension-ai-agents-enter-your-browser)
 - [The White House Wants to Vet AI Models Before Release — Here's What It Means for Builders](/articles/white-house-ai-oversight-what-it-means-for-builders)
 - [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
-- [Google Now Generates 75% of Its Code With AI — Here's Why That Changes Everything](/articles/google-75-percent-ai-generated-code-agentic-shift)

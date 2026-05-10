@@ -77,5 +77,5 @@ For organizations where spreadsheets remain central to operations, Claude in Exc
 
 ## Read Next
 
-- [Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right](/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right)
-- [The Oscars Just Banned AI Performances — And It Reveals Something Bigger About Creative AI](/articles/oscars-ban-ai-performances-what-it-means-for-creative-ai)
+- [Stop Treating AI Agents Like Employees — Here's What Actually Works](/articles/stop-treating-ai-agents-like-employees-corporate-playbook)
+- [Why Your Digital Transformation Needs Three Leaders, Not One](/articles/why-your-digital-transformation-needs-three-leaders-not-one)

@@ -81,3 +81,10 @@ Whoop's bet was that health-conscious consumers would pay a premium for *less*. 
 The next time your team is debating what to add to your product, try asking a different question: "What would happen if we removed something instead?"
 
 You might be surprised by the answer.
+---
+
+## Read Next
+
+- [A Developer Bought Friendster for $30K — And It's the Most Interesting Startup Move of 2026](/articles/friendster-revival-30k-bet-on-real-human-connection)
+- [The Geography of Startup Money Is Broken — Here's How Founders Outside SF Can Still Win](/articles/startup-funding-concentration-sf-vibe-coding-unicorns)
+- [Ultrafast Unicorns and the New Rules of Startup Fundraising](/articles/ultrafast-unicorns-and-the-new-rules-of-startup-fundraising)

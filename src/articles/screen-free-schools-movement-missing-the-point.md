@@ -96,6 +96,6 @@ Let's stop fighting technology and start teaching kids to wield it wisely.
 
 ## Read Next
 
+- [Schools Are Done Experimenting With AI — Now Comes the Hard Part](/articles/ai-education-governance-schools-moving-beyond-experimentation)
 - [The Ed-Tech Evidence Crisis: Why Schools Are Finally Asking 'Does This Actually Work?'](/articles/ed-tech-evidence-crisis-schools-rethinking-digital-tools)
 - [AI Agents Are Quietly Reshaping How We Learn, Research, and Publish](/articles/ai-agents-reshaping-education-research-workflows)
-- [27 States Are Writing AI Education Rules Right Now — And Most Schools Aren't Ready](/articles/ai-education-legislation-2026-states-are-writing-the-rules)

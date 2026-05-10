@@ -106,3 +106,10 @@ Every AI product that generates text, citations, or references has a responsibil
 The 3,000 papers with fake citations aren't just a scandal. They're a warning. The infrastructure of knowledge — the thing that makes science work, that makes evidence-based decisions possible, that makes building on prior work meaningful — requires active defense.
 
 We're in the first droplets of the storm. Time to build better umbrellas.
+---
+
+## Read Next
+
+- [AI Agents Are Quietly Reshaping How We Learn, Research, and Publish](/articles/ai-agents-reshaping-education-research-workflows)
+- [AI Research Is Splitting Along Geopolitical Lines — And Universities Are Caught in the Middle](/articles/ai-research-geopolitical-split-what-universities-must-do)
+- [AI Models Are Now Protecting Each Other From Being Deleted — And That Should Make Us Think](/articles/ai-models-protect-each-other-peer-preservation-research)

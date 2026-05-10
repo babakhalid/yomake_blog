@@ -89,3 +89,4 @@ For enterprises deploying Claude at scale, organization-wide skill management tr
 
 - [Skills Feature: Teaching Claude Repeatable Workflows for Consistent Results](/articles/claude-skills-repeatable-workflows)
 - [Extended Context Windows: Revolutionizing Long-Form Document Analysis with Claude](/articles/extended-context-windows-document-analysis)
+- [Stop Treating AI Agents Like Employees — Here's What Actually Works](/articles/stop-treating-ai-agents-like-employees-corporate-playbook)
