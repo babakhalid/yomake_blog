@@ -6,6 +6,7 @@ Allow: /
 
 # Sitemap location
 Sitemap: https://blog.youmake.dev/sitemap.xml
+Sitemap: https://blog.youmake.dev/blog-sitemap.xml
 
 # Crawl-delay for polite crawling
 Crawl-delay: 1

@@ -68,6 +68,6 @@ Try these tips on your next Youmake project at [youmake.dev](https://youmake.dev
 
 ## Read Next
 
-- [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
-- [OpenAI's Codex Now Lives in Your Browser — And That Changes Everything](/articles/openai-codex-chrome-extension-ai-agents-enter-your-browser)
 - [The Oscars Just Banned AI Performances — And It Reveals Something Bigger About Creative AI](/articles/oscars-ban-ai-performances-what-it-means-for-creative-ai)
+- [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
+- [From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry](/articles/ai-reshaping-university-research-from-lab-to-industry)

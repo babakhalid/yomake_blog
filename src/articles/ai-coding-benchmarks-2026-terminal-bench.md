@@ -125,5 +125,3 @@ Always test on your own use cases.
 ## Read Next
 
 - [1 Million Token Context: The End of 'Context Rot' in AI](/articles/1m-context-window-revolution)
-- [Free AI Website Builder: Build Professional Sites at Zero Cost (2026)](/articles/free-ai-website-builder)
-- [How to Build an App Without Coding in 2026 (Step-by-Step Guide)](/articles/how-to-build-app-without-coding)

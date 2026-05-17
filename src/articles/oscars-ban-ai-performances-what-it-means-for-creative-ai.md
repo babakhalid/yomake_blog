@@ -102,5 +102,5 @@ The Oscars just told us what the future looks like. The question is whether we'r
 ## Read Next
 
 - [Meta's Avocado Delay Signals Something Bigger About the AI Race](/articles/meta-avocado-delay-signals-ai-race-shifting)
-- [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
 - [From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry](/articles/ai-reshaping-university-research-from-lab-to-industry)
+- [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)

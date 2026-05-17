@@ -89,5 +89,5 @@ The shadow AI revolution isn't a problem to be solved. It's a signal to be follo
 ## Read Next
 
 - [Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right](/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right)
-- [Why Your Digital Transformation Needs Three Leaders, Not One](/articles/why-your-digital-transformation-needs-three-leaders-not-one)
 - [Google's TurboQuant Is a Wake-Up Call for Enterprise AI Teams](/articles/google-turboquant-enterprise-ai-efficiency)
+- [Why Your Digital Transformation Needs Three Leaders, Not One](/articles/why-your-digital-transformation-needs-three-leaders-not-one)

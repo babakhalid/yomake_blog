@@ -87,6 +87,6 @@ What are you waiting for?
 
 ## Read Next
 
-- [The Leadership Paradox: Why the Most Successful Leaders Have the Worst Days](/articles/the-leadership-paradox-why-successful-leaders-have-worse-days)
 - [Stop Mandating AI Adoption — Let Your Team Lead the Way](/articles/stop-mandating-ai-adoption-let-your-team-lead-the-way)
+- [The Leadership Paradox: Why the Most Successful Leaders Have the Worst Days](/articles/the-leadership-paradox-why-successful-leaders-have-worse-days)
 - [The Leadership Paradox: Why the Most Successful People Have the Worst Days](/articles/the-leadership-paradox-why-the-most-successful-people-have-the-worst-days)

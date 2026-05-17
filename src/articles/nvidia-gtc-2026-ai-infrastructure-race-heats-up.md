@@ -77,5 +77,5 @@ The next time someone asks you what's happening in AI, don't point them to the l
 ## Read Next
 
 - [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
-- [OpenAI's Codex Now Lives in Your Browser — And That Changes Everything](/articles/openai-codex-chrome-extension-ai-agents-enter-your-browser)
 - [OpenAI Wants to Buy Fusion Energy — And That Should Tell You Everything About AI's Power Problem](/articles/openai-fusion-energy-helion-deal-ai-power-crisis)
+- [OpenAI Just Broke Free From Azure — And the AI Cloud Wars Will Never Be the Same](/articles/openai-aws-deal-end-of-cloud-exclusivity-ai-infrastructure)

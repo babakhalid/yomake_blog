@@ -1,9 +1,12 @@
 /**
  * Post-build script: Generates per-route index.html files with correct
- * meta tags (canonical, og:url, title, description, structured data).
+ * meta tags (canonical, og:url, title, description, structured data)
+ * AND injects hidden semantic HTML body content for crawler indexing.
  * 
  * This fixes the critical SEO bug where every page served the same
- * homepage meta tags because the SPA only updates them client-side.
+ * homepage meta tags because the SPA only updates them client-side,
+ * and ensures crawlers that don't execute JavaScript still get the
+ * full article text content.
  * 
  * Run after `vite build`: node scripts/prerender-meta.js
  */
@@ -66,6 +69,98 @@ function escapeHtml(str) {
 
 function escapeJsonLd(str) {
   return str.replace(/</g, '\\u003c').replace(/>/g, '\\u003e');
+}
+
+/**
+ * Convert markdown body to simple semantic HTML for crawler consumption.
+ * Not a full markdown parser — handles headings, paragraphs, bold, italic,
+ * links, lists, blockquotes, and code blocks. Good enough for SEO content.
+ */
+function markdownToHtml(md) {
+  let html = md;
+
+  // Remove images (already handled by og:image and structured data)
+  html = html.replace(/!\[([^\]]*)\]\([^)]+\)/g, '');
+
+  // Code blocks → <pre><code>
+  html = html.replace(/```[\w]*\n([\s\S]*?)```/g, (_, code) =>
+    `<pre><code>${escapeHtml(code.trim())}</code></pre>`
+  );
+
+  // Inline code
+  html = html.replace(/`([^`]+)`/g, '<code>$1</code>');
+
+  // Headings
+  html = html.replace(/^######\s+(.+)$/gm, '<h6>$1</h6>');
+  html = html.replace(/^#####\s+(.+)$/gm, '<h5>$1</h5>');
+  html = html.replace(/^####\s+(.+)$/gm, '<h4>$1</h4>');
+  html = html.replace(/^###\s+(.+)$/gm, '<h3>$1</h3>');
+  html = html.replace(/^##\s+(.+)$/gm, '<h2>$1</h2>');
+  html = html.replace(/^#\s+(.+)$/gm, '<h1>$1</h1>');
+
+  // Bold + Italic
+  html = html.replace(/\*\*\*(.+?)\*\*\*/g, '<strong><em>$1</em></strong>');
+  html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+  html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');
+
+  // Links
+  html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
+
+  // Blockquotes
+  html = html.replace(/^>\s+(.+)$/gm, '<blockquote>$1</blockquote>');
+
+  // Unordered lists
+  html = html.replace(/^[-*]\s+(.+)$/gm, '<li>$1</li>');
+  html = html.replace(/(<li>.*<\/li>\n?)+/g, (match) => `<ul>${match}</ul>`);
+
+  // Ordered lists
+  html = html.replace(/^\d+\.\s+(.+)$/gm, '<li>$1</li>');
+
+  // Horizontal rules
+  html = html.replace(/^---+$/gm, '<hr />');
+
+  // Paragraphs: wrap remaining non-empty, non-tag lines
+  const lines = html.split('\n');
+  const result = [];
+  for (const line of lines) {
+    const trimmed = line.trim();
+    if (!trimmed) {
+      result.push('');
+    } else if (/^<(h[1-6]|ul|ol|li|pre|blockquote|hr|div|p|table|thead|tbody|tr|th|td)/.test(trimmed)) {
+      result.push(trimmed);
+    } else {
+      result.push(`<p>${trimmed}</p>`);
+    }
+  }
+
+  // Clean up empty paragraphs and excessive whitespace
+  return result
+    .join('\n')
+    .replace(/<p><\/p>/g, '')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
+}
+
+/**
+ * Extract the markdown body (everything after frontmatter)
+ */
+function extractBody(content) {
+  const match = content.match(/^---\s*\n[\s\S]*?\n---\s*\n([\s\S]*)/);
+  return match ? match[1].trim() : content;
+}
+
+/**
+ * Inject a hidden <div id="seo-content"> inside <body> alongside <div id="root">.
+ * Visually hidden via inline style but fully readable by crawlers.
+ * React hydrates into #root; #seo-content is invisible to users.
+ */
+function injectSeoContent(html, seoHtml) {
+  if (!seoHtml) return html;
+  const seoBlock = `\n    <div id="seo-content" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0" aria-hidden="true">${seoHtml}\n    </div>`;
+  return html.replace(
+    '<div id="root"></div>',
+    `<div id="root"></div>${seoBlock}`
+  );
 }
 
 // ── Meta tag replacement ─────────────────────────────────────────────
@@ -198,19 +293,34 @@ function replaceMeta(html, { title, description, url, image, type, publishedTime
   return result;
 }
 
-// ── Generate article pages ───────────────────────────────────────────
+// ── Collect all articles (for listing page SEO content) ──────────────
 
-function generateArticlePages() {
+function getAllArticles() {
   const files = fs.readdirSync(articlesDir).filter(f => f.endsWith('.md'));
-  let count = 0;
+  const articles = [];
 
   for (const file of files) {
     const content = fs.readFileSync(path.join(articlesDir, file), 'utf-8');
     const frontmatter = parseFrontmatter(content);
-
     if (!frontmatter || frontmatter.published === false) continue;
+    articles.push({
+      slug: file.replace('.md', ''),
+      content,
+      frontmatter,
+    });
+  }
 
-    const slug = file.replace('.md', '');
+  // Sort by date descending
+  articles.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
+  return articles;
+}
+
+// ── Generate article pages ───────────────────────────────────────────
+
+function generateArticlePages(articles) {
+  let count = 0;
+
+  for (const { slug, content, frontmatter } of articles) {
     const articleUrl = `/articles/${slug}`;
 
     // Article structured data
@@ -257,7 +367,7 @@ function generateArticlePages() {
       ],
     };
 
-    const html = replaceMeta(templateHtml, {
+    let html = replaceMeta(templateHtml, {
       title: frontmatter.title,
       description: frontmatter.description,
       url: articleUrl,
@@ -268,6 +378,17 @@ function generateArticlePages() {
       tags: frontmatter.tags,
       structuredData: [articleSchema, breadcrumbSchema],
     });
+
+    // Inject full article body as hidden semantic HTML for crawlers
+    const bodyMd = extractBody(content);
+    const bodyHtml = markdownToHtml(bodyMd);
+    const articleSeoHtml = `
+      <article>
+        <h1>${escapeHtml(frontmatter.title)}</h1>
+        <p><time datetime="${frontmatter.date}">${frontmatter.date}</time> · ${escapeHtml(frontmatter.author || 'Youmake Team')}</p>
+        ${bodyHtml}
+      </article>`;
+    html = injectSeoContent(html, articleSeoHtml);
 
     // Write to dist/articles/<slug>/index.html
     const outDir = path.join(distDir, 'articles', slug);
@@ -281,24 +402,77 @@ function generateArticlePages() {
 
 // ── Generate articles listing page ───────────────────────────────────
 
-function generateArticlesPage() {
-  const html = replaceMeta(templateHtml, {
+function generateArticlesPage(articles) {
+  let html = replaceMeta(templateHtml, {
     title: 'All Articles',
     description: 'Explore our latest tutorials, insights, and updates about building websites and web apps with AI. Learn vibe coding with Youmake.',
     url: '/articles',
     type: 'website',
   });
 
+  // Build listing SEO content: a linked list of all article titles + descriptions
+  const listItems = articles.map(({ slug, frontmatter }) =>
+    `<li><a href="/articles/${slug}">${escapeHtml(frontmatter.title)}</a> — ${escapeHtml(frontmatter.description || '')}</li>`
+  ).join('\n        ');
+
+  const listingSeoHtml = `
+      <nav>
+        <h1>All Articles — ${SITE_NAME}</h1>
+        <p>Explore our latest tutorials, insights, and updates about building websites and web apps with AI.</p>
+        <ul>
+        ${listItems}
+        </ul>
+      </nav>`;
+  html = injectSeoContent(html, listingSeoHtml);
+
   const outDir = path.join(distDir, 'articles');
   fs.mkdirSync(outDir, { recursive: true });
-  // Only write if there's no existing index.html (avoid overwriting article dirs)
   const outPath = path.join(outDir, 'index.html');
   fs.writeFileSync(outPath, html);
 }
 
+// ── Generate homepage with SEO content ───────────────────────────────
+
+function generateHomepage(articles) {
+  // The dist/index.html is the homepage — enhance it with SEO content
+  let html = templateHtml; // Already has correct homepage meta tags
+
+  // Build homepage SEO content: intro + recent articles list
+  const recentArticles = articles.slice(0, 20);
+  const listItems = recentArticles.map(({ slug, frontmatter }) =>
+    `<li><a href="/articles/${slug}">${escapeHtml(frontmatter.title)}</a> — ${escapeHtml(frontmatter.description || '')}</li>`
+  ).join('\n        ');
+
+  const homeSeoHtml = `
+      <main>
+        <h1>${SITE_NAME} — Ideas, Tutorials &amp; Insights for Building with AI</h1>
+        <p>Discover tutorials, tips, and insights about vibe coding and AI-powered web development. Learn how to build websites and web apps with Youmake — the #1 Vibe Coding Platform.</p>
+        <h2>Latest Articles</h2>
+        <ul>
+        ${listItems}
+        </ul>
+        <p><a href="/articles">View all ${articles.length} articles →</a></p>
+      </main>`;
+  html = injectSeoContent(html, homeSeoHtml);
+
+  fs.writeFileSync(path.join(distDir, 'index.html'), html);
+}
+
+// ── Copy sitemap.xml → blog-sitemap.xml ──────────────────────────────
+
+function copyBlogSitemap() {
+  const src = path.join(distDir, 'sitemap.xml');
+  const dest = path.join(distDir, 'blog-sitemap.xml');
+  if (fs.existsSync(src)) {
+    fs.copyFileSync(src, dest);
+    return true;
+  }
+  return false;
+}
+
 // ── Main ─────────────────────────────────────────────────────────────
 
-console.log('🔧 Pre-rendering meta tags for SEO...');
+console.log('🔧 Pre-rendering meta tags + SEO body content...');
 
 // Verify dist exists
 if (!fs.existsSync(path.join(distDir, 'index.html'))) {
@@ -306,10 +480,21 @@ if (!fs.existsSync(path.join(distDir, 'index.html'))) {
   process.exit(1);
 }
 
-generateArticlesPage();
-console.log('  ✅ /articles page generated');
+// Collect all articles once (shared across generators)
+const allArticles = getAllArticles();
+console.log(`  📄 Found ${allArticles.length} published articles`);
 
-const articleCount = generateArticlePages();
-console.log(`  ✅ ${articleCount} article pages generated`);
+generateHomepage(allArticles);
+console.log('  ✅ Homepage enhanced with SEO content');
 
-console.log('🎉 Pre-rendering complete! Each route now has its own meta tags.');
+generateArticlesPage(allArticles);
+console.log('  ✅ /articles page generated with article listing');
+
+const articleCount = generateArticlePages(allArticles);
+console.log(`  ✅ ${articleCount} article pages generated with full body content`);
+
+if (copyBlogSitemap()) {
+  console.log('  ✅ blog-sitemap.xml created (copy of sitemap.xml)');
+}
+
+console.log('🎉 Pre-rendering complete! Each route has meta tags + crawlable body content.');

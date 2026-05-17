@@ -95,5 +95,5 @@ The $40 billion bet isn't the end of the story. It's the beginning of a new chap
 ## Read Next
 
 - [The White House Wants to Vet AI Models Before Release — Here's What It Means for Builders](/articles/white-house-ai-oversight-what-it-means-for-builders)
-- [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
 - [Dead Companies Are Feeding AI — And It's More Dystopian Than You Think](/articles/dead-companies-are-feeding-ai-and-its-more-dystopian-than-you-think)
+- [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)

@@ -79,5 +79,5 @@ That's not just an education problem. It's an everyone problem.
 ## Read Next
 
 - [Universities Have an AI Trust Crisis — And It's About to Get Worse](/articles/universities-ai-trust-crisis-who-controls-research-agenda)
-- [Schools Are Done Experimenting With AI — Now Comes the Hard Part](/articles/ai-education-governance-schools-moving-beyond-experimentation)
-- [Nearly 3,000 Papers Have Fake Citations: The AI-Fueled Crisis Threatening Academic Research](/articles/fake-citations-ai-crisis-threatening-academic-research)
+- [Utah Wants Students to Opt Out of Coursework They Disagree With — Here's Why That's a Problem](/articles/utah-conscientious-objection-education-dangerous-precedent)
+- [AI Agents Are Quietly Reshaping How We Learn, Research, and Publish](/articles/ai-agents-reshaping-education-research-workflows)

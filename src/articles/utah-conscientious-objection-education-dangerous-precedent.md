@@ -108,4 +108,4 @@ Build tools that **expand** perspectives, not narrow them. Design experiences th
 
 - [Students Know AI Is Making Them Worse at Thinking — And They Can't Stop Using It](/articles/students-worried-ai-eroding-critical-thinking-skills)
 - [27 States Are Writing AI Education Rules Right Now — And Most Schools Aren't Ready](/articles/ai-education-legislation-2026-states-are-writing-the-rules)
-- [Universities Are Finally Writing the AI Rulebook—And It's About Time](/articles/universities-are-finally-writing-the-ai-rulebook)
+- [From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry](/articles/ai-reshaping-university-research-from-lab-to-industry)

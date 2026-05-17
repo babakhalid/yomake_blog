@@ -129,6 +129,6 @@ That's the mindset. Everything else is just process.
 
 ## Read Next
 
-- [Stop Waiting to Feel Ready: The Myth of the Perfect Moment](/articles/stop-waiting-to-feel-ready-the-myth-of-the-perfect-moment)
-- [The Leadership Paradox: Why the Most Successful Leaders Have the Worst Days](/articles/the-leadership-paradox-why-successful-leaders-have-worse-days)
 - [Stop Mandating AI Adoption — Let Your Team Lead the Way](/articles/stop-mandating-ai-adoption-let-your-team-lead-the-way)
+- [Stop Optimizing, Start Doing: Why Clarity Beats Perfection Every Time](/articles/stop-optimizing-start-doing-clarity-over-perfection)
+- [Stop Waiting to Feel Ready: The Myth of the Perfect Moment](/articles/stop-waiting-to-feel-ready-the-myth-of-the-perfect-moment)

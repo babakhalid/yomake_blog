@@ -90,4 +90,4 @@ Your life can be great *and* your Tuesday can be terrible. Both deserve attentio
 
 - [The Leadership Paradox: Why the Most Successful People Have the Worst Days](/articles/the-leadership-paradox-why-the-most-successful-people-have-the-worst-days)
 - [Leaders Are Losing Their Sense of Agency — Here's How to Reclaim It](/articles/leaders-losing-agency-how-to-reclaim-your-autonomy-in-2026)
-- [Stop Waiting to Feel Ready: The Myth of the Perfect Moment](/articles/stop-waiting-to-feel-ready-the-myth-of-the-perfect-moment)
+- [Stop Mandating AI Adoption — Let Your Team Lead the Way](/articles/stop-mandating-ai-adoption-let-your-team-lead-the-way)

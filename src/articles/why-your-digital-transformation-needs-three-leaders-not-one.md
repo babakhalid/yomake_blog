@@ -104,4 +104,4 @@ Three leaders, not one. It's not about dividing responsibility — it's about mu
 
 - [Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right](/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right)
 - [Why 40% of Corporate AI Agent Projects Will Fail — And How to Be in the Other 60%](/articles/why-40-percent-of-corporate-ai-agent-projects-will-fail)
-- [Why AI Layoffs Won't Save Your Company](/articles/why-ai-layoffs-wont-save-your-company)
+- [Shadow AI Is Winning: Why Your Employees Are Building Behind IT's Back](/articles/shadow-ai-enterprise-employees-building-behind-it)

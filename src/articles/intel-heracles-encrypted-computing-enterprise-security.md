@@ -99,6 +99,6 @@ The encrypted future of enterprise computing isn't theoretical anymore. It's run
 
 ## Read Next
 
-- [Stop Treating AI Agents Like Employees — Here's What Actually Works](/articles/stop-treating-ai-agents-like-employees-corporate-playbook)
 - [Tim Cook Just Stepped Down From Apple. Here's the Succession Playbook Every Founder Should Steal.](/articles/tim-cook-steps-down-apple-succession-playbook-for-founders)
-- [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
+- [The Mercor Breach Exposes the Fragile Underbelly of Corporate AI](/articles/ai-training-data-breach-mercor-corporate-supply-chain-risk)
+- [Amazon Just Put Guardrails on AI Coding — Here's What Every Engineering Team Should Learn](/articles/amazon-ai-coding-guardrails-what-every-engineering-team-should-learn)

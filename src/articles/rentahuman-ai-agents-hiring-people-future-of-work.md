@@ -96,6 +96,6 @@ And yeah — some of those entrepreneurs might be AI agents themselves. Welcome 
 
 ## Read Next
 
-- [The AI Job Apocalypse Isn't Coming — Here's What's Actually Happening](/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening)
 - [Corporate America Is Breaking Up With Gen Z — And Gen Z Doesn't Care](/articles/corporate-america-is-breaking-up-with-gen-z-and-gen-z-doesnt-care)
-- [OpenAI's Codex Now Lives in Your Browser — And That Changes Everything](/articles/openai-codex-chrome-extension-ai-agents-enter-your-browser)
+- [The AI Job Apocalypse Isn't Coming — Here's What's Actually Happening](/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening)
+- [The 'Agentic' Mindset: Silicon Valley's Hottest Buzzword Actually Has a Point](/articles/agentic-mindset-what-it-really-means-2026)

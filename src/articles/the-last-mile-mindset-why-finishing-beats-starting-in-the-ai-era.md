@@ -110,4 +110,4 @@ Start less. Finish more. Ship today.
 
 - [Cognitive Surrender: What Happens When You Let AI Think for You](/articles/cognitive-surrender-when-ai-thinks-for-you-system-3)
 - [AI Is Splitting Every Industry in Two — Which Side Are You On?](/articles/ai-thinking-amplifier-or-replacement-the-split-that-defines-your-career)
-- [The AI Job Apocalypse Isn't Coming — Here's What's Actually Happening](/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening)
+- [The Slow Thinking Revolution: Why the Smartest People in 2026 Are Going Analog](/articles/slow-thinking-revolution-going-analog-2026)
