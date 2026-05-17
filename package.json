@@ -6,6 +6,9 @@
   "scripts": {
     "dev": "vite",
     "build": "npm run interlink && npm run generate-sitemap && tsc -b && vite build && node scripts/prerender-meta.js",
+    "ping": "node scripts/ping-search-engines.js",
+    "ping:all": "node scripts/ping-search-engines.js --all",
+    "ping:new": "node scripts/ping-search-engines.js --new",
     "interlink": "node scripts/interlink-articles.js --all",
     "generate-sitemap": "node scripts/generate-sitemap.js",
     "lint": "eslint .",
