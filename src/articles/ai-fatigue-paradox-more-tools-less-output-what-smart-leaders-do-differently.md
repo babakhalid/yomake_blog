@@ -125,6 +125,6 @@ Everything else is just expensive theater.
 
 ## Read Next
 
-- [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)
 - [Calm as a Competitive Advantage: Why the Best Builders Stay Centered](/articles/calm-as-competitive-advantage-2026)
 - [Cognitive Load Distribution: How to Think Less and Decide Better](/articles/cognitive-load-distribution-how-to-think-less-and-decide-better-2026)
+- [The Paradox of Infinite Tools: Why More AI Options Are Making Founders Worse at Deciding](/articles/decision-fatigue-ai-paradox-of-choice-founders)

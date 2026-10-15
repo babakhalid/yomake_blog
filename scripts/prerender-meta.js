@@ -118,6 +118,14 @@ function markdownToHtml(md) {
   // Ordered lists
   html = html.replace(/^\d+\.\s+(.+)$/gm, '<li>$1</li>');
 
+  // GFM tables (header row + |---| separator + body rows)
+  html = html.replace(/^\|.*\|[ \t]*\n\|[ \t:|-]+\|[ \t]*\n(?:\|.*\|[ \t]*(?:\n|$))*/gm, (block) => {
+    const rows = block.trim().split('\n').map(row => row.trim().replace(/^\||\|$/g, '').split('|').map(cell => cell.trim()));
+    const [head, , ...body] = rows;
+    const cells = (row, tag) => row.map(cell => `<${tag}>${cell}</${tag}>`).join('');
+    return `<table><thead><tr>${cells(head, 'th')}</tr></thead><tbody>${body.map(row => `<tr>${cells(row, 'td')}</tr>`).join('')}</tbody></table>\n`;
+  });
+
   // Horizontal rules
   html = html.replace(/^---+$/gm, '<hr />');
 
@@ -156,13 +164,22 @@ function extractBody(content) {
  * Visually hidden via inline style but fully readable by crawlers.
  * React hydrates into #root; #seo-content is invisible to users.
  */
+// Pre-rendered content lives INSIDE #root and is visible: createRoot().render()
+// replaces it once the app boots. Hidden (clipped / aria-hidden) copies were
+// treated by Google as hidden text, and ~150 articles sat in
+// "Crawled - currently not indexed".
+const PRERENDER_STYLE = `<style>#root>.prerender{max-width:720px;margin:0 auto;padding:24px 20px 64px;font-family:system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.7;color:#1a1a1a}#root>.prerender header,#root>.prerender footer{display:flex;gap:16px;flex-wrap:wrap;font-size:14px;margin:0 0 32px}#root>.prerender footer{margin:48px 0 0}#root>.prerender img{max-width:100%;height:auto;border-radius:12px}#root>.prerender h1{font-size:2rem;line-height:1.2}#root>.prerender a{color:inherit}</style>`;
+
 function injectSeoContent(html, seoHtml) {
   if (!seoHtml) return html;
-  const seoBlock = `\n    <div id="seo-content" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0" aria-hidden="true">${seoHtml}\n    </div>`;
-  return html.replace(
-    '<div id="root"></div>',
-    `<div id="root"></div>${seoBlock}`
-  );
+  const block = `<div class="prerender">
+      <header><a href="/">${SITE_NAME}</a><a href="/articles">All articles</a><a href="https://www.youmake.dev/">Youmake</a></header>
+      ${seoHtml}
+      <footer><a href="/articles">More articles</a><a href="https://www.youmake.dev/">Build with Youmake</a></footer>
+    </div>`;
+  return html
+    .replace('</head>', `${PRERENDER_STYLE}</head>`)
+    .replace('<div id="root"></div>', `<div id="root">${block}</div>`);
 }
 
 // ── Meta tag replacement ─────────────────────────────────────────────
@@ -381,8 +398,8 @@ function generateArticlePages(articles) {
       structuredData: [articleSchema, breadcrumbSchema],
     });
 
-    // Inject full article body as hidden semantic HTML for crawlers
-    const bodyMd = extractBody(content);
+    // Inject full article body as visible semantic HTML (replaced when React boots)
+    const bodyMd = extractBody(content).replace(/^\s*#\s+[^\n]*\n/, '');
     const bodyHtml = markdownToHtml(bodyMd);
     const articleSeoHtml = `
       <article>
@@ -448,7 +465,7 @@ function generateHomepage(articles) {
   const homeSeoHtml = `
       <main>
         <h1>${SITE_NAME} — Ideas, Tutorials &amp; Insights for Building with AI</h1>
-        <p>Discover tutorials, tips, and insights about vibe coding and AI-powered web development. Learn how to build websites and web apps with Youmake — the #1 Vibe Coding Platform.</p>
+        <p>Discover tutorials, tips, and insights about vibe coding and AI-powered web development. Learn how to build websites and web apps with Youmake.</p>
         <h2>Latest Articles</h2>
         <ul>
         ${listItems}
@@ -458,6 +475,25 @@ function generateHomepage(articles) {
   html = injectSeoContent(html, homeSeoHtml);
 
   fs.writeFileSync(path.join(distDir, 'index.html'), html);
+}
+
+// ── 404 page ─────────────────────────────────────────────────────────
+// Vercel serves dist/404.html with a real 404 status for unmatched paths.
+// (A catch-all rewrite to index.html used to answer every unknown URL with
+// the homepage and a 200, which Google reports as soft 404s/duplicates.)
+
+function generateNotFoundPage(articles) {
+  const recent = articles.slice(0, 8).map(({ slug, frontmatter }) =>
+    `<li><a href="/articles/${slug}">${escapeHtml(frontmatter.title)}</a></li>`).join('');
+  const html = `<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Page not found | ${SITE_NAME}</title><meta name="robots" content="noindex">
+${PRERENDER_STYLE}</head>
+<body><div id="root"><div class="prerender">
+<header><a href="/">${SITE_NAME}</a><a href="/articles">All articles</a><a href="https://www.youmake.dev/">Youmake</a></header>
+<h1>Page not found</h1><p>This article may have moved. Browse <a href="/articles">all articles</a> or start with one of these:</p><ul>${recent}</ul>
+</div></div></body></html>\n`;
+  fs.writeFileSync(path.join(distDir, '404.html'), html);
 }
 
 // ── Copy sitemap.xml → blog-sitemap.xml ──────────────────────────────
@@ -490,6 +526,8 @@ generateHomepage(allArticles);
 console.log('  ✅ Homepage enhanced with SEO content');
 
 generateArticlesPage(allArticles);
+generateNotFoundPage(allArticles);
+console.log('  ✅ 404.html generated');
 console.log('  ✅ /articles page generated with article listing');
 
 const articleCount = generateArticlePages(allArticles);

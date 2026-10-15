@@ -11,7 +11,7 @@ published: true
 
 Your portfolio is your digital handshake—the first impression that can make or break opportunities. But building a stunning portfolio website traditionally required weeks of work or expensive designers.
 
-With [Youmake](https://www.youmake.dev/), you can create any of these 10 portfolio styles in minutes using [vibe coding](/blog/vibe-coding-future-2026). Just describe what you want, and AI builds it.
+With [Youmake](https://www.youmake.dev/), you can create any of these 10 portfolio styles in minutes using [vibe coding](/articles/vibe-coding-future-2026). Just describe what you want, and AI builds it.
 
 ## 1. The Minimalist Designer Portfolio
 
@@ -203,7 +203,7 @@ With [Youmake](https://www.youmake.dev/), you can create any of these 10 portfol
 4. **Refine with follow-up requests**
 5. **Deploy instantly**
 
-Need more guidance? Check out our tutorial on [deploying your first app in 5 minutes](/blog/idea-to-production-5-minutes).
+Need more guidance? Check out our tutorial on [deploying your first app in 5 minutes](/articles/idea-to-production-5-minutes).
 
 ## Pro Tips for Portfolio Success
 
@@ -232,7 +232,7 @@ With [Youmake](https://www.youmake.dev/), that blocker is gone. Pick a style fro
 
 Your next opportunity is waiting. Your portfolio shouldn't be the thing holding you back.
 
-*Ready to build? Start at [youmake.dev](https://www.youmake.dev/) and see [why vibe coding is replacing traditional web development](/blog/no-code-dead-vibe-coding).*
+*Ready to build? Start at [youmake.dev](https://www.youmake.dev/) and see [why vibe coding is replacing traditional web development](/articles/no-code-dead-vibe-coding).*
 ---
 
 ## Read Next

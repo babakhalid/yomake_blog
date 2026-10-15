@@ -19,7 +19,7 @@ Here's exactly how to do it.
 
 ## What You Can Build Without Coding
 
-Let's set expectations properly. With [AI app builders](/blog/best-ai-website-builders-2026) in 2026, you can build:
+Let's set expectations properly. With [AI app builders](/articles/best-ai-website-builders-2026) in 2026, you can build:
 
 - ✅ SaaS applications with user accounts and subscriptions
 - ✅ E-commerce stores with payment processing
@@ -42,7 +42,7 @@ For 95% of app ideas, AI has you covered.
 
 ## Step 1: Define Your App Clearly
 
-The #1 factor that determines success with AI app building is **how clearly you describe what you want.** This is the core skill of [vibe coding](/blog/what-is-vibe-coding) — communicating your vision in specific, actionable terms.
+The #1 factor that determines success with AI app building is **how clearly you describe what you want.** This is the core skill of [vibe coding](/articles/what-is-vibe-coding) — communicating your vision in specific, actionable terms.
 
 ### Bad Description:
 > "I want a business app"
@@ -76,7 +76,7 @@ Not all AI builders are equal. Here's what to look for:
 - Professional-grade design quality
 - Natural language iteration (describe changes, don't code them)
 
-For a full comparison of options: [Best AI Website Builders in 2026](/blog/best-ai-website-builders-2026)
+For a full comparison of options: [Best AI Website Builders in 2026](/articles/best-ai-website-builders-2026)
 
 ## Step 3: Build Your App (The Fun Part)
 

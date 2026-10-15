@@ -77,5 +77,5 @@ The next time someone asks you what's happening in AI, don't point them to the l
 ## Read Next
 
 - [The AI Infrastructure Race: Data Centers, Chip Wars, and the $200B Bet on Compute](/articles/ai-data-center-chip-wars-infrastructure-race-2026)
-- [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
 - [AI's $7.6 Trillion Buildout Has an Environmental Bill Nobody Budgeted For](/articles/ai-trillion-dollar-buildout-environmental-cost-nobody-budgeted-for)
+- [NVIDIA's Cosmos 3 Is the GPT Moment for Robots — And It's Open Source](/articles/nvidia-cosmos-3-physical-ai-robots-see-move-react)

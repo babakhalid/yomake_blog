@@ -119,4 +119,4 @@ Thirty percent of your workforce is silently drowning. The question isn't whethe
 
 - [The Growth Mindset Lie: Why 'Just Try Harder' Is Breaking People](/articles/growth-mindset-lie-why-just-try-harder-is-breaking-people)
 - [The Death of Hustle Culture: Why Mental Fitness Is the Real Productivity Hack in 2026](/articles/mental-fitness-replacing-hustle-culture-2026)
-- [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)
+- [The Career Futility Crisis: Why Hard Work Stopped Paying Off](/articles/career-futility-crisis-why-hard-work-stopped-paying-off-2026)

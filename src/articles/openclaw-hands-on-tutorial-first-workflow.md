@@ -27,7 +27,7 @@ By the end of this tutorial, you'll have:
 
 Before starting, ensure you have:
 
-- OpenClaw installed and running ([installation guide](/blog/getting-started-with-openclaw))
+- OpenClaw installed and running ([installation guide](/articles/getting-started-with-openclaw))
 - Telegram configured as a channel
 - Gmail account (or any IMAP-compatible email)
 
@@ -394,7 +394,7 @@ This same pattern applies to any integration: connect, process, decide, automate
 - Build a web dashboard for email analytics
 - Add sentiment analysis for customer emails
 
-For more OpenClaw tutorials, see [automation with cron jobs](/blog/openclaw-automation-cron-jobs) and [10 real-world use cases](/blog/openclaw-use-cases-real-world).
+For more OpenClaw tutorials, see [automation with cron jobs](/articles/openclaw-automation-cron-jobs) and [10 real-world use cases](/articles/openclaw-use-cases-real-world).
 
 ---
 

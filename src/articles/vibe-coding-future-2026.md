@@ -52,7 +52,7 @@ AI-generated code in 2026 isn't just functional—it's *good*. Clean architectur
 
 ### 4. Integrated Deployment
 
-Vibe coding platforms like [Youmake](https://www.youmake.dev/) don't just generate code—they deploy it. The entire pipeline from idea to production is conversational. See how you can [deploy your first app in 5 minutes](/blog/idea-to-production-5-minutes).
+Vibe coding platforms like [Youmake](https://www.youmake.dev/) don't just generate code—they deploy it. The entire pipeline from idea to production is conversational. See how you can [deploy your first app in 5 minutes](/articles/idea-to-production-5-minutes).
 
 ## The Vibe Coding Vocabulary
 
@@ -76,7 +76,7 @@ Vibe coding has developed its own language—descriptors that AI understands dee
 
 ## Vibe Coding vs. No-Code: Understanding the Difference
 
-Many people confuse vibe coding with no-code tools. They're fundamentally different. Learn more about [why no-code is being replaced](/blog/no-code-dead-vibe-coding) by this new paradigm.
+Many people confuse vibe coding with no-code tools. They're fundamentally different. Learn more about [why no-code is being replaced](/articles/no-code-dead-vibe-coding) by this new paradigm.
 
 | Aspect | No-Code | Vibe Coding |
 |--------|---------|-------------|
@@ -95,7 +95,7 @@ Building MVPs in hours instead of months. Testing market fit before committing r
 Bringing mockups to life without developer handoff. Iterating on interactive prototypes in real-time.
 
 ### Marketers
-Creating landing pages, campaign microsites, and A/B variants without technical dependencies. Explore [how to build landing pages in 60 seconds](/blog/landing-page-60-seconds-ai).
+Creating landing pages, campaign microsites, and A/B variants without technical dependencies. Explore [how to build landing pages in 60 seconds](/articles/landing-page-60-seconds-ai).
 
 ### Agencies
 Delivering client projects faster with higher margins. Using AI as a force multiplier.
@@ -165,7 +165,7 @@ The future of web development isn't about learning to code. It's about learning 
 
 ---
 
-*Experience vibe coding at [youmake.dev](https://www.youmake.dev/). See [10 portfolio examples](/blog/10-portfolio-websites) you can build today.*
+*Experience vibe coding at [youmake.dev](https://www.youmake.dev/). See [10 portfolio examples](/articles/10-portfolio-websites) you can build today.*
 ---
 
 ## Read Next

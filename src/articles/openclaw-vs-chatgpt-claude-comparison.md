@@ -280,7 +280,7 @@ OpenClaw requires more effort to set up, but the capability difference is substa
 
 ---
 
-*Ready to try OpenClaw? Start with our [getting started guide](/blog/getting-started-with-openclaw) or explore [real-world use cases](/blog/openclaw-use-cases-real-world).*
+*Ready to try OpenClaw? Start with our [getting started guide](/articles/getting-started-with-openclaw) or explore [real-world use cases](/articles/openclaw-use-cases-real-world).*
 ---
 
 ## Read Next

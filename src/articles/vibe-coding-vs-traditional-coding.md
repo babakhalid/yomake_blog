@@ -44,7 +44,7 @@ Let's compare building a standard SaaS landing page:
 
 That's not a small improvement. It's a 30-50x speedup.
 
-For a real walkthrough: [How to Build a Landing Page in 60 Seconds with AI](/blog/landing-page-60-seconds-ai)
+For a real walkthrough: [How to Build a Landing Page in 60 Seconds with AI](/articles/landing-page-60-seconds-ai)
 
 ## Quality: It Depends on What You're Building
 

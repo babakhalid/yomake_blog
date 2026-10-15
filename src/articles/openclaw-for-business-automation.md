@@ -188,7 +188,7 @@ dataClassification:
 - Role-based access for team members
 - Audit logging for compliance
 
-See [security best practices](/blog/openclaw-security-best-practices) for detailed guidance.
+See [security best practices](/articles/openclaw-security-best-practices) for detailed guidance.
 
 ## Team Deployment
 
@@ -349,7 +349,7 @@ Rank by:
 
 ---
 
-*Ready to transform your business operations? Start with our [getting started guide](/blog/getting-started-with-openclaw) or explore [real-world use cases](/blog/openclaw-use-cases-real-world).*
+*Ready to transform your business operations? Start with our [getting started guide](/articles/getting-started-with-openclaw) or explore [real-world use cases](/articles/openclaw-use-cases-real-world).*
 ---
 
 ## Read Next

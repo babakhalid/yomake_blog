@@ -35,7 +35,7 @@ Or keep it simple:
 
 > "A clean landing page for my consulting business"
 
-The AI understands context, intent, and even aesthetic preferences. This is [vibe coding](/blog/vibe-coding-future-2026) in action—you describe the *vibe*, and AI handles the code.
+The AI understands context, intent, and even aesthetic preferences. This is [vibe coding](/articles/vibe-coding-future-2026) in action—you describe the *vibe*, and AI handles the code.
 
 ### Minute 2: Watch AI Build
 
@@ -54,7 +54,7 @@ Your app appears in a live preview. Not quite right? Just say so:
 
 > "Make the header sticky and add a gradient to the hero section"
 
-The AI iterates instantly. No need to understand CSS—just describe what you want changed. This conversational approach is [why vibe coding is replacing no-code](/blog/no-code-dead-vibe-coding) tools.
+The AI iterates instantly. No need to understand CSS—just describe what you want changed. This conversational approach is [why vibe coding is replacing no-code](/articles/no-code-dead-vibe-coding) tools.
 
 ### Minute 4: Final Touches
 
@@ -93,7 +93,7 @@ Your app is live. Share the URL. You're done.
 ### Portfolio Site
 > "A minimalist portfolio for a UX designer with case studies, about section, and contact page"
 
-**Result**: Clean, typography-focused design with project showcases and smooth transitions. See [10 portfolio examples](/blog/10-portfolio-websites) for more inspiration.
+**Result**: Clean, typography-focused design with project showcases and smooth transitions. See [10 portfolio examples](/articles/10-portfolio-websites) for more inspiration.
 
 ## Why 5 Minutes Matters
 
@@ -120,7 +120,7 @@ Youmake combines several breakthrough technologies:
 3. **Isolated Development Environments**: Safe sandboxes for building and testing
 4. **One-Click Deployment**: Infrastructure that handles all the DevOps complexity
 
-Learn more about [how to build landing pages in 60 seconds](/blog/landing-page-60-seconds-ai) for quick wins.
+Learn more about [how to build landing pages in 60 seconds](/articles/landing-page-60-seconds-ai) for quick wins.
 
 ## Getting Started
 

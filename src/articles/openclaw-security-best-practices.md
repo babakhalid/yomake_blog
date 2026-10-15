@@ -232,7 +232,7 @@ retention:
 
 ### Separate Personal and Shared Contexts
 
-As noted in [customizing OpenClaw](/blog/openclaw-memory-personality-customization), keep personal context separate from shared spaces:
+As noted in [customizing OpenClaw](/articles/openclaw-memory-personality-customization), keep personal context separate from shared spaces:
 
 - Load MEMORY.md only in private sessions
 - Don't leak personal info in group chats
@@ -326,7 +326,7 @@ Security vulnerabilities are discovered regularly. Running outdated software is 
 
 Security isn't a one-time setup—it's an ongoing practice. By following these best practices, you can enjoy OpenClaw's powerful capabilities while keeping your data and systems safe.
 
-For more on setting up OpenClaw, see our [getting started guide](/blog/getting-started-with-openclaw). To learn about automation features, check out [cron jobs and scheduled tasks](/blog/openclaw-automation-cron-jobs).
+For more on setting up OpenClaw, see our [getting started guide](/articles/getting-started-with-openclaw). To learn about automation features, check out [cron jobs and scheduled tasks](/articles/openclaw-automation-cron-jobs).
 
 ---
 

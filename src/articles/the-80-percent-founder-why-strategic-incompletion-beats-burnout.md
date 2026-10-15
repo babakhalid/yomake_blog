@@ -110,5 +110,5 @@ Be the 80% founder who's still building a decade from now.
 ## Read Next
 
 - [Shadow Burnout: Why the Highest Performers Are Breaking Down — and Nobody Can Tell](/articles/shadow-burnout-high-performers-breaking-down-invisibly)
-- [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)
 - [The Founder Mindset Trap: Why Hustle Culture Is Killing More Startups Than Competition](/articles/founder-mindset-trap-why-hustle-culture-kills-startups)
+- [The Mental Model That Separates Burnt-Out Professionals From Thriving Ones](/articles/mental-model-separating-burnout-from-thriving)

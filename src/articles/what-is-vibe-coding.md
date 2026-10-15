@@ -54,7 +54,7 @@ Deploy your finished product. In many cases, the entire cycle takes minutes, not
 | **Output quality** | Depends on developer skill | Consistently professional |
 | **Accessibility** | Developers only | Anyone with an idea |
 
-For a deeper comparison, read our full breakdown: [Vibe Coding vs Traditional Coding: Which Wins in 2026?](/blog/vibe-coding-vs-traditional-coding)
+For a deeper comparison, read our full breakdown: [Vibe Coding vs Traditional Coding: Which Wins in 2026?](/articles/vibe-coding-vs-traditional-coding)
 
 ## What Makes Vibe Coding Different from No-Code?
 
@@ -68,7 +68,7 @@ The difference is fundamental:
 
 No-code gave you LEGO. Vibe coding gives you a master builder who creates whatever you describe — and hands you the blueprints.
 
-Learn more: [Why No-Code is Dead and Vibe Coding is Taking Over](/blog/no-code-dead-vibe-coding)
+Learn more: [Why No-Code is Dead and Vibe Coding is Taking Over](/articles/no-code-dead-vibe-coding)
 
 ## Real-World Examples of Vibe Coding
 
@@ -113,8 +113,8 @@ What sets Youmake apart:
 - Professional-grade design out of the box
 
 ### Other Tools in the Space
-- **Bolt.new** — Quick prototyping, limited to frontend ([see our comparison](/blog/youmake-vs-bolt))
-- **Lovable** — Design-focused generation ([see our comparison](/blog/youmake-vs-lovable))
+- **Bolt.new** — Quick prototyping, limited to frontend ([see our comparison](/articles/youmake-vs-bolt))
+- **Lovable** — Design-focused generation ([see our comparison](/articles/youmake-vs-lovable))
 - **v0 by Vercel** — Component generation for React developers
 
 ## Is Vibe Coding the Future?

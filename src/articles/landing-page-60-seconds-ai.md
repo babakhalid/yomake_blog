@@ -174,10 +174,10 @@ Traditional development makes this loop take weeks. With vibe coding, it's hours
 
 Want to take this further?
 
-- Learn about [vibe coding fundamentals](/blog/vibe-coding-future-2026)
-- See [10 portfolio examples](/blog/10-portfolio-websites) for design inspiration
-- Understand [why this beats no-code](/blog/no-code-dead-vibe-coding)
-- Build [complete apps in 5 minutes](/blog/idea-to-production-5-minutes)
+- Learn about [vibe coding fundamentals](/articles/vibe-coding-future-2026)
+- See [10 portfolio examples](/articles/10-portfolio-websites) for design inspiration
+- Understand [why this beats no-code](/articles/no-code-dead-vibe-coding)
+- Build [complete apps in 5 minutes](/articles/idea-to-production-5-minutes)
 
 ## The 60-Second Challenge: Your Turn
 

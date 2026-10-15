@@ -405,17 +405,6 @@
   </url>
 
   <url>
-    <loc>https://blog.youmake.dev/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://blog.youmake.dev/images/blog/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you.png</image:loc>
-      <image:title>The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You</image:title>
-    </image:image>
-  </url>
-
-  <url>
     <loc>https://blog.youmake.dev/articles/startup-fundraising-bifurcation-billion-dollar-seeds-and-solo-founders-2026</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -1296,17 +1285,6 @@
   </url>
 
   <url>
-    <loc>https://blog.youmake.dev/articles/the-leadership-paradox-why-successful-leaders-have-worse-days</loc>
-    <lastmod>2026-05-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://blog.youmake.dev/images/blog/the-leadership-paradox-why-successful-leaders-have-worse-days.png</image:loc>
-      <image:title>The Leadership Paradox: Why the Most Successful Leaders Have the Worst Days</image:title>
-    </image:image>
-  </url>
-
-  <url>
     <loc>https://blog.youmake.dev/articles/why-your-digital-transformation-needs-three-leaders-not-one</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -1314,17 +1292,6 @@
     <image:image>
       <image:loc>https://blog.youmake.dev/images/blog/why-your-digital-transformation-needs-three-leaders-not-one.png</image:loc>
       <image:title>Why Your Digital Transformation Needs Three Leaders, Not One</image:title>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://blog.youmake.dev/articles/ai-infrastructure-race-data-centers-chip-wars-2026</loc>
-    <lastmod>2026-05-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://blog.youmake.dev/images/blog/ai-infrastructure-race-data-centers-chip-wars-2026.png</image:loc>
-      <image:title>The AI Infrastructure Race Is Getting Out of Hand — And That&apos;s the Point</image:title>
     </image:image>
   </url>
 

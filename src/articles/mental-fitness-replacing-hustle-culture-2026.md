@@ -108,4 +108,4 @@ The most productive thing you can do in 2026? Take care of your mind first. Ever
 
 - [Silent Burnout Is the Workforce Crisis Nobody Wants to Talk About](/articles/silent-burnout-workforce-crisis-nobody-talks-about)
 - [Your Brain Isn't Broken: The Overthinking Epidemic and What to Do About It](/articles/your-brain-is-not-broken-overthinking-epidemic-2026)
-- [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)
+- [The AI Fatigue Paradox: More Tools, Less Output — What Smart Leaders Do Differently](/articles/ai-fatigue-paradox-more-tools-less-output-what-smart-leaders-do-differently)

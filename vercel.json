@@ -1,8 +1,43 @@
 {
   "rewrites": [
-    { "source": "/sitemap.xml", "destination": "/sitemap.xml" },
-    { "source": "/blog-sitemap.xml", "destination": "/blog-sitemap.xml" },
-    { "source": "/robots.txt", "destination": "/robots.txt" },
-    { "source": "/(.*)", "destination": "/index.html" }
+    {
+      "source": "/sitemap.xml",
+      "destination": "/sitemap.xml"
+    },
+    {
+      "source": "/blog-sitemap.xml",
+      "destination": "/blog-sitemap.xml"
+    },
+    {
+      "source": "/robots.txt",
+      "destination": "/robots.txt"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/blog",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/:slug",
+      "destination": "/articles/:slug",
+      "permanent": true
+    },
+    {
+      "source": "/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you",
+      "destination": "/articles/ai-burnout-paradox-why-productivity-tools-are-breaking-workers",
+      "permanent": true
+    },
+    {
+      "source": "/articles/ai-infrastructure-race-data-centers-chip-wars-2026",
+      "destination": "/articles/ai-data-center-chip-wars-infrastructure-race-2026",
+      "permanent": true
+    },
+    {
+      "source": "/articles/the-leadership-paradox-why-successful-leaders-have-worse-days",
+      "destination": "/articles/the-leadership-paradox-why-the-most-successful-people-have-the-worst-days",
+      "permanent": true
+    }
   ]
 }

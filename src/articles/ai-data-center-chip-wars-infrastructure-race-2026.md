@@ -94,6 +94,6 @@ Understanding that foundation isn't optional. It's strategic literacy.
 
 ## Read Next
 
-- [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
 - [AI's Dirty Secret: The Environmental Crisis Nobody Wants to Talk About](/articles/ai-environmental-crisis-water-land-climate-hidden-costs-2026)
 - [AI's $7.6 Trillion Buildout Has an Environmental Bill Nobody Budgeted For](/articles/ai-trillion-dollar-buildout-environmental-cost-nobody-budgeted-for)
+- [OpenAI Wants to Buy Fusion Energy — And That Should Tell You Everything About AI's Power Problem](/articles/openai-fusion-energy-helion-deal-ai-power-crisis)

@@ -29,7 +29,7 @@ This isn't just a pipeline problem. It's actively breaking people.
 
 And here's the thing that should terrify every organization: [only 21% of employees believe their employer genuinely cares about their mental health](https://www.thehrdigest.com/rising-burnout-and-sinking-confidence-what-the-latest-glassdoor-data-reveals/).
 
-The burnout epidemic and the leadership gap aren't separate crises. They're the same crisis wearing different hats. You can't sprint through a career landscape where the ground keeps shifting and *not* burn out. We explored this dynamic in depth in [The AI Burnout Paradox](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you) — the tools promising productivity are the same ones draining us.
+The burnout epidemic and the leadership gap aren't separate crises. They're the same crisis wearing different hats. You can't sprint through a career landscape where the ground keeps shifting and *not* burn out. We explored this dynamic in depth in [The AI Burnout Paradox](/articles/ai-burnout-paradox-why-productivity-tools-are-breaking-workers) — the tools promising productivity are the same ones draining us.
 
 ## The Old Playbook Is Dead
 
@@ -96,4 +96,4 @@ The question is whether you're waiting for someone to hand you a new ladder, or 
 
 - [The Four AI Mindsets: A Practical Guide to McKinsey's Framework for Thriving in 2026](/articles/four-ai-mindsets-mckinsey-framework-practical-guide)
 - [The AI Burnout Paradox: Why Your Productivity Tools Are Breaking You](/articles/ai-burnout-paradox-why-productivity-tools-are-breaking-workers)
-- [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)
+- [The Growth Mindset Lie: Why 'Just Try Harder' Is Breaking People](/articles/growth-mindset-lie-why-just-try-harder-is-breaking-people)

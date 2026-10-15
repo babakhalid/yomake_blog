@@ -32,7 +32,7 @@ OpenClaw isn't just another chatbot—it's a personal AI assistant that connects
 
 **Why It Works:** Instead of checking five apps every morning, get everything in one message on Telegram or Discord.
 
-[Learn more about scheduling](/blog/openclaw-automation-cron-jobs)
+[Learn more about scheduling](/articles/openclaw-automation-cron-jobs)
 
 ## 2. Smart Email Management
 
@@ -103,7 +103,7 @@ OpenClaw isn't just another chatbot—it's a personal AI assistant that connects
 **Monthly Summary:**
 > "February spending: $3,240 (12% under budget). Biggest category: Dining ($420, 15% over budget). You've saved $180 more than last month. Investment portfolio up 2.3%."
 
-**Privacy Note:** Keep financial data in secure, separate storage. See [security best practices](/blog/openclaw-security-best-practices).
+**Privacy Note:** Keep financial data in secure, separate storage. See [security best practices](/articles/openclaw-security-best-practices).
 
 ## 7. Content Creation Pipeline
 
@@ -197,7 +197,7 @@ When asked for standup prep:
    - Blockers
 ```
 
-See [OpenClaw Skills](/blog/openclaw-skills-extend-ai-assistant) for more on creating custom capabilities.
+See [OpenClaw Skills](/articles/openclaw-skills-extend-ai-assistant) for more on creating custom capabilities.
 
 ## Combining Use Cases
 
@@ -220,7 +220,7 @@ The only limit is what you can describe.
 
 ---
 
-*Ready to start? Install OpenClaw from [github.com/openclaw/openclaw](https://github.com/openclaw/openclaw) and check our [getting started guide](/blog/getting-started-with-openclaw).*
+*Ready to start? Install OpenClaw from [github.com/openclaw/openclaw](https://github.com/openclaw/openclaw) and check our [getting started guide](/articles/getting-started-with-openclaw).*
 ---
 
 ## Read Next

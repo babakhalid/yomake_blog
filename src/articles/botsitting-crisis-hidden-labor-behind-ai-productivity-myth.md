@@ -86,6 +86,6 @@ Stop counting hours saved. Start counting outcomes delivered. That's where the r
 
 ## Read Next
 
-- [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)
 - [The AI Productivity Paradox: 80% of Workers Use AI Tools, Focus Is at a 3-Year Low](/articles/ai-productivity-paradox-focus-crisis-what-high-performers-do-differently)
 - [Meta's Agent Sprawl Problem Is a Warning for Every Company Building with AI](/articles/meta-agent-sprawl-problem-ai-complexity)
+- [Cognitive Surrender: What Happens When You Let AI Think for You](/articles/cognitive-surrender-when-ai-thinks-for-you-system-3)

@@ -94,7 +94,7 @@ Here's what I'd do:
 3. **Create an "attention budget."** You have ~4 hours of deep cognitive work per day. Decide in advance what deserves it. Everything else gets delegated, automated, or ignored.
 4. **Build in "take another think" moments.** Before accepting your first answer (or your AI's first answer), pause and ask: "What if I'm wrong?" This is the single highest-ROI cognitive habit in an age of instant answers.
 
-The [AI burnout paradox](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you) is real — more tools don't automatically mean better outcomes. But better thinking *always* means better outcomes, regardless of what tools you're using.
+The [AI burnout paradox](/articles/ai-burnout-paradox-why-productivity-tools-are-breaking-workers) is real — more tools don't automatically mean better outcomes. But better thinking *always* means better outcomes, regardless of what tools you're using.
 
 ## The Real Competitive Edge
 
@@ -122,5 +122,5 @@ Time to install some patches.
 ## Read Next
 
 - [Cognitive Surrender: What Happens When You Let AI Think for You](/articles/cognitive-surrender-when-ai-thinks-for-you-system-3)
-- [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)
 - [Calm as a Competitive Advantage: Why the Best Builders Stay Centered](/articles/calm-as-competitive-advantage-2026)
+- [The Mental Model That Separates Burnt-Out Professionals From Thriving Ones](/articles/mental-model-separating-burnout-from-thriving)

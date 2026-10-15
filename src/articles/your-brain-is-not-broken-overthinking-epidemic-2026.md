@@ -102,5 +102,5 @@ Stop researching. Start building.
 ## Read Next
 
 - [The Death of Hustle Culture: Why Mental Fitness Is the Real Productivity Hack in 2026](/articles/mental-fitness-replacing-hustle-culture-2026)
-- [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)
 - [The AI Fatigue Paradox: More Tools, Less Output — What Smart Leaders Do Differently](/articles/ai-fatigue-paradox-more-tools-less-output-what-smart-leaders-do-differently)
+- [The AI Productivity Paradox: 80% of Workers Use AI Tools, Focus Is at a 3-Year Low](/articles/ai-productivity-paradox-focus-crisis-what-high-performers-do-differently)

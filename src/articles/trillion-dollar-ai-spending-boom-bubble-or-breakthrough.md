@@ -107,6 +107,6 @@ Build with AI. Bet on AI. But keep your eyes open. The trillion-dollar question 
 
 ## Read Next
 
-- [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
 - [The AI Transparency Crisis: Why Companies That Preach Openness Can't Be Honest With Each Other](/articles/ai-transparency-crisis-2026-companies-cant-be-honest)
 - [AI's $7.6 Trillion Buildout Has an Environmental Bill Nobody Budgeted For](/articles/ai-trillion-dollar-buildout-environmental-cost-nobody-budgeted-for)
+- [Anthropic at $965 Billion: What a Near-Trillion Dollar AI Company Tells Us About Where the Industry Is Headed](/articles/anthropic-trillion-dollar-valuation-what-it-signals-about-ai-industry)

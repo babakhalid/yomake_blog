@@ -68,7 +68,8 @@ export function getAllArticles(): Article[] {
       articles.push({
         slug,
         frontmatter,
-        content,
+        // The page already renders the title as the H1; drop a leading body "# title" so there is only one.
+        content: content.replace(/^\s*#\s+[^\n]*\n/, ''),
       });
     }
   }

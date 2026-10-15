@@ -49,7 +49,7 @@ Templates enable and constrain simultaneously. You can build *a* website quickly
 
 ## Enter Vibe Coding
 
-[Vibe coding](/blog/vibe-coding-future-2026) solves no-code's fundamental problems while keeping its core promise: building without traditional programming.
+[Vibe coding](/articles/vibe-coding-future-2026) solves no-code's fundamental problems while keeping its core promise: building without traditional programming.
 
 ### Natural Language, Not Drag-and-Drop
 
@@ -162,7 +162,7 @@ Ready to experience the difference? Try rebuilding something you made in no-code
 1. Go to [youmake.dev](https://www.youmake.dev/)
 2. Describe your existing project in natural language
 3. Compare the results
-4. See [how to deploy in 5 minutes](/blog/idea-to-production-5-minutes)
+4. See [how to deploy in 5 minutes](/articles/idea-to-production-5-minutes)
 
 Most users find their vibe-coded version is both faster to create and higher quality than their no-code original.
 
@@ -174,7 +174,7 @@ In 2026, the question isn't whether vibe coding will replace no-code. It's alrea
 
 ---
 
-*Experience vibe coding at [youmake.dev](https://www.youmake.dev/). Build [10 stunning portfolio websites](/blog/10-portfolio-websites) or create a [landing page in 60 seconds](/blog/landing-page-60-seconds-ai).*
+*Experience vibe coding at [youmake.dev](https://www.youmake.dev/). Build [10 stunning portfolio websites](/articles/10-portfolio-websites) or create a [landing page in 60 seconds](/articles/landing-page-60-seconds-ai).*
 ---
 
 ## Read Next

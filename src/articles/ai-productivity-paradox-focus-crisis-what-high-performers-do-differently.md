@@ -115,6 +115,6 @@ We're not in an era of productivity tools anymore. We're in an era of attention 
 
 ## Read Next
 
-- [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)
 - [Cognitive Surrender: What Happens When You Let AI Think for You](/articles/cognitive-surrender-when-ai-thinks-for-you-system-3)
 - [The Paradox of Infinite Tools: Why More AI Options Are Making Founders Worse at Deciding](/articles/decision-fatigue-ai-paradox-of-choice-founders)
+- [The Last Mile Mindset: Why Finishing Beats Starting in the AI Era](/articles/the-last-mile-mindset-why-finishing-beats-starting-in-the-ai-era)

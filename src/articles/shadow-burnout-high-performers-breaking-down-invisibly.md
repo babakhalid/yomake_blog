@@ -102,4 +102,4 @@ Your startup needs you. But it needs the real you — not the performance of you
 
 - [The Founder Mindset Trap: Why Hustle Culture Is Killing More Startups Than Competition](/articles/founder-mindset-trap-why-hustle-culture-kills-startups)
 - [The 80% Founder: Why Strategic Incompletion Beats Burnout](/articles/the-80-percent-founder-why-strategic-incompletion-beats-burnout)
-- [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)
+- [Silent Burnout Is the Workforce Crisis Nobody Wants to Talk About](/articles/silent-burnout-workforce-crisis-nobody-talks-about)

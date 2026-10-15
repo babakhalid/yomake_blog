@@ -41,7 +41,7 @@ What's conspicuously absent from these projections? Environmental cost accountin
 
 When Goldman talks about infrastructure, they mean chips, data centers, and power contracts. The water those data centers will consume, the land they'll occupy, the communities they'll displace — those appear nowhere in the investment thesis. They're "externalities." Which is corporate finance's way of saying "someone else's problem."
 
-This isn't unique to Goldman. The [AI infrastructure race we've been tracking](/articles/ai-infrastructure-race-data-centers-chip-wars-2026) has been almost entirely a story about compute supply and demand. Environmental constraints barely register in the boardroom conversations driving these decisions.
+This isn't unique to Goldman. The [AI infrastructure race we've been tracking](/articles/ai-data-center-chip-wars-infrastructure-race-2026) has been almost entirely a story about compute supply and demand. Environmental constraints barely register in the boardroom conversations driving these decisions.
 
 But they will. Because physics doesn't care about earnings calls.
 
@@ -111,4 +111,4 @@ That's not a technology problem. It's a governance problem. And right now, gover
 
 - [AI's Dirty Secret: The Environmental Crisis Nobody Wants to Talk About](/articles/ai-environmental-crisis-water-land-climate-hidden-costs-2026)
 - [The AI Infrastructure Race: Data Centers, Chip Wars, and the $200B Bet on Compute](/articles/ai-data-center-chip-wars-infrastructure-race-2026)
-- [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
+- [Nvidia GTC 2026: The AI Infrastructure Race Just Entered a New Phase](/articles/nvidia-gtc-2026-ai-infrastructure-race-heats-up)

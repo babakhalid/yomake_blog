@@ -94,6 +94,6 @@ That's not laziness. That's the highest form of productivity there is.
 
 ## Read Next
 
-- [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)
 - [The Death of Hustle Culture: Why Mental Fitness Is the Real Productivity Hack in 2026](/articles/mental-fitness-replacing-hustle-culture-2026)
 - [The AI Fatigue Paradox: More Tools, Less Output — What Smart Leaders Do Differently](/articles/ai-fatigue-paradox-more-tools-less-output-what-smart-leaders-do-differently)
+- [The AI Burnout Paradox: Why Your Productivity Tools Are Breaking You](/articles/ai-burnout-paradox-why-productivity-tools-are-breaking-workers)
