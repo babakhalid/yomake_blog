@@ -100,9 +100,10 @@ The grade inflation crisis is a symptom. The disease is an education system that
 - [Oxford Institute for Ethics in AI – Accelerator Fellowship](https://opportunitiesforyouth.org/2026/06/05/accelerator-fellowship-programme-university-of-oxford-institute-for-ethics-in-ai-fully-funded-fellowship-for-ethical-ai-research/)
 - [UC Berkeley Academic Innovation Catalyst](https://cdss.berkeley.edu/news/academic-innovation-catalyst-accelerates-berkeleys-pipeline-breakthrough-impact)
 - [Microsoft 2026 Work Trend Index – Singapore](https://news.microsoft.com/source/asia/2026/06/16/microsofts-2026-work-trend-index-shows-singapore-workforce-ahead-on-ai-adoption-with-organisations-poised-to-capture-greater-value/)
+---
 
 ## Read Next
 
-- [Universities Are Finally Writing the AI Rulebook](/articles/universities-are-finally-writing-the-ai-rulebook)
-- [Students Worried AI Is Eroding Critical Thinking Skills](/articles/students-worried-ai-eroding-critical-thinking-skills)
-- [Universities Scramble for AI Literacy — Students Already Ahead](/articles/universities-scramble-ai-literacy-students-already-ahead)
+- [AI PhDs Are Going Back to Academia — And That Changes Everything](/articles/ai-phds-returning-academia-2026-industry-brain-drain-reversal)
+- [95% of Students Use AI, But Only 20% of Universities Have a Policy. That's a Crisis.](/articles/universities-ai-governance-crisis-95-percent-using-20-percent-ready)
+- [The AI Literacy Gap: 90% of Students Use AI, But Almost Nobody's Teaching Them How](/articles/universities-ai-literacy-gap-students-using-without-understanding)

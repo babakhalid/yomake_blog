@@ -78,7 +78,7 @@ Here's a fascinating wrinkle: while AI PhDs are growing, **Computer Science enro
 
 What's happening? Students are getting more specialized earlier. The broad CS degree — which used to be the default path into tech — is losing ground to targeted AI programs. Students see AI fluency as more career-relevant than general programming skills, especially as AI tools handle more of the routine coding work.
 
-This has implications for how we build things. If the next generation of developers thinks in terms of AI systems rather than raw code, the tools we build for them need to match that mental model. Products like [Youmake.dev](https://youmake.dev) — where you describe what you want and AI builds it — aren't just conveniences. They're aligned with how a new generation thinks about software creation.
+This has implications for how we build things. If the next generation of developers thinks in terms of AI systems rather than raw code, the tools we build for them need to match that mental model. Products like [Youmake.dev](https://www.youmake.dev/) — where you describe what you want and AI builds it — aren't just conveniences. They're aligned with how a new generation thinks about software creation.
 
 ## What This Means for the Next Five Years
 
@@ -102,4 +102,11 @@ Whether universities seize this moment or squander it with slow bureaucracy and 
 
 ---
 
-*Want to build web apps without writing every line of code yourself? [Youmake.dev](https://youmake.dev) lets you describe your vision and ships production-ready software. The future of building is already here.*
+*Want to build web apps without writing every line of code yourself? [Youmake.dev](https://www.youmake.dev/) lets you describe your vision and ships production-ready software. The future of building is already here.*
+---
+
+## Read Next
+
+- [The AI Grade Inflation Crisis: Universities Are Producing A-Students Who Can't Think](/articles/ai-grade-inflation-crisis-universities-learning-without-learning-2026)
+- [CMU, MIT, and Stanford Are Building the AI Fluency Pipeline — And It's Free](/articles/universities-building-ai-fluency-pipelines-cmu-mit-stanford-2026)
+- [AI Agents Are Quietly Reshaping How We Learn, Research, and Publish](/articles/ai-agents-reshaping-education-research-workflows)

@@ -90,9 +90,10 @@ The question is whether you're waiting for someone to hand you a new ladder, or 
 - [McKinsey: Human Skills You Need in 2026's AI Workplace](https://www.mckinsey.org/dotorgblog/the-human-skills-you-will-need-to-thrive-in-2026s-ai-driven-workplace)
 - [Irish Times: Leadership in an AI World](https://www.irishtimes.com/special-reports/2026/06/19/leadership-in-an-ai-world-a-fundamentally-different-approach-is-needed/)
 - [Pariveda Solutions: Leadership Strategies for AI Burnout Paradox](https://parivedasolutions.com/perspectives/6-leadership-strategies-for-the-ai-burnout-paradox/)
+---
 
 ## Read Next
 
+- [The Four AI Mindsets: A Practical Guide to McKinsey's Framework for Thriving in 2026](/articles/four-ai-mindsets-mckinsey-framework-practical-guide)
+- [The AI Burnout Paradox: Why Your Productivity Tools Are Breaking You](/articles/ai-burnout-paradox-why-productivity-tools-are-breaking-workers)
 - [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)
-- [The AI Fluency Gap: It's a Mindset Problem, Not a Tech One](/articles/ai-fluency-gap-mindset-not-technology-bottleneck-2026)
-- [Mental Model: Separating Burnout From Thriving](/articles/mental-model-separating-burnout-from-thriving)

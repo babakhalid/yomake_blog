@@ -95,5 +95,5 @@ Because when your leaders have better days, everyone does.
 ## Read Next
 
 - [The Leadership Paradox: Why the Most Successful Leaders Have the Worst Days](/articles/the-leadership-paradox-why-successful-leaders-have-worse-days)
-- [Leaders Are Losing Their Sense of Agency — Here's How to Reclaim It](/articles/leaders-losing-agency-how-to-reclaim-your-autonomy-in-2026)
-- [Stop Mandating AI Adoption — Let Your Team Lead the Way](/articles/stop-mandating-ai-adoption-let-your-team-lead-the-way)
+- [The AI Fatigue Paradox: More Tools, Less Output — What Smart Leaders Do Differently](/articles/ai-fatigue-paradox-more-tools-less-output-what-smart-leaders-do-differently)
+- [The Growth Mindset Lie: Why 'Just Try Harder' Is Breaking People](/articles/growth-mindset-lie-why-just-try-harder-is-breaking-people)

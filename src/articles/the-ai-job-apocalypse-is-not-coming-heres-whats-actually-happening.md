@@ -99,6 +99,6 @@ And that's entirely in your hands.
 
 ## Read Next
 
+- [AI Won't Replace You. A Person Using AI Will. Here's How to Be That Person.](/articles/ai-not-replacing-you-person-using-ai-is)
+- [Growth Mindset in the AI Era: Why Learning Speed Now Beats Expertise](/articles/growth-mindset-ai-era-why-learning-speed-beats-expertise)
 - [The 'Agentic' Mindset: Silicon Valley's Hottest Buzzword Actually Has a Point](/articles/agentic-mindset-what-it-really-means-2026)
-- [KPMG Just Told Us What Skills Actually Matter in the AI Era — And It's Not Coding](/articles/kpmg-critical-thinking-over-technical-skills-ai-era)
-- [AI Is Splitting Every Industry in Two — Which Side Are You On?](/articles/ai-thinking-amplifier-or-replacement-the-split-that-defines-your-career)

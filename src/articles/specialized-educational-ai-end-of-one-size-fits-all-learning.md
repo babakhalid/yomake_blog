@@ -84,3 +84,10 @@ My bet: the winners won't be the biggest AI labs. They'll be the teams that unde
 The era of generic AI in education is ending. What's replacing it is more thoughtful, more structured, and — if done right — genuinely transformative.
 
 The students who benefit most won't be the ones with the fanciest AI. They'll be the ones whose AI was actually designed to teach.
+---
+
+## Read Next
+
+- [Adaptive Learning Platforms Are Reshaping Higher Education — And Most Schools Aren't Ready](/articles/adaptive-learning-platforms-reshaping-higher-education-2026)
+- [AI Agents Are Quietly Reshaping How We Learn, Research, and Publish](/articles/ai-agents-reshaping-education-research-workflows)
+- [Metacognitive Laziness: Are AI Tools Making Students Think Less?](/articles/metacognitive-laziness-ai-students-thinking-less)

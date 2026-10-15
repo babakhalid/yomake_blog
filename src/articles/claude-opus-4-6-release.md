@@ -94,7 +94,7 @@ Intelligence gains don't come at the cost of safety:
 
 ## What This Means for Youmake
 
-At [Youmake](https://youmake.dev), we're always exploring how frontier models can make app building faster and smarter. Opus 4.6's improvements in:
+At [Youmake](https://www.youmake.dev/), we're always exploring how frontier models can make app building faster and smarter. Opus 4.6's improvements in:
 
 - **Long-context understanding** → Better comprehension of complex app requirements
 - **Agentic planning** → More autonomous code generation
@@ -114,7 +114,7 @@ The future of AI-assisted development just got a lot more capable.
 
 ---
 
-*Want to build apps at the speed of thought? Try [Youmake](https://youmake.dev)—your app is one prompt away.*
+*Want to build apps at the speed of thought? Try [Youmake](https://www.youmake.dev/)—your app is one prompt away.*
 ---
 
 ## Read Next

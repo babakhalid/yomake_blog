@@ -109,5 +109,5 @@ Don't be in the 40%.
 ## Read Next
 
 - [Stop Treating AI Agents Like Employees — Here's What Actually Works](/articles/stop-treating-ai-agents-like-employees-corporate-playbook)
-- [Why Your Digital Transformation Needs Three Leaders, Not One](/articles/why-your-digital-transformation-needs-three-leaders-not-one)
-- [What the Global RAM Crisis Teaches Every Business About Corporate Resilience](/articles/corporate-resilience-ram-crisis-supply-chain-strategy)
+- [The Enterprise AI Governance Gap: Half Your AI Projects Won't Survive an Audit](/articles/enterprise-ai-governance-gap-half-companies-failing-audit-2026)
+- [2026 Is the Year of Execution: Why Digital Transformation Finally Got Serious](/articles/digital-transformation-2026-execution-year-not-experimentation)

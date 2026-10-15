@@ -82,6 +82,6 @@ Right now, the answer seems to be: not really. And that's the thing worth watchi
 
 ## Read Next
 
-- [OpenAI Wants to Buy Fusion Energy — And That Should Tell You Everything About AI's Power Problem](/articles/openai-fusion-energy-helion-deal-ai-power-crisis)
-- [Nvidia GTC 2026: The AI Infrastructure Race Just Entered a New Phase](/articles/nvidia-gtc-2026-ai-infrastructure-race-heats-up)
-- [Google Just Bet $40 Billion on Anthropic. Here's Why That Should Make You Think.](/articles/google-anthropic-40-billion-ai-power-concentration)
+- [The AI Infrastructure Race: Data Centers, Chip Wars, and the $200B Bet on Compute](/articles/ai-data-center-chip-wars-infrastructure-race-2026)
+- [AI's Dirty Secret: The Environmental Crisis Nobody Wants to Talk About](/articles/ai-environmental-crisis-water-land-climate-hidden-costs-2026)
+- [AI's $7.6 Trillion Buildout Has an Environmental Bill Nobody Budgeted For](/articles/ai-trillion-dollar-buildout-environmental-cost-nobody-budgeted-for)

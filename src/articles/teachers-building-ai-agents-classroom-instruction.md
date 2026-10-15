@@ -86,6 +86,6 @@ And that's the most important AI story in education right now.
 
 ## Read Next
 
+- [Agentic AI Is Killing the App As We Know It](/articles/agentic-ai-is-killing-the-app-as-we-know-it)
 - [OpenAI's Codex Now Lives in Your Browser — And That Changes Everything](/articles/openai-codex-chrome-extension-ai-agents-enter-your-browser)
 - [Google Now Generates 75% of Its Code With AI — Here's Why That Changes Everything](/articles/google-75-percent-ai-generated-code-agentic-shift)
-- [From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry](/articles/ai-reshaping-university-research-from-lab-to-industry)

@@ -108,4 +108,4 @@ And if they do, every other tech company will need to answer a suddenly urgent q
 
 - [Apple's AI App Store Is Coming — And It Changes Everything](/articles/apple-ai-app-store-ios-27-siri-extensions)
 - [Google Now Generates 75% of Its Code With AI — Here's Why That Changes Everything](/articles/google-75-percent-ai-generated-code-agentic-shift)
-- [Tim Cook Just Stepped Down From Apple. Here's the Succession Playbook Every Founder Should Steal.](/articles/tim-cook-steps-down-apple-succession-playbook-for-founders)
+- [Meta Is Replacing Human Moderators With AI — And Signal's Creator Wants to Encrypt the Whole Thing](/articles/meta-ai-moderation-encrypted-ai-privacy-race)

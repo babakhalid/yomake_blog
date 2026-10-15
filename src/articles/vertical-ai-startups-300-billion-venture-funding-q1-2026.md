@@ -103,6 +103,6 @@ Go build something.
 
 ## Read Next
 
-- [Ultrafast Unicorns and the New Rules of Startup Fundraising](/articles/ultrafast-unicorns-and-the-new-rules-of-startup-fundraising)
-- [The Geography of Startup Money Is Broken — Here's How Founders Outside SF Can Still Win](/articles/startup-funding-concentration-sf-vibe-coding-unicorns)
-- [A Developer Bought Friendster for $30K — And It's the Most Interesting Startup Move of 2026](/articles/friendster-revival-30k-bet-on-real-human-connection)
+- [81% of VC Money Goes to AI Startups. Here's Where Smart Founders Go Instead.](/articles/ai-funding-monopoly-where-smart-founders-raise-money-2026)
+- [Anthropic's $65B Round and the AI Funding Frenzy: What It Means for Everyone Else](/articles/ai-mega-rounds-65-billion-anthropic-what-it-means)
+- [The Great Startup Bifurcation: $2 Billion Seeds and Solo Founders Are Rewriting the Rules](/articles/startup-fundraising-bifurcation-billion-dollar-seeds-and-solo-founders-2026)

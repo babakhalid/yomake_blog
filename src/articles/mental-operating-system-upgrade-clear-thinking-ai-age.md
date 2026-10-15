@@ -117,9 +117,10 @@ Time to install some patches.
 - [Medium: 26 Mental Models for Smarter Thinking in 2026](https://medium.com/write-a-catalyst/26-mental-models-for-smarter-thinking-in-2026-f789d21193db)
 - [Mindset.ai: 11 AI Predictions for 2026](https://mindset.ai/blogs/11-ai-predictions-that-will-shape-product-development-in-2026)
 - [Search Engine Land: AI Search Adoption Rises, Consumer Trust Declines](https://searchengineland.com/ai-search-adoption-rises-consumer-trust-declines-study-480338)
+---
 
 ## Read Next
 
-- [AI: Thinking Amplifier or Replacement? The Split That Defines Your Career](/articles/ai-thinking-amplifier-or-replacement-the-split-that-defines-your-career)
+- [Cognitive Surrender: What Happens When You Let AI Think for You](/articles/cognitive-surrender-when-ai-thinks-for-you-system-3)
 - [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)
-- [The AI Fluency Gap: Mindset, Not Technology, Is the Bottleneck](/articles/ai-fluency-gap-mindset-not-technology-bottleneck-2026)
+- [Calm as a Competitive Advantage: Why the Best Builders Stay Centered](/articles/calm-as-competitive-advantage-2026)

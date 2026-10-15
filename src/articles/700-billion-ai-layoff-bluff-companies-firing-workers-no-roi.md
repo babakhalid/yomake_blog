@@ -89,9 +89,10 @@ The data says no.
 - [Forbes: AI Literacy Triples Job Security](https://www.forbes.com/sites/joetoscano1/2026/06/19/ai-literacy-triples-job-security-new-gallup-data-shows/)
 - [Gartner: AI Layoffs May Create Budget Room But Do Not Deliver Returns](https://www.gartner.com/en/newsroom/press-releases/2026-05-05-gartner-says-autonomous-business-and-artificial-intelligence-layoffs-may-create-budget-room-but-do-not-deliver-returns)
 - [PwC 2026 Global AI Jobs Barometer](https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-jobs-barometer.html)
+---
 
 ## Read Next
 
-- [The Two-Tier Workforce Is Here](/articles/the-two-tier-workforce-is-here-ai-agents-are-splitting-companies-in-half)
-- [Corporate AI Strategy Theater](/articles/corporate-ai-strategy-theater-roi-accountability-2026)
-- [Why the Best Founders in 2026 Are Building With Less](/articles/why-the-best-founders-in-2026-are-building-with-less)
+- [AI-Washing Layoffs: Corporate America's Favorite New Excuse](/articles/ai-washing-layoffs-corporate-americas-favorite-excuse)
+- [Oracle Cut 21,000 Jobs for AI. The Enterprise Playbook Is Clear — And It's Ugly.](/articles/oracle-21000-layoffs-enterprise-ai-replacing-workers-not-workflows)
+- [Shadow Agents Are Tearing Companies Apart: The Agentic AI Governance Crisis of 2026](/articles/shadow-agents-agentic-ai-governance-crisis-enterprises-2026)

@@ -52,7 +52,7 @@ The productivity gains are real. Anthropic's numbers aren't inflated — [Claude
 
 ## What Builders Should Actually Do
 
-**Design for cognitive load limits.** Break complex tasks into discrete, focused steps rather than expecting models to handle everything in one pass. This isn't a workaround — it's designing for how these systems actually work. If you're building with AI tools like [Youmake](https://youmake.dev), the architecture should chunk complexity by design.
+**Design for cognitive load limits.** Break complex tasks into discrete, focused steps rather than expecting models to handle everything in one pass. This isn't a workaround — it's designing for how these systems actually work. If you're building with AI tools like [Youmake](https://www.youmake.dev/), the architecture should chunk complexity by design.
 
 **Build verification layers.** Don't trust long-form AI output without intermediate checkpoints. If accuracy degrades predictably with task length, insert validation at the points where degradation typically begins. We've discussed this in the context of [AI thinking as an amplifier versus a replacement](/articles/ai-thinking-amplifier-or-replacement-the-split-that-defines-your-career).
 
@@ -79,9 +79,10 @@ The smartest models in the world can't stay focused on a simple task. We should 
 - [NVIDIA: Ising Open AI Models for Quantum Computing](https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers)
 - [Airbus: Computer Vision and Embedded AI for Cockpits](https://www.airbus.com/en/newsroom/stories/2026-06-computer-vision-automated-landing-and-embedded-ai-for-tomorrows-cockpits)
 - [The Guardian: Anthropic Urges Temporary Pause on AI Development](https://www.theguardian.com/technology/2026/jun/05/anthropic-urges-temporary-pause-on-ai-development-to-discuss-risks)
+---
 
 ## Read Next
 
-- [AI Thinking: Amplifier or Replacement?](/articles/ai-thinking-amplifier-or-replacement-the-split-that-defines-your-career)
-- [Why 40% of Corporate AI Agent Projects Will Fail](/articles/why-40-percent-of-corporate-ai-agent-projects-will-fail)
-- [The Year of AI Agents: Enterprise Readiness Gap](/articles/year-of-ai-agents-enterprise-readiness-gap)
+- [Metacognitive Laziness: Are AI Tools Making Students Think Less?](/articles/metacognitive-laziness-ai-students-thinking-less)
+- [The Academic Integrity Crisis: Why Universities Must Redesign Assessment for the AI Era](/articles/academic-integrity-ai-assessment-redesign-2026)
+- [The AI Cheating Wars: False Accusations, Extreme Surveillance, and the Coming Assessment Revolution](/articles/ai-cheating-wars-universities-false-accusations-assessment-crisis)

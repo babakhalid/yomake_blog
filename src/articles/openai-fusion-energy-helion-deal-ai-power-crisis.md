@@ -72,6 +72,6 @@ The race for AI dominance was always going to become a race for energy. That rac
 
 ## Read Next
 
+- [OpenAI's Jalapeño Chip Changes Everything About AI Infrastructure](/articles/openai-jalapeno-chip-vertical-integration-ai-infrastructure)
+- [The AI Infrastructure Race: Data Centers, Chip Wars, and the $200B Bet on Compute](/articles/ai-data-center-chip-wars-infrastructure-race-2026)
 - [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
-- [OpenAI Just Broke Free From Azure — And the AI Cloud Wars Will Never Be the Same](/articles/openai-aws-deal-end-of-cloud-exclusivity-ai-infrastructure)
-- [OpenAI's Codex Now Lives in Your Browser — And That Changes Everything](/articles/openai-codex-chrome-extension-ai-agents-enter-your-browser)

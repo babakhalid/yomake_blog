@@ -113,6 +113,6 @@ I know which outcome I'm betting on. And I think you do too.
 
 ## Read Next
 
+- [Adaptive Learning Platforms Are Reshaping Higher Education — And Most Schools Aren't Ready](/articles/adaptive-learning-platforms-reshaping-higher-education-2026)
+- [AI PhDs Are Going Back to Academia — And That Changes Everything](/articles/ai-phds-returning-academia-2026-industry-brain-drain-reversal)
 - [Nearly 3,000 Papers Have Fake Citations: The AI-Fueled Crisis Threatening Academic Research](/articles/fake-citations-ai-crisis-threatening-academic-research)
-- [Schools Are Done Experimenting With AI — Now Comes the Hard Part](/articles/ai-education-governance-schools-moving-beyond-experimentation)
-- [The Ed-Tech Evidence Crisis: Why Schools Are Finally Asking 'Does This Actually Work?'](/articles/ed-tech-evidence-crisis-schools-rethinking-digital-tools)

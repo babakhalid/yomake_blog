@@ -163,6 +163,6 @@ Go be one.
 
 ## Read Next
 
+- [The Paradox of Infinite Tools: Why More AI Options Are Making Founders Worse at Deciding](/articles/decision-fatigue-ai-paradox-of-choice-founders)
 - [Stop Optimizing, Start Doing: Why Clarity Beats Perfection Every Time](/articles/stop-optimizing-start-doing-clarity-over-perfection)
-- [The Slow Thinking Revolution: Why the Smartest People in 2026 Are Going Analog](/articles/slow-thinking-revolution-going-analog-2026)
-- [The Last Mile Mindset: Why Finishing Beats Starting in the AI Era](/articles/the-last-mile-mindset-why-finishing-beats-starting-in-the-ai-era)
+- [The AI Fatigue Paradox: More Tools, Less Output — What Smart Leaders Do Differently](/articles/ai-fatigue-paradox-more-tools-less-output-what-smart-leaders-do-differently)

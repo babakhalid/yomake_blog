@@ -105,9 +105,10 @@ If your AI tools are making your work better, keep going. If they're making you 
 - [Workday: AI Easing Burnout but Deepening Connection Deficit](https://newsroom.workday.com/2026-05-27-New-Workday-Global-Research-Finds-AI-is-Easing-Burnout-but-May-Be-Deepening-a-Connection-Deficit-at-Work)
 - [Forbes/Deloitte: Gen Z and Millennial Mental Health Survey](https://www.forbes.com/sites/deloitte/2026/05/21/mental-health-is-improving-for-gen-z-and-millennials-but-more-needs-to-be-done-to-address-chronic-stress-at-work/)
 - [Pulse-Z: Burnout Before 30 — Why Gen Z Is Exhausted](https://www.pulse-z.eu/burnout-before-30-why-gen-z-is-exhausted-already/)
+---
 
 ## Read Next
 
-- [Shadow Burnout: High Performers Breaking Down Invisibly](/articles/shadow-burnout-high-performers-breaking-down-invisibly)
-- [Permission to Slow Down: Strategic Patience in the AI Age](/articles/permission-to-slow-down-strategic-patience-ai-age)
-- [The AI Productivity Paradox: What High Performers Do Differently](/articles/ai-productivity-paradox-focus-crisis-what-high-performers-do-differently)
+- [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)
+- [The Leadership Wall: AI Is Destroying the Career Ladder and Nobody's Building a New One](/articles/ai-leadership-wall-career-ladder-mindset-shift-2026)
+- [The AI Productivity Paradox: 80% of Workers Use AI Tools, Focus Is at a 3-Year Low](/articles/ai-productivity-paradox-focus-crisis-what-high-performers-do-differently)

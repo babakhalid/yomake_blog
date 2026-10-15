@@ -89,6 +89,6 @@ That shift is long overdue. The next chapter of ed-tech should be written by res
 
 ## Read Next
 
+- [The World Just Got Its First AI Literacy Rulebook for Schools — And It's About Time](/articles/ai-literacy-framework-teaching-students-think-not-just-prompt)
 - [Fifteen Years and Billions Later: EdTech's Honest Reckoning With What Actually Works](/articles/edtech-fifteen-years-later-what-actually-works)
 - [Schools Are Done Experimenting With AI — Now Comes the Hard Part](/articles/ai-education-governance-schools-moving-beyond-experimentation)
-- [27 States Are Writing AI Education Rules Right Now — And Most Schools Aren't Ready](/articles/ai-education-legislation-2026-states-are-writing-the-rules)

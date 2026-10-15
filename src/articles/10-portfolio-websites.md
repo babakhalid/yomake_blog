@@ -11,7 +11,7 @@ published: true
 
 Your portfolio is your digital handshake—the first impression that can make or break opportunities. But building a stunning portfolio website traditionally required weeks of work or expensive designers.
 
-With [Youmake](https://youmake.dev), you can create any of these 10 portfolio styles in minutes using [vibe coding](/blog/vibe-coding-future-2026). Just describe what you want, and AI builds it.
+With [Youmake](https://www.youmake.dev/), you can create any of these 10 portfolio styles in minutes using [vibe coding](/blog/vibe-coding-future-2026). Just describe what you want, and AI builds it.
 
 ## 1. The Minimalist Designer Portfolio
 
@@ -197,7 +197,7 @@ With [Youmake](https://youmake.dev), you can create any of these 10 portfolio st
 
 ## How to Build Any of These in Minutes
 
-1. **Go to [youmake.dev](https://youmake.dev)**
+1. **Go to [youmake.dev](https://www.youmake.dev/)**
 2. **Copy one of the prompts above** (or write your own)
 3. **Watch AI build your portfolio**
 4. **Refine with follow-up requests**
@@ -228,15 +228,15 @@ A portfolio with projects from 3 years ago signals you've stopped growing.
 
 Building a portfolio used to be a chicken-and-egg problem: you need a portfolio to get work, but building one *is* work.
 
-With [Youmake](https://youmake.dev), that blocker is gone. Pick a style from this list, describe it in your words, and have a live portfolio in minutes.
+With [Youmake](https://www.youmake.dev/), that blocker is gone. Pick a style from this list, describe it in your words, and have a live portfolio in minutes.
 
 Your next opportunity is waiting. Your portfolio shouldn't be the thing holding you back.
 
-*Ready to build? Start at [youmake.dev](https://youmake.dev) and see [why vibe coding is replacing traditional web development](/blog/no-code-dead-vibe-coding).*
+*Ready to build? Start at [youmake.dev](https://www.youmake.dev/) and see [why vibe coding is replacing traditional web development](/blog/no-code-dead-vibe-coding).*
 ---
 
 ## Read Next
 
 - [From Idea to Production: Deploy Your First App in 5 Minutes with AI](/articles/idea-to-production-5-minutes)
 - [How to Build a Landing Page in 60 Seconds with AI](/articles/landing-page-60-seconds-ai)
-- [Free AI Website Builder: Build Professional Sites at Zero Cost (2026)](/articles/free-ai-website-builder)
+- [7 Best AI Website Builders in 2026 (Compared with Current Pricing)](/articles/best-ai-website-builders-2026)

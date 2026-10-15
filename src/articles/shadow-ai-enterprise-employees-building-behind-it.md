@@ -83,11 +83,11 @@ The shadow AI revolution isn't a problem to be solved. It's a signal to be follo
 
 ---
 
-*Building AI-powered tools for your team? [Youmake](https://youmake.dev) helps you go from idea to production in hours, not months. Your app is one prompt away.*
+*Building AI-powered tools for your team? [Youmake](https://www.youmake.dev/) helps you go from idea to production in hours, not months. Your app is one prompt away.*
 ---
 
 ## Read Next
 
-- [Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right](/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right)
-- [Google's TurboQuant Is a Wake-Up Call for Enterprise AI Teams](/articles/google-turboquant-enterprise-ai-efficiency)
-- [Why Your Digital Transformation Needs Three Leaders, Not One](/articles/why-your-digital-transformation-needs-three-leaders-not-one)
+- [The Enterprise AI Governance Gap: Half Your AI Projects Won't Survive an Audit](/articles/enterprise-ai-governance-gap-half-companies-failing-audit-2026)
+- [Shadow Agents Are Tearing Companies Apart: The Agentic AI Governance Crisis of 2026](/articles/shadow-agents-agentic-ai-governance-crisis-enterprises-2026)
+- [Agentic AI in the Enterprise: Why Autonomous Workflows Are Becoming the Default](/articles/agentic-ai-enterprise-autonomous-workflows-corporate)

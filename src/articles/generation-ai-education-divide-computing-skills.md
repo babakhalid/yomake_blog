@@ -99,6 +99,6 @@ The technology is moving fast. Education needs to move faster. And honestly? Rig
 
 ## Read Next
 
-- [Schools Are Done Experimenting With AI — Now Comes the Hard Part](/articles/ai-education-governance-schools-moving-beyond-experimentation)
-- [27 States Are Writing AI Education Rules Right Now — And Most Schools Aren't Ready](/articles/ai-education-legislation-2026-states-are-writing-the-rules)
-- [From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry](/articles/ai-reshaping-university-research-from-lab-to-industry)
+- [AI Literacy Is the New Core Competency Every Student Needs — And We're Failing to Teach It](/articles/ai-literacy-new-core-competency-every-student-needs)
+- [92% of Students Use AI — But Barely Half Have Been Taught How](/articles/ai-skills-gap-crisis-92-percent-students-using-ai-no-training)
+- [The AI Literacy Gap: 90% of Students Use AI, But Almost Nobody's Teaching Them How](/articles/universities-ai-literacy-gap-students-using-without-understanding)

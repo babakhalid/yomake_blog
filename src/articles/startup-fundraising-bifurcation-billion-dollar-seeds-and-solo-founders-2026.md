@@ -92,9 +92,10 @@ The bifurcation isn't a prediction. It's already here. The only question is whic
 - [Solo Business Hub: Solo Business Trends 2025](https://www.solobusinesshub.com/trend-watch/solo-business-trends-2025/)
 - [JoinETA: AI Startup Funding Surge — Notable Rounds from June 2025](https://www.joineta.org/blog/ai-startup-funding-surge-notable-rounds-from-june-2025)
 - [ICSB: Top Ten Trends 2025](https://icsb.org/icsb-trends/topten2025/)
+---
 
 ## Read Next
 
-- [Why the Best Founders in 2026 Are Building With Less](/articles/why-the-best-founders-in-2026-are-building-with-less)
-- [One-Person Billion-Dollar Companies: AI Solo Founders Rewriting the Rules](/articles/one-person-billion-dollar-companies-ai-solo-founders-rewriting-the-rules)
-- [Lean AI Startups: Tiny Teams Beating Giants in 2026](/articles/lean-ai-startups-tiny-teams-beating-giants-2026)
+- [One-Person Billion-Dollar Companies: How AI Solo Founders Are Rewriting Every Rule](/articles/one-person-billion-dollar-companies-ai-solo-founders-rewriting-the-rules)
+- [81% of VC Money Goes to AI Startups. Here's Where Smart Founders Go Instead.](/articles/ai-funding-monopoly-where-smart-founders-raise-money-2026)
+- [Anthropic's $65B Round and the AI Funding Frenzy: What It Means for Everyone Else](/articles/ai-mega-rounds-65-billion-anthropic-what-it-means)

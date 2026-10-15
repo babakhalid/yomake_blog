@@ -113,9 +113,10 @@ Thirty percent of your workforce is silently drowning. The question isn't whethe
 - [All One Health: The Future of Workplace Mental Health in 2026](https://allonehealth.com/the-future-of-workplace-mental-health-in-2026/)
 - [ActivTrak: Workplace Productivity Statistics](https://www.activtrak.com/solutions/productivity-management/workplace-productivity-statistics/)
 - [Fidelity Workplace: Workforce Trends](https://www.fidelityworkplace.com/s/article/workforce-trends)
+---
 
 ## Read Next
 
-- [Shadow Burnout: High Performers Breaking Down Invisibly](/articles/shadow-burnout-high-performers-breaking-down-invisibly)
-- [Mental Fitness Is Replacing Hustle Culture in 2026](/articles/mental-fitness-replacing-hustle-culture-2026)
-- [Calm as a Competitive Advantage in 2026](/articles/calm-as-competitive-advantage-2026)
+- [The Growth Mindset Lie: Why 'Just Try Harder' Is Breaking People](/articles/growth-mindset-lie-why-just-try-harder-is-breaking-people)
+- [The Death of Hustle Culture: Why Mental Fitness Is the Real Productivity Hack in 2026](/articles/mental-fitness-replacing-hustle-culture-2026)
+- [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)

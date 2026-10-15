@@ -109,5 +109,5 @@ Choose wisely. Your future self is counting on it.
 ## Read Next
 
 - [Cognitive Surrender: What Happens When You Let AI Think for You](/articles/cognitive-surrender-when-ai-thinks-for-you-system-3)
-- [KPMG Just Told Us What Skills Actually Matter in the AI Era — And It's Not Coding](/articles/kpmg-critical-thinking-over-technical-skills-ai-era)
-- [The AI Job Apocalypse Isn't Coming — Here's What's Actually Happening](/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening)
+- [The Four AI Mindsets: A Practical Guide to McKinsey's Framework for Thriving in 2026](/articles/four-ai-mindsets-mckinsey-framework-practical-guide)
+- [Growth Mindset in the AI Era: Why Learning Speed Now Beats Expertise](/articles/growth-mindset-ai-era-why-learning-speed-beats-expertise)

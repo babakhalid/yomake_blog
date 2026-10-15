@@ -85,9 +85,10 @@ The question isn't whether your company is using AI. It's whether you can prove 
 - [Forbes: AI Is Eroding Your Organization's Intellectual Capital](https://www.forbes.com/sites/juliettehan/2026/06/27/ai-is-eroding-your-organizations-intellectual-capital/)
 - [MarketScale: CFOs Tighten AI Budgets](https://www.marketscale.com/industries/software-and-technology/cfos-tighten-ai-budgets-as-agentic-platforms-and-hardware-deals-reshape-enterprise-ai-in-2026)
 - [UseTenfold: Top AI Trends in June 2026](https://www.usetenfold.ai/blog/top-ai-trends-in-june-2026-what-enterprise-leaders-need-to-know-now)
+---
 
 ## Read Next
 
-- [Why 40% of Corporate AI Agent Projects Will Fail](/articles/why-40-percent-of-corporate-ai-agent-projects-will-fail)
-- [AI Upskilling: Corporate Billions Wasted — What Works](/articles/ai-upskilling-corporate-billions-wasted-what-works)
-- [The AI Fatigue Paradox: More Tools, Less Output](/articles/ai-fatigue-paradox-more-tools-less-output-what-smart-leaders-do-differently)
+- [The AI Strategy Theater: Why Most Corporate AI Plans Are Just Expensive Performances](/articles/corporate-ai-strategy-theater-roi-accountability-2026)
+- [The Mercor Breach Exposes the Fragile Underbelly of Corporate AI](/articles/ai-training-data-breach-mercor-corporate-supply-chain-risk)
+- [Why 40% of Corporate AI Agent Projects Will Fail — And How to Be in the Other 60%](/articles/why-40-percent-of-corporate-ai-agent-projects-will-fail)

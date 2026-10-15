@@ -102,3 +102,10 @@ The next two years will determine which universities become AI-native institutio
 The good news: it's not too late. Most institutions are still in the early stages of this transition. The bad news: the window for catching up is closing. The leaders are pulling ahead, and the infrastructure they're building now will compound their advantage over time.
 
 If you're in higher education leadership, the question isn't whether to invest in AI infrastructure. It's how fast you can move without compromising governance and quality. That balance — speed and responsibility — is the real challenge of 2026.
+---
+
+## Read Next
+
+- [Universities Are Finally Writing the AI Rulebook—And It's About Time](/articles/universities-are-finally-writing-the-ai-rulebook)
+- [The Academic Integrity Crisis: Why Universities Must Redesign Assessment for the AI Era](/articles/academic-integrity-ai-assessment-redesign-2026)
+- [The AI Cheating Wars: False Accusations, Extreme Surveillance, and the Coming Assessment Revolution](/articles/ai-cheating-wars-universities-false-accusations-assessment-crisis)

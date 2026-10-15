@@ -131,9 +131,10 @@ The AI-washing era will end. Either companies will actually deploy the AI they p
 - [CBS News: AI Layoffs and Hiring Impact on Entry-Level Workers](https://www.cbsnews.com/news/ai-layoffs-hiring-entry-level-workers/)
 - [Deloitte: State of AI in the Enterprise](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html)
 - [Anthropic: Labor Market Impacts Research](https://www.anthropic.com/research/labor-market-impacts)
+---
 
 ## Read Next
 
-- [Why 40% of Corporate AI Agent Projects Will Fail](/articles/why-40-percent-of-corporate-ai-agent-projects-will-fail)
-- [The AI Job Apocalypse Is Not Coming — Here's What's Actually Happening](/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening)
-- [Trust and Transparency as Startup Competitive Advantage in 2026](/articles/trust-transparency-startup-competitive-advantage-2026)
+- [The $700 Billion Bluff: Why Companies Are Cutting Workers to Fund AI That Isn't Delivering](/articles/700-billion-ai-layoff-bluff-companies-firing-workers-no-roi)
+- [Oracle Cut 21,000 Jobs for AI. The Enterprise Playbook Is Clear — And It's Ugly.](/articles/oracle-21000-layoffs-enterprise-ai-replacing-workers-not-workflows)
+- [The Great Flattening: AI Is Gutting Middle Management and Nobody's Ready for What Comes Next](/articles/great-flattening-ai-gutting-middle-management-whats-next)

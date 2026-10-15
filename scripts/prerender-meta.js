@@ -79,7 +79,9 @@ function escapeJsonLd(str) {
 function markdownToHtml(md) {
   let html = md;
 
-  // Remove images (already handled by og:image and structured data)
+  // In-article screenshots stay crawlable; the cover image is handled by og:image and structured data
+  html = html.replace(/!\[([^\]]*)\]\((\/images\/[^)\s]+)\)/g, (_, alt, src) =>
+    `<img src="${escapeHtml(src)}" alt="${escapeHtml(alt)}" loading="lazy" />`);
   html = html.replace(/!\[([^\]]*)\]\([^)]+\)/g, '');
 
   // Code blocks → <pre><code>

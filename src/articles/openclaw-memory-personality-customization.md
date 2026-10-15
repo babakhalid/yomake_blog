@@ -244,7 +244,7 @@ Take 30 minutes to set up your workspace files. The return on that investment co
 
 ---
 
-*Build products as personalized as your AI assistant. [Youmake](https://youmake.dev) creates custom web apps tailored to your vision — describe what you need, get production-ready code. Join thousands of builders. [Start free →](https://youmake.dev)*
+*Build products as personalized as your AI assistant. [Youmake](https://www.youmake.dev/) creates custom web apps tailored to your vision — describe what you need, get production-ready code. [Try Youmake for $1 →](https://www.youmake.dev/)*
 ---
 
 ## Read Next

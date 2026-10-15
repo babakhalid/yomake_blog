@@ -68,3 +68,10 @@ The companies winning right now are the ones treating AI agents like they treat 
 Meta's employees are job-hunting not because AI exists, but because AI was deployed without empathy for the humans it was supposed to help. That's the real lesson.
 
 Build fewer agents. Make them better. And remember: if you need an agent to find your agents, you've already lost the plot.
+---
+
+## Read Next
+
+- [The Botsitting Crisis: The Hidden Labor Devouring Your AI Productivity Gains](/articles/botsitting-crisis-hidden-labor-behind-ai-productivity-myth)
+- [2026 Is the Year of AI Agents — And Most Companies Aren't Ready](/articles/year-of-ai-agents-enterprise-readiness-gap)
+- [300,000 Copilot Seats: When AI Stops Being a Project and Becomes the Operating System](/articles/300000-copilot-seats-enterprise-ai-operating-system)

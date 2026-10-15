@@ -75,7 +75,7 @@ One trend I'm particularly optimistic about: open-source AI is genuinely competi
 
 This matters because it democratizes the building blocks. You don't need a billion-dollar compute budget to build a meaningful AI application anymore. You need good data, smart fine-tuning, and — increasingly — good taste about what problems actually need AI.
 
-At [Youmake](https://youmake.dev), this is the world we're building for. When the infrastructure layers become accessible, the differentiator isn't "can you afford GPUs" — it's "can you build something users actually need." That levels the playing field for builders who have ideas but not venture funding.
+At [Youmake](https://www.youmake.dev/), this is the world we're building for. When the infrastructure layers become accessible, the differentiator isn't "can you afford GPUs" — it's "can you build something users actually need." That levels the playing field for builders who have ideas but not venture funding.
 
 ## The Trust Gap Is Real and It Matters
 
@@ -110,3 +110,10 @@ None of this is science fiction. It's happening now, in production codebases and
 The question isn't whether AI will transform how we build software. It's whether the builders shaping that transformation will prioritize getting it right — transparent, verified, human-centered — over getting there first.
 
 I know which side I'm betting on.
+---
+
+## Read Next
+
+- [Agentic AI in the Enterprise: Why Autonomous Workflows Are Becoming the Default](/articles/agentic-ai-enterprise-autonomous-workflows-corporate)
+- [Agentic AI Is Killing the App As We Know It](/articles/agentic-ai-is-killing-the-app-as-we-know-it)
+- [400,000 Teachers Are Learning to Build AI Agents — This Changes Everything](/articles/teachers-building-ai-agents-classroom-instruction)

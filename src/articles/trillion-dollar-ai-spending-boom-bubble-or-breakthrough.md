@@ -103,9 +103,10 @@ Build with AI. Bet on AI. But keep your eyes open. The trillion-dollar question 
 - [Microsoft: What's Next in AI — 7 Trends to Watch in 2026](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/)
 - [The National News: AI Boom Adds to Inflation Pressure](https://www.thenationalnews.com/future/technology/2026/06/06/ai-boom-adds-to-inflation-pressure-as-data-centre-energy-costs-surge/)
 - [Cyprus Mail: Global Data Centre Investment to Reach $1.6 Trillion by 2030](https://cyprus-mail.com/2026/06/07/global-data-centre-investment-set-to-reach-1-6-trillion-by-2030)
+---
 
 ## Read Next
 
-- [Why 40% of Corporate AI Agent Projects Will Fail](/articles/why-40-percent-of-corporate-ai-agent-projects-will-fail)
-- [The Solopreneur Golden Age: Why One-Person Startups Are Winning in 2026](/articles/the-solopreneur-golden-age-why-one-person-startups-are-winning-in-2026)
-- [Lean AI Startups: Tiny Teams Beating Giants in 2026](/articles/lean-ai-startups-tiny-teams-beating-giants-2026)
+- [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
+- [The AI Transparency Crisis: Why Companies That Preach Openness Can't Be Honest With Each Other](/articles/ai-transparency-crisis-2026-companies-cant-be-honest)
+- [AI's $7.6 Trillion Buildout Has an Environmental Bill Nobody Budgeted For](/articles/ai-trillion-dollar-buildout-environmental-cost-nobody-budgeted-for)

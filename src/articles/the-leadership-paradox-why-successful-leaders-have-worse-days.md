@@ -89,5 +89,5 @@ Your life can be great *and* your Tuesday can be terrible. Both deserve attentio
 ## Read Next
 
 - [The Leadership Paradox: Why the Most Successful People Have the Worst Days](/articles/the-leadership-paradox-why-the-most-successful-people-have-the-worst-days)
-- [Leaders Are Losing Their Sense of Agency — Here's How to Reclaim It](/articles/leaders-losing-agency-how-to-reclaim-your-autonomy-in-2026)
-- [Stop Mandating AI Adoption — Let Your Team Lead the Way](/articles/stop-mandating-ai-adoption-let-your-team-lead-the-way)
+- [The AI Fatigue Paradox: More Tools, Less Output — What Smart Leaders Do Differently](/articles/ai-fatigue-paradox-more-tools-less-output-what-smart-leaders-do-differently)
+- [Calm as a Competitive Advantage: Why the Best Builders Stay Centered](/articles/calm-as-competitive-advantage-2026)

@@ -82,6 +82,6 @@ The clock is ticking. And no algorithm is going to solve this one for us.
 
 ## Read Next
 
-- [Universities Are Finally Writing the AI Rulebook—And It's About Time](/articles/universities-are-finally-writing-the-ai-rulebook)
-- [From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry](/articles/ai-reshaping-university-research-from-lab-to-industry)
-- [Can AI Teach College Students to Disagree Without Destroying Each Other?](/articles/can-ai-teach-college-students-to-disagree-without-destroying-each-other)
+- [95% of Students Use AI, But Only 20% of Universities Have a Policy. That's a Crisis.](/articles/universities-ai-governance-crisis-95-percent-using-20-percent-ready)
+- [The AI Grade Inflation Crisis: Universities Are Producing A-Students Who Can't Think](/articles/ai-grade-inflation-crisis-universities-learning-without-learning-2026)
+- [The AI Literacy Gap: 90% of Students Use AI, But Almost Nobody's Teaching Them How](/articles/universities-ai-literacy-gap-students-using-without-understanding)

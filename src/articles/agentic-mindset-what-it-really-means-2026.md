@@ -138,6 +138,6 @@ Stop waiting for the prompt. Start writing it.
 
 ## Read Next
 
-- [The AI Job Apocalypse Isn't Coming — Here's What's Actually Happening](/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening)
 - [KPMG Just Told Us What Skills Actually Matter in the AI Era — And It's Not Coding](/articles/kpmg-critical-thinking-over-technical-skills-ai-era)
-- [AI Is Splitting Every Industry in Two — Which Side Are You On?](/articles/ai-thinking-amplifier-or-replacement-the-split-that-defines-your-career)
+- [The AI Job Apocalypse Isn't Coming — Here's What's Actually Happening](/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening)
+- [The AI Productivity Paradox: 80% of Workers Use AI Tools, Focus Is at a 3-Year Low](/articles/ai-productivity-paradox-focus-crisis-what-high-performers-do-differently)

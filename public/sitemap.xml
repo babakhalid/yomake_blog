@@ -5,7 +5,7 @@
   <!-- Homepage -->
   <url>
     <loc>https://blog.youmake.dev/</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -13,7 +13,7 @@
   <!-- Articles Index -->
   <url>
     <loc>https://blog.youmake.dev/articles</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -21,12 +21,1178 @@
   <!-- Individual Articles -->
   <url>
     <loc>https://blog.youmake.dev/articles/best-ai-website-builders-2026</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
       <image:loc>https://blog.youmake.dev/images/blog/best-ai-website-builders-2026.png</image:loc>
-      <image:title>7 Best AI Website Builders in 2026 (Tested &amp; Compared)</image:title>
+      <image:title>7 Best AI Website Builders in 2026 (Compared with Current Pricing)</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/best-vibe-coding-tools</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/best-vibe-coding-tools-2026.jpg</image:loc>
+      <image:title>Best Vibe Coding Tools in 2026, by What You&apos;re Building</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/free-ai-website-builder</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/free-ai-website-builder.png</image:loc>
+      <image:title>Free AI Website Builders in 2026: What&apos;s Actually Free (and When to Pay)</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/lovable-alternatives</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/lovable-alternatives-2026.jpg</image:loc>
+      <image:title>8 Best Lovable Alternatives in 2026 (Real Pricing, Honest Tradeoffs)</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/replit-alternatives</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/replit-alternatives-2026.jpg</image:loc>
+      <image:title>7 Best Replit Alternatives in 2026 (Pricing and Tradeoffs Compared)</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/youmake-vs-bolt</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/youmake-vs-bolt-comparison.png</image:loc>
+      <image:title>Youmake vs Bolt.new (2026): An Honest Comparison</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/youmake-vs-lovable</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/youmake-vs-lovable-comparison.png</image:loc>
+      <image:title>Youmake vs Lovable (2026): An Honest Comparison</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-burnout-paradox-why-productivity-tools-are-breaking-workers</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-burnout-paradox-why-productivity-tools-are-breaking-workers.png</image:loc>
+      <image:title>The AI Burnout Paradox: Why Your Productivity Tools Are Breaking You</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/openai-jalapeno-chip-vertical-integration-ai-infrastructure</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/openai-jalapeno-chip-vertical-integration-ai-infrastructure.png</image:loc>
+      <image:title>OpenAI&apos;s Jalapeño Chip Changes Everything About AI Infrastructure</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-skills-gap-crisis-92-percent-students-using-ai-no-training</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-skills-gap-crisis-92-percent-students-using-ai-no-training.png</image:loc>
+      <image:title>92% of Students Use AI — But Barely Half Have Been Taught How</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/corporate-ai-roi-gap-2026-why-60-percent-cant-measure-returns</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/corporate-ai-roi-gap-2026-why-60-percent-cant-measure-returns.png</image:loc>
+      <image:title>The Corporate AI ROI Gap: Why 60% of Enterprises Still Can&apos;t Measure Their Returns</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-productivity-paradox-focus-crisis-what-high-performers-do-differently</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-productivity-paradox-focus-crisis-what-high-performers-do-differently.png</image:loc>
+      <image:title>The AI Productivity Paradox: 80% of Workers Use AI Tools, Focus Is at a 3-Year Low</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/fintech-revival-2026-invisible-infrastructure-smart-founders</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/fintech-revival-2026-invisible-infrastructure-smart-founders.png</image:loc>
+      <image:title>The Fintech Revival Nobody Saw Coming: Why Invisible Infrastructure Is the Smartest Bet in 2026</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/chatgpt-one-billion-users-ai-agents-era-what-happens-next</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/chatgpt-one-billion-users-ai-agents-era-what-happens-next.png</image:loc>
+      <image:title>ChatGPT Just Hit 1 Billion Users. The Age of AI Agents Is What Comes Next.</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/microsoft-ai-education-report-2026-92-percent-adoption-zero-training</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/microsoft-ai-education-report-2026-92-percent-adoption-zero-training.png</image:loc>
+      <image:title>92% of Students Use AI for School — But Nobody Taught Them How</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/career-futility-crisis-why-hard-work-stopped-paying-off-2026</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/career-futility-crisis-why-hard-work-stopped-paying-off-2026.png</image:loc>
+      <image:title>The Career Futility Crisis: Why Hard Work Stopped Paying Off</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/oracle-21000-layoffs-enterprise-ai-replacing-workers-not-workflows</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/oracle-21000-layoffs-enterprise-ai-replacing-workers-not-workflows.png</image:loc>
+      <image:title>Oracle Cut 21,000 Jobs for AI. The Enterprise Playbook Is Clear — And It&apos;s Ugly.</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-ipo-wave-2026-cerebras-anthropic-openai-going-public</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-ipo-wave-2026-cerebras-anthropic-openai-going-public.png</image:loc>
+      <image:title>The AI IPO Wave Is Here: What Cerebras, Anthropic, and OpenAI Going Public Means for the Industry</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/vertical-ai-agents-biggest-founder-opportunity-2026</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/vertical-ai-agents-biggest-founder-opportunity-2026.png</image:loc>
+      <image:title>Vertical AI Agents Are the Biggest Founder Opportunity of 2026 — Here&apos;s Why</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-trust-crisis-2026-only-15-percent-americans-trust-ai-companies</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-trust-crisis-2026-only-15-percent-americans-trust-ai-companies.png</image:loc>
+      <image:title>Only 15% of Americans Trust AI Companies — And the Industry Has Earned Every Bit of That Skepticism</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/mental-operating-system-upgrade-clear-thinking-ai-age</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/mental-operating-system-upgrade-clear-thinking-ai-age.png</image:loc>
+      <image:title>Your Mental Operating System Needs an Upgrade: Why Clear Thinking Is the Real Competitive Edge in the AI Age</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/700-billion-ai-layoff-bluff-companies-firing-workers-no-roi</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/700-billion-ai-layoff-bluff-companies-firing-workers-no-roi.png</image:loc>
+      <image:title>The $700 Billion Bluff: Why Companies Are Cutting Workers to Fund AI That Isn&apos;t Delivering</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-cheating-wars-universities-false-accusations-assessment-crisis</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-cheating-wars-universities-false-accusations-assessment-crisis.png</image:loc>
+      <image:title>The AI Cheating Wars: False Accusations, Extreme Surveillance, and the Coming Assessment Revolution</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-fatigue-paradox-more-tools-less-output-what-smart-leaders-do-differently</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-fatigue-paradox-more-tools-less-output-what-smart-leaders-do-differently.png</image:loc>
+      <image:title>The AI Fatigue Paradox: More Tools, Less Output — What Smart Leaders Do Differently</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/gen-z-revenue-first-revolution-rejecting-vc-winning-2026</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/gen-z-revenue-first-revolution-rejecting-vc-winning-2026.png</image:loc>
+      <image:title>The Revenue-First Revolution: Why Gen Z Founders Are Rejecting VC Money and Winning</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-literacy-framework-teaching-students-think-not-just-prompt</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-literacy-framework-teaching-students-think-not-just-prompt.png</image:loc>
+      <image:title>The World Just Got Its First AI Literacy Rulebook for Schools — And It&apos;s About Time</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-trillion-dollar-buildout-environmental-cost-nobody-budgeted-for</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-trillion-dollar-buildout-environmental-cost-nobody-budgeted-for.png</image:loc>
+      <image:title>AI&apos;s $7.6 Trillion Buildout Has an Environmental Bill Nobody Budgeted For</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-leadership-wall-career-ladder-mindset-shift-2026</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-leadership-wall-career-ladder-mindset-shift-2026.png</image:loc>
+      <image:title>The Leadership Wall: AI Is Destroying the Career Ladder and Nobody&apos;s Building a New One</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/enterprise-ai-governance-gap-half-companies-failing-audit-2026</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/enterprise-ai-governance-gap-half-companies-failing-audit-2026.png</image:loc>
+      <image:title>The Enterprise AI Governance Gap: Half Your AI Projects Won&apos;t Survive an Audit</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-funding-monopoly-where-smart-founders-raise-money-2026</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-funding-monopoly-where-smart-founders-raise-money-2026.png</image:loc>
+      <image:title>81% of VC Money Goes to AI Startups. Here&apos;s Where Smart Founders Go Instead.</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/anthropic-fable-5-pack-hunt-jailbreak-ai-safety-reckoning</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/anthropic-fable-5-pack-hunt-jailbreak-ai-safety-reckoning.png</image:loc>
+      <image:title>The Fable 5 Incident: When AI Agents Learned to Hunt in Packs</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-anxiety-mindset-shift-from-replacement-fear-to-amplification</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-anxiety-mindset-shift-from-replacement-fear-to-amplification.png</image:loc>
+      <image:title>The AI Anxiety Epidemic: Why the Mindset Shift from Fear to Amplification Is the Only Career Move That Matters</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/botsitting-crisis-hidden-labor-behind-ai-productivity-myth</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/botsitting-crisis-hidden-labor-behind-ai-productivity-myth.png</image:loc>
+      <image:title>The Botsitting Crisis: The Hidden Labor Devouring Your AI Productivity Gains</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-grade-inflation-crisis-universities-learning-without-learning-2026</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-grade-inflation-crisis-universities-learning-without-learning-2026.png</image:loc>
+      <image:title>The AI Grade Inflation Crisis: Universities Are Producing A-Students Who Can&apos;t Think</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/two-track-workforce-pwc-ai-jobs-barometer-corporate-divide-2026</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/two-track-workforce-pwc-ai-jobs-barometer-corporate-divide-2026.png</image:loc>
+      <image:title>The Two-Track Workforce Is Real: PwC&apos;s AI Jobs Barometer Reveals the Corporate Divide</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you.png</image:loc>
+      <image:title>The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/startup-fundraising-bifurcation-billion-dollar-seeds-and-solo-founders-2026</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/startup-fundraising-bifurcation-billion-dollar-seeds-and-solo-founders-2026.png</image:loc>
+      <image:title>The Great Startup Bifurcation: $2 Billion Seeds and Solo Founders Are Rewriting the Rules</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/nvidia-cosmos-3-physical-ai-robots-see-move-react</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/nvidia-cosmos-3-physical-ai-robots-see-move-react.png</image:loc>
+      <image:title>NVIDIA&apos;s Cosmos 3 Is the GPT Moment for Robots — And It&apos;s Open Source</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/universities-ai-literacy-mandate-critical-thinking-crisis-2026</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/universities-ai-literacy-mandate-critical-thinking-crisis-2026.png</image:loc>
+      <image:title>Universities Are Making AI Literacy Mandatory — But Teachers Say It&apos;s Killing Critical Thinking</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-washing-layoffs-corporate-americas-favorite-excuse</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-washing-layoffs-corporate-americas-favorite-excuse.png</image:loc>
+      <image:title>AI-Washing Layoffs: Corporate America&apos;s Favorite New Excuse</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/silent-burnout-workforce-crisis-nobody-talks-about</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/silent-burnout-workforce-crisis-nobody-talks-about.png</image:loc>
+      <image:title>Silent Burnout Is the Workforce Crisis Nobody Wants to Talk About</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-environmental-crisis-water-land-climate-hidden-costs-2026</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-environmental-crisis-water-land-climate-hidden-costs-2026.png</image:loc>
+      <image:title>AI&apos;s Dirty Secret: The Environmental Crisis Nobody Wants to Talk About</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/solo-founders-ai-millionaires-one-person-startup-revolution-2026</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/solo-founders-ai-millionaires-one-person-startup-revolution-2026.png</image:loc>
+      <image:title>The One-Person Startup Millionaire: How Solo Founders Are Using AI to Build Empires</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-attention-deficit-smartest-models-cant-focus-june-2026</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-attention-deficit-smartest-models-cant-focus-june-2026.png</image:loc>
+      <image:title>AI&apos;s Attention Deficit: The Smartest Models Still Can&apos;t Focus</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/cognitive-load-distribution-how-to-think-less-and-decide-better-2026</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/cognitive-load-distribution-how-to-think-less-and-decide-better-2026.png</image:loc>
+      <image:title>Cognitive Load Distribution: How to Think Less and Decide Better</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/corporate-ai-generalist-workforce-hourglass-2026</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/corporate-ai-generalist-workforce-hourglass-2026.jpg</image:loc>
+      <image:title>The Rise of the AI Generalist: Why Corporate Job Titles Are Being Rewritten in 2026</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/universities-building-ai-fluency-pipelines-cmu-mit-stanford-2026</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/universities-building-ai-fluency-pipelines-cmu-mit-stanford-2026.jpg</image:loc>
+      <image:title>CMU, MIT, and Stanford Are Building the AI Fluency Pipeline — And It&apos;s Free</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-fluency-gap-mindset-not-technology-bottleneck-2026</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-fluency-gap-mindset-not-technology-bottleneck-2026.png</image:loc>
+      <image:title>The AI Fluency Gap: Why Mindset, Not Technology, Is the Real Bottleneck in 2026</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/solo-founder-era-one-person-startup-ai-tools-2026</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/solo-founder-era-one-person-startup-ai-tools-2026.png</image:loc>
+      <image:title>The Solo Founder Era: How One Person Can Build What Used to Take a Team of Ten</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/trillion-dollar-ai-spending-boom-bubble-or-breakthrough</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/trillion-dollar-ai-spending-boom-bubble-or-breakthrough.png</image:loc>
+      <image:title>The Trillion-Dollar AI Bet: Are We Watching a Breakthrough or a Bubble?</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/universities-ai-governance-crisis-95-percent-using-20-percent-ready</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/universities-ai-governance-crisis-95-percent-using-20-percent-ready.png</image:loc>
+      <image:title>95% of Students Use AI, But Only 20% of Universities Have a Policy. That&apos;s a Crisis.</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/great-flattening-ai-gutting-middle-management-whats-next</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/great-flattening-ai-gutting-middle-management-whats-next.png</image:loc>
+      <image:title>The Great Flattening: AI Is Gutting Middle Management and Nobody&apos;s Ready for What Comes Next</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/growth-mindset-lie-why-just-try-harder-is-breaking-people</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/growth-mindset-lie-why-just-try-harder-is-breaking-people.png</image:loc>
+      <image:title>The Growth Mindset Lie: Why &apos;Just Try Harder&apos; Is Breaking People</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/one-person-billion-dollar-companies-ai-solo-founders-rewriting-the-rules</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/one-person-billion-dollar-companies-ai-solo-founders-rewriting-the-rules.png</image:loc>
+      <image:title>One-Person Billion-Dollar Companies: How AI Solo Founders Are Rewriting Every Rule</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/trillion-dollar-ai-ipos-what-anthropic-spacex-signal-about-the-future</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/trillion-dollar-ai-ipos-what-anthropic-spacex-signal-about-the-future.png</image:loc>
+      <image:title>Trillion-Dollar AI IPOs Are Here — What Anthropic, SpaceX, and OpenAI Signal About the Future</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/frontier-professionals-ai-agents-new-workforce</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/frontier-professionals-ai-agents-new-workforce.jpg</image:loc>
+      <image:title>Frontier Professionals: The New Workforce Class Created by AI Agents</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/mental-fitness-replacing-hustle-culture-2026</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/mental-fitness-replacing-hustle-culture-2026.jpg</image:loc>
+      <image:title>The Death of Hustle Culture: Why Mental Fitness Is the Real Productivity Hack in 2026</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/300000-copilot-seats-enterprise-ai-operating-system</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/300000-copilot-seats-enterprise-ai-operating-system.png</image:loc>
+      <image:title>300,000 Copilot Seats: When AI Stops Being a Project and Becomes the Operating System</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/universities-scramble-ai-literacy-students-already-ahead</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/universities-scramble-ai-literacy-students-already-ahead.png</image:loc>
+      <image:title>95% of Students Already Use AI — Universities Are Scrambling to Catch Up</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/defense-tech-is-the-new-saas-why-founders-are-flocking-to-military-startups</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/defense-tech-is-the-new-saas-why-founders-are-flocking-to-military-startups.png</image:loc>
+      <image:title>Defense Tech Is the New SaaS: Why Founders Are Flocking to Military Startups</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/the-80-percent-founder-why-strategic-incompletion-beats-burnout</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/the-80-percent-founder-why-strategic-incompletion-beats-burnout.png</image:loc>
+      <image:title>The 80% Founder: Why Strategic Incompletion Beats Burnout</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/anthropic-trillion-dollar-valuation-what-it-signals-about-ai-industry</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/anthropic-trillion-dollar-valuation-what-it-signals-about-ai-industry.png</image:loc>
+      <image:title>Anthropic at $965 Billion: What a Near-Trillion Dollar AI Company Tells Us About Where the Industry Is Headed</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/specialized-educational-ai-end-of-one-size-fits-all-learning</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/specialized-educational-ai-end-of-one-size-fits-all-learning.png</image:loc>
+      <image:title>Specialized Educational AI Is Here — And It&apos;s the End of One-Size-Fits-All Learning</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/permission-to-slow-down-strategic-patience-ai-age</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/permission-to-slow-down-strategic-patience-ai-age.png</image:loc>
+      <image:title>Permission to Slow Down: Why Strategic Patience Is the Most Underrated Skill in the AI Age</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/zero-trust-security-ai-era-corporate-cybersecurity-2026</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/zero-trust-security-ai-era-corporate-cybersecurity-2026.png</image:loc>
+      <image:title>Zero Trust in the AI Era: Why Corporate Cybersecurity Just Got Exponentially Harder</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/digital-transformation-2026-execution-year-not-experimentation</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/digital-transformation-2026-execution-year-not-experimentation.png</image:loc>
+      <image:title>2026 Is the Year of Execution: Why Digital Transformation Finally Got Serious</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/resilience-mindset-professional-surviving-constant-change</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/resilience-mindset-professional-surviving-constant-change.png</image:loc>
+      <image:title>The Resilience Mindset: How to Survive (and Thrive) When Everything Changes Quarterly</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-data-center-chip-wars-infrastructure-race-2026</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-data-center-chip-wars-infrastructure-race-2026.png</image:loc>
+      <image:title>The AI Infrastructure Race: Data Centers, Chip Wars, and the $200B Bet on Compute</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/vertical-ai-unsexy-industries-biggest-opportunities</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/vertical-ai-unsexy-industries-biggest-opportunities.png</image:loc>
+      <image:title>Vertical AI: Why the Biggest Opportunities Are in the Most Unsexy Industries</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-not-replacing-you-person-using-ai-is</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-not-replacing-you-person-using-ai-is.png</image:loc>
+      <image:title>AI Won&apos;t Replace You. A Person Using AI Will. Here&apos;s How to Be That Person.</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-worker-power-who-decides-how-ai-changes-your-job</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-worker-power-who-decides-how-ai-changes-your-job.png</image:loc>
+      <image:title>Who Decides How AI Changes Your Job? The Worker Power Question We&apos;re Ignoring</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/academic-integrity-ai-assessment-redesign-2026</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/academic-integrity-ai-assessment-redesign-2026.png</image:loc>
+      <image:title>The Academic Integrity Crisis: Why Universities Must Redesign Assessment for the AI Era</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/hyperautomation-corporate-beyond-rpa-intelligent-workflows</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/hyperautomation-corporate-beyond-rpa-intelligent-workflows.png</image:loc>
+      <image:title>Beyond RPA: Hyperautomation Is Rewriting How Corporations Actually Work</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/gen-z-founders-reshaping-startup-culture-2026</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/gen-z-founders-reshaping-startup-culture-2026.png</image:loc>
+      <image:title>Gen Z Founders Are Reshaping Startup Culture — And Investors Don&apos;t Know What to Do</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/trust-transparency-startup-competitive-advantage-2026</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/trust-transparency-startup-competitive-advantage-2026.png</image:loc>
+      <image:title>Trust and Transparency: The Startup Competitive Advantage Nobody&apos;s Talking About</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-research-pipeline-literature-review-to-publication</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-research-pipeline-literature-review-to-publication.png</image:loc>
+      <image:title>How AI Is Rewriting the Research Pipeline: From Literature Review to Publication</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/metacognitive-laziness-ai-students-thinking-less</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/metacognitive-laziness-ai-students-thinking-less.png</image:loc>
+      <image:title>Metacognitive Laziness: Are AI Tools Making Students Think Less?</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-upskilling-corporate-billions-wasted-what-works</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-upskilling-corporate-billions-wasted-what-works.png</image:loc>
+      <image:title>Companies Are Spending Billions on AI Training. Most of It Will Fail.</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/growth-mindset-ai-era-why-learning-speed-beats-expertise</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/growth-mindset-ai-era-why-learning-speed-beats-expertise.png</image:loc>
+      <image:title>Growth Mindset in the AI Era: Why Learning Speed Now Beats Expertise</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-mega-rounds-65-billion-anthropic-what-it-means</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-mega-rounds-65-billion-anthropic-what-it-means.png</image:loc>
+      <image:title>Anthropic&apos;s $65B Round and the AI Funding Frenzy: What It Means for Everyone Else</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/building-ai-products-without-raising-millions</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/building-ai-products-without-raising-millions.png</image:loc>
+      <image:title>Building AI Products Without Raising Millions: The Bootstrap Founder&apos;s Guide for 2026</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/four-ai-mindsets-mckinsey-framework-practical-guide</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/four-ai-mindsets-mckinsey-framework-practical-guide.png</image:loc>
+      <image:title>The Four AI Mindsets: A Practical Guide to McKinsey&apos;s Framework for Thriving in 2026</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/sam-altman-ai-job-losses-honest-conversation</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/sam-altman-ai-job-losses-honest-conversation.png</image:loc>
+      <image:title>Sam Altman Admitted AI Will Kill Jobs. Now What?</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/agentic-ai-enterprise-autonomous-workflows-corporate</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/agentic-ai-enterprise-autonomous-workflows-corporate.png</image:loc>
+      <image:title>Agentic AI in the Enterprise: Why Autonomous Workflows Are Becoming the Default</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/universities-treating-ai-infrastructure-not-experiment</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/universities-treating-ai-infrastructure-not-experiment.png</image:loc>
+      <image:title>Universities Are Finally Treating AI as Infrastructure, Not an Experiment</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/founder-mindset-trap-why-hustle-culture-kills-startups</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/founder-mindset-trap-why-hustle-culture-kills-startups.png</image:loc>
+      <image:title>The Founder Mindset Trap: Why Hustle Culture Is Killing More Startups Than Competition</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/lean-ai-startups-tiny-teams-beating-giants-2026</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/lean-ai-startups-tiny-teams-beating-giants-2026.png</image:loc>
+      <image:title>Lean AI Startups: How Tiny Teams Are Beating Giants in 2026</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/adaptive-learning-platforms-reshaping-higher-education-2026</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/adaptive-learning-platforms-reshaping-higher-education-2026.png</image:loc>
+      <image:title>Adaptive Learning Platforms Are Reshaping Higher Education — And Most Schools Aren&apos;t Ready</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-literacy-new-core-competency-every-student-needs</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-literacy-new-core-competency-every-student-needs.png</image:loc>
+      <image:title>AI Literacy Is the New Core Competency Every Student Needs — And We&apos;re Failing to Teach It</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/sky-mind-resilience-why-toughness-is-dead-and-clarity-wins</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/sky-mind-resilience-why-toughness-is-dead-and-clarity-wins.jpg</image:loc>
+      <image:title>Sky Mind Resilience: Why Toughness Is Dead and Clarity Wins</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/the-two-tier-workforce-is-here-ai-agents-are-splitting-companies-in-half</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/the-two-tier-workforce-is-here-ai-agents-are-splitting-companies-in-half.jpg</image:loc>
+      <image:title>The Two-Tier Workforce Is Here: AI Agents Are Splitting Companies in Half</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-agents-are-killing-apps-and-thats-a-good-thing</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-agents-are-killing-apps-and-thats-a-good-thing.png</image:loc>
+      <image:title>AI Agents Are Killing Apps — And That&apos;s a Good Thing</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/the-solopreneur-golden-age-why-one-person-startups-are-winning-in-2026</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/the-solopreneur-golden-age-why-one-person-startups-are-winning-in-2026.png</image:loc>
+      <image:title>The Solopreneur Golden Age: Why One-Person Startups Are Winning in 2026</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/mental-model-separating-burnout-from-thriving</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/mental-model-separating-burnout-from-thriving.jpg</image:loc>
+      <image:title>The Mental Model That Separates Burnt-Out Professionals From Thriving Ones</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/year-of-ai-agents-enterprise-readiness-gap</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/year-of-ai-agents-enterprise-readiness-gap.jpg</image:loc>
+      <image:title>2026 Is the Year of AI Agents — And Most Companies Aren&apos;t Ready</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/ai-phds-returning-academia-2026-industry-brain-drain-reversal</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/ai-phds-returning-academia-2026-industry-brain-drain-reversal.jpg</image:loc>
+      <image:title>AI PhDs Are Going Back to Academia — And That Changes Everything</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/corporate-ai-strategy-theater-roi-accountability-2026</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/corporate-ai-strategy-theater-roi-accountability-2026.jpg</image:loc>
+      <image:title>The AI Strategy Theater: Why Most Corporate AI Plans Are Just Expensive Performances</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/decision-fatigue-ai-paradox-of-choice-founders</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/decision-fatigue-ai-paradox-of-choice-founders.png</image:loc>
+      <image:title>The Paradox of Infinite Tools: Why More AI Options Are Making Founders Worse at Deciding</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/solo-corn-one-person-ai-startups-millions-revenue</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/solo-corn-one-person-ai-startups-millions-revenue.png</image:loc>
+      <image:title>The Solo-Corn Era: How One-Person AI Startups Are Hitting Millions in Revenue</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/meta-tribe-v2-digital-twin-brain-agentic-ai-self-verification</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/meta-tribe-v2-digital-twin-brain-agentic-ai-self-verification.png</image:loc>
+      <image:title>Meta&apos;s TRIBE v2 and the New AI Frontier: Digital Twins of the Brain, Self-Verifying Agents, and Why It All Matters</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/universities-ai-literacy-gap-students-using-without-understanding</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/universities-ai-literacy-gap-students-using-without-understanding.png</image:loc>
+      <image:title>The AI Literacy Gap: 90% of Students Use AI, But Almost Nobody&apos;s Teaching Them How</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/shadow-agents-agentic-ai-governance-crisis-enterprises-2026</loc>
+    <lastmod>2026-05-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/shadow-agents-agentic-ai-governance-crisis-enterprises-2026.png</image:loc>
+      <image:title>Shadow Agents Are Tearing Companies Apart: The Agentic AI Governance Crisis of 2026</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/sky-mind-career-resilience-energy-not-endurance-2026</loc>
+    <lastmod>2026-05-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/sky-mind-career-resilience-energy-not-endurance-2026.png</image:loc>
+      <image:title>The Sky Mind Framework: Why Career Resilience in 2026 Is About Energy, Not Endurance</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/agentic-ai-is-killing-the-app-as-we-know-it</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/agentic-ai-is-killing-the-app-as-we-know-it.png</image:loc>
+      <image:title>Agentic AI Is Killing the App As We Know It</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/why-80-percent-of-vc-money-is-chasing-ai-and-what-smart-founders-do-differently</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/why-80-percent-of-vc-money-is-chasing-ai-and-what-smart-founders-do-differently.png</image:loc>
+      <image:title>Why 80% of VC Money Is Chasing AI — And What Smart Founders Do Differently</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/calm-as-competitive-advantage-2026</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/calm-as-competitive-advantage-2026.png</image:loc>
+      <image:title>Calm as a Competitive Advantage: Why the Best Builders Stay Centered</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://blog.youmake.dev/articles/meta-agent-sprawl-problem-ai-complexity</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://blog.youmake.dev/images/blog/meta-agent-sprawl-problem-ai-complexity.png</image:loc>
+      <image:title>Meta&apos;s Agent Sprawl Problem Is a Warning for Every Company Building with AI</image:title>
     </image:image>
   </url>
 
@@ -38,17 +1204,6 @@
     <image:image>
       <image:loc>https://blog.youmake.dev/images/blog/fake-citations-ai-crisis-threatening-academic-research.png</image:loc>
       <image:title>Nearly 3,000 Papers Have Fake Citations: The AI-Fueled Crisis Threatening Academic Research</image:title>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://blog.youmake.dev/articles/free-ai-website-builder</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://blog.youmake.dev/images/blog/free-ai-website-builder.png</image:loc>
-      <image:title>Free AI Website Builder: Build Professional Sites at Zero Cost (2026)</image:title>
     </image:image>
   </url>
 
@@ -93,28 +1248,6 @@
     <image:image>
       <image:loc>https://blog.youmake.dev/images/blog/what-is-vibe-coding-guide.png</image:loc>
       <image:title>What is Vibe Coding? Complete Guide to the AI Coding Revolution (2026)</image:title>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://blog.youmake.dev/articles/youmake-vs-bolt</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://blog.youmake.dev/images/blog/youmake-vs-bolt-comparison.png</image:loc>
-      <image:title>Youmake vs Bolt.new (2026): Which AI Builder Actually Ships Production Apps?</image:title>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://blog.youmake.dev/articles/youmake-vs-lovable</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://blog.youmake.dev/images/blog/youmake-vs-lovable-comparison.png</image:loc>
-      <image:title>Youmake vs Lovable (2026): Complete Comparison for AI App Building</image:title>
     </image:image>
   </url>
 

@@ -101,9 +101,10 @@ Think less. But think about the right things.
 - [Forbes: 5 Mindset Shifts to Unlock Your Best Year in 2026](https://www.forbes.com/sites/jodiecook/2025/12/27/5-mindset-shifts-to-unlock-your-best-year-in-2026/)
 - [Forbes: 4 Ways to Supercharge Your Team Using AI and Prevent Cognitive Offloading](https://www.forbes.com/sites/sallypercy/2026/01/20/4-ways-to-supercharge-your-team-using-ai-and-prevent-cognitive-offloading/)
 - [Daily Growth Insights: The 2026 Mindset Shift](https://www.dailygrowthinsights.com/post/the-2026-mindset-shift-what-we-re-leaving-behind-in-2025-and-what-we-re-choosing-to-carry-forward)
+---
 
 ## Read Next
 
-- [Decision Fatigue and the AI Paradox of Choice for Founders](/articles/decision-fatigue-ai-paradox-of-choice-founders)
-- [The 80% Founder: Why Strategic Incompletion Beats Burnout](/articles/the-80-percent-founder-why-strategic-incompletion-beats-burnout)
-- [The Overthinking Trap: Why Smart People Build Nothing](/articles/the-overthinking-trap-why-smart-people-build-nothing)
+- [The AI Fatigue Paradox: More Tools, Less Output — What Smart Leaders Do Differently](/articles/ai-fatigue-paradox-more-tools-less-output-what-smart-leaders-do-differently)
+- [The Paradox of Infinite Tools: Why More AI Options Are Making Founders Worse at Deciding](/articles/decision-fatigue-ai-paradox-of-choice-founders)
+- [The AI Fluency Gap: Why Mindset, Not Technology, Is the Real Bottleneck in 2026](/articles/ai-fluency-gap-mindset-not-technology-bottleneck-2026)

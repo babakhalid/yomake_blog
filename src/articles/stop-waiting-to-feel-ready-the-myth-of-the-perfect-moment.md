@@ -87,6 +87,6 @@ What are you waiting for?
 
 ## Read Next
 
-- [Stop Mandating AI Adoption — Let Your Team Lead the Way](/articles/stop-mandating-ai-adoption-let-your-team-lead-the-way)
-- [The Leadership Paradox: Why the Most Successful Leaders Have the Worst Days](/articles/the-leadership-paradox-why-successful-leaders-have-worse-days)
-- [The Leadership Paradox: Why the Most Successful People Have the Worst Days](/articles/the-leadership-paradox-why-the-most-successful-people-have-the-worst-days)
+- [The AI Fatigue Paradox: More Tools, Less Output — What Smart Leaders Do Differently](/articles/ai-fatigue-paradox-more-tools-less-output-what-smart-leaders-do-differently)
+- [The AI Fluency Gap: Why Mindset, Not Technology, Is the Real Bottleneck in 2026](/articles/ai-fluency-gap-mindset-not-technology-bottleneck-2026)
+- [The Leadership Wall: AI Is Destroying the Career Ladder and Nobody's Building a New One](/articles/ai-leadership-wall-career-ladder-mindset-shift-2026)

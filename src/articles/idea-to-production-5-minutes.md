@@ -9,7 +9,7 @@ keywords: ["deploy app in 5 minutes", "AI web builder", "vibe coding tutorial", 
 published: true
 ---
 
-What if you could turn an idea into a live, production-ready web application in less time than it takes to make coffee? With [Youmake](https://youmake.dev), that's not a hypothetical—it's your new reality.
+What if you could turn an idea into a live, production-ready web application in less time than it takes to make coffee? With [Youmake](https://www.youmake.dev/), that's not a hypothetical—it's your new reality.
 
 ## The Old Way vs. The Youmake Way
 
@@ -27,7 +27,7 @@ Traditional web development follows a painful path:
 
 ### Minute 1: Describe Your Vision
 
-Head to [youmake.dev](https://youmake.dev) and describe what you want to build. Be as specific or as vague as you like:
+Head to [youmake.dev](https://www.youmake.dev/) and describe what you want to build. Be as specific or as vague as you like:
 
 > "A portfolio website for a photographer with a dark theme, image gallery, contact form, and about page"
 
@@ -126,12 +126,12 @@ Learn more about [how to build landing pages in 60 seconds](/blog/landing-page-6
 
 Ready to turn your idea into reality?
 
-1. Visit [youmake.dev](https://youmake.dev)
+1. Visit [youmake.dev](https://www.youmake.dev/)
 2. Describe your app in plain English
 3. Watch it come to life
 4. Deploy with one click
 
-No credit card required to start. No coding knowledge needed. Just your idea and 5 minutes.
+Start with a 3-day trial for $1. No coding knowledge needed. Just your idea and 5 minutes.
 
 ## Frequently Asked Questions
 
@@ -145,15 +145,15 @@ Yes! Youmake generates clean, standard code that any developer can modify.
 Youmake handles surprisingly complex applications. For advanced features, you can iterate through conversation.
 
 ### How much does it cost?
-Youmake offers a free tier to get started. Check [youmake.dev/pricing](https://youmake.dev/pricing) for details.
+Youmake plans start at $20/month, and you can try it for 3 days for $1. See [current pricing](https://www.youmake.dev/#pricing).
 
 ---
 
-*The era of waiting weeks to see your ideas come to life is over. [Start building at youmake.dev](https://youmake.dev) and deploy your first app in 5 minutes.*
+*The era of waiting weeks to see your ideas come to life is over. [Start building at youmake.dev](https://www.youmake.dev/) and deploy your first app in 5 minutes.*
 ---
 
 ## Read Next
 
 - [How to Build a Landing Page in 60 Seconds with AI](/articles/landing-page-60-seconds-ai)
-- [Free AI Website Builder: Build Professional Sites at Zero Cost (2026)](/articles/free-ai-website-builder)
 - [How to Build an App Without Coding in 2026 (Step-by-Step Guide)](/articles/how-to-build-app-without-coding)
+- [What is Vibe Coding? Complete Guide to the AI Coding Revolution (2026)](/articles/what-is-vibe-coding)

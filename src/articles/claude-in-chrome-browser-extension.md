@@ -81,4 +81,4 @@ For anyone who spends significant time browsing the web for research, learning, 
 
 - [10 Real-World OpenClaw Use Cases: How People Actually Use Their AI Assistant](/articles/openclaw-use-cases-real-world)
 - [Claude in PowerPoint: AI-Powered Presentations Are Here](/articles/claude-powerpoint-ai-presentations)
-- [Cognitive Surrender: What Happens When You Let AI Think for You](/articles/cognitive-surrender-when-ai-thinks-for-you-system-3)
+- [Getting Started with OpenClaw: Your AI-Powered Personal Assistant](/articles/getting-started-with-openclaw)

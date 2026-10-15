@@ -92,4 +92,4 @@ I know which side I'm on.
 
 - [Meta's Avocado Delay Signals Something Bigger About the AI Race](/articles/meta-avocado-delay-signals-ai-race-shifting)
 - [Dead Companies Are Feeding AI — And It's More Dystopian Than You Think](/articles/dead-companies-are-feeding-ai-and-its-more-dystopian-than-you-think)
-- [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
+- [The AI Burnout Paradox: Why Your Productivity Tools Are Breaking You](/articles/ai-burnout-paradox-why-productivity-tools-are-breaking-workers)

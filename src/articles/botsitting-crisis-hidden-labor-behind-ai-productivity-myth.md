@@ -82,9 +82,10 @@ Stop counting hours saved. Start counting outcomes delivered. That's where the r
 - [Gartner: 40% of Enterprise Apps Will Feature Task-Specific AI Agents by 2026](https://www.gartner.com/en/newsroom/press-releases/2025-08-26-gartner-predicts-40-percent-of-enterprise-apps-will-feature-task-specific-ai-agents-by-2026-up-from-less-than-5-percent-in-2025)
 - [Forrester: Predictions 2026 — AI Agents and Enterprise Software](https://www.forrester.com/blogs/predictions-2026-ai-agents-changing-business-models-and-workplace-culture-impact-enterprise-software/)
 - [BCG: AI Will Reshape More Jobs Than It Replaces](https://www.bcg.com/publications/2026/ai-will-reshape-more-jobs-than-it-replaces)
+---
 
 ## Read Next
 
-- [Why 40% of Corporate AI Agent Projects Will Fail](/articles/why-40-percent-of-corporate-ai-agent-projects-will-fail)
-- [Shadow Agents: The Agentic AI Governance Crisis in Enterprises](/articles/shadow-agents-agentic-ai-governance-crisis-enterprises-2026)
 - [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)
+- [The AI Productivity Paradox: 80% of Workers Use AI Tools, Focus Is at a 3-Year Low](/articles/ai-productivity-paradox-focus-crisis-what-high-performers-do-differently)
+- [Meta's Agent Sprawl Problem Is a Warning for Every Company Building with AI](/articles/meta-agent-sprawl-problem-ai-complexity)

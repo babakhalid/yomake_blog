@@ -194,6 +194,8 @@ function main() {
     if (PROCESS_ALL && hasRelatedSection(newBody)) {
       // Remove from the related heading to the end
       newBody = newBody.replace(/\n---\s*\n##\s*(Related|Further Reading|You Might Also Like|Read Next)[\s\S]*$/, '');
+      // Daily articles end with a bare "## Read Next" link list (no rule above it); drop it so builds don't stack a second one.
+      newBody = newBody.replace(/\n##\s*Read Next\s*\n(?:\s*- \[[^\]]*\]\([^)]*\)\s*)*$/, '');
     }
 
     // Append related section

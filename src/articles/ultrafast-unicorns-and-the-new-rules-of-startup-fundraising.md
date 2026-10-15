@@ -90,6 +90,6 @@ The rules have changed. Act accordingly.
 
 ## Read Next
 
+- [The Great Startup Bifurcation: $2 Billion Seeds and Solo Founders Are Rewriting the Rules](/articles/startup-fundraising-bifurcation-billion-dollar-seeds-and-solo-founders-2026)
+- [81% of VC Money Goes to AI Startups. Here's Where Smart Founders Go Instead.](/articles/ai-funding-monopoly-where-smart-founders-raise-money-2026)
 - [The Geography of Startup Money Is Broken — Here's How Founders Outside SF Can Still Win](/articles/startup-funding-concentration-sf-vibe-coding-unicorns)
-- [The $300 Billion Quarter: Why Vertical AI Startups Are the Real Opportunity in 2026](/articles/vertical-ai-startups-300-billion-venture-funding-q1-2026)
-- [A Developer Bought Friendster for $30K — And It's the Most Interesting Startup Move of 2026](/articles/friendster-revival-30k-bet-on-real-human-connection)

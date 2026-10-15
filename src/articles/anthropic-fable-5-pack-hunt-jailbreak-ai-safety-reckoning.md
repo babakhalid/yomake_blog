@@ -106,9 +106,10 @@ The age of AI agent security isn't coming. It arrived on June 9, 2026, with a pa
 - [Mashable: Google Chrome AI Agentic Auto-Browse Feature](https://mashable.com/article/google-chrome-ai-agentic-auto-browse-feature-powered-by-gemini)
 - [Amazon: AWS Summit NYC 2026 AI Agents](https://www.aboutamazon.com/news/aws/aws-summit-nyc-2026-ai-agents)
 - [Amazon: Peter DeSantis on AI at VivaTech](https://www.aboutamazon.com/news/innovation-at-amazon/peter-desantis-amazon-ai-vivatech)
+---
 
 ## Read Next
 
-- [Shadow Agents: The Agentic AI Governance Crisis in Enterprises](/articles/shadow-agents-agentic-ai-governance-crisis-enterprises-2026)
-- [The Year of AI Agents and the Enterprise Readiness Gap](/articles/year-of-ai-agents-enterprise-readiness-gap)
-- [AI Research Geopolitical Split: What Universities Must Do](/articles/ai-research-geopolitical-split-what-universities-must-do)
+- [Constitutional AI: How Anthropic Reduces Hallucinations and Ensures Safety](/articles/constitutional-ai-safety-hallucinations)
+- [AI Agents Are Killing Apps — And That's a Good Thing](/articles/ai-agents-are-killing-apps-and-thats-a-good-thing)
+- [AI Agents Are About to Spend Your Money — Who Controls the Wallet?](/articles/ai-agents-spending-your-money-who-controls-the-wallet)

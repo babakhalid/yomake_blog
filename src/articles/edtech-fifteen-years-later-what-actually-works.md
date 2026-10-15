@@ -105,11 +105,11 @@ And that's worth every dollar.
 
 ---
 
-*Building education tools that actually work? Youmake helps developers and educators go from idea to app at the speed of thought. [Start building today](https://youmake.dev).*
+*Building education tools that actually work? Youmake helps developers and educators go from idea to app at the speed of thought. [Start building today](https://www.youmake.dev/).*
 ---
 
 ## Read Next
 
 - [The Ed-Tech Evidence Crisis: Why Schools Are Finally Asking 'Does This Actually Work?'](/articles/ed-tech-evidence-crisis-schools-rethinking-digital-tools)
+- [The World Just Got Its First AI Literacy Rulebook for Schools — And It's About Time](/articles/ai-literacy-framework-teaching-students-think-not-just-prompt)
 - [AI Agents Are Quietly Reshaping How We Learn, Research, and Publish](/articles/ai-agents-reshaping-education-research-workflows)
-- [27 States Are Writing AI Education Rules Right Now — And Most Schools Aren't Ready](/articles/ai-education-legislation-2026-states-are-writing-the-rules)

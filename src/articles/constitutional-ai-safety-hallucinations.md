@@ -83,6 +83,6 @@ For users choosing among AI assistants, Constitutional AI training represents me
 
 ## Read Next
 
+- [The Fable 5 Incident: When AI Agents Learned to Hunt in Packs](/articles/anthropic-fable-5-pack-hunt-jailbreak-ai-safety-reckoning)
 - [AI Models Are Now Protecting Each Other From Being Deleted — And That Should Make Us Think](/articles/ai-models-protect-each-other-peer-preservation-research)
 - [1 Million Token Context: The End of 'Context Rot' in AI](/articles/1m-context-window-revolution)
-- [Adaptive Thinking: AI That Knows When to Think Deeper](/articles/adaptive-thinking-ai-context-aware-reasoning)

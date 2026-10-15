@@ -129,6 +129,6 @@ That's the mindset. Everything else is just process.
 
 ## Read Next
 
-- [Stop Mandating AI Adoption — Let Your Team Lead the Way](/articles/stop-mandating-ai-adoption-let-your-team-lead-the-way)
-- [Stop Optimizing, Start Doing: Why Clarity Beats Perfection Every Time](/articles/stop-optimizing-start-doing-clarity-over-perfection)
-- [Stop Waiting to Feel Ready: The Myth of the Perfect Moment](/articles/stop-waiting-to-feel-ready-the-myth-of-the-perfect-moment)
+- [Cognitive Load Distribution: How to Think Less and Decide Better](/articles/cognitive-load-distribution-how-to-think-less-and-decide-better-2026)
+- [The Growth Mindset Lie: Why 'Just Try Harder' Is Breaking People](/articles/growth-mindset-lie-why-just-try-harder-is-breaking-people)
+- [The AI Fatigue Paradox: More Tools, Less Output — What Smart Leaders Do Differently](/articles/ai-fatigue-paradox-more-tools-less-output-what-smart-leaders-do-differently)

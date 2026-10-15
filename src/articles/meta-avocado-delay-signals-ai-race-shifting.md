@@ -97,5 +97,5 @@ Build at the speed of thought. But think before you build.
 ## Read Next
 
 - [The Oscars Just Banned AI Performances — And It Reveals Something Bigger About Creative AI](/articles/oscars-ban-ai-performances-what-it-means-for-creative-ai)
-- [Meta Is Tracking Employee Keystrokes for AI Training — And It Should Worry All of Us](/articles/meta-tracking-employee-keystrokes-ai-training-data-surveillance)
-- [Google Now Generates 75% of Its Code With AI — Here's Why That Changes Everything](/articles/google-75-percent-ai-generated-code-agentic-shift)
+- [Anthropic at $965 Billion: What a Near-Trillion Dollar AI Company Tells Us About Where the Industry Is Headed](/articles/anthropic-trillion-dollar-valuation-what-it-signals-about-ai-industry)
+- [ChatGPT Just Hit 1 Billion Users. The Age of AI Agents Is What Comes Next.](/articles/chatgpt-one-billion-users-ai-agents-era-what-happens-next)

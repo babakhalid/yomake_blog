@@ -78,6 +78,6 @@ That's not just an education problem. It's an everyone problem.
 
 ## Read Next
 
-- [Universities Have an AI Trust Crisis — And It's About to Get Worse](/articles/universities-ai-trust-crisis-who-controls-research-agenda)
-- [Utah Wants Students to Opt Out of Coursework They Disagree With — Here's Why That's a Problem](/articles/utah-conscientious-objection-education-dangerous-precedent)
-- [AI Agents Are Quietly Reshaping How We Learn, Research, and Publish](/articles/ai-agents-reshaping-education-research-workflows)
+- [95% of Students Already Use AI — Universities Are Scrambling to Catch Up](/articles/universities-scramble-ai-literacy-students-already-ahead)
+- [The AI Grade Inflation Crisis: Universities Are Producing A-Students Who Can't Think](/articles/ai-grade-inflation-crisis-universities-learning-without-learning-2026)
+- [95% of Students Use AI, But Only 20% of Universities Have a Policy. That's a Crisis.](/articles/universities-ai-governance-crisis-95-percent-using-20-percent-ready)

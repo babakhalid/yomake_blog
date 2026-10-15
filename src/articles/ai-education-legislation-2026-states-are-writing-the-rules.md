@@ -108,4 +108,4 @@ The states aren't waiting. Neither should you.
 
 - [Universities Are Finally Writing the AI Rulebook—And It's About Time](/articles/universities-are-finally-writing-the-ai-rulebook)
 - [Schools Are Done Experimenting With AI — Now Comes the Hard Part](/articles/ai-education-governance-schools-moving-beyond-experimentation)
-- [The Ed-Tech Evidence Crisis: Why Schools Are Finally Asking 'Does This Actually Work?'](/articles/ed-tech-evidence-crisis-schools-rethinking-digital-tools)
+- [The Academic Integrity Crisis: Why Universities Must Redesign Assessment for the AI Era](/articles/academic-integrity-ai-assessment-redesign-2026)

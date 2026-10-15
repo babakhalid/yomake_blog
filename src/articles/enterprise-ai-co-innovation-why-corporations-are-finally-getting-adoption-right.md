@@ -94,6 +94,6 @@ The era of AI experimentation is over. The era of AI operationalization is here.
 
 ## Read Next
 
-- [Why Your Digital Transformation Needs Three Leaders, Not One](/articles/why-your-digital-transformation-needs-three-leaders-not-one)
-- [Shadow AI Is Winning: Why Your Employees Are Building Behind IT's Back](/articles/shadow-ai-enterprise-employees-building-behind-it)
-- [Google's TurboQuant Is a Wake-Up Call for Enterprise AI Teams](/articles/google-turboquant-enterprise-ai-efficiency)
+- [Oracle Cut 21,000 Jobs for AI. The Enterprise Playbook Is Clear — And It's Ugly.](/articles/oracle-21000-layoffs-enterprise-ai-replacing-workers-not-workflows)
+- [2026 Is the Year of Execution: Why Digital Transformation Finally Got Serious](/articles/digital-transformation-2026-execution-year-not-experimentation)
+- [Beyond RPA: Hyperautomation Is Rewriting How Corporations Actually Work](/articles/hyperautomation-corporate-beyond-rpa-intelligent-workflows)

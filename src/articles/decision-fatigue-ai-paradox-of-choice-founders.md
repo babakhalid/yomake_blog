@@ -92,7 +92,7 @@ The most productive founders I know have unfollowed Product Hunt, muted AI tool 
 
 This is the underrated move. Instead of assembling a 15-tool stack where every integration is a decision, choose platforms that bundle decisions together.
 
-Tools like [Youmake.dev](https://youmake.dev) represent this philosophy — instead of deciding on a frontend framework, backend language, database, hosting provider, CI/CD pipeline, and security configuration separately, you describe what you want and the platform handles the entire stack. That's not laziness. That's strategic decision conservation.
+Tools like [Youmake.dev](https://www.youmake.dev/) represent this philosophy — instead of deciding on a frontend framework, backend language, database, hosting provider, CI/CD pipeline, and security configuration separately, you describe what you want and the platform handles the entire stack. That's not laziness. That's strategic decision conservation.
 
 ## The Deeper Problem: Identity Attachment
 
@@ -109,3 +109,10 @@ AI didn't create the paradox of choice — Barry Schwartz wrote about it in 2004
 The founders who crack this won't be the smartest or the most well-funded. They'll be the ones with the discipline to decide less, commit longer, and protect the quiet space where actual thinking happens.
 
 In a world of infinite options, the scarcest resource isn't capital, talent, or technology. It's a clear head.
+---
+
+## Read Next
+
+- [The AI Fatigue Paradox: More Tools, Less Output — What Smart Leaders Do Differently](/articles/ai-fatigue-paradox-more-tools-less-output-what-smart-leaders-do-differently)
+- [Cognitive Load Distribution: How to Think Less and Decide Better](/articles/cognitive-load-distribution-how-to-think-less-and-decide-better-2026)
+- [The AI Productivity Paradox: 80% of Workers Use AI Tools, Focus Is at a 3-Year Low](/articles/ai-productivity-paradox-focus-crisis-what-high-performers-do-differently)

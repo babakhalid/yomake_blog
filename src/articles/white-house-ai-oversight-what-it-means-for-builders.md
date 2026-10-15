@@ -84,5 +84,5 @@ That's not regulation slowing innovation down. That's the market maturing. And m
 ## Read Next
 
 - [Google Just Bet $40 Billion on Anthropic. Here's Why That Should Make You Think.](/articles/google-anthropic-40-billion-ai-power-concentration)
-- [Dead Companies Are Feeding AI — And It's More Dystopian Than You Think](/articles/dead-companies-are-feeding-ai-and-its-more-dystopian-than-you-think)
-- [Google Now Generates 75% of Its Code With AI — Here's Why That Changes Everything](/articles/google-75-percent-ai-generated-code-agentic-shift)
+- [The AI IPO Wave Is Here: What Cerebras, Anthropic, and OpenAI Going Public Means for the Industry](/articles/ai-ipo-wave-2026-cerebras-anthropic-openai-going-public)
+- [Anthropic's $65B Round and the AI Funding Frenzy: What It Means for Everyone Else](/articles/ai-mega-rounds-65-billion-anthropic-what-it-means)

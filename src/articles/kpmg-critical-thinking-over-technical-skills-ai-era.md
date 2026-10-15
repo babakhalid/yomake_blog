@@ -77,11 +77,11 @@ The future belongs to the thinkers. KPMG figured that out. The question is wheth
 
 ---
 
-*Building something that requires more thinking than coding? [Youmake](https://youmake.dev) helps you go from idea to app at the speed of thought — so you can focus on the judgment calls that actually matter.*
+*Building something that requires more thinking than coding? [Youmake](https://www.youmake.dev/) helps you go from idea to app at the speed of thought — so you can focus on the judgment calls that actually matter.*
 ---
 
 ## Read Next
 
-- [The AI Job Apocalypse Isn't Coming — Here's What's Actually Happening](/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening)
+- [The Leadership Wall: AI Is Destroying the Career Ladder and Nobody's Building a New One](/articles/ai-leadership-wall-career-ladder-mindset-shift-2026)
+- [The Four AI Mindsets: A Practical Guide to McKinsey's Framework for Thriving in 2026](/articles/four-ai-mindsets-mckinsey-framework-practical-guide)
 - [The 'Agentic' Mindset: Silicon Valley's Hottest Buzzword Actually Has a Point](/articles/agentic-mindset-what-it-really-means-2026)
-- [AI Is Splitting Every Industry in Two — Which Side Are You On?](/articles/ai-thinking-amplifier-or-replacement-the-split-that-defines-your-career)

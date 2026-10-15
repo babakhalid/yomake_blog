@@ -98,4 +98,11 @@ The sky doesn't fight the storm. It simply outlasts it.
 
 ---
 
-*Building something and want to move fast without burning out? [Youmake.dev](https://youmake.dev) builds your web app from a single prompt — so you can spend your energy on what actually matters.*
+*Building something and want to move fast without burning out? [Youmake.dev](https://www.youmake.dev/) builds your web app from a single prompt — so you can spend your energy on what actually matters.*
+---
+
+## Read Next
+
+- [Sky Mind Resilience: Why Toughness Is Dead and Clarity Wins](/articles/sky-mind-resilience-why-toughness-is-dead-and-clarity-wins)
+- [AI Is Splitting Every Industry in Two — Which Side Are You On?](/articles/ai-thinking-amplifier-or-replacement-the-split-that-defines-your-career)
+- [The Resilience Mindset: How to Survive (and Thrive) When Everything Changes Quarterly](/articles/resilience-mindset-professional-surviving-constant-change)

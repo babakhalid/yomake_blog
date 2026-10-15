@@ -113,5 +113,5 @@ And those don't reassemble easily.
 ## Read Next
 
 - [27 States Are Writing AI Education Rules Right Now — And Most Schools Aren't Ready](/articles/ai-education-legislation-2026-states-are-writing-the-rules)
-- [From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry](/articles/ai-reshaping-university-research-from-lab-to-industry)
-- [Schools Are Done Experimenting With AI — Now Comes the Hard Part](/articles/ai-education-governance-schools-moving-beyond-experimentation)
+- [95% of Students Use AI, But Only 20% of Universities Have a Policy. That's a Crisis.](/articles/universities-ai-governance-crisis-95-percent-using-20-percent-ready)
+- [Universities Are Finally Treating AI as Infrastructure, Not an Experiment](/articles/universities-treating-ai-infrastructure-not-experiment)

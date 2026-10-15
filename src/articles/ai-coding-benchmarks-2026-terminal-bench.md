@@ -119,9 +119,11 @@ Always test on your own use cases.
 
 ---
 
-*Skip the benchmarks, ship the product. [Youmake](https://youmake.dev) uses frontier AI to build your app—you don't need to compare models.*
+*Skip the benchmarks, ship the product. [Youmake](https://www.youmake.dev/) uses frontier AI to build your app—you don't need to compare models.*
 ---
 
 ## Read Next
 
 - [1 Million Token Context: The End of 'Context Rot' in AI](/articles/1m-context-window-revolution)
+- [Free AI Website Builders in 2026: What's Actually Free (and When to Pay)](/articles/free-ai-website-builder)
+- [Best Vibe Coding Tools in 2026, by What You're Building](/articles/best-vibe-coding-tools)

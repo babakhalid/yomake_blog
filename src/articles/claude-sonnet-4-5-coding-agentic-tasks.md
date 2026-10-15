@@ -68,5 +68,5 @@ As these capabilities continue advancing, the nature of software development its
 ## Read Next
 
 - [Claude Opus 4.6: Anthropic's Most Powerful AI Model Yet](/articles/claude-opus-4-6-release)
-- [Google Now Generates 75% of Its Code With AI — Here's Why That Changes Everything](/articles/google-75-percent-ai-generated-code-agentic-shift)
+- [Agentic AI Is Killing the App As We Know It](/articles/agentic-ai-is-killing-the-app-as-we-know-it)
 - [Agent Teams in Claude Code: Multi-Agent AI Development Is Here](/articles/agent-teams-claude-code-multi-agent)

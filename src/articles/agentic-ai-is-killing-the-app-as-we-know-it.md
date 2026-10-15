@@ -50,7 +50,7 @@ The companies that will win are the ones building for agents first, humans secon
 - **Permission models for autonomous systems** — agents need scoped access, audit trails, and fail-safes
 - **Composable workflows** — agents don't use your product in isolation; they chain it with others
 
-The irony? Tools like [Youmake.dev](https://youmake.dev) that let you describe what you want and get a working app are perfectly positioned for this world. When the end user is an agent orchestrating other agents, the ability to spin up purpose-built applications from a description becomes infrastructure, not convenience.
+The irony? Tools like [Youmake.dev](https://www.youmake.dev/) that let you describe what you want and get a working app are perfectly positioned for this world. When the end user is an agent orchestrating other agents, the ability to spin up purpose-built applications from a description becomes infrastructure, not convenience.
 
 ## The Human Layer Isn't Going Away — It's Moving Up
 
@@ -67,3 +67,10 @@ The app isn't dead yet. But it's been given its notice.
 ---
 
 *The question isn't whether agentic AI will reshape software. It's whether you'll be building the agents, building for the agents, or watching from the sidelines.*
+---
+
+## Read Next
+
+- [AI Agents Are Killing Apps — And That's a Good Thing](/articles/ai-agents-are-killing-apps-and-thats-a-good-thing)
+- [Google Now Generates 75% of Its Code With AI — Here's Why That Changes Everything](/articles/google-75-percent-ai-generated-code-agentic-shift)
+- [400,000 Teachers Are Learning to Build AI Agents — This Changes Everything](/articles/teachers-building-ai-agents-classroom-instruction)

@@ -103,6 +103,6 @@ The cloud exclusivity era of AI is over. Build accordingly.
 
 ## Read Next
 
-- [OpenAI's Codex Now Lives in Your Browser — And That Changes Everything](/articles/openai-codex-chrome-extension-ai-agents-enter-your-browser)
 - [OpenAI Wants to Buy Fusion Energy — And That Should Tell You Everything About AI's Power Problem](/articles/openai-fusion-energy-helion-deal-ai-power-crisis)
-- [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
+- [OpenAI's Codex Now Lives in Your Browser — And That Changes Everything](/articles/openai-codex-chrome-extension-ai-agents-enter-your-browser)
+- [OpenAI's Jalapeño Chip Changes Everything About AI Infrastructure](/articles/openai-jalapeno-chip-vertical-integration-ai-infrastructure)

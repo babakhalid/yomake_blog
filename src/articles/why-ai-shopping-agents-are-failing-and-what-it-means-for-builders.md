@@ -95,11 +95,11 @@ Walmart learned that lesson the hard way. You don't have to.
 
 ---
 
-*Building an AI product and want to move fast without losing the plot? [Youmake](https://youmake.dev) helps you go from idea to production at the speed of thought. Your app is one prompt away.*
+*Building an AI product and want to move fast without losing the plot? [Youmake](https://www.youmake.dev/) helps you go from idea to production at the speed of thought. Your app is one prompt away.*
 ---
 
 ## Read Next
 
-- [OpenAI's Codex Now Lives in Your Browser — And That Changes Everything](/articles/openai-codex-chrome-extension-ai-agents-enter-your-browser)
-- [The White House Wants to Vet AI Models Before Release — Here's What It Means for Builders](/articles/white-house-ai-oversight-what-it-means-for-builders)
-- [Google Now Generates 75% of Its Code With AI — Here's Why That Changes Everything](/articles/google-75-percent-ai-generated-code-agentic-shift)
+- [ChatGPT Just Hit 1 Billion Users. The Age of AI Agents Is What Comes Next.](/articles/chatgpt-one-billion-users-ai-agents-era-what-happens-next)
+- [Agentic AI Is Killing the App As We Know It](/articles/agentic-ai-is-killing-the-app-as-we-know-it)
+- [AI Agents Are Killing Apps — And That's a Good Thing](/articles/ai-agents-are-killing-apps-and-thats-a-good-thing)

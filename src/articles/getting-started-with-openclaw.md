@@ -121,7 +121,7 @@ OpenClaw is more than an AI assistant — it's your AI-powered digital companion
 
 ---
 
-*Ready to build with AI? Try [Youmake](https://youmake.dev) — the #1 vibe coding platform. Describe what you want, get a working web app in seconds. [Start building free →](https://youmake.dev)*
+*Ready to build with AI? Try [Youmake](https://www.youmake.dev/): describe what you want and get a working web app. [Start a 3-day trial for $1 →](https://www.youmake.dev/)*
 ---
 
 ## Read Next

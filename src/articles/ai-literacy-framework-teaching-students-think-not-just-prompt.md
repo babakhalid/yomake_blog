@@ -106,9 +106,10 @@ The framework is the easy part. The hard part starts now.
 - [Stanford HAI: AI Index 2026 Education Report](https://hai.stanford.edu/ai-index/2026-ai-index-report/education)
 - [Filament Games: Latest Findings in AI and Learning, June 2026](https://www.filamentgames.com/blog/the-latest-findings-in-ai-and-learning-june-2026)
 - [Brookings: AI and the Future of Teaching and Learning Event](https://www.brookings.edu/events/ai-and-the-future-of-teaching-and-learning/)
+---
 
 ## Read Next
 
-- [Universities Are Finally Writing the AI Rulebook](/articles/universities-are-finally-writing-the-ai-rulebook)
-- [The AI Grade Inflation Crisis](/articles/ai-grade-inflation-crisis-universities-learning-without-learning-2026)
-- [Students Worried AI Is Eroding Critical Thinking Skills](/articles/students-worried-ai-eroding-critical-thinking-skills)
+- [AI Literacy Is the New Core Competency Every Student Needs — And We're Failing to Teach It](/articles/ai-literacy-new-core-competency-every-student-needs)
+- [92% of Students Use AI — But Barely Half Have Been Taught How](/articles/ai-skills-gap-crisis-92-percent-students-using-ai-no-training)
+- [The Ed-Tech Evidence Crisis: Why Schools Are Finally Asking 'Does This Actually Work?'](/articles/ed-tech-evidence-crisis-schools-rethinking-digital-tools)

@@ -81,9 +81,10 @@ If you're building with AI — whether you're a [startup founder](/articles/trus
 - [Semafor: White House Concerns About Chinese Access to Mythos](https://www.semafor.com/article/06/13/2026/white-house-move-to-limit-anthropic-linked-to-concerns-about-chinese-access-to-mythos)
 - [Morrison Foerster: Colorado Hits Reset on AI Regulation](https://www.mofo.com/resources/insights/260515-colorado-hits-reset-ai-regulation)
 - [UseTenfold: Top AI Trends June 2026](https://www.usetenfold.ai/blog/top-ai-trends-in-june-2026-what-enterprise-leaders-need-to-know-now)
+---
 
 ## Read Next
 
-- [The AI Transparency Crisis: Why Companies Can't Be Honest](/articles/ai-transparency-crisis-2026-companies-cant-be-honest)
-- [Trust and Transparency as Startup Competitive Advantage](/articles/trust-transparency-startup-competitive-advantage-2026)
-- [Enterprise AI Governance Gap: Half of Companies Failing Audit](/articles/enterprise-ai-governance-gap-half-companies-failing-audit-2026)
+- [The AI IPO Wave Is Here: What Cerebras, Anthropic, and OpenAI Going Public Means for the Industry](/articles/ai-ipo-wave-2026-cerebras-anthropic-openai-going-public)
+- [The AI Transparency Crisis: Why Companies That Preach Openness Can't Be Honest With Each Other](/articles/ai-transparency-crisis-2026-companies-cant-be-honest)
+- [AI Is Splitting Every Industry in Two — Which Side Are You On?](/articles/ai-thinking-amplifier-or-replacement-the-split-that-defines-your-career)

@@ -218,7 +218,7 @@ Traditional assistants wait for you to ask. OpenClaw anticipates your needs and 
 
 ---
 
-*Automate your web development too. [Youmake](https://youmake.dev) builds full web apps from descriptions — landing pages, dashboards, SaaS products. Deploy in minutes, not months. [Try Youmake free →](https://youmake.dev)*
+*Automate your web development too. [Youmake](https://www.youmake.dev/) builds full web apps from descriptions — landing pages, dashboards, SaaS products. Deploy in minutes, not months. [Try Youmake for $1 →](https://www.youmake.dev/)*
 ---
 
 ## Read Next

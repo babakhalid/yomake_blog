@@ -121,9 +121,10 @@ Everything else is just expensive theater.
 - [PwC: 2026 AI Jobs Barometer](https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-jobs-barometer.html)
 - [WTW: AI in Workplace Mental Health](https://www.wtwco.com/en-us/insights/2026/04/ai-in-workplace-mental-health-navigating-opportunity-and-responsibility)
 - [McKinsey: The State of AI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
+---
 
 ## Read Next
 
-- [The Botsitting Crisis: The Hidden Labor Behind AI's Productivity Myth](/articles/botsitting-crisis-hidden-labor-behind-ai-productivity-myth)
-- [Permission to Slow Down: Strategic Patience in the AI Age](/articles/permission-to-slow-down-strategic-patience-ai-age)
-- [AI Anxiety: The Mindset Shift From Replacement Fear to Amplification](/articles/ai-anxiety-mindset-shift-from-replacement-fear-to-amplification)
+- [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)
+- [Calm as a Competitive Advantage: Why the Best Builders Stay Centered](/articles/calm-as-competitive-advantage-2026)
+- [Cognitive Load Distribution: How to Think Less and Decide Better](/articles/cognitive-load-distribution-how-to-think-less-and-decide-better-2026)

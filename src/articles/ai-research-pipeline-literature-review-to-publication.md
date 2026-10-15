@@ -108,3 +108,10 @@ AI isn't just making research faster. It's making different kinds of research po
 The ones who don't will increasingly find themselves unable to keep up with the pace, scope, and depth of AI-augmented colleagues.
 
 The research pipeline of 2026 is an AI-human collaboration. The sooner researchers learn to be effective collaborators, the better their work will be.
+---
+
+## Read Next
+
+- [The Academic Integrity Crisis: Why Universities Must Redesign Assessment for the AI Era](/articles/academic-integrity-ai-assessment-redesign-2026)
+- [The AI Cheating Wars: False Accusations, Extreme Surveillance, and the Coming Assessment Revolution](/articles/ai-cheating-wars-universities-false-accusations-assessment-crisis)
+- [From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry](/articles/ai-reshaping-university-research-from-lab-to-industry)

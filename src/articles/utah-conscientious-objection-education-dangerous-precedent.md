@@ -106,6 +106,6 @@ Build tools that **expand** perspectives, not narrow them. Design experiences th
 
 ## Read Next
 
+- [Metacognitive Laziness: Are AI Tools Making Students Think Less?](/articles/metacognitive-laziness-ai-students-thinking-less)
 - [Students Know AI Is Making Them Worse at Thinking — And They Can't Stop Using It](/articles/students-worried-ai-eroding-critical-thinking-skills)
-- [27 States Are Writing AI Education Rules Right Now — And Most Schools Aren't Ready](/articles/ai-education-legislation-2026-states-are-writing-the-rules)
-- [From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry](/articles/ai-reshaping-university-research-from-lab-to-industry)
+- [Universities Are Making AI Literacy Mandatory — But Teachers Say It's Killing Critical Thinking](/articles/universities-ai-literacy-mandate-critical-thinking-crisis-2026)

@@ -102,5 +102,5 @@ The Oscars just told us what the future looks like. The question is whether we'r
 ## Read Next
 
 - [Meta's Avocado Delay Signals Something Bigger About the AI Race](/articles/meta-avocado-delay-signals-ai-race-shifting)
-- [From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry](/articles/ai-reshaping-university-research-from-lab-to-industry)
-- [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
+- [Anthropic at $965 Billion: What a Near-Trillion Dollar AI Company Tells Us About Where the Industry Is Headed](/articles/anthropic-trillion-dollar-valuation-what-it-signals-about-ai-industry)
+- [ChatGPT Just Hit 1 Billion Users. The Age of AI Agents Is What Comes Next.](/articles/chatgpt-one-billion-users-ai-agents-era-what-happens-next)

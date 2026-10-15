@@ -100,9 +100,10 @@ The clock is ticking. And 92% of your students are already ahead of you.
 - [Penn State Lehigh Valley — AI Research with ASPA Officials](https://www.psu.edu/news/lehigh-valley/story/penn-state-lehigh-valley-professors-share-ai-research-aspa-officials)
 - [University of Phoenix — Human-Centered AI Framework](https://www.eurekalert.org/news-releases/1133711)
 - [EDUCAUSE / Pitt — Weekly AI in Higher Education Report](https://www.lrdc.pitt.edu/LSET/Weekly_AI_in_Higher_Education_Report_February_27_2026.pdf)
+---
 
 ## Read Next
 
-- [AI Literacy Is the New Core Competency Every Student Needs](/articles/ai-literacy-new-core-competency-every-student-needs)
-- [Universities Are Finally Writing the AI Rulebook](/articles/universities-are-finally-writing-the-ai-rulebook)
-- [Students Worried AI Is Eroding Critical Thinking Skills](/articles/students-worried-ai-eroding-critical-thinking-skills)
+- [Metacognitive Laziness: Are AI Tools Making Students Think Less?](/articles/metacognitive-laziness-ai-students-thinking-less)
+- [The Academic Integrity Crisis: Why Universities Must Redesign Assessment for the AI Era](/articles/academic-integrity-ai-assessment-redesign-2026)
+- [The AI Cheating Wars: False Accusations, Extreme Surveillance, and the Coming Assessment Revolution](/articles/ai-cheating-wars-universities-false-accusations-assessment-crisis)

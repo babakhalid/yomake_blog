@@ -94,11 +94,11 @@ The encrypted future of enterprise computing isn't theoretical anymore. It's run
 
 ---
 
-*Building secure, scalable applications? Youmake helps you move from idea to production at the speed of thought. [Start building today](https://youmake.dev).*
+*Building secure, scalable applications? Youmake helps you move from idea to production at the speed of thought. [Start building today](https://www.youmake.dev/).*
 ---
 
 ## Read Next
 
-- [Tim Cook Just Stepped Down From Apple. Here's the Succession Playbook Every Founder Should Steal.](/articles/tim-cook-steps-down-apple-succession-playbook-for-founders)
 - [The Mercor Breach Exposes the Fragile Underbelly of Corporate AI](/articles/ai-training-data-breach-mercor-corporate-supply-chain-risk)
 - [Amazon Just Put Guardrails on AI Coding — Here's What Every Engineering Team Should Learn](/articles/amazon-ai-coding-guardrails-what-every-engineering-team-should-learn)
+- [Tim Cook Just Stepped Down From Apple. Here's the Succession Playbook Every Founder Should Steal.](/articles/tim-cook-steps-down-apple-succession-playbook-for-founders)

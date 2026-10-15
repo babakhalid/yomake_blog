@@ -120,6 +120,6 @@ Meanwhile, Gen Z will keep building. Not because they're rebels. Because you lef
 
 ## Read Next
 
+- [The Great Flattening: AI Is Gutting Middle Management and Nobody's Ready for What Comes Next](/articles/great-flattening-ai-gutting-middle-management-whats-next)
+- [Frontier Professionals: The New Workforce Class Created by AI Agents](/articles/frontier-professionals-ai-agents-new-workforce)
 - [RentAHuman: When AI Agents Start Hiring People](/articles/rentahuman-ai-agents-hiring-people-future-of-work)
-- [Shadow AI Is Winning: Why Your Employees Are Building Behind IT's Back](/articles/shadow-ai-enterprise-employees-building-behind-it)
-- [Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right](/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right)

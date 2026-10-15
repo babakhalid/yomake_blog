@@ -63,11 +63,11 @@ When you find prompts that work well, save them! Build a library of effective de
 
 ## Put It Into Practice
 
-Try these tips on your next Youmake project at [youmake.dev](https://youmake.dev). You'll be amazed at the difference clear communication makes.
+Try these tips on your next Youmake project at [youmake.dev](https://www.youmake.dev/). You'll be amazed at the difference clear communication makes.
 ---
 
 ## Read Next
 
 - [The Oscars Just Banned AI Performances — And It Reveals Something Bigger About Creative AI](/articles/oscars-ban-ai-performances-what-it-means-for-creative-ai)
-- [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
-- [From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry](/articles/ai-reshaping-university-research-from-lab-to-industry)
+- [The $700 Billion Bluff: Why Companies Are Cutting Workers to Fund AI That Isn't Delivering](/articles/700-billion-ai-layoff-bluff-companies-firing-workers-no-roi)
+- [The Academic Integrity Crisis: Why Universities Must Redesign Assessment for the AI Era](/articles/academic-integrity-ai-assessment-redesign-2026)

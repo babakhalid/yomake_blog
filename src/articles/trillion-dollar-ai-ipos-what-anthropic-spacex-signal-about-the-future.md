@@ -98,9 +98,10 @@ The smartest move right now? Build something real on top of this infrastructure.
 - [Morningstar: SpaceX IPO Analysis](https://global.morningstar.com/en-eu/stocks/spacex-what-investors-need-know-about-its-enormous-upcoming-ipo)
 - [Crossmint: Visa Card Payments for AI Agents](https://www.tradingview.com/news/cointelegraph:f93fb2ea7094b:0-crossmint-enables-visa-card-payments-for-ai-agents-and-autonomous-commerce/)
 - [UseTenfold: Top AI Trends June 2026](https://www.usetenfold.ai/blog/top-ai-trends-in-june-2026-what-enterprise-leaders-need-to-know-now)
+---
 
 ## Read Next
 
-- [AI Mega-Rounds: What Anthropic's $65 Billion Raise Means](/articles/ai-mega-rounds-65-billion-anthropic-what-it-means)
-- [Vertical AI: The Unsexy Industries With the Biggest Opportunities](/articles/vertical-ai-unsexy-industries-biggest-opportunities)
-- [Lean AI Startups: Tiny Teams Beating Giants in 2026](/articles/lean-ai-startups-tiny-teams-beating-giants-2026)
+- [The AI IPO Wave Is Here: What Cerebras, Anthropic, and OpenAI Going Public Means for the Industry](/articles/ai-ipo-wave-2026-cerebras-anthropic-openai-going-public)
+- [Anthropic at $965 Billion: What a Near-Trillion Dollar AI Company Tells Us About Where the Industry Is Headed](/articles/anthropic-trillion-dollar-valuation-what-it-signals-about-ai-industry)
+- [OpenAI's Codex Now Lives in Your Browser — And That Changes Everything](/articles/openai-codex-chrome-extension-ai-agents-enter-your-browser)

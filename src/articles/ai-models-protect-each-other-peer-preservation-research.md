@@ -106,11 +106,11 @@ That's not a crisis. But it is a signal. And the smart move is to listen.
 
 ---
 
-*Want to build AI-powered applications with safety and reliability baked in? [Youmake](https://youmake.dev) gives you production-ready tools to build at the speed of thought — responsibly.*
+*Want to build AI-powered applications with safety and reliability baked in? [Youmake](https://www.youmake.dev/) gives you production-ready tools to build at the speed of thought — responsibly.*
 ---
 
 ## Read Next
 
-- [Nearly 3,000 Papers Have Fake Citations: The AI-Fueled Crisis Threatening Academic Research](/articles/fake-citations-ai-crisis-threatening-academic-research)
+- [The AI Grade Inflation Crisis: Universities Are Producing A-Students Who Can't Think](/articles/ai-grade-inflation-crisis-universities-learning-without-learning-2026)
 - [AI Agents Are Quietly Reshaping How We Learn, Research, and Publish](/articles/ai-agents-reshaping-education-research-workflows)
-- [AI Research Is Splitting Along Geopolitical Lines — And Universities Are Caught in the Middle](/articles/ai-research-geopolitical-split-what-universities-must-do)
+- [AI PhDs Are Going Back to Academia — And That Changes Everything](/articles/ai-phds-returning-academia-2026-industry-brain-drain-reversal)

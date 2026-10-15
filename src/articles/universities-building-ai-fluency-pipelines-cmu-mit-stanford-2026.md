@@ -108,9 +108,10 @@ Universities have historically been better at discovering breakthroughs than dis
 - [Stanford News: Seed Grants for AI in Education](https://news.stanford.edu/stories/2026/04/seed-grants-ai-education)
 - [Stanford News: Student AI Policy Proposals for Critical Thinking](https://news.stanford.edu/stories/2026/05/ai-policy-proposal-students-critical-thinking)
 - [Georgia Tech: New Hybrid AI Tools for Pedagogical Systems](https://research.gatech.edu/new-hybrid-ai-tools-pedagogical-systems)
+---
 
 ## Read Next
 
-- [AI Agents Are Reshaping Education and Research Workflows](/articles/ai-agents-reshaping-education-research-workflows)
-- [Universities Are Treating AI as Infrastructure, Not Experiment](/articles/universities-treating-ai-infrastructure-not-experiment)
-- [The AI Literacy Gap: A Core Competency Every Student Needs](/articles/ai-literacy-new-core-competency-every-student-needs)
+- [The AI Grade Inflation Crisis: Universities Are Producing A-Students Who Can't Think](/articles/ai-grade-inflation-crisis-universities-learning-without-learning-2026)
+- [AI PhDs Are Going Back to Academia — And That Changes Everything](/articles/ai-phds-returning-academia-2026-industry-brain-drain-reversal)
+- [AI Research Is Splitting Along Geopolitical Lines — And Universities Are Caught in the Middle](/articles/ai-research-geopolitical-split-what-universities-must-do)

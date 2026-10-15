@@ -90,9 +90,10 @@ If there's one lesson from every wave of technology adoption, it's this: the org
 - [VentureBeat: Nadella Warns AI Could Hollow Out Entire Industries](https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization)
 - [IBM: AI Governance to Assurance at Think 2026](https://www.ibm.com/think/perspectives/ai-governance-to-assurance-what-we-shared-think-2026)
 - [Writer: Enterprise AI Adoption 2026](https://writer.com/blog/enterprise-ai-adoption-2026/)
+---
 
 ## Read Next
 
-- [Corporate AI Strategy Theater: ROI and Accountability in 2026](/articles/corporate-ai-strategy-theater-roi-accountability-2026)
-- [Agentic AI Enterprise: Autonomous Workflows in Corporate](/articles/agentic-ai-enterprise-autonomous-workflows-corporate)
-- [Digital Transformation 2026: The Execution Year](/articles/digital-transformation-2026-execution-year-not-experimentation)
+- [Agentic AI in the Enterprise: Why Autonomous Workflows Are Becoming the Default](/articles/agentic-ai-enterprise-autonomous-workflows-corporate)
+- [2026 Is the Year of Execution: Why Digital Transformation Finally Got Serious](/articles/digital-transformation-2026-execution-year-not-experimentation)
+- [Shadow Agents Are Tearing Companies Apart: The Agentic AI Governance Crisis of 2026](/articles/shadow-agents-agentic-ai-governance-crisis-enterprises-2026)

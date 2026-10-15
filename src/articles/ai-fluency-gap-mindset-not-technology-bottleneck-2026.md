@@ -106,9 +106,10 @@ The $10 trillion engagement gap isn't going to close with better chatbots. It's 
 - [Forbes: Microsoft Work Trend Index 2026 Shows AI Productivity Is Not Enough](https://www.forbes.com/sites/moorinsights/2026/05/19/microsoft-work-trend-index-2026-shows-ai-productivity-is-not-enough/)
 - [Harvard Business School: AI Trends for 2026](https://www.library.hbs.edu/working-knowledge/ai-trends-for-2026-building-change-fitness-and-balancing-trade-offs)
 - [TalentLMS: Growth Mindset in the Workplace Report](https://www.talentlms.com/research/growth-mindset-workplace-report)
+---
 
 ## Read Next
 
-- [The Two-Tier Workforce Is Here: AI Agents Are Splitting Companies in Half](/articles/the-two-tier-workforce-is-here-ai-agents-are-splitting-companies-in-half)
-- [Stop Mandating AI Adoption — Let Your Team Lead the Way](/articles/stop-mandating-ai-adoption-let-your-team-lead-the-way)
-- [AI: Thinking Amplifier or Replacement? The Split That Defines Your Career](/articles/ai-thinking-amplifier-or-replacement-the-split-that-defines-your-career)
+- [The AI Fatigue Paradox: More Tools, Less Output — What Smart Leaders Do Differently](/articles/ai-fatigue-paradox-more-tools-less-output-what-smart-leaders-do-differently)
+- [Calm as a Competitive Advantage: Why the Best Builders Stay Centered](/articles/calm-as-competitive-advantage-2026)
+- [Cognitive Load Distribution: How to Think Less and Decide Better](/articles/cognitive-load-distribution-how-to-think-less-and-decide-better-2026)

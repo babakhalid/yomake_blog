@@ -100,6 +100,6 @@ Choose your boundaries wisely.
 
 ## Read Next
 
+- [OpenAI's Jalapeño Chip Changes Everything About AI Infrastructure](/articles/openai-jalapeno-chip-vertical-integration-ai-infrastructure)
 - [OpenAI Just Broke Free From Azure — And the AI Cloud Wars Will Never Be the Same](/articles/openai-aws-deal-end-of-cloud-exclusivity-ai-infrastructure)
-- [Google Now Generates 75% of Its Code With AI — Here's Why That Changes Everything](/articles/google-75-percent-ai-generated-code-agentic-shift)
 - [OpenAI Wants to Buy Fusion Energy — And That Should Tell You Everything About AI's Power Problem](/articles/openai-fusion-energy-helion-deal-ai-power-crisis)

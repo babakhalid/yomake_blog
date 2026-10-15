@@ -108,7 +108,7 @@ The goal isn't to replace your skills—it's to amplify them. You bring the idea
 
 ---
 
-*Prefer to skip the slides entirely? [Youmake](https://youmake.dev) turns your ideas directly into working apps.*
+*Prefer to skip the slides entirely? [Youmake](https://www.youmake.dev/) turns your ideas directly into working apps.*
 ---
 
 ## Read Next

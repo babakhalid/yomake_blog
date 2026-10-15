@@ -95,6 +95,6 @@ The best AI companies of the next decade won't just be the ones with the most da
 
 ## Read Next
 
-- [Google Just Bet $40 Billion on Anthropic. Here's Why That Should Make You Think.](/articles/google-anthropic-40-billion-ai-power-concentration)
-- [The White House Wants to Vet AI Models Before Release — Here's What It Means for Builders](/articles/white-house-ai-oversight-what-it-means-for-builders)
-- [Meta Is Tracking Employee Keystrokes for AI Training — And It Should Worry All of Us](/articles/meta-tracking-employee-keystrokes-ai-training-data-surveillance)
+- [One-Person Billion-Dollar Companies: How AI Solo Founders Are Rewriting Every Rule](/articles/one-person-billion-dollar-companies-ai-solo-founders-rewriting-the-rules)
+- [Anthropic at $965 Billion: What a Near-Trillion Dollar AI Company Tells Us About Where the Industry Is Headed](/articles/anthropic-trillion-dollar-valuation-what-it-signals-about-ai-industry)
+- [The AI IPO Wave Is Here: What Cerebras, Anthropic, and OpenAI Going Public Means for the Industry](/articles/ai-ipo-wave-2026-cerebras-anthropic-openai-going-public)

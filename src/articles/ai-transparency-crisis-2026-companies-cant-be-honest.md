@@ -94,6 +94,6 @@ And right now, none of them are doing it well enough.
 
 ## Read Next
 
+- [Only 15% of Americans Trust AI Companies — And the Industry Has Earned Every Bit of That Skepticism](/articles/ai-trust-crisis-2026-only-15-percent-americans-trust-ai-companies)
+- [The Trillion-Dollar AI Bet: Are We Watching a Breakthrough or a Bubble?](/articles/trillion-dollar-ai-spending-boom-bubble-or-breakthrough)
 - [Google Just Bet $40 Billion on Anthropic. Here's Why That Should Make You Think.](/articles/google-anthropic-40-billion-ai-power-concentration)
-- [Meta's Avocado Delay Signals Something Bigger About the AI Race](/articles/meta-avocado-delay-signals-ai-race-shifting)
-- [From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry](/articles/ai-reshaping-university-research-from-lab-to-industry)

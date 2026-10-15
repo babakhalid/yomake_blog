@@ -96,9 +96,10 @@ The rest will be buying bigger mirrors.
 - [Digital Education Council: AI Adoption Nearly Universal Among Students](https://www.digitaleducationcouncil.com/post/ai-adoption-is-nearly-universal-among-students-but-confidence-is-not)
 - [HEPI: Student Generative AI Survey 2026](https://www.hepi.ac.uk/reports/student-generative-ai-survey-2026/)
 - [Science Journal: Generative AI Use and Misuse Call for Assessment Reform](http://www.science.org/doi/10.1126/science.aec5115)
+---
 
 ## Read Next
 
-- [Academic Integrity in the Age of AI Assessment](/articles/academic-integrity-ai-assessment-redesign-2026)
-- [Universities and the AI Literacy Gap](/articles/universities-ai-literacy-gap-students-using-without-understanding)
-- [The AI Grade Inflation Crisis](/articles/ai-grade-inflation-crisis-universities-learning-without-learning-2026)
+- [The Academic Integrity Crisis: Why Universities Must Redesign Assessment for the AI Era](/articles/academic-integrity-ai-assessment-redesign-2026)
+- [From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry](/articles/ai-reshaping-university-research-from-lab-to-industry)
+- [How AI Is Rewriting the Research Pipeline: From Literature Review to Publication](/articles/ai-research-pipeline-literature-review-to-publication)

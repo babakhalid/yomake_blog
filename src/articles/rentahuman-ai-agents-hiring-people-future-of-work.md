@@ -96,6 +96,6 @@ And yeah — some of those entrepreneurs might be AI agents themselves. Welcome 
 
 ## Read Next
 
-- [Corporate America Is Breaking Up With Gen Z — And Gen Z Doesn't Care](/articles/corporate-america-is-breaking-up-with-gen-z-and-gen-z-doesnt-care)
-- [The AI Job Apocalypse Isn't Coming — Here's What's Actually Happening](/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening)
-- [The 'Agentic' Mindset: Silicon Valley's Hottest Buzzword Actually Has a Point](/articles/agentic-mindset-what-it-really-means-2026)
+- [Frontier Professionals: The New Workforce Class Created by AI Agents](/articles/frontier-professionals-ai-agents-new-workforce)
+- [The AI Infrastructure Race: Data Centers, Chip Wars, and the $200B Bet on Compute](/articles/ai-data-center-chip-wars-infrastructure-race-2026)
+- [Anthropic's $65B Round and the AI Funding Frenzy: What It Means for Everyone Else](/articles/ai-mega-rounds-65-billion-anthropic-what-it-means)

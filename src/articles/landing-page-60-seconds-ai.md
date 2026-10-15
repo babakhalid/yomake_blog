@@ -17,11 +17,11 @@ Here's exactly how to do it.
 
 ## The 60-Second Challenge
 
-I'm going to walk you through creating a complete landing page in under a minute using [Youmake](https://youmake.dev). Ready? Let's go.
+I'm going to walk you through creating a complete landing page in under a minute using [Youmake](https://www.youmake.dev/). Ready? Let's go.
 
 ### Second 0-15: Write Your Prompt
 
-Navigate to [youmake.dev](https://youmake.dev) and type your description:
+Navigate to [youmake.dev](https://www.youmake.dev/) and type your description:
 
 > "A SaaS landing page for an AI writing tool. Dark theme with purple gradients. Hero section with headline and email signup. Features grid with icons. Testimonial section. Pricing with three tiers. Footer with social links."
 
@@ -140,7 +140,7 @@ Or just trust AI—it handles mobile by default.
 
 ## From Landing Page to Full Funnel
 
-Your landing page is live in 60 seconds. But that's just the start. With [Youmake](https://youmake.dev), you can build the entire funnel:
+Your landing page is live in 60 seconds. But that's just the start. With [Youmake](https://www.youmake.dev/), you can build the entire funnel:
 
 - **Thank you page** after signup
 - **Email sequence** landing pages
@@ -183,7 +183,7 @@ Want to take this further?
 
 Here's my challenge to you:
 
-1. **Right now**, go to [youmake.dev](https://youmake.dev)
+1. **Right now**, go to [youmake.dev](https://www.youmake.dev/)
 2. **Set a timer** for 60 seconds
 3. **Write a prompt** for a landing page you actually need
 4. **Deploy it**
@@ -194,11 +194,11 @@ The results speak for themselves.
 
 ---
 
-*Speed is a feature. Build your landing page in 60 seconds at [youmake.dev](https://youmake.dev).*
+*Speed is a feature. Build your landing page in 60 seconds at [youmake.dev](https://www.youmake.dev/).*
 ---
 
 ## Read Next
 
 - [From Idea to Production: Deploy Your First App in 5 Minutes with AI](/articles/idea-to-production-5-minutes)
-- [Free AI Website Builder: Build Professional Sites at Zero Cost (2026)](/articles/free-ai-website-builder)
 - [How to Build an App Without Coding in 2026 (Step-by-Step Guide)](/articles/how-to-build-app-without-coding)
+- [What is Vibe Coding? Complete Guide to the AI Coding Revolution (2026)](/articles/what-is-vibe-coding)

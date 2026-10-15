@@ -95,3 +95,10 @@ The question isn't whether you'll use AI. It's whether you'll become a Frontier 
 ---
 
 *The workforce is splitting. Which side are you on?*
+---
+
+## Read Next
+
+- [AI Agents Are Killing Apps — And That's a Good Thing](/articles/ai-agents-are-killing-apps-and-thats-a-good-thing)
+- [ChatGPT Just Hit 1 Billion Users. The Age of AI Agents Is What Comes Next.](/articles/chatgpt-one-billion-users-ai-agents-era-what-happens-next)
+- [RentAHuman: When AI Agents Start Hiring People](/articles/rentahuman-ai-agents-hiring-people-future-of-work)

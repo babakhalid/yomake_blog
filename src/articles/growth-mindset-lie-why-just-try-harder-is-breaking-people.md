@@ -94,9 +94,10 @@ Your burnout isn't a character flaw. It might just be a sign that the system ask
 - [Andy Villegas: Cons of Having a Growth Mindset](https://andyvillegas.com/blog/cons-of-having-a-growth-mindset/)
 - [The Walrus: When Positivity Turns Toxic](https://thewalrus.ca/when-positivity-turns-toxic/)
 - [DDI: Leadership Trends 2026](https://www.ddi.com/blog/leadership-trends-2026)
+---
 
 ## Read Next
 
-- [Mental Fitness Is Replacing Hustle Culture in 2026](/articles/mental-fitness-replacing-hustle-culture-2026)
-- [The 80% Founder: Why Strategic Incompletion Beats Burnout](/articles/the-80-percent-founder-why-strategic-incompletion-beats-burnout)
-- [Your Brain Is Not Broken: The Overthinking Epidemic of 2026](/articles/your-brain-is-not-broken-overthinking-epidemic-2026)
+- [Silent Burnout Is the Workforce Crisis Nobody Wants to Talk About](/articles/silent-burnout-workforce-crisis-nobody-talks-about)
+- [The Leadership Wall: AI Is Destroying the Career Ladder and Nobody's Building a New One](/articles/ai-leadership-wall-career-ladder-mindset-shift-2026)
+- [The Death of Hustle Culture: Why Mental Fitness Is the Real Productivity Hack in 2026](/articles/mental-fitness-replacing-hustle-culture-2026)

@@ -101,7 +101,7 @@ The path forward isn't mysterious. It's just expensive and requires political wi
 
 ## The Builder's Perspective
 
-For those of us building AI tools — and at [Youmake](https://youmake.dev), we think about this constantly — this literacy gap isn't just an education problem. It's a design problem.
+For those of us building AI tools — and at [Youmake](https://www.youmake.dev/), we think about this constantly — this literacy gap isn't just an education problem. It's a design problem.
 
 Every AI product that ships without helping users understand its limitations is contributing to the literacy gap. Every interface that presents AI output as authoritative without surfacing confidence levels, sources, or caveats is making the problem worse.
 
@@ -114,3 +114,10 @@ We're not going to get a second chance at this transition. The students in class
 Universities have maybe two to three years before the window closes and these patterns become entrenched. The institutions that move now will produce graduates who can actually work with AI. The ones that keep deliberating will produce graduates who are worked by it.
 
 The 90% adoption rate isn't a crisis. It's a starting point. The question is whether education will meet students where they already are — or continue pretending it's still 2023.
+---
+
+## Read Next
+
+- [Universities Are Making AI Literacy Mandatory — But Teachers Say It's Killing Critical Thinking](/articles/universities-ai-literacy-mandate-critical-thinking-crisis-2026)
+- [95% of Students Already Use AI — Universities Are Scrambling to Catch Up](/articles/universities-scramble-ai-literacy-students-already-ahead)
+- [95% of Students Use AI, But Only 20% of Universities Have a Policy. That's a Crisis.](/articles/universities-ai-governance-crisis-95-percent-using-20-percent-ready)

@@ -95,9 +95,10 @@ The trillion-dollar question is: who builds the killer applications? NVIDIA buil
 - [DARPA: AI Forge for National Security](https://www.darpa.mil/news/2026/ai-forge-accelerating-ai-breakthroughs-national-security)
 - [Fenwick: New AI Executive Order Analysis](https://www.fenwick.com/insights/publications/what-the-new-ai-executive-order-means-for-businesses-that-use-ai)
 - [Automate.org: NVIDIA Big Bang of Physical AI at GTC 2026](https://www.automate.org/ai/industry-insights/nvidia-declares-big-bang-of-physical-ai-at-gtc-2026)
+---
 
 ## Read Next
 
-- [Physical AI: The ChatGPT Moment for Robotics Is Here](/articles/physical-ai-chatgpt-moment-for-robotics-is-here)
-- [Trillion-Dollar AI Spending: Boom, Bubble, or Breakthrough?](/articles/trillion-dollar-ai-spending-boom-bubble-or-breakthrough)
-- [Digital Transformation 2026: The Execution Year](/articles/digital-transformation-2026-execution-year-not-experimentation)
+- [The ChatGPT Moment for Robotics Is Here — And It Changes Everything for Founders](/articles/physical-ai-chatgpt-moment-for-robotics-is-here)
+- [Nvidia GTC 2026: The AI Infrastructure Race Just Entered a New Phase](/articles/nvidia-gtc-2026-ai-infrastructure-race-heats-up)
+- [Meta's Avocado Delay Signals Something Bigger About the AI Race](/articles/meta-avocado-delay-signals-ai-race-shifting)

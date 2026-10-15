@@ -96,3 +96,10 @@ That's a human reality, not a character flaw. But it is a career risk. And the s
 The good news: learning speed is itself a learnable skill. It gets easier with practice. Every new tool you learn makes the next one easier. The hardest part is starting.
 
 Start today. The tools changed while you were reading this article.
+---
+
+## Read Next
+
+- [AI Won't Replace You. A Person Using AI Will. Here's How to Be That Person.](/articles/ai-not-replacing-you-person-using-ai-is)
+- [The Four AI Mindsets: A Practical Guide to McKinsey's Framework for Thriving in 2026](/articles/four-ai-mindsets-mckinsey-framework-practical-guide)
+- [The AI Job Apocalypse Isn't Coming — Here's What's Actually Happening](/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening)

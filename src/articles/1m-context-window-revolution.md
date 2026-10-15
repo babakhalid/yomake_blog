@@ -97,7 +97,7 @@ The 1M context window is available in **beta** for Claude Opus 4.6 on:
 
 ---
 
-*Building something big? [Youmake](https://youmake.dev) handles the complexity—you just describe what you want.*
+*Building something big? [Youmake](https://www.youmake.dev/) handles the complexity—you just describe what you want.*
 ---
 
 ## Read Next

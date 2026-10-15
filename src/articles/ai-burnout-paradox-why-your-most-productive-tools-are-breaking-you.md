@@ -125,9 +125,10 @@ Because the data is telling us something we don't want to hear: your most produc
 - [Spring Health: 2026 Mental Health Trends for Your Workplace](https://www.springhealth.com/blog/2026-mental-health-trends-for-your-workplace)
 - [Gensler: 10 Workplace Trends for 2026](https://www.gensler.com/blog/10-workplace-trends-for-2026-whats-in-and-whats-out)
 - [Forbes: 5 Trends That Will Shape Workplace Culture in 2026](https://www.forbes.com/sites/janicegassam/2025/11/16/5-trends-that-will-shape-workplace-culture-in-2026/)
+---
 
 ## Read Next
 
-- [Shadow Burnout: High Performers Breaking Down Invisibly](/articles/shadow-burnout-high-performers-breaking-down-invisibly)
-- [Mental Fitness Is Replacing Hustle Culture in 2026](/articles/mental-fitness-replacing-hustle-culture-2026)
-- [The Slow Thinking Revolution: Going Analog in 2026](/articles/slow-thinking-revolution-going-analog-2026)
+- [The AI Burnout Paradox: Why Your Productivity Tools Are Breaking You](/articles/ai-burnout-paradox-why-productivity-tools-are-breaking-workers)
+- [The AI Productivity Paradox: 80% of Workers Use AI Tools, Focus Is at a 3-Year Low](/articles/ai-productivity-paradox-focus-crisis-what-high-performers-do-differently)
+- [The AI Fatigue Paradox: More Tools, Less Output — What Smart Leaders Do Differently](/articles/ai-fatigue-paradox-more-tools-less-output-what-smart-leaders-do-differently)

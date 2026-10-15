@@ -105,9 +105,10 @@ That's not a technology problem. It's a governance problem. And right now, gover
 - [UNU-INWEH: Environmental Cost of AI's Energy Use Report](https://unu.edu/inweh/collection/environmental-cost-of-AIs-Enrgy-Use-Carbon-water-and-land-footprints)
 - [TIME: AI Water Resources UN Report](https://time.com/article/2026/06/03/ai-global-water-resources-un-report/)
 - [WRI: US Data Center Growth Impacts](https://www.wri.org/insights/us-data-center-growth-impacts)
+---
 
 ## Read Next
 
-- [The Hidden Environmental Crisis Behind AI](/articles/ai-environmental-crisis-water-land-climate-hidden-costs-2026)
-- [AI Infrastructure Race: Data Centers and Chip Wars](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)
-- [Trillion-Dollar AI Spending: Boom, Bubble, or Breakthrough?](/articles/trillion-dollar-ai-spending-boom-bubble-or-breakthrough)
+- [AI's Dirty Secret: The Environmental Crisis Nobody Wants to Talk About](/articles/ai-environmental-crisis-water-land-climate-hidden-costs-2026)
+- [The AI Infrastructure Race: Data Centers, Chip Wars, and the $200B Bet on Compute](/articles/ai-data-center-chip-wars-infrastructure-race-2026)
+- [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)

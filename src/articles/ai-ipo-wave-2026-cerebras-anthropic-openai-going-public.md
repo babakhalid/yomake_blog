@@ -85,9 +85,10 @@ The era of AI as a research curiosity is over. It's a public market industry now
 - [Menlo Ventures: $3B AI Fund](https://menlovc.com/perspective/menlo-turns-50-and-announces-3b-in-fresh-capital-to-go-all-in-on-ai/)
 - [Crunchbase: Menlo Ventures AI Funding](https://news.crunchbase.com/venture/menlo-ventures-raise-ai-startup-funding-across-stages-anthropic/)
 - [Intellectia: AI IPO Boom 2026](https://intellectia.ai/blog/ai-ipo-boom-2026-investment-guide)
+---
 
 ## Read Next
 
-- [Trillion-Dollar AI Spending: Boom, Bubble, or Breakthrough?](/articles/trillion-dollar-ai-spending-boom-bubble-or-breakthrough)
-- [AI Data Centers and the Chip Wars](/articles/ai-data-center-chip-wars-infrastructure-race-2026)
-- [Why 80% of VC Money Is Chasing AI](/articles/why-80-percent-of-vc-money-is-chasing-ai-and-what-smart-founders-do-differently)
+- [Anthropic's $65B Round and the AI Funding Frenzy: What It Means for Everyone Else](/articles/ai-mega-rounds-65-billion-anthropic-what-it-means)
+- [Anthropic at $965 Billion: What a Near-Trillion Dollar AI Company Tells Us About Where the Industry Is Headed](/articles/anthropic-trillion-dollar-valuation-what-it-signals-about-ai-industry)
+- [Google Just Bet $40 Billion on Anthropic. Here's Why That Should Make You Think.](/articles/google-anthropic-40-billion-ai-power-concentration)

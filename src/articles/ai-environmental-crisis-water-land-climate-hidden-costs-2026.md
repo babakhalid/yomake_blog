@@ -81,9 +81,10 @@ We've seen this playbook before with social media: build fast, ignore externalit
 - [Business Insider: OpenAI China Data Centers Influence Campaign](https://www.businessinsider.com/openai-china-data-centers-influence-campaign-2026-6)
 - [Financial Stability Board: Responsible AI Adoption Consultation](https://www.fsb.org/2026/06/sound-practices-for-responsible-adoption-of-artificial-intelligence-ai-consultation-report/)
 - [Time: AI Global Water Resources UN Report](https://time.com/article/2026/06/03/ai-global-water-resources-un-report/)
+---
 
 ## Read Next
 
-- [The Trillion-Dollar AI Spending Boom: Bubble or Breakthrough?](/articles/trillion-dollar-ai-spending-boom-bubble-or-breakthrough)
-- [The AI Infrastructure Race: Data Centers and Chip Wars in 2026](/articles/ai-data-center-chip-wars-infrastructure-race-2026)
-- [AI Transparency Crisis 2026: Why Companies Can't Be Honest](/articles/ai-transparency-crisis-2026-companies-cant-be-honest)
+- [AI's $7.6 Trillion Buildout Has an Environmental Bill Nobody Budgeted For](/articles/ai-trillion-dollar-buildout-environmental-cost-nobody-budgeted-for)
+- [The AI Infrastructure Race: Data Centers, Chip Wars, and the $200B Bet on Compute](/articles/ai-data-center-chip-wars-infrastructure-race-2026)
+- [The AI Infrastructure Race Is Getting Out of Hand — And That's the Point](/articles/ai-infrastructure-race-data-centers-chip-wars-2026)

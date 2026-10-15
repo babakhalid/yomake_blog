@@ -109,6 +109,6 @@ Treat them accordingly.
 
 ## Read Next
 
+- [AI-Washing Layoffs: Corporate America's Favorite New Excuse](/articles/ai-washing-layoffs-corporate-americas-favorite-excuse)
 - [Stop Treating AI Agents Like Employees — Here's What Actually Works](/articles/stop-treating-ai-agents-like-employees-corporate-playbook)
-- [Why 40% of Corporate AI Agent Projects Will Fail — And How to Be in the Other 60%](/articles/why-40-percent-of-corporate-ai-agent-projects-will-fail)
-- [Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right](/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right)
+- [Shadow Agents Are Tearing Companies Apart: The Agentic AI Governance Crisis of 2026](/articles/shadow-agents-agentic-ai-governance-crisis-enterprises-2026)

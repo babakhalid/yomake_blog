@@ -128,6 +128,6 @@ And it starts with a mindset shift that no technology can automate.
 
 ## Read Next
 
+- [The Leadership Wall: AI Is Destroying the Career Ladder and Nobody's Building a New One](/articles/ai-leadership-wall-career-ladder-mindset-shift-2026)
 - [The Secret AI Users: Why Nobody Admits They're Using AI — And Why That Mindset Needs to Change](/articles/hidden-ai-adoption-why-nobody-admits-using-ai-at-work)
-- [Stop Waiting to Feel Ready: The Myth of the Perfect Moment](/articles/stop-waiting-to-feel-ready-the-myth-of-the-perfect-moment)
-- [The Leadership Paradox: Why the Most Successful Leaders Have the Worst Days](/articles/the-leadership-paradox-why-successful-leaders-have-worse-days)
+- [The AI Fatigue Paradox: More Tools, Less Output — What Smart Leaders Do Differently](/articles/ai-fatigue-paradox-more-tools-less-output-what-smart-leaders-do-differently)

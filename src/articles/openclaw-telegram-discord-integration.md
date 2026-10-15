@@ -178,7 +178,7 @@ Your AI assistant is now truly portable — available wherever you need it.
 
 ---
 
-*Build websites as easily as messaging a bot. [Youmake](https://youmake.dev) turns your descriptions into live web apps. The future of web development is here. [Start building →](https://youmake.dev)*
+*Build websites as easily as messaging a bot. [Youmake](https://www.youmake.dev/) turns your descriptions into live web apps. The future of web development is here. [Start building →](https://www.youmake.dev/)*
 ---
 
 ## Read Next

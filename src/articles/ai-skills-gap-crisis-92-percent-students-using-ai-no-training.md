@@ -95,9 +95,10 @@ The clock is ticking. And right now, it's the students who are paying for instit
 - [Texas A&M: VISION Supercomputer Named Most Powerful Among US Universities](https://stories.tamu.edu/news/2026/06/25/texas-am-supercomputer-named-most-powerful-among-us-universities/)
 - [University of Sussex: Spotlight on AI in Education, June 2026](https://blogs.sussex.ac.uk/learning-matters/2026/06/22/spotlight-on-ai-in-education-june-2026/)
 - [World Economic Forum: AI in the Classroom and Critical Thinking](https://www.weforum.org/stories/2026/06/ai-in-the-classroom-critical-thinking/)
+---
 
 ## Read Next
 
-- [The AI Grade Inflation Crisis: Universities Learning Without Learning](/articles/ai-grade-inflation-crisis-universities-learning-without-learning-2026)
-- [AI Literacy Framework: Teaching Students to Think, Not Just Prompt](/articles/ai-literacy-framework-teaching-students-think-not-just-prompt)
-- [AI Cheating Wars: Universities' False Accusations and Assessment Crisis](/articles/ai-cheating-wars-universities-false-accusations-assessment-crisis)
+- [AI Literacy Is the New Core Competency Every Student Needs — And We're Failing to Teach It](/articles/ai-literacy-new-core-competency-every-student-needs)
+- [The World Just Got Its First AI Literacy Rulebook for Schools — And It's About Time](/articles/ai-literacy-framework-teaching-students-think-not-just-prompt)
+- [92% of Students Use AI for School — But Nobody Taught Them How](/articles/microsoft-ai-education-report-2026-92-percent-adoption-zero-training)

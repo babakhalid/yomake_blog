@@ -107,9 +107,10 @@ The middle is disappearing. Position yourself on the side that's growing.
 - [Thomson Reuters: 2026 State of the Corporate Law Department Report](https://www.thomsonreuters.com/en-us/posts/corporates/state-of-the-corporate-law-department-report-2026/)
 - [Thomson Reuters: Reality Check for Corporate Legal on AI](https://legal.thomsonreuters.com/blog/the-reality-check-every-corporate-legal-department-needs-to-hear-about-ai/)
 - [Deloitte: CFO Guide to Human Capital Trends & AI Collaboration](https://www.deloitte.com/us/en/what-we-do/capabilities/finance-transformation/articles/cfo-guide-human-capital-trends-ai-human-collaboration.html)
+---
 
 ## Read Next
 
-- [Why 40% of Corporate AI Agent Projects Will Fail](/articles/why-40-percent-of-corporate-ai-agent-projects-will-fail)
-- [The Two-Tier Workforce Is Here](/articles/the-two-tier-workforce-is-here-ai-agents-are-splitting-companies-in-half)
-- [Digital Transformation 2026: Execution Year, Not Experimentation](/articles/digital-transformation-2026-execution-year-not-experimentation)
+- [The Two-Track Workforce Is Real: PwC's AI Jobs Barometer Reveals the Corporate Divide](/articles/two-track-workforce-pwc-ai-jobs-barometer-corporate-divide-2026)
+- [300,000 Copilot Seats: When AI Stops Being a Project and Becomes the Operating System](/articles/300000-copilot-seats-enterprise-ai-operating-system)
+- [Agentic AI in the Enterprise: Why Autonomous Workflows Are Becoming the Default](/articles/agentic-ai-enterprise-autonomous-workflows-corporate)

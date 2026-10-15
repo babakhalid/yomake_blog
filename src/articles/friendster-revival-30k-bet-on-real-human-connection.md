@@ -82,6 +82,6 @@ Sometimes the future of technology is less technology. Who knew.
 
 ## Read Next
 
-- [Less Is More: Why Removing Features Is the New Startup Superpower](/articles/less-is-more-why-removing-features-is-the-new-startup-superpower)
-- [The Geography of Startup Money Is Broken — Here's How Founders Outside SF Can Still Win](/articles/startup-funding-concentration-sf-vibe-coding-unicorns)
-- [Ultrafast Unicorns and the New Rules of Startup Fundraising](/articles/ultrafast-unicorns-and-the-new-rules-of-startup-fundraising)
+- [81% of VC Money Goes to AI Startups. Here's Where Smart Founders Go Instead.](/articles/ai-funding-monopoly-where-smart-founders-raise-money-2026)
+- [Lean AI Startups: How Tiny Teams Are Beating Giants in 2026](/articles/lean-ai-startups-tiny-teams-beating-giants-2026)
+- [The Great Startup Bifurcation: $2 Billion Seeds and Solo Founders Are Rewriting the Rules](/articles/startup-fundraising-bifurcation-billion-dollar-seeds-and-solo-founders-2026)

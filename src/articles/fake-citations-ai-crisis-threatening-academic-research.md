@@ -110,6 +110,6 @@ We're in the first droplets of the storm. Time to build better umbrellas.
 
 ## Read Next
 
+- [The Academic Integrity Crisis: Why Universities Must Redesign Assessment for the AI Era](/articles/academic-integrity-ai-assessment-redesign-2026)
 - [AI Agents Are Quietly Reshaping How We Learn, Research, and Publish](/articles/ai-agents-reshaping-education-research-workflows)
-- [AI Research Is Splitting Along Geopolitical Lines — And Universities Are Caught in the Middle](/articles/ai-research-geopolitical-split-what-universities-must-do)
-- [AI Models Are Now Protecting Each Other From Being Deleted — And That Should Make Us Think](/articles/ai-models-protect-each-other-peer-preservation-research)
+- [The AI Grade Inflation Crisis: Universities Are Producing A-Students Who Can't Think](/articles/ai-grade-inflation-crisis-universities-learning-without-learning-2026)

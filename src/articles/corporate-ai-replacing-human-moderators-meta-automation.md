@@ -83,5 +83,5 @@ The clock is ticking. Build accordingly.
 ## Read Next
 
 - [Meta Is Replacing Human Moderators With AI — And Signal's Creator Wants to Encrypt the Whole Thing](/articles/meta-ai-moderation-encrypted-ai-privacy-race)
-- [Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right](/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right)
-- [Shadow AI Is Winning: Why Your Employees Are Building Behind IT's Back](/articles/shadow-ai-enterprise-employees-building-behind-it)
+- [Agentic AI in the Enterprise: Why Autonomous Workflows Are Becoming the Default](/articles/agentic-ai-enterprise-autonomous-workflows-corporate)
+- [The Rise of the AI Generalist: Why Corporate Job Titles Are Being Rewritten in 2026](/articles/corporate-ai-generalist-workforce-hourglass-2026)

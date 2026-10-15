@@ -86,3 +86,10 @@ But build with your eyes open. The companies that win the next phase won't just 
 Anthropic's near-trillion dollar valuation is a bet that AI becomes the most important infrastructure of the 21st century. Based on everything I'm seeing, that bet is probably right.
 
 The question is whether the rest of us build something meaningful on top of it.
+---
+
+## Read Next
+
+- [Google Just Bet $40 Billion on Anthropic. Here's Why That Should Make You Think.](/articles/google-anthropic-40-billion-ai-power-concentration)
+- [One-Person Billion-Dollar Companies: How AI Solo Founders Are Rewriting Every Rule](/articles/one-person-billion-dollar-companies-ai-solo-founders-rewriting-the-rules)
+- [The AI IPO Wave Is Here: What Cerebras, Anthropic, and OpenAI Going Public Means for the Industry](/articles/ai-ipo-wave-2026-cerebras-anthropic-openai-going-public)

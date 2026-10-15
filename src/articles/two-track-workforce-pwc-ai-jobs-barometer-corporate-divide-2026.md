@@ -82,9 +82,10 @@ The two-track workforce isn't coming. It's here. Pick your track wisely.
 - [IT Pro: Two-Track Labor Market with Better Pay for Human Skills](https://www.itpro.com/technology/artificial-intelligence/ai-is-creating-a-two-track-labor-market-with-better-pay-for-human-intensive-skills)
 - [Writer: Enterprise AI Adoption 2026](https://writer.com/blog/enterprise-ai-adoption-2026/)
 - [EME Outlook: PwC Global Chief AI Officer on AI Jobs Barometer](https://www.emeoutlookmag.com/technology/a-new-divide-pwc-global-chief-ai-officer-joe-atkinson-on-pwc-2026-global-ai-jobs-barometer-report)
+---
 
 ## Read Next
 
-- [The Two-Tier Workforce Is Here: AI Agents Are Splitting Companies in Half](/articles/the-two-tier-workforce-is-here-ai-agents-are-splitting-companies-in-half)
-- [Why 40% of Corporate AI Agent Projects Will Fail](/articles/why-40-percent-of-corporate-ai-agent-projects-will-fail)
-- [The AI Job Apocalypse Is Not Coming — Here's What's Actually Happening](/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening)
+- [The Rise of the AI Generalist: Why Corporate Job Titles Are Being Rewritten in 2026](/articles/corporate-ai-generalist-workforce-hourglass-2026)
+- [Companies Are Spending Billions on AI Training. Most of It Will Fail.](/articles/ai-upskilling-corporate-billions-wasted-what-works)
+- [The $700 Billion Bluff: Why Companies Are Cutting Workers to Fund AI That Isn't Delivering](/articles/700-billion-ai-layoff-bluff-companies-firing-workers-no-roi)

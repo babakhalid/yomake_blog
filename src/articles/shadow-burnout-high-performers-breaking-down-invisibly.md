@@ -100,6 +100,6 @@ Your startup needs you. But it needs the real you — not the performance of you
 
 ## Read Next
 
-- [The Overthinking Trap: Why Smart People Build Nothing](/articles/the-overthinking-trap-why-smart-people-build-nothing)
-- [Tim Cook Just Stepped Down From Apple. Here's the Succession Playbook Every Founder Should Steal.](/articles/tim-cook-steps-down-apple-succession-playbook-for-founders)
-- [A Developer Bought Friendster for $30K — And It's the Most Interesting Startup Move of 2026](/articles/friendster-revival-30k-bet-on-real-human-connection)
+- [The Founder Mindset Trap: Why Hustle Culture Is Killing More Startups Than Competition](/articles/founder-mindset-trap-why-hustle-culture-kills-startups)
+- [The 80% Founder: Why Strategic Incompletion Beats Burnout](/articles/the-80-percent-founder-why-strategic-incompletion-beats-burnout)
+- [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)

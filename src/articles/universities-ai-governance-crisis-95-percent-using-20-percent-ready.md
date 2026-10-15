@@ -91,9 +91,10 @@ If you're building tools that help people create without complex infrastructure 
 - [Michigan State University: AI Ethics in Higher Education](https://msutoday.msu.edu/news/2026/05/ai-ethics-higher-education)
 - [eCampus News: Students Say AI Improves Performance, But Most Institutions Lack Policies](https://www.ecampusnews.com/ai-in-education/2026/03/04/students-say-ai-improves-their-performance-but-most-institutions-lack-formal-ai-policies/)
 - [Kiteworks: Higher Education AI Governance Gap](https://www.kiteworks.com/cybersecurity-risk-management/higher-education-ai-governance-gap-data-security-compliance/)
+---
 
 ## Read Next
 
-- [Universities Are Finally Writing the AI Rulebook](/articles/universities-are-finally-writing-the-ai-rulebook)
-- [AI Literacy: The New Core Competency Every Student Needs](/articles/ai-literacy-new-core-competency-every-student-needs)
-- [Students Worried AI Is Eroding Critical Thinking Skills](/articles/students-worried-ai-eroding-critical-thinking-skills)
+- [The AI Literacy Gap: 90% of Students Use AI, But Almost Nobody's Teaching Them How](/articles/universities-ai-literacy-gap-students-using-without-understanding)
+- [Universities Are Making AI Literacy Mandatory — But Teachers Say It's Killing Critical Thinking](/articles/universities-ai-literacy-mandate-critical-thinking-crisis-2026)
+- [Universities Are Finally Writing the AI Rulebook—And It's About Time](/articles/universities-are-finally-writing-the-ai-rulebook)

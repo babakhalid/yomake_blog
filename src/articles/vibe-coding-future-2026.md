@@ -52,7 +52,7 @@ AI-generated code in 2026 isn't just functional—it's *good*. Clean architectur
 
 ### 4. Integrated Deployment
 
-Vibe coding platforms like [Youmake](https://youmake.dev) don't just generate code—they deploy it. The entire pipeline from idea to production is conversational. See how you can [deploy your first app in 5 minutes](/blog/idea-to-production-5-minutes).
+Vibe coding platforms like [Youmake](https://www.youmake.dev/) don't just generate code—they deploy it. The entire pipeline from idea to production is conversational. See how you can [deploy your first app in 5 minutes](/blog/idea-to-production-5-minutes).
 
 ## The Vibe Coding Vocabulary
 
@@ -126,7 +126,7 @@ Yes, even developers. Using vibe coding for rapid prototyping, boilerplate gener
 Ready to experience vibe coding yourself? Here's how:
 
 ### 1. Choose Your Platform
-[Youmake](https://youmake.dev) is purpose-built for vibe coding web applications. Other tools exist for mobile, backend, and specific domains.
+[Youmake](https://www.youmake.dev/) is purpose-built for vibe coding web applications. Other tools exist for mobile, backend, and specific domains.
 
 ### 2. Start with Description, Not Specification
 Don't think like a programmer. Think like a user. Describe what you *want*, not how to build it.
@@ -159,13 +159,13 @@ Ready to try it? Here's a prompt to get you started:
 
 > "A modern portfolio website with a dark theme, subtle gradient accents, smooth animations, and sections for projects, about, and contact"
 
-Visit [youmake.dev](https://youmake.dev), paste this prompt, and watch your website materialize.
+Visit [youmake.dev](https://www.youmake.dev/), paste this prompt, and watch your website materialize.
 
 The future of web development isn't about learning to code. It's about learning to communicate. And in 2026, that future is here.
 
 ---
 
-*Experience vibe coding at [youmake.dev](https://youmake.dev). See [10 portfolio examples](/blog/10-portfolio-websites) you can build today.*
+*Experience vibe coding at [youmake.dev](https://www.youmake.dev/). See [10 portfolio examples](/blog/10-portfolio-websites) you can build today.*
 ---
 
 ## Read Next

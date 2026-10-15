@@ -96,3 +96,10 @@ AI upskilling is not optional. Every company will need to do it. The question is
 The approach matters more than the budget. Give people time, permission, and real problems to solve with AI tools. Build communities that share knowledge. Create mentoring pairs. Measure outcomes, not completions.
 
 That's not a training program. That's a culture change. And culture change is exactly what AI adoption requires.
+---
+
+## Read Next
+
+- [2026 Is the Year of Execution: Why Digital Transformation Finally Got Serious](/articles/digital-transformation-2026-execution-year-not-experimentation)
+- [The $700 Billion Bluff: Why Companies Are Cutting Workers to Fund AI That Isn't Delivering](/articles/700-billion-ai-layoff-bluff-companies-firing-workers-no-roi)
+- [Who Decides How AI Changes Your Job? The Worker Power Question We're Ignoring](/articles/ai-worker-power-who-decides-how-ai-changes-your-job)

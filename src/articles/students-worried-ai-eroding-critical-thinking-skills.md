@@ -85,6 +85,6 @@ This is what we're building at Youmake — tools that augment human capability w
 
 ## Read Next
 
+- [Metacognitive Laziness: Are AI Tools Making Students Think Less?](/articles/metacognitive-laziness-ai-students-thinking-less)
+- [Universities Are Making AI Literacy Mandatory — But Teachers Say It's Killing Critical Thinking](/articles/universities-ai-literacy-mandate-critical-thinking-crisis-2026)
 - [Utah Wants Students to Opt Out of Coursework They Disagree With — Here's Why That's a Problem](/articles/utah-conscientious-objection-education-dangerous-precedent)
-- [Universities Have an AI Trust Crisis — And It's About to Get Worse](/articles/universities-ai-trust-crisis-who-controls-research-agenda)
-- [Schools Are Done Experimenting With AI — Now Comes the Hard Part](/articles/ai-education-governance-schools-moving-beyond-experimentation)

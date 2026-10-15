@@ -106,3 +106,10 @@ The pace of change in 2026 isn't going to slow down. If anything, AI will accele
 Resilience isn't glamorous. Nobody tweets about their energy management practices or their stable identity anchors. But it's the invisible infrastructure that supports everything else — the AI skills, the career growth, the professional performance.
 
 Build that infrastructure. It's the most valuable investment you can make in a world that won't stop changing.
+---
+
+## Read Next
+
+- [Permission to Slow Down: Why Strategic Patience Is the Most Underrated Skill in the AI Age](/articles/permission-to-slow-down-strategic-patience-ai-age)
+- [The Four AI Mindsets: A Practical Guide to McKinsey's Framework for Thriving in 2026](/articles/four-ai-mindsets-mckinsey-framework-practical-guide)
+- [The AI Anxiety Epidemic: Why the Mindset Shift from Fear to Amplification Is the Only Career Move That Matters](/articles/ai-anxiety-mindset-shift-from-replacement-fear-to-amplification)

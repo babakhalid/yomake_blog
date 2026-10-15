@@ -105,3 +105,10 @@ AI adoption without worker input isn't just ethically questionable. It's strateg
 The IPPR is right: this is a pivotal moment. The decisions being made right now about who has power in AI adoption will shape the nature of work for decades. Workers deserve a seat at that table.
 
 The only question is whether leaders are smart enough to offer them one before legislation forces the issue.
+---
+
+## Read Next
+
+- [Sam Altman Admitted AI Will Kill Jobs. Now What?](/articles/sam-altman-ai-job-losses-honest-conversation)
+- [The $700 Billion Bluff: Why Companies Are Cutting Workers to Fund AI That Isn't Delivering](/articles/700-billion-ai-layoff-bluff-companies-firing-workers-no-roi)
+- [The AI Burnout Paradox: Why Your Productivity Tools Are Breaking You](/articles/ai-burnout-paradox-why-productivity-tools-are-breaking-workers)

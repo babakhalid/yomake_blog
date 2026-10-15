@@ -73,7 +73,7 @@ Vibe coding doesn't constrain you to pre-built components. If you can describe i
 
 ### Standard Output, Full Ownership
 
-Vibe coding tools like [Youmake](https://youmake.dev) generate real code—React components, HTML, CSS, JavaScript. You own it completely:
+Vibe coding tools like [Youmake](https://www.youmake.dev/) generate real code—React components, HTML, CSS, JavaScript. You own it completely:
 
 - Export and host anywhere
 - Modify with traditional development if needed
@@ -102,7 +102,7 @@ Because vibe coding generates actual code (not visual abstractions), the output 
 
 **Before**: Used Webflow for client sites. Hit limitations constantly. Custom animations required workarounds. Client requests often met with "the platform can't do that."
 
-**After**: Switched to [Youmake](https://youmake.dev). Faster project delivery. No client request refused. Higher margins. Happier clients.
+**After**: Switched to [Youmake](https://www.youmake.dev/). Faster project delivery. No client request refused. Higher margins. Happier clients.
 
 ### The Startup Founder
 
@@ -159,7 +159,7 @@ Let go of pixel-perfect control. Describe what matters. Accept AI suggestions fo
 
 Ready to experience the difference? Try rebuilding something you made in no-code:
 
-1. Go to [youmake.dev](https://youmake.dev)
+1. Go to [youmake.dev](https://www.youmake.dev/)
 2. Describe your existing project in natural language
 3. Compare the results
 4. See [how to deploy in 5 minutes](/blog/idea-to-production-5-minutes)
@@ -174,7 +174,7 @@ In 2026, the question isn't whether vibe coding will replace no-code. It's alrea
 
 ---
 
-*Experience vibe coding at [youmake.dev](https://youmake.dev). Build [10 stunning portfolio websites](/blog/10-portfolio-websites) or create a [landing page in 60 seconds](/blog/landing-page-60-seconds-ai).*
+*Experience vibe coding at [youmake.dev](https://www.youmake.dev/). Build [10 stunning portfolio websites](/blog/10-portfolio-websites) or create a [landing page in 60 seconds](/blog/landing-page-60-seconds-ai).*
 ---
 
 ## Read Next

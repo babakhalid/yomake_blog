@@ -95,9 +95,10 @@ The fear isn't going away. The uncertainty is permanent. But a clear mindset abo
 - [Workday: AI is Easing Burnout but Deepening a Connection Deficit](https://newsroom.workday.com/2026-05-27-New-Workday-Global-Research-Finds-AI-is-Easing-Burnout-but-May-Be-Deepening-a-Connection-Deficit-at-Work)
 - [Adler University: Reducing Decision Fatigue and Burnout in the AI Workplace](https://www.adler.edu/news/how-leaders-can-help-reduce-decision-fatigue-and-burnout-in-the-ai-workplace/)
 - [Inc: AI Workplace Burnout — Bosses and Managers Unprepared](https://www.inc.com/kit-eaton/ai-workplace-burnout-bosses-managers-unprepared-leaders/91359766)
+---
 
 ## Read Next
 
-- [AI: Thinking Amplifier or Replacement? The Split That Defines Your Career](/articles/ai-thinking-amplifier-or-replacement-the-split-that-defines-your-career)
-- [The Growth Mindset in the AI Era: Why Learning Speed Beats Expertise](/articles/growth-mindset-ai-era-why-learning-speed-beats-expertise)
-- [Permission to Slow Down: Strategic Patience in the AI Age](/articles/permission-to-slow-down-strategic-patience-ai-age)
+- [The Resilience Mindset: How to Survive (and Thrive) When Everything Changes Quarterly](/articles/resilience-mindset-professional-surviving-constant-change)
+- [Sam Altman Admitted AI Will Kill Jobs. Now What?](/articles/sam-altman-ai-job-losses-honest-conversation)
+- [AI Won't Replace You. A Person Using AI Will. Here's How to Be That Person.](/articles/ai-not-replacing-you-person-using-ai-is)

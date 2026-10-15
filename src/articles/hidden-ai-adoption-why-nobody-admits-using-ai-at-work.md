@@ -132,6 +132,6 @@ Stop hiding. Start building.
 
 ## Read Next
 
+- [The AI Productivity Paradox: 80% of Workers Use AI Tools, Focus Is at a 3-Year Low](/articles/ai-productivity-paradox-focus-crisis-what-high-performers-do-differently)
 - [Cognitive Surrender: What Happens When You Let AI Think for You](/articles/cognitive-surrender-when-ai-thinks-for-you-system-3)
-- [The Slow Thinking Revolution: Why the Smartest People in 2026 Are Going Analog](/articles/slow-thinking-revolution-going-analog-2026)
-- [Stop Mandating AI Adoption — Let Your Team Lead the Way](/articles/stop-mandating-ai-adoption-let-your-team-lead-the-way)
+- [Your Mental Operating System Needs an Upgrade: Why Clear Thinking Is the Real Competitive Edge in the AI Age](/articles/mental-operating-system-upgrade-clear-thinking-ai-age)

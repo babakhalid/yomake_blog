@@ -89,3 +89,10 @@ That's not an ambitious curriculum. It's the bare minimum for professional compe
 The institutions that figure this out first will produce the most employable graduates. The ones that don't will increasingly find their alumni struggling in a workforce that moved on without them.
 
 The clock is ticking. And honestly, it started ticking about two years ago. We're already playing catch-up.
+---
+
+## Read Next
+
+- [The World Just Got Its First AI Literacy Rulebook for Schools — And It's About Time](/articles/ai-literacy-framework-teaching-students-think-not-just-prompt)
+- [92% of Students Use AI — But Barely Half Have Been Taught How](/articles/ai-skills-gap-crisis-92-percent-students-using-ai-no-training)
+- [Generation AI Is Here — And We're Already Failing Half of Them](/articles/generation-ai-education-divide-computing-skills)

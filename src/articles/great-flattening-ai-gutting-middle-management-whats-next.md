@@ -93,9 +93,10 @@ The pyramid is collapsing. The question is whether what replaces it will be a pl
 - [BetterWorks: The Great Flattening](https://www.betterworks.com/magazine/the-great-flattening)
 - [Forbes/Deloitte: The Future of Human-Led, AI-Powered Leadership](https://www.forbes.com/sites/deloitte/2026/04/15/the-future-of-human-led-ai-powered-leadership/)
 - [Innovative Leadership Institute: Leadership Trends 2026](https://innovativeleadershipinstitute.com/leadership-trends-2026-six-emerging-leadership-shifts-and-how-to-leverage-them-in-2026/)
+---
 
 ## Read Next
 
-- [Why AI Layoffs Won't Save Your Company](/articles/why-ai-layoffs-wont-save-your-company)
-- [The Two-Tier Workforce Is Here: AI Agents Are Splitting Companies in Half](/articles/the-two-tier-workforce-is-here-ai-agents-are-splitting-companies-in-half)
-- [Stop Treating AI Agents Like Employees: The Corporate Playbook](/articles/stop-treating-ai-agents-like-employees-corporate-playbook)
+- [AI-Washing Layoffs: Corporate America's Favorite New Excuse](/articles/ai-washing-layoffs-corporate-americas-favorite-excuse)
+- [The $700 Billion Bluff: Why Companies Are Cutting Workers to Fund AI That Isn't Delivering](/articles/700-billion-ai-layoff-bluff-companies-firing-workers-no-roi)
+- [The Leadership Wall: AI Is Destroying the Career Ladder and Nobody's Building a New One](/articles/ai-leadership-wall-career-ladder-mindset-shift-2026)

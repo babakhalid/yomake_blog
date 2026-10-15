@@ -104,11 +104,11 @@ Add the guardrails now. Your future self — and your on-call engineers — will
 
 ---
 
-*Building software and want to ship faster without the production fires? [Youmake](https://youmake.dev) helps you build at the speed of thought — with the guardrails built in. Your app is one prompt away.*
+*Building software and want to ship faster without the production fires? [Youmake](https://www.youmake.dev/) helps you build at the speed of thought — with the guardrails built in. Your app is one prompt away.*
 ---
 
 ## Read Next
 
 - [Google Now Generates 75% of Its Code With AI — Here's Why That Changes Everything](/articles/google-75-percent-ai-generated-code-agentic-shift)
 - [Google Just Bet $40 Billion on Anthropic. Here's Why That Should Make You Think.](/articles/google-anthropic-40-billion-ai-power-concentration)
-- [AI Is Splitting Every Industry in Two — Which Side Are You On?](/articles/ai-thinking-amplifier-or-replacement-the-split-that-defines-your-career)
+- [AI Won't Replace You. A Person Using AI Will. Here's How to Be That Person.](/articles/ai-not-replacing-you-person-using-ai-is)

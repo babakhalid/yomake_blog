@@ -87,7 +87,7 @@ The 95% adoption rate tells us the technology is already embedded. The 26% polic
 
 ## The builder's perspective
 
-At [Youmake](https://youmake.dev), we think about this problem from the other side. Our AI doesn't just generate code — it builds complete applications from description to production, with security checks, professional design, and deployment baked in. But the humans who use it still need to understand what they're building and why.
+At [Youmake](https://www.youmake.dev/), we think about this problem from the other side. Our AI doesn't just generate code — it builds complete applications from description to production, with security checks, professional design, and deployment baked in. But the humans who use it still need to understand what they're building and why.
 
 The best AI-educated students won't be the ones who can write the cleverest prompts. They'll be the ones who understand what they're asking for, can evaluate what they get back, and know when the AI is wrong. That's true whether you're writing an essay, building an app, or diagnosing a patient.
 
@@ -100,3 +100,10 @@ UConn's goal of reaching every freshman by 2028 with their AI4ALL course is the 
 The institution-level scramble we're seeing right now is uncomfortable but necessary. Better late than never — and infinitely better than pretending 95% of your students aren't already using tools you haven't acknowledged.
 
 The students moved first. Now it's the universities' turn.
+---
+
+## Read Next
+
+- [The AI Literacy Gap: 90% of Students Use AI, But Almost Nobody's Teaching Them How](/articles/universities-ai-literacy-gap-students-using-without-understanding)
+- [Universities Are Making AI Literacy Mandatory — But Teachers Say It's Killing Critical Thinking](/articles/universities-ai-literacy-mandate-critical-thinking-crisis-2026)
+- [95% of Students Use AI, But Only 20% of Universities Have a Policy. That's a Crisis.](/articles/universities-ai-governance-crisis-95-percent-using-20-percent-ready)

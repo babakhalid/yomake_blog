@@ -107,5 +107,5 @@ The plan was never the point. The thing you're building is.
 ## Read Next
 
 - [Stop Optimizing, Start Doing: Why Clarity Beats Perfection Every Time](/articles/stop-optimizing-start-doing-clarity-over-perfection)
-- [Cognitive Surrender: What Happens When You Let AI Think for You](/articles/cognitive-surrender-when-ai-thinks-for-you-system-3)
-- [The Slow Thinking Revolution: Why the Smartest People in 2026 Are Going Analog](/articles/slow-thinking-revolution-going-analog-2026)
+- [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)
+- [The AI Fatigue Paradox: More Tools, Less Output — What Smart Leaders Do Differently](/articles/ai-fatigue-paradox-more-tools-less-output-what-smart-leaders-do-differently)

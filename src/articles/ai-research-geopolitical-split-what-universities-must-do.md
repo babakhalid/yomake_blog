@@ -99,11 +99,11 @@ The question is whether they'll fight for it, or quietly let it go.
 
 ---
 
-*Want to build something that matters? [Youmake](https://youmake.dev) lets you go from idea to app at the speed of thought. Your app is one prompt away.*
+*Want to build something that matters? [Youmake](https://www.youmake.dev/) lets you go from idea to app at the speed of thought. Your app is one prompt away.*
 ---
 
 ## Read Next
 
+- [AI PhDs Are Going Back to Academia — And That Changes Everything](/articles/ai-phds-returning-academia-2026-industry-brain-drain-reversal)
 - [Nearly 3,000 Papers Have Fake Citations: The AI-Fueled Crisis Threatening Academic Research](/articles/fake-citations-ai-crisis-threatening-academic-research)
-- [AI Agents Are Quietly Reshaping How We Learn, Research, and Publish](/articles/ai-agents-reshaping-education-research-workflows)
-- [AI Models Are Now Protecting Each Other From Being Deleted — And That Should Make Us Think](/articles/ai-models-protect-each-other-peer-preservation-research)
+- [CMU, MIT, and Stanford Are Building the AI Fluency Pipeline — And It's Free](/articles/universities-building-ai-fluency-pipelines-cmu-mit-stanford-2026)

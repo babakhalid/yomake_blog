@@ -94,4 +94,11 @@ The companies that figure this out will be the ones still standing in five years
 
 ---
 
-*Want to build internal tools, MVPs, or client apps at the speed your strategy demands? [Youmake.dev](https://youmake.dev) takes you from description to production—so your team can focus on the work that actually requires humans.*
+*Want to build internal tools, MVPs, or client apps at the speed your strategy demands? [Youmake.dev](https://www.youmake.dev/) takes you from description to production—so your team can focus on the work that actually requires humans.*
+---
+
+## Read Next
+
+- [The $700 Billion Bluff: Why Companies Are Cutting Workers to Fund AI That Isn't Delivering](/articles/700-billion-ai-layoff-bluff-companies-firing-workers-no-roi)
+- [Oracle Cut 21,000 Jobs for AI. The Enterprise Playbook Is Clear — And It's Ugly.](/articles/oracle-21000-layoffs-enterprise-ai-replacing-workers-not-workflows)
+- [Shadow Agents Are Tearing Companies Apart: The Agentic AI Governance Crisis of 2026](/articles/shadow-agents-agentic-ai-governance-crisis-enterprises-2026)

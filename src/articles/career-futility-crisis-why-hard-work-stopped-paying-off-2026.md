@@ -102,9 +102,10 @@ The career ladder might be broken. But that doesn't mean the climb has to stop. 
 - [Employee Monitoring: Employee Burnout Statistics 2026](https://www.employee-monitoring.net/resources/employee-burnout-statistics-2026)
 - [Lyra Health: Workforce Mental Health Trends 2026](https://www.lyrahealth.com/blog/workforce-mental-health-trends-2026/)
 - [Global Wellness Institute: Workplace Wellbeing Trends 2026](https://globalwellnessinstitute.org/global-wellness-institute-blog/2026/04/07/workplace-wellbeing-initiative-trends-for-2026/)
+---
 
 ## Read Next
 
-- [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)
-- [Shadow Burnout: High Performers Breaking Down Invisibly](/articles/shadow-burnout-high-performers-breaking-down-invisibly)
-- [Mental Fitness Is Replacing Hustle Culture in 2026](/articles/mental-fitness-replacing-hustle-culture-2026)
+- [Silent Burnout Is the Workforce Crisis Nobody Wants to Talk About](/articles/silent-burnout-workforce-crisis-nobody-talks-about)
+- [Growth Mindset in the AI Era: Why Learning Speed Now Beats Expertise](/articles/growth-mindset-ai-era-why-learning-speed-beats-expertise)
+- [Permission to Slow Down: Why Strategic Patience Is the Most Underrated Skill in the AI Age](/articles/permission-to-slow-down-strategic-patience-ai-age)

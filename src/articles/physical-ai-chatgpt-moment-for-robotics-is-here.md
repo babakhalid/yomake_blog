@@ -106,6 +106,6 @@ The ChatGPT moment for the physical world isn't coming. It's here. The question 
 
 ## Read Next
 
-- [The Geography of Startup Money Is Broken — Here's How Founders Outside SF Can Still Win](/articles/startup-funding-concentration-sf-vibe-coding-unicorns)
-- [The $300 Billion Quarter: Why Vertical AI Startups Are the Real Opportunity in 2026](/articles/vertical-ai-startups-300-billion-venture-funding-q1-2026)
-- [A Developer Bought Friendster for $30K — And It's the Most Interesting Startup Move of 2026](/articles/friendster-revival-30k-bet-on-real-human-connection)
+- [NVIDIA's Cosmos 3 Is the GPT Moment for Robots — And It's Open Source](/articles/nvidia-cosmos-3-physical-ai-robots-see-move-react)
+- [81% of VC Money Goes to AI Startups. Here's Where Smart Founders Go Instead.](/articles/ai-funding-monopoly-where-smart-founders-raise-money-2026)
+- [Defense Tech Is the New SaaS: Why Founders Are Flocking to Military Startups](/articles/defense-tech-is-the-new-saas-why-founders-are-flocking-to-military-startups)

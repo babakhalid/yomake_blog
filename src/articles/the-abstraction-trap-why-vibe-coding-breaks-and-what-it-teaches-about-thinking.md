@@ -115,11 +115,11 @@ The vibes get you started. The precision gets you there.
 
 ---
 
-*Want to build at the speed of thought without sacrificing depth? [Youmake](https://youmake.dev) gives you the tools to go from idea to production, fast. Your app is one prompt away.*
+*Want to build at the speed of thought without sacrificing depth? [Youmake](https://www.youmake.dev/) gives you the tools to go from idea to production, fast. Your app is one prompt away.*
 ---
 
 ## Read Next
 
-- [The Geography of Startup Money Is Broken — Here's How Founders Outside SF Can Still Win](/articles/startup-funding-concentration-sf-vibe-coding-unicorns)
-- [Vibe Coding vs Traditional Coding: Which Approach Wins in 2026?](/articles/vibe-coding-vs-traditional-coding)
-- [What is Vibe Coding? Complete Guide to the AI Coding Revolution (2026)](/articles/what-is-vibe-coding)
+- [Your Mental Operating System Needs an Upgrade: Why Clear Thinking Is the Real Competitive Edge in the AI Age](/articles/mental-operating-system-upgrade-clear-thinking-ai-age)
+- [Best Vibe Coding Tools in 2026, by What You're Building](/articles/best-vibe-coding-tools)
+- [Free AI Website Builders in 2026: What's Actually Free (and When to Pay)](/articles/free-ai-website-builder)

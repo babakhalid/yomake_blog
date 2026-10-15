@@ -98,9 +98,10 @@ The [universities treating AI as infrastructure rather than experiment](/article
 - [Coursera: AI in Higher Education Guidance 2026](https://www.coursera.org/enterprise/articles/ai-in-higher-education-guidance-for-university-leaders-2026-cm)
 - [Syracuse Daily Orange: Newhouse AI Program](https://dailyorange.com/2026/06/newhouse-joins-fellow-su-schools-introduces-new-ai-program/)
 - [Pursuit: AI in Education News and Policies](https://www.pursuit.us/news/ai-in-education-news-policies-innovations)
+---
 
 ## Read Next
 
-- [AI Literacy Is the New Core Competency Every Student Needs](/articles/ai-literacy-new-core-competency-every-student-needs)
-- [Universities Are Treating AI as Infrastructure, Not Experiment](/articles/universities-treating-ai-infrastructure-not-experiment)
-- [The Universities AI Literacy Gap: Students Using Without Understanding](/articles/universities-ai-literacy-gap-students-using-without-understanding)
+- [The AI Literacy Gap: 90% of Students Use AI, But Almost Nobody's Teaching Them How](/articles/universities-ai-literacy-gap-students-using-without-understanding)
+- [95% of Students Already Use AI — Universities Are Scrambling to Catch Up](/articles/universities-scramble-ai-literacy-students-already-ahead)
+- [95% of Students Use AI, But Only 20% of Universities Have a Policy. That's a Crisis.](/articles/universities-ai-governance-crisis-95-percent-using-20-percent-ready)

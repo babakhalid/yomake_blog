@@ -110,7 +110,7 @@ AI that knows *when* to think deeply is just as important as AI that *can* think
 
 ---
 
-*Want AI that adapts to your needs? [Youmake](https://youmake.dev) builds apps at the speed of thought—complex or simple.*
+*Want AI that adapts to your needs? [Youmake](https://www.youmake.dev/) builds apps at the speed of thought—complex or simple.*
 ---
 
 ## Read Next

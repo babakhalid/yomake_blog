@@ -101,6 +101,6 @@ The mandate is real. But it's not the mandate most executives think it is.
 
 ## Read Next
 
-- [Why Your Digital Transformation Needs Three Leaders, Not One](/articles/why-your-digital-transformation-needs-three-leaders-not-one)
-- [Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right](/articles/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right)
-- [The CFO Is the New CEO: How Corporate Strategy Shifted in 2026](/articles/the-cfo-is-the-new-ceo-how-corporate-strategy-shifted-in-2026)
+- [The Great Flattening: AI Is Gutting Middle Management and Nobody's Ready for What Comes Next](/articles/great-flattening-ai-gutting-middle-management-whats-next)
+- [Oracle Cut 21,000 Jobs for AI. The Enterprise Playbook Is Clear — And It's Ugly.](/articles/oracle-21000-layoffs-enterprise-ai-replacing-workers-not-workflows)
+- [The $700 Billion Bluff: Why Companies Are Cutting Workers to Fund AI That Isn't Delivering](/articles/700-billion-ai-layoff-bluff-companies-firing-workers-no-roi)

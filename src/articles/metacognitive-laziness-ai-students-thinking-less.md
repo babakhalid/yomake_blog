@@ -107,3 +107,10 @@ AI isn't making students dumber. But it's creating conditions where students can
 The solution isn't less AI. It's better AI integration — designed with learning science, focused on cognitive engagement, and measured against genuine understanding rather than surface performance.
 
 We have the tools and the research to get this right. The question is whether institutions have the will and the wisdom to implement solutions before a generation of students learns to perform without ever learning to think.
+---
+
+## Read Next
+
+- [Utah Wants Students to Opt Out of Coursework They Disagree With — Here's Why That's a Problem](/articles/utah-conscientious-objection-education-dangerous-precedent)
+- [The Academic Integrity Crisis: Why Universities Must Redesign Assessment for the AI Era](/articles/academic-integrity-ai-assessment-redesign-2026)
+- [The AI Cheating Wars: False Accusations, Extreme Surveillance, and the Coming Assessment Revolution](/articles/ai-cheating-wars-universities-false-accusations-assessment-crisis)

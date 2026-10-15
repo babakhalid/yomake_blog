@@ -64,4 +64,5 @@ For organizations currently constrained by information processing bottlenecks, e
 ## Read Next
 
 - [Claude Opus 4.5: Inside Anthropic's Most Advanced Reasoning Model](/articles/claude-opus-4-5-advanced-reasoning-model)
-- [Organization-Wide Skill Management: Standardizing AI Workflows Across Teams](/articles/organization-skill-management-teams)
+- [300,000 Copilot Seats: When AI Stops Being a Project and Becomes the Operating System](/articles/300000-copilot-seats-enterprise-ai-operating-system)
+- [The Botsitting Crisis: The Hidden Labor Devouring Your AI Productivity Gains](/articles/botsitting-crisis-hidden-labor-behind-ai-productivity-myth)

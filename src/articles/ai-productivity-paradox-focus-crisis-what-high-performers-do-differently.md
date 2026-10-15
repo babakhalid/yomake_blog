@@ -111,9 +111,10 @@ We're not in an era of productivity tools anymore. We're in an era of attention 
 - [BCG: AI Will Reshape More Jobs Than It Replaces](https://www.bcg.com/publications/2026/ai-will-reshape-more-jobs-than-it-replaces)
 - [Forbes: Mindset Shifts for 2026](https://www.forbes.com/sites/jodiecook/2025/12/27/5-mindset-shifts-to-unlock-your-best-year-in-2026/)
 - [Motivalogic: Impact of AI on Jobs and Productivity](https://www.motivalogic.com/blog/the-impact-of-generative-ai-on-jobs-and-productivity-in-2026/)
+---
 
 ## Read Next
 
-- [Cognitive Surrender: When AI Thinks for You](/articles/cognitive-surrender-when-ai-thinks-for-you-system-3)
-- [The Botsitting Crisis: Hidden Labor Behind the AI Productivity Myth](/articles/botsitting-crisis-hidden-labor-behind-ai-productivity-myth)
-- [The AI Fatigue Paradox: More Tools, Less Output](/articles/ai-fatigue-paradox-more-tools-less-output-what-smart-leaders-do-differently)
+- [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)
+- [Cognitive Surrender: What Happens When You Let AI Think for You](/articles/cognitive-surrender-when-ai-thinks-for-you-system-3)
+- [The Paradox of Infinite Tools: Why More AI Options Are Making Founders Worse at Deciding](/articles/decision-fatigue-ai-paradox-of-choice-founders)

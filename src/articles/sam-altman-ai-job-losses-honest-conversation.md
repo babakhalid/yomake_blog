@@ -86,3 +86,10 @@ If you're building AI, you have a responsibility to think about this. Not just a
 And if you're a worker navigating this disruption, the best investment you can make is in your own adaptability. Not just learning today's tools, but building the mindset that lets you learn tomorrow's.
 
 That's the skill that never becomes obsolete.
+---
+
+## Read Next
+
+- [Who Decides How AI Changes Your Job? The Worker Power Question We're Ignoring](/articles/ai-worker-power-who-decides-how-ai-changes-your-job)
+- [The AI Job Apocalypse Isn't Coming — Here's What's Actually Happening](/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening)
+- [AI Won't Replace You. A Person Using AI Will. Here's How to Be That Person.](/articles/ai-not-replacing-you-person-using-ai-is)

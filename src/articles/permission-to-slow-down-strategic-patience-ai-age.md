@@ -110,3 +110,10 @@ Speed is a tool. Patience is a tool. The wise professional has both in their too
 In an age where everyone is sprinting, strategic patience might be the ultimate competitive advantage. Not because slow is better than fast — but because thoughtful is always better than reactive.
 
 Take the time to think. Then move decisively. That's the combination that wins.
+---
+
+## Read Next
+
+- [The Resilience Mindset: How to Survive (and Thrive) When Everything Changes Quarterly](/articles/resilience-mindset-professional-surviving-constant-change)
+- [The Four AI Mindsets: A Practical Guide to McKinsey's Framework for Thriving in 2026](/articles/four-ai-mindsets-mckinsey-framework-practical-guide)
+- [Growth Mindset in the AI Era: Why Learning Speed Now Beats Expertise](/articles/growth-mindset-ai-era-why-learning-speed-beats-expertise)

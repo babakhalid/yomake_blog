@@ -95,5 +95,5 @@ That's the hard part. And we're just getting started.
 ## Read Next
 
 - [27 States Are Writing AI Education Rules Right Now — And Most Schools Aren't Ready](/articles/ai-education-legislation-2026-states-are-writing-the-rules)
-- [The Ed-Tech Evidence Crisis: Why Schools Are Finally Asking 'Does This Actually Work?'](/articles/ed-tech-evidence-crisis-schools-rethinking-digital-tools)
-- [Universities Are Finally Writing the AI Rulebook—And It's About Time](/articles/universities-are-finally-writing-the-ai-rulebook)
+- [95% of Students Use AI, But Only 20% of Universities Have a Policy. That's a Crisis.](/articles/universities-ai-governance-crisis-95-percent-using-20-percent-ready)
+- [Adaptive Learning Platforms Are Reshaping Higher Education — And Most Schools Aren't Ready](/articles/adaptive-learning-platforms-reshaping-higher-education-2026)

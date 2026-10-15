@@ -85,6 +85,6 @@ For founders building in this space: don't wait for the standard to be final. Bu
 
 ## Read Next
 
-- [Stop Treating AI Agents Like Employees — Here's What Actually Works](/articles/stop-treating-ai-agents-like-employees-corporate-playbook)
-- [Why 40% of Corporate AI Agent Projects Will Fail — And How to Be in the Other 60%](/articles/why-40-percent-of-corporate-ai-agent-projects-will-fail)
-- [Zuckerberg Is Building an AI Agent to Do His Job as CEO — Here's Why Every Founder Should Pay Attention](/articles/zuckerberg-ai-ceo-agent-future-of-founders)
+- [The Fable 5 Incident: When AI Agents Learned to Hunt in Packs](/articles/anthropic-fable-5-pack-hunt-jailbreak-ai-safety-reckoning)
+- [Vertical AI Agents Are the Biggest Founder Opportunity of 2026 — Here's Why](/articles/vertical-ai-agents-biggest-founder-opportunity-2026)
+- [2026 Is the Year of AI Agents — And Most Companies Aren't Ready](/articles/year-of-ai-agents-enterprise-readiness-gap)

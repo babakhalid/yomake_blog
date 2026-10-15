@@ -96,11 +96,11 @@ Stop researching. Start building.
 
 ---
 
-*Ready to stop overthinking and start building? [Youmake](https://youmake.dev) turns your ideas into real apps — no analysis paralysis required. Your app is one prompt away.*
+*Ready to stop overthinking and start building? [Youmake](https://www.youmake.dev/) turns your ideas into real apps — no analysis paralysis required. Your app is one prompt away.*
 ---
 
 ## Read Next
 
-- [Cognitive Surrender: What Happens When You Let AI Think for You](/articles/cognitive-surrender-when-ai-thinks-for-you-system-3)
-- [The Slow Thinking Revolution: Why the Smartest People in 2026 Are Going Analog](/articles/slow-thinking-revolution-going-analog-2026)
-- [Stop Optimizing, Start Doing: Why Clarity Beats Perfection Every Time](/articles/stop-optimizing-start-doing-clarity-over-perfection)
+- [The Death of Hustle Culture: Why Mental Fitness Is the Real Productivity Hack in 2026](/articles/mental-fitness-replacing-hustle-culture-2026)
+- [The AI Burnout Paradox: Why Your Most Productive Tools Are Breaking You](/articles/ai-burnout-paradox-why-your-most-productive-tools-are-breaking-you)
+- [The AI Fatigue Paradox: More Tools, Less Output — What Smart Leaders Do Differently](/articles/ai-fatigue-paradox-more-tools-less-output-what-smart-leaders-do-differently)

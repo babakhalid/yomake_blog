@@ -85,9 +85,10 @@ The age of AI companies renting all their compute on someone else's hardware is 
 - [Motley Fool: OpenAI Is Building Its Own AI Chip With Broadcom](https://www.fool.com/investing/2026/06/26/openai-is-building-its-own-ai-chip-with-broadcom-s/)
 - [The Guardian: Shares in Chipmakers Surge in First Half of 2026](https://www.theguardian.com/business/2026/jun/29/shares-in-chipmakers-underpinning-ai-boom-surge-in-first-half-of-2026)
 - [Quartz: OpenAI Broadcom Jalapeño Custom AI Chip](https://qz.com/openai-broadcom-jalapeno-custom-ai-chip-062426)
+---
 
 ## Read Next
 
-- [The Trillion-Dollar AI Spending Boom: Bubble or Breakthrough?](/articles/trillion-dollar-ai-spending-boom-bubble-or-breakthrough)
-- [OpenAI's AWS Deal: The End of Cloud Exclusivity](/articles/openai-aws-deal-end-of-cloud-exclusivity-ai-infrastructure)
-- [Lean AI Startups: Tiny Teams Beating Giants in 2026](/articles/lean-ai-startups-tiny-teams-beating-giants-2026)
+- [OpenAI Wants to Buy Fusion Energy — And That Should Tell You Everything About AI's Power Problem](/articles/openai-fusion-energy-helion-deal-ai-power-crisis)
+- [OpenAI's Codex Now Lives in Your Browser — And That Changes Everything](/articles/openai-codex-chrome-extension-ai-agents-enter-your-browser)
+- [The AI Infrastructure Race: Data Centers, Chip Wars, and the $200B Bet on Compute](/articles/ai-data-center-chip-wars-infrastructure-race-2026)
