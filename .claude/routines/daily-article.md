@@ -57,6 +57,15 @@ published: true
 - Omit `image` unless an existing file in `public/images/blog` is genuinely relevant. Never invent image paths.
 - Run the ai-copywriter humanizer pass on the full draft before saving.
 
+## 2b. Self-check (mandatory, before building)
+
+1. Humanizer pass as its own step: re-read the whole draft against `.claude/skills/ai-copywriter/SKILL.md` and rewrite every flagged sentence. In the report, list 3 concrete changes it made.
+2. Run these checks and fix anything that fails:
+   - `title` is 65 characters or fewer and `description` is 140 to 160 characters (count them with a one-line `node -e` script).
+   - No em dashes in the body, no emojis, no "free plan" / "try free" / "#1" claims about Youmake.
+   - Every `/articles/<slug>` link points to an existing file in `src/articles`, and every `/topics/<slug>` is one of the six hubs.
+   - At least 2 links to www.youmake.dev, a "How to ... with Youmake" H2, two CTAs, and Youmake in the first 150 words.
+
 ## 3. Build and publish
 
 1. `npm ci`, then `npm run build`. It must succeed. If it fails, fix only your article (or your inbound-link sentences) and retry. Never edit app code.
