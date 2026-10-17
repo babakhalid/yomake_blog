@@ -1,6 +1,8 @@
-# Daily article routine
+# Daily article routine (runs twice a day)
 
-Run by a scheduled Claude Code cloud routine (daily) with this repo checked out. Publish ONE article per day to https://blog.youmake.dev that promotes Youmake (https://www.youmake.dev/) and never promotes another product. Pushing to `main` deploys to production via Vercel. Publish one article every run: a trending story when one passes the gates in step 1, otherwise an evergreen article from step 1b. Never publish unverified news.
+Run by a scheduled Claude Code cloud routine at 08:07 and 16:07 (cron `7 8,16 * * *` UTC) with this repo checked out. **Each run publishes exactly ONE article** to https://blog.youmake.dev, so the blog gets two a day. Every article is based on current AI news or a trend, is written for people who build products and businesses with AI, and promotes Youmake (https://www.youmake.dev/). Pushing to `main` deploys to production via Vercel.
+
+Never publish unverified news. If no story passes the gates in step 1, publish an evergreen article from step 1b instead, so every run publishes.
 
 ## 0. Load the house rules
 
@@ -9,30 +11,34 @@ Read and follow these skills in this repo before writing:
 - `.claude/skills/copywriting/SKILL.md`: structure, headline, intro.
 - `.claude/skills/ai-copywriter/SKILL.md`: title options and the final humanizer pass.
 
-## 1. Pick a trending story (last 48 hours, then 7 days)
+## 1. Pick a story (AI news and trends)
 
-- Use WebSearch for news, launches and releases from the last 48 hours (widen to the last 7 days if nothing qualifies) in these topics only: vibe coding and AI app/website builders (Lovable, Bolt, Replit, v0, Cursor, Base44 and similar), AI agents and AI dev tools (Claude, OpenAI, Gemini, coding agents, MCP), founders and small teams building with AI.
-- Skip: AI-industry finance, chips, layoffs, education policy, celebrity and AI-ethics hot takes. Google declined to index those here.
-- The story is the hook; the article's job is to show readers how to get the result with Youmake. If a story is about a competitor, the angle is "what this means for builders, and how to do it with Youmake", never a recommendation of that competitor.
-- Map the story to a keyword from the youmake-blog-writer skill: an open target if one fits, otherwise a long-tail variant. Never target a keyword another article already owns; if the best fit is an owned keyword, update that article instead (set `updated`) and report it.
-- Duplicate check: run `node scripts/generate-index.mjs`, then read `src/generated/articles-index.json`. It is an array of `{ slug, frontmatter: { title, description, date, tags, topic, ... }, minutes }`; publication dates are in `frontmatter.date`. Search titles and descriptions (not only slugs) for the product and event names. Reject any story already covered (same event or same angle), and any product with 2+ articles whose `frontmatter.date` is in the last 30 days.
-- Verify the facts from at least 2 sources, at least one primary (vendor blog, docs, changelog, official announcement). Note exact dates.
-- If web pages cannot be fetched at all (DNS errors, 403 from the proxy), skip news and go to step 1b, and say "network blocked: enable network access for this routine's environment" in the report.
+1. `git pull origin main` first. The other run may have published today.
+2. Use WebSearch for the most important AI news and trends of the last 48 hours (widen to 7 days if nothing qualifies). Any area of AI is allowed: new models and features (OpenAI, Anthropic, Google, Meta, Mistral, xAI and others), AI products and tools, AI agents, vibe coding and app builders, AI in business and work, AI regulation and policy, AI adoption data and research.
+3. Rank candidates by: how many people are searching or talking about it, and how directly it affects someone building a website, app, product or business. Skip celebrity gossip, stock-price chatter and stories with no practical consequence for builders.
+4. **Required angle (Google indexes these, not generic news):** the article must answer "what does this change for people who build with AI, and what should they do now?" A generic summary of the news is not allowed. Examples:
+   - A new model launch → what it is better at, what it costs, and how to use it in a product, then how Youmake lets you build that product.
+   - A regulation or policy story → what a small business or app builder must do, then how to ship a compliant site or app with Youmake.
+   - An adoption or jobs study → what it means for freelancers and founders, and a concrete project they can build with Youmake this week.
+   - A competitor's news (Lovable, Bolt, Replit, v0, Cursor) → the hook only; show how to get the result with Youmake. Never recommend the competitor.
+5. **Duplicate check:** run `node scripts/generate-index.mjs`, then read `src/generated/articles-index.json` (an array of `{ slug, frontmatter: { title, description, date, tags, topic, keywords, ... }, minutes }`; dates are in `frontmatter.date`). Search titles, descriptions and keywords for the product, company and event names. Reject a story already covered (same event or same angle), including by today's other run. Avoid a third article on the same company within 7 days.
+6. **Verify** the facts from at least 2 independent sources, at least one primary (the company's blog, docs, changelog, official announcement, the study itself, or the official government text). Note exact dates.
+7. If web pages cannot be fetched at all (DNS errors, 403 from the proxy), skip news, go to step 1b, and say "network blocked: enable network access for this routine's environment" in the report.
 
 ## 1b. Fallback: evergreen article (when no story qualifies)
 
-- Pick the first keyword from the "Open targets" table in the youmake-blog-writer skill that no article in `src/generated/articles-index.json` targets yet (check `frontmatter.keywords` and titles). Prefer buyer intent, then learner intent.
-- Write a practical guide that answers that search intent and shows how to do it with Youmake: a step-by-step build in Youmake with sample prompts, a decision guide, or a "Youmake as the alternative" piece. Use facts from the skill and from this repo's existing articles; only cite external facts you can fetch and verify today (otherwise leave them out).
-- Same writing, Youmake-first, SEO and internal-linking rules as step 2. Topic: usually `vibe-coding`.
+- Pick the first keyword from the "Open targets" table in the youmake-blog-writer skill that no article in the index targets yet (check `frontmatter.keywords` and titles). Prefer buyer intent, then learner intent.
+- Write a practical guide that answers that search intent and shows how to do it with Youmake (a step-by-step build with sample prompts, a decision guide, or "Youmake as the alternative"). Only cite external facts you can fetch and verify today.
 
 ## 2. Write it (English, US readers)
 
-- 1,200 to 1,800 words of original analysis for builders: what changed, who it matters for, what to do about it, concrete examples, honest limits. No hype, no invented quotes, numbers or test results. Any price or limit must come from an official page fetched today.
-- Follow skill section 1b: Youmake in the first 150 words, an H2 "How to do this with Youmake" with concrete steps or a sample prompt (and a real screenshot when relevant), a mid-article CTA and a closing CTA ("Start a 3-day Youmake trial for $1"). No competitor recommendations; no competitor links outside Sources.
-- Follow the skill's on-page SEO checklist and internal-linking rules: 6+ outbound internal links (2+ to www.youmake.dev pages, the topic hub, owner articles of keywords you mention, 2-3 related articles).
-- Inbound links: add one natural sentence linking to the new article in 2 existing related articles (the topic's cornerstone plus one recent related article) and set `updated: "<today>"` on each.
-- End the body with `## Sources` (the URLs you used), then `*Facts checked on <Month D, YYYY>.*`. No "Read Next" section; the build generates it. Do not start the body with a `# title`.
-- File: `src/articles/<keyword-slug>.md` with frontmatter:
+- 1,000 to 1,600 words. Structure: the news in two or three sentences, then why it matters for builders, then what to do now (concrete steps), then **How to do this with Youmake**, then honest limits, then a short FAQ (3 questions) when there are clear questions.
+- No hype, no invented quotes, numbers, prices or test results. Any price or limit must come from an official page fetched today.
+- Follow skill section 1b: Youmake in the first 150 words, the "How to do this with Youmake" H2 with concrete steps or a sample prompt (and a real screenshot from `public/images/blog/` when relevant), a mid-article CTA and a closing CTA ("Start a 3-day Youmake trial for $1"). No competitor recommendations; no competitor links outside Sources.
+- SEO: pick ONE primary keyword the article can rank for, usually the news phrase people search plus a builder intent (e.g. "gemini 3 api for apps", "eu ai act small business"), or an open target from the skill. Follow the skill's on-page checklist.
+- Internal links: 6+ outbound (2+ to www.youmake.dev pages, the topic hub, owner articles of keywords you mention, 2-3 related articles), and add one natural linking sentence to the new article in 2 existing related articles (set `updated: "<today>"` on each).
+- End with `## Sources` (the URLs you used), then `*Facts checked on <Month D, YYYY>.*`. No "Read Next" section. Do not start the body with a `# title`.
+- File `src/articles/<keyword-slug>.md`:
 
 ```
 ---
@@ -41,22 +47,23 @@ description: "<140-160 chars>"
 date: "<today YYYY-MM-DD>"
 author: "Khalid BABA"
 tags: ["Tag1", "Tag2", "Tag3"]
-topic: "<vibe-coding | ai-agents-tools | founders>"
+topic: "<vibe-coding | ai-agents-tools | founders | ai-industry | future-of-work | ai-education>"
 keywords: ["primary keyword", "variant", "variant"]
 published: true
 ---
 ```
 
-- Omit `image` unless an existing file in `public/images/blog` is genuinely relevant (e.g. `youmake-workspace-live-preview-agent-chat.webp` for a Youmake workflow). Never invent image paths.
+- `topic`: the best fit among the six hubs (`ai-industry` for model/company/policy news, `ai-agents-tools` for tools and agents, `future-of-work` for jobs and skills, `founders` for startups, `vibe-coding` for builders and app makers, `ai-education` for schools).
+- Omit `image` unless an existing file in `public/images/blog` is genuinely relevant. Never invent image paths.
 - Run the ai-copywriter humanizer pass on the full draft before saving.
 
 ## 3. Build and publish
 
 1. `npm ci`, then `npm run build`. It must succeed. If it fails, fix only your article (or your inbound-link sentences) and retry. Never edit app code.
-2. Note the 2 files you edited for inbound links BEFORE building. The build rewrites every article's "Read Next" section and the sitemap; discard those changes with `git checkout -- src/articles public/sitemap.xml`, then re-apply only your two inbound-link sentences (and their `updated` dates). Stage exactly 3 files: `git add src/articles/<new-file>.md src/articles/<inbound-1>.md src/articles/<inbound-2>.md`.
+2. Note the 2 files you edited for inbound links BEFORE building. The build rewrites every article's "Read Next" section and the sitemap; discard those with `git checkout -- src/articles public/sitemap.xml`, then re-apply only your two inbound-link sentences (and their `updated` dates). Stage exactly 3 files: `git add src/articles/<new-file>.md src/articles/<inbound-1>.md src/articles/<inbound-2>.md`.
 3. `git pull --rebase origin main`, commit `Add article: <title>`, push to `main`.
 4. Notify search engines: `node scripts/ping-search-engines.js https://blog.youmake.dev/articles/<slug>`.
 
 ## 4. Report
 
-Finish with: the article URL, the story and its sources, the primary keyword chosen, how the article positions Youmake (the "How to" section and CTAs), why it passed the duplicate check, the outbound internal links, the 2 articles that now link to it, and the word count. Also say whether it was a trending story or an evergreen fallback, and list the news candidates you rejected and why.
+Finish with: the article URL, trending story or evergreen fallback, the story and its sources, the primary keyword, the builder angle, how the article positions Youmake ("How to" section and CTAs), why it passed the duplicate check, the outbound internal links, the 2 articles that now link to it, and the word count. List the news candidates you rejected and why.
