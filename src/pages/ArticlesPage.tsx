@@ -1,78 +1,60 @@
-import { useState, useMemo, useEffect, useRef, useCallback } from 'react';
+import { useState, useEffect, useRef } from 'react';
+import { Link } from 'react-router-dom';
 import { ArticleCard } from '@/components';
-import { getAllArticles, getAllTags } from '@/utils';
+import { getAllArticles, getArticleTopic, topics } from '@/utils';
 import { SEO, generateBreadcrumbSchema } from '@/components/SEO';
 import './ArticlesPage.css';
 
-const ARTICLES_PER_PAGE = 9;
+const ARTICLES_PER_PAGE = 12;
 
+// Filter by the 6 topic hubs plus a text search over titles and descriptions.
+// (The old filter listed every frontmatter tag, several hundred chips.)
 export function ArticlesPage() {
-  const [selectedTag, setSelectedTag] = useState<string | null>(null);
-  const [tagSearch, setTagSearch] = useState('');
+  const allArticles = getAllArticles();
+  const [topic, setTopic] = useState<string | null>(null);
+  const [query, setQuery] = useState('');
   const [displayCount, setDisplayCount] = useState(ARTICLES_PER_PAGE);
   const loadMoreRef = useRef<HTMLDivElement>(null);
 
-  const allArticles = getAllArticles();
-  const allTags = getAllTags();
-
-  // Filter tags based on search
-  const filteredTags = useMemo(() => {
-    if (!tagSearch.trim()) return allTags;
-    return allTags.filter((tag) =>
-      tag.toLowerCase().includes(tagSearch.toLowerCase())
-    );
-  }, [allTags, tagSearch]);
-
-  const filteredArticles = selectedTag
-    ? allArticles.filter((article) =>
-        article.frontmatter.tags.map((t) => t.toLowerCase()).includes(selectedTag.toLowerCase())
-      )
-    : allArticles;
-
-  // Reset display count when filter changes
-  useEffect(() => {
-    setDisplayCount(ARTICLES_PER_PAGE);
-  }, [selectedTag]);
-
+  const needle = query.trim().toLowerCase();
+  const filteredArticles = allArticles.filter((article) => {
+    if (topic && getArticleTopic(article).slug !== topic) return false;
+    if (!needle) return true;
+    const { title, description } = article.frontmatter;
+    return `${title} ${description}`.toLowerCase().includes(needle);
+  });
   const displayedArticles = filteredArticles.slice(0, displayCount);
   const hasMore = displayCount < filteredArticles.length;
+  const countFor = (slug: string) => allArticles.filter((article) => getArticleTopic(article).slug === slug).length;
 
-  // Intersection Observer for infinite scroll
-  const loadMore = useCallback(() => {
-    if (hasMore) {
-      setDisplayCount((prev) => Math.min(prev + ARTICLES_PER_PAGE, filteredArticles.length));
-    }
-  }, [hasMore, filteredArticles.length]);
+  const chooseTopic = (slug: string | null) => {
+    setTopic(slug);
+    setDisplayCount(ARTICLES_PER_PAGE);
+  };
 
   useEffect(() => {
+    const node = loadMoreRef.current;
+    if (!node || !hasMore) return;
     const observer = new IntersectionObserver(
       (entries) => {
-        if (entries[0].isIntersecting && hasMore) {
-          loadMore();
-        }
+        if (entries[0].isIntersecting) setDisplayCount((count) => count + ARTICLES_PER_PAGE);
       },
-      { threshold: 0.1, rootMargin: '100px' }
+      { rootMargin: '200px' }
     );
-
-    if (loadMoreRef.current) {
-      observer.observe(loadMoreRef.current);
-    }
-
+    observer.observe(node);
     return () => observer.disconnect();
-  }, [hasMore, loadMore]);
+  }, [hasMore]);
 
-  // Generate breadcrumb structured data
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: 'Home', url: '/' },
     { name: 'Articles', url: '/articles' },
   ]);
 
-  // Generate CollectionPage structured data
   const collectionSchema = {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
     name: 'All Articles - Youmake Blog',
-    description: 'Explore our latest tutorials, insights, and updates about building with AI and vibe coding.',
+    description: 'Tutorials, guides and analysis about building websites, apps and agents with AI.',
     url: 'https://blog.youmake.dev/articles',
     mainEntity: {
       '@type': 'ItemList',
@@ -85,11 +67,13 @@ export function ArticlesPage() {
     },
   };
 
+  const activeTopic = topics.find((item) => item.slug === topic);
+
   return (
     <div className="articles-page">
       <SEO
         title="All Articles"
-        description="Explore our latest tutorials, insights, and updates about building websites and web apps with AI. Learn vibe coding with Youmake."
+        description="Tutorials, guides and analysis about building websites, web apps and AI agents. Learn vibe coding and ship real products with Youmake."
         url="/articles"
         structuredData={[breadcrumbSchema, collectionSchema]}
       />
@@ -98,59 +82,57 @@ export function ArticlesPage() {
           <span className="eyebrow">The Youmake blog</span>
           <h1 className="articles-title">All articles</h1>
           <p className="articles-description">
-            Explore our latest tutorials, insights, and updates about building with AI.
+            Guides, comparisons and analysis for people building with AI. Filter by topic or search a title.
           </p>
         </header>
 
-        {allTags.length > 0 && (
-          <div className="tags-filter-container">
-            <div className="tags-search">
-              <svg className="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <circle cx="11" cy="11" r="8"/>
-                <path d="m21 21-4.35-4.35"/>
-              </svg>
-              <input
-                type="text"
-                placeholder="Search tags..."
-                value={tagSearch}
-                onChange={(e) => setTagSearch(e.target.value)}
-                className="tags-search-input"
-              />
-              {tagSearch && (
-                <button
-                  className="search-clear"
-                  onClick={() => setTagSearch('')}
-                  aria-label="Clear search"
-                >
-                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                    <path d="M18 6 6 18"/>
-                    <path d="m6 6 12 12"/>
-                  </svg>
-                </button>
-              )}
-            </div>
-            <div className="tags-filter">
+        <div className="articles-toolbar">
+          <div className="topic-filter" role="group" aria-label="Filter by topic">
+            <button type="button" className={`tag-btn ${!topic ? 'active' : ''}`} aria-pressed={!topic} onClick={() => chooseTopic(null)}>
+              All <span className="tag-count">{allArticles.length}</span>
+            </button>
+            {topics.map((item) => (
               <button
-                className={`tag-btn ${!selectedTag ? 'active' : ''}`}
-                onClick={() => setSelectedTag(null)}
+                key={item.slug}
+                type="button"
+                className={`tag-btn ${topic === item.slug ? 'active' : ''}`}
+                aria-pressed={topic === item.slug}
+                onClick={() => chooseTopic(item.slug)}
               >
-                All
+                {item.name} <span className="tag-count">{countFor(item.slug)}</span>
               </button>
-              {filteredTags.map((tag) => (
-                <button
-                  key={tag}
-                  className={`tag-btn ${selectedTag === tag ? 'active' : ''}`}
-                  onClick={() => setSelectedTag(tag)}
-                >
-                  {tag}
-                </button>
-              ))}
-              {filteredTags.length === 0 && tagSearch && (
-                <span className="no-tags-found">No tags found</span>
-              )}
-            </div>
+            ))}
           </div>
-        )}
+
+          <div className="tags-search">
+            <svg className="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+              <circle cx="11" cy="11" r="8" />
+              <path d="m21 21-4.35-4.35" />
+            </svg>
+            <input
+              type="search"
+              placeholder="Search articles"
+              aria-label="Search articles"
+              value={query}
+              onChange={(e) => { setQuery(e.target.value); setDisplayCount(ARTICLES_PER_PAGE); }}
+              className="tags-search-input"
+            />
+            {query && (
+              <button type="button" className="search-clear" onClick={() => setQuery('')} aria-label="Clear search">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                  <path d="M18 6 6 18" />
+                  <path d="m6 6 12 12" />
+                </svg>
+              </button>
+            )}
+          </div>
+        </div>
+
+        <p className="results-line">
+          {filteredArticles.length} {filteredArticles.length === 1 ? 'article' : 'articles'}
+          {activeTopic && <> in <Link to={`/topics/${activeTopic.slug}`}>{activeTopic.name}</Link></>}
+          {needle && <> matching “{query.trim()}”</>}
+        </p>
 
         {filteredArticles.length > 0 ? (
           <>
@@ -159,26 +141,12 @@ export function ArticlesPage() {
                 <ArticleCard key={article.slug} article={article} />
               ))}
             </div>
-            {hasMore && (
-              <div className="load-more-trigger" ref={loadMoreRef}>
-                <div className="loading-spinner">
-                  <svg className="spinner" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                    <circle cx="12" cy="12" r="10" strokeOpacity="0.25" />
-                    <path d="M12 2a10 10 0 0 1 10 10" strokeLinecap="round" />
-                  </svg>
-                  <span>Loading more articles...</span>
-                </div>
-              </div>
-            )}
-            {!hasMore && filteredArticles.length > ARTICLES_PER_PAGE && (
-              <div className="all-loaded">
-                <span>All {filteredArticles.length} articles loaded</span>
-              </div>
-            )}
+            {hasMore && <div className="load-more-trigger" ref={loadMoreRef} aria-hidden="true" />}
           </>
         ) : (
           <div className="no-articles">
-            <p>No articles found{selectedTag ? ` for "${selectedTag}"` : ''}.</p>
+            <p>No articles match that search.</p>
+            <button type="button" className="btn" onClick={() => { setQuery(''); chooseTopic(null); }}>Clear filters</button>
           </div>
         )}
       </div>
