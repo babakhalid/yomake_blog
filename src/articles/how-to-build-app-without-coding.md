@@ -2,6 +2,7 @@
 title: "How to Build an App Without Coding in 2026 (Step-by-Step Guide)"
 description: "Build a real, working app without writing a single line of code. This step-by-step guide shows you exactly how to go from idea to live application using AI — no programming required."
 date: "2026-05-10"
+updated: "2026-10-17"
 author: "Khalid BABA"
 tags: ["No-Code", "AI Development", "Tutorial", "App Builder", "Vibe Coding", "Youmake"]
 topic: "vibe-coding"
@@ -111,7 +112,7 @@ Authentication: Email signup and login.
 
 ## Step 4: Iterate and Refine
 
-Your first version won't be perfect. That's fine — iteration is where vibe coding shines.
+Your first version won't be perfect. That's fine — iteration is where vibe coding shines. If you want an AI feature such as a document chat, our guide to [Muse Spark Open for apps](/articles/muse-spark-open-for-app-builders) shows how to add a hosted model to an app like this.
 
 Examples of refinement prompts:
 - "Add a search bar to the client list that filters by name or company"
