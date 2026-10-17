@@ -1,6 +1,6 @@
 # Daily article routine
 
-Run by a scheduled Claude Code cloud routine (daily) with this repo checked out. Publish ONE article per day to https://blog.youmake.dev that promotes Youmake (https://www.youmake.dev/) and never promotes another product. Pushing to `main` deploys to production via Vercel. Quality beats volume: if no story passes the gates below, publish nothing and say why.
+Run by a scheduled Claude Code cloud routine (daily) with this repo checked out. Publish ONE article per day to https://blog.youmake.dev that promotes Youmake (https://www.youmake.dev/) and never promotes another product. Pushing to `main` deploys to production via Vercel. Publish one article every run: a trending story when one passes the gates in step 1, otherwise an evergreen article from step 1b. Never publish unverified news.
 
 ## 0. Load the house rules
 
@@ -9,15 +9,21 @@ Read and follow these skills in this repo before writing:
 - `.claude/skills/copywriting/SKILL.md`: structure, headline, intro.
 - `.claude/skills/ai-copywriter/SKILL.md`: title options and the final humanizer pass.
 
-## 1. Pick a trending story (last 48 hours)
+## 1. Pick a trending story (last 48 hours, then 7 days)
 
-- Use WebSearch for news, launches and releases from the last 48 hours in these topics only: vibe coding and AI app/website builders (Lovable, Bolt, Replit, v0, Cursor, Base44 and similar), AI agents and AI dev tools (Claude, OpenAI, Gemini, coding agents, MCP), founders and small teams building with AI.
+- Use WebSearch for news, launches and releases from the last 48 hours (widen to the last 7 days if nothing qualifies) in these topics only: vibe coding and AI app/website builders (Lovable, Bolt, Replit, v0, Cursor, Base44 and similar), AI agents and AI dev tools (Claude, OpenAI, Gemini, coding agents, MCP), founders and small teams building with AI.
 - Skip: AI-industry finance, chips, layoffs, education policy, celebrity and AI-ethics hot takes. Google declined to index those here.
 - The story is the hook; the article's job is to show readers how to get the result with Youmake. If a story is about a competitor, the angle is "what this means for builders, and how to do it with Youmake", never a recommendation of that competitor.
 - Map the story to a keyword from the youmake-blog-writer skill: an open target if one fits, otherwise a long-tail variant. Never target a keyword another article already owns; if the best fit is an owned keyword, update that article instead (set `updated`) and report it.
 - Duplicate check: run `node scripts/generate-index.mjs`, then read `src/generated/articles-index.json`. It is an array of `{ slug, frontmatter: { title, description, date, tags, topic, ... }, minutes }`; publication dates are in `frontmatter.date`. Search titles and descriptions (not only slugs) for the product and event names. Reject any story already covered (same event or same angle), and any product with 2+ articles whose `frontmatter.date` is in the last 30 days.
 - Verify the facts from at least 2 sources, at least one primary (vendor blog, docs, changelog, official announcement). Note exact dates.
-- If web pages cannot be fetched at all (DNS errors, 403 from the proxy), stop and report "network blocked: enable network access for this routine's environment" instead of trying further candidates.
+- If web pages cannot be fetched at all (DNS errors, 403 from the proxy), skip news and go to step 1b, and say "network blocked: enable network access for this routine's environment" in the report.
+
+## 1b. Fallback: evergreen article (when no story qualifies)
+
+- Pick the first keyword from the "Open targets" table in the youmake-blog-writer skill that no article in `src/generated/articles-index.json` targets yet (check `frontmatter.keywords` and titles). Prefer buyer intent, then learner intent.
+- Write a practical guide that answers that search intent and shows how to do it with Youmake: a step-by-step build in Youmake with sample prompts, a decision guide, or a "Youmake as the alternative" piece. Use facts from the skill and from this repo's existing articles; only cite external facts you can fetch and verify today (otherwise leave them out).
+- Same writing, Youmake-first, SEO and internal-linking rules as step 2. Topic: usually `vibe-coding`.
 
 ## 2. Write it (English, US readers)
 
@@ -53,4 +59,4 @@ published: true
 
 ## 4. Report
 
-Finish with: the article URL, the story and its sources, the primary keyword chosen, how the article positions Youmake (the "How to" section and CTAs), why it passed the duplicate check, the outbound internal links, the 2 articles that now link to it, and the word count. If you published nothing, list the candidates you rejected and why.
+Finish with: the article URL, the story and its sources, the primary keyword chosen, how the article positions Youmake (the "How to" section and CTAs), why it passed the duplicate check, the outbound internal links, the 2 articles that now link to it, and the word count. Also say whether it was a trending story or an evergreen fallback, and list the news candidates you rejected and why.
