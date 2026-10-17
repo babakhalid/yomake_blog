@@ -72,7 +72,7 @@ For a trending story, choose the angle that maps it to an open target and positi
 - Slug: short, keyword-based, lowercase-hyphen (e.g. `v0-alternatives`). Never reuse or rename an existing slug.
 - First 100 words: state the answer/thesis and use the primary keyword once.
 - Structure: H2s that match real sub-questions (People Also Ask style); tables for comparisons; a short FAQ (3-4 questions) when the topic has clear questions. Never start the body with a `# title` (the page renders the H1).
-- `topic` frontmatter: one of `vibe-coding`, `ai-agents-tools`, `founders` (new articles stay in these three).
+- `topic` frontmatter: the best fit among the six hubs: `vibe-coding`, `ai-agents-tools`, `founders`, `ai-industry`, `future-of-work`, `ai-education`.
 - `keywords` frontmatter: primary first, then variants.
 - Freshness: when you substantially update an existing article instead of writing a new one, set `updated: "YYYY-MM-DD"` and keep `date`.
 - Sources section at the end with the URLs you used.
@@ -86,7 +86,7 @@ Outbound: every article includes at least 6 internal links, written into sentenc
    - https://www.youmake.dev/use-cases/client-portal (agencies, client work)
    - https://www.youmake.dev/features/code-ownership (export, GitHub, hand-off)
    - https://www.youmake.dev/ (general)
-2. **Its topic hub**: /topics/vibe-coding, /topics/ai-agents-tools or /topics/founders.
+2. **Its topic hub**: /topics/<topic> matching the article's `topic`.
 3. **The owner article of any keyword you mention** from the "Already owned" table (e.g. mention Lovable -> link /articles/lovable-alternatives).
 4. **2-3 related articles** from src/generated/articles-index.json (same topic, recent first).
 
