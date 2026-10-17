@@ -2,8 +2,9 @@
 title: "Google Just Bet $40 Billion on Anthropic. Here's Why That Should Make You Think."
 description: "Google's massive Anthropic investment, neuromorphic chips, and Colorado's AI regulation fight reveal a new phase of AI power concentration."
 date: "2026-04-26"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Big Tech", "Startups"]
+topic: "ai-industry"
 image: "/images/blog/google-anthropic-40-billion-ai-power-concentration.png"
 keywords: ["Google Anthropic investment", "AI industry consolidation", "neuromorphic chips", "Colorado AI regulation", "AI power concentration 2026"]
 published: true

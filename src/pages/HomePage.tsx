@@ -37,7 +37,7 @@ export function HomePage() {
     <div className="home-page">
       <SEO
         title="Ideas, Tutorials & Insights for Building with AI"
-        description="Discover tutorials, tips, and insights about vibe coding and AI-powered web development. Learn how to build websites and web apps with Youmake - the #1 Vibe Coding Platform."
+        description="Discover tutorials, tips, and insights about vibe coding and AI-powered web development. Learn how to build websites and web apps with Youmake."
         url="/"
         structuredData={generateBlogSchema()}
       />

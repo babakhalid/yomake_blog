@@ -2,8 +2,9 @@
 title: "The Slow Thinking Revolution: Why the Smartest People in 2026 Are Going Analog"
 description: "From typewriters in college classrooms to digital detox retreats, a deliberate movement toward slow thinking is reshaping how we work and create."
 date: "2026-04-19"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Deep Work", "Productivity"]
+topic: "future-of-work"
 image: "/images/blog/slow-thinking-revolution-going-analog-2026.png"
 keywords: ["slow thinking", "analog movement 2026", "digital detox productivity", "deep work mindset", "typewriter classroom"]
 published: true

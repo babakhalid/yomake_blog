@@ -2,8 +2,9 @@
 title: "The Mental Model That Separates Burnt-Out Professionals From Thriving Ones"
 description: "Burnout hit a six-year high in 2026. The difference between people breaking down and people breaking through comes down to one cognitive shift."
 date: "2026-05-17"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Burnout", "Productivity"]
+topic: "future-of-work"
 image: "/images/blog/mental-model-separating-burnout-from-thriving.jpg"
 keywords: ["burnout 2026", "mental models productivity", "workplace burnout prevention", "growth mindset", "sustainable productivity"]
 published: true

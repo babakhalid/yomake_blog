@@ -2,8 +2,9 @@
 title: "How AI Is Rewriting the Research Pipeline: From Literature Review to Publication"
 description: "Every stage of academic research is being transformed by AI. The researchers who adapt are publishing faster. The rest are falling behind."
 date: "2026-05-26"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Research", "AI", "Academia", "Education"]
+topic: "ai-industry"
 image: "/images/blog/ai-research-pipeline-literature-review-to-publication.png"
 keywords: ["AI academic research 2026", "AI literature review", "AI research publication", "AI tools researchers", "academic research pipeline AI"]
 published: true

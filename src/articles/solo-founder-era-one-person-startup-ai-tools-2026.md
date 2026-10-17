@@ -2,8 +2,9 @@
 title: "The Solo Founder Era: How One Person Can Build What Used to Take a Team of Ten"
 description: "Solo founders are using AI tools to build venture-scale companies alone. Here's why 2026 is the golden age of one-person startups."
 date: "2026-06-09"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "AI Tools", "Solo Founders", "Startups"]
+topic: "founders"
 image: "/images/blog/solo-founder-era-one-person-startup-ai-tools-2026.png"
 keywords: ["solo founder", "AI tools for startups", "one person startup", "lean startup 2026", "solopreneur AI"]
 published: true

@@ -2,8 +2,9 @@
 title: "Utah Wants Students to Opt Out of Coursework They Disagree With — Here's Why That's a Problem"
 description: "Utah's new bill lets students skip assignments that conflict with their beliefs. What does this mean for education, research integrity, and critical thinking?"
 date: "2026-03-16"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "Research", "Critical Thinking"]
+topic: "ai-education"
 image: "/images/blog/utah-conscientious-objection-education-dangerous-precedent.png"
 keywords: ["Utah education bill", "conscientious objection coursework", "education policy 2026", "critical thinking crisis"]
 published: true

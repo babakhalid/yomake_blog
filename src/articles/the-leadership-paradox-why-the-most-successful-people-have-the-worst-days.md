@@ -2,8 +2,9 @@
 title: "The Leadership Paradox: Why the Most Successful People Have the Worst Days"
 description: "New Gallup 2026 data reveals leaders are thriving in life but drowning in daily negative emotions. Here's what this means for your ambition."
 date: "2026-05-01"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Leadership", "Wellbeing"]
+topic: "future-of-work"
 image: "/images/blog/the-leadership-paradox-why-the-most-successful-people-have-the-worst-days.png"
 keywords: ["leadership paradox", "gallup 2026 workplace report", "leader burnout", "emotional cost of leadership", "leadership wellbeing"]
 published: true

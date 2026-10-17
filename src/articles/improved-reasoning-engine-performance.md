@@ -2,8 +2,9 @@
 title: "30-40% Faster Performance: Inside Claude's Improved Reasoning Engine"
 description: "Explore the technical advances that have made Claude's reasoning engine significantly faster while maintaining accuracy, and what this means for users and applications."
 date: "2026-01-13"
-author: "Tech Insights Team"
+author: "Khalid BABA"
 tags: ["Claude Performance", "AI Reasoning", "Speed Optimization", "Model Architecture", "Technical Deep Dive"]
+topic: "ai-agents-tools"
 image: "/images/blog/reasoning-engine-performance.svg"
 published: true
 ---

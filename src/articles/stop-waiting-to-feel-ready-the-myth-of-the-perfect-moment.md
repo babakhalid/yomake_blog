@@ -2,8 +2,9 @@
 title: "Stop Waiting to Feel Ready: The Myth of the Perfect Moment"
 description: "Confidence isn't earned through achievement — it's chosen before it. Why waiting for readiness is the most expensive decision you'll never make."
 date: "2026-05-09"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Leadership", "Personal Growth"]
+topic: "future-of-work"
 image: "/images/blog/stop-waiting-to-feel-ready-the-myth-of-the-perfect-moment.png"
 keywords: ["confidence mindset", "stop waiting to feel ready", "imposter syndrome entrepreneurs", "action over analysis", "leadership confidence"]
 published: true

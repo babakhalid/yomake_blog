@@ -2,8 +2,9 @@
 title: "Intel's Heracles Chip Just Made Encrypted Computing 5,000x Faster — Here's Why Every Enterprise Should Care"
 description: "Intel's new Heracles chip accelerates fully homomorphic encryption by 5,000x. This changes everything for enterprise data security and cloud computing."
 date: "2026-03-10"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Enterprise Security", "Encryption", "Intel", "Corporate Innovation"]
+topic: "ai-industry"
 image: "/images/blog/intel-heracles-encrypted-computing-enterprise-security.svg"
 keywords: ["fully homomorphic encryption", "Intel Heracles", "enterprise data security", "encrypted computing", "FHE accelerator"]
 published: true

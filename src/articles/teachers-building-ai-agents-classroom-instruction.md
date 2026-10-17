@@ -2,8 +2,9 @@
 title: "400,000 Teachers Are Learning to Build AI Agents — This Changes Everything"
 description: "The AFT partnered with Anthropic, Microsoft, and OpenAI on a $23M initiative to train teachers in agentic AI. Here's why this is the most important AI story in education."
 date: "2026-04-02"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Education Technology", "Agentic AI"]
+topic: "ai-education"
 image: "/images/blog/teachers-building-ai-agents-classroom-instruction.png"
 keywords: ["AI agents teachers", "AFT AI training 2026", "agentic AI education", "teachers AI classroom"]
 published: true

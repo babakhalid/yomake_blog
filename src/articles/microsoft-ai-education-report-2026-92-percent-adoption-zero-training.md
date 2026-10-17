@@ -2,8 +2,9 @@
 title: "92% of Students Use AI for School — But Nobody Taught Them How"
 description: "Microsoft's 2026 AI in Education Report reveals massive adoption with almost zero formal training. Here's why that's a ticking time bomb."
 date: "2026-06-26"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI", "Research"]
+topic: "ai-education"
 image: "/images/blog/microsoft-ai-education-report-2026-92-percent-adoption-zero-training.png"
 keywords: ["AI education 2026", "Microsoft AI education report", "AI in schools", "AI training gap", "AI literacy"]
 published: true

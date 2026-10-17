@@ -2,8 +2,9 @@
 title: "Claude Haiku 4.5: Speed and Efficiency for High-Volume AI Applications"
 description: "Discover how Claude Haiku 4.5 delivers remarkable AI capabilities at unprecedented speed and cost efficiency, making intelligent automation accessible for applications of any scale."
 date: "2026-01-13"
-author: "Tech Insights Team"
+author: "Khalid BABA"
 tags: ["Claude Haiku", "AI Efficiency", "Cost Optimization", "High Volume", "Anthropic"]
+topic: "ai-agents-tools"
 image: "/images/blog/claude-haiku-4-5.svg"
 published: true
 ---

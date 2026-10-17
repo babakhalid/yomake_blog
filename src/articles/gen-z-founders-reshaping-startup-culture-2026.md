@@ -2,8 +2,9 @@
 title: "Gen Z Founders Are Reshaping Startup Culture — And Investors Don't Know What to Do"
 description: "Record entrepreneurial intent, AI-native building, and zero patience for gatekeepers. Gen Z founders are playing a different game entirely."
 date: "2026-05-27"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "Gen Z", "Startups", "Mindset"]
+topic: "founders"
 image: "/images/blog/gen-z-founders-reshaping-startup-culture-2026.png"
 keywords: ["Gen Z founders 2026", "Gen Z entrepreneurship", "young startup founders", "Gen Z AI startups", "startup culture shift"]
 published: true

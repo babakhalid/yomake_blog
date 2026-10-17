@@ -2,8 +2,9 @@
 title: "The Oscars Just Banned AI Performances — And It Reveals Something Bigger About Creative AI"
 description: "The Academy's new rules require human authorship for awards eligibility. Here's why this matters far beyond Hollywood."
 date: "2026-05-02"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Creativity", "Technology"]
+topic: "ai-industry"
 image: "/images/blog/oscars-ban-ai-performances-what-it-means-for-creative-ai.png"
 keywords: ["Oscars AI ban", "Academy Awards AI rules", "artificial intelligence creativity", "AI generated content", "human authorship AI"]
 published: true

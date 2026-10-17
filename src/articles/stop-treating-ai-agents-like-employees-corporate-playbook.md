@@ -2,8 +2,9 @@
 title: "Stop Treating AI Agents Like Employees — Here's What Actually Works"
 description: "ServiceNow, Microsoft, and Harvard Business Review all agree: the employee metaphor for AI agents is broken. Here's what smart companies are doing instead."
 date: "2026-05-10"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate Strategy", "AI Agents", "Workplace Transformation"]
+topic: "ai-agents-tools"
 image: "/images/blog/stop-treating-ai-agents-like-employees-corporate-playbook.png"
 keywords: ["AI agents corporate strategy", "ServiceNow AI workforce", "AI workplace management", "enterprise AI agents 2026"]
 published: true

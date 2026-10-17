@@ -2,8 +2,9 @@
 title: "AI Agents Are Killing Apps — And That's a Good Thing"
 description: "Traditional apps are being replaced by autonomous AI agents that plan, execute, and adapt. Here's why 2026 marks the end of the app era."
 date: "2026-05-18"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "AI Agents", "Software Development", "Future of Tech"]
+topic: "ai-agents-tools"
 image: "/images/blog/ai-agents-are-killing-apps-and-thats-a-good-thing.png"
 keywords: ["AI agents replacing apps", "autonomous AI agents 2026", "agentic AI", "future of software", "AI workflow automation"]
 published: true

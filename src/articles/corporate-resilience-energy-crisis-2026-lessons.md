@@ -2,8 +2,9 @@
 title: "What the 2026 Energy Crisis Is Teaching Companies About Real Resilience"
 description: "As oil crosses $110/barrel and markets swing wildly, the companies surviving aren't the ones with the best forecasts — they're the most adaptable."
 date: "2026-03-19"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate Strategy", "Resilience", "Energy Crisis"]
+topic: "future-of-work"
 image: "/images/blog/corporate-resilience-energy-crisis-2026-lessons.png"
 keywords: ["corporate resilience 2026", "energy crisis business strategy", "oil price impact companies", "corporate adaptability"]
 published: true

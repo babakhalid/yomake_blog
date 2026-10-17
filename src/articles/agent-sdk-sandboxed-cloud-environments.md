@@ -2,8 +2,9 @@
 title: "Agent SDK and Sandboxed Cloud Environments: Building Autonomous AI Systems Safely"
 description: "Learn how Anthropic's Agent SDK and sandboxed cloud environments enable developers to build powerful autonomous AI agents while maintaining safety and control."
 date: "2026-01-13"
-author: "Tech Insights Team"
+author: "Khalid BABA"
 tags: ["Agent SDK", "AI Agents", "Cloud Computing", "Sandboxed Environments", "Developer Tools"]
+topic: "ai-agents-tools"
 image: "/images/blog/agent-sdk-sandbox.svg"
 published: true
 ---

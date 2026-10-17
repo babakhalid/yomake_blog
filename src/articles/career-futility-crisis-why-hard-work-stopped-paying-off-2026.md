@@ -2,8 +2,9 @@
 title: "The Career Futility Crisis: Why Hard Work Stopped Paying Off"
 description: "Career futility is replacing burnout as the biggest workplace threat in 2026. When employees stop believing effort leads to reward, everything breaks."
 date: "2026-06-25"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Career", "Workplace"]
+topic: "future-of-work"
 image: "/images/blog/career-futility-crisis-why-hard-work-stopped-paying-off-2026.png"
 keywords: ["career futility", "workplace disengagement 2026", "burnout vs futility", "employee motivation crisis", "career development"]
 published: true

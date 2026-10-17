@@ -2,8 +2,9 @@
 title: "Claude Sonnet 4.5: The Optimal Choice for Coding and Agentic Tasks"
 description: "Learn why Claude Sonnet 4.5 has become the preferred model for software development and autonomous agent applications, offering the ideal balance of capability, speed, and cost."
 date: "2026-01-13"
-author: "Tech Insights Team"
+author: "Khalid BABA"
 tags: ["Claude Sonnet", "AI Coding", "Agentic AI", "Software Development", "Anthropic"]
+topic: "ai-agents-tools"
 image: "/images/blog/claude-sonnet-4-5.svg"
 published: true
 ---

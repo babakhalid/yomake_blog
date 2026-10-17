@@ -2,8 +2,9 @@
 title: "The Overthinking Trap: Why Smart People Build Nothing"
 description: "Intelligence without action is just expensive anxiety. Here's how to break free from analysis paralysis and actually ship something."
 date: "2026-03-21"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Productivity", "Entrepreneurship"]
+topic: "future-of-work"
 image: "/images/blog/the-overthinking-trap-why-smart-people-build-nothing.png"
 keywords: ["overthinking productivity", "analysis paralysis", "builder mindset", "shipping products", "perfectionism trap", "mindset for entrepreneurs"]
 published: true

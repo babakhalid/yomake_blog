@@ -2,8 +2,9 @@
 title: "Specialized Educational AI Is Here — And It's the End of One-Size-Fits-All Learning"
 description: "Generic AI chatbots are giving way to specialized educational intelligence built for real pedagogy. Here's why this shift matters more than any edtech trend in a decade."
 date: "2026-06-02"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI", "EdTech"]
+topic: "ai-education"
 image: "/images/blog/specialized-educational-ai-end-of-one-size-fits-all-learning.png"
 keywords: ["specialized educational AI", "AI tutoring platforms 2026", "personalized learning AI", "edtech trends"]
 published: true

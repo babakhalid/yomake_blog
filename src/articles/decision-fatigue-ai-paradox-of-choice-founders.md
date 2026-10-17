@@ -2,8 +2,9 @@
 title: "The Paradox of Infinite Tools: Why More AI Options Are Making Founders Worse at Deciding"
 description: "AI gave founders superpowers. It also gave them decision paralysis. Here's how the paradox of choice is breaking founder brains — and how to fight back."
 date: "2026-05-15"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Productivity", "Entrepreneurship"]
+topic: "founders"
 image: "/images/blog/decision-fatigue-ai-paradox-of-choice-founders.png"
 keywords: ["decision fatigue founders", "AI tool overload", "paradox of choice startup", "founder productivity 2026", "cognitive overload entrepreneurs"]
 published: true

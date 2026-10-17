@@ -2,8 +2,9 @@
 title: "The Geography of Startup Money Is Broken — Here's How Founders Outside SF Can Still Win"
 description: "Bay Area now captures 45% of US seed funding. Vibe coding unicorns raise billions. What does this mean for founders building from anywhere else?"
 date: "2026-05-06"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "Startups", "Funding", "Vibe Coding"]
+topic: "vibe-coding"
 image: "/images/blog/startup-funding-concentration-sf-vibe-coding-unicorns.png"
 keywords: ["seed funding 2026", "Bay Area startup funding", "vibe coding startups", "startup funding outside Silicon Valley", "Blitzy Cursor Replit funding"]
 published: true

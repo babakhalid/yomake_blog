@@ -2,8 +2,9 @@
 title: "1 Million Token Context: The End of 'Context Rot' in AI"
 description: "Claude Opus 4.6 introduces a 1M token context window—a first for Opus-class models. Here's why this changes everything for long-running AI tasks."
 date: "2026-02-06"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Context Window", "Claude Opus", "Long Context", "AI Memory", "Anthropic", "LLM"]
+topic: "ai-agents-tools"
 image: "/images/blog/1m-context-window-revolution.svg"
 keywords: ["1 million token context", "context window", "Claude Opus 4.6", "context rot", "long context AI", "AI memory"]
 published: true

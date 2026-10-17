@@ -2,8 +2,9 @@
 title: "Stop Optimizing, Start Doing: Why Clarity Beats Perfection Every Time"
 description: "The real reason smart people stall isn't laziness — it's fuzzy success criteria. Here's how clarity of intent unlocks momentum and kills analysis paralysis."
 date: "2026-04-25"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Productivity", "Decision Making"]
+topic: "future-of-work"
 image: "/images/blog/stop-optimizing-start-doing-clarity-over-perfection.png"
 keywords: ["analysis paralysis", "clarity over perfection", "productivity mindset", "overthinking solutions", "success criteria"]
 published: true

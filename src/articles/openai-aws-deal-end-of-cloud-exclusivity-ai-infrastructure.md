@@ -2,8 +2,9 @@
 title: "OpenAI Just Broke Free From Azure — And the AI Cloud Wars Will Never Be the Same"
 description: "OpenAI's new deal with AWS ends Microsoft's exclusive lock-in. Here's why multi-cloud AI is the future and what it means for builders."
 date: "2026-04-29"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Cloud Computing", "OpenAI"]
+topic: "ai-industry"
 image: "/images/blog/openai-aws-deal-end-of-cloud-exclusivity-ai-infrastructure.png"
 keywords: ["OpenAI AWS deal", "Azure exclusivity ends", "AI cloud infrastructure", "Bedrock Managed Agents", "multi-cloud AI"]
 published: true

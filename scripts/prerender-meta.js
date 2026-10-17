@@ -21,11 +21,29 @@ const __dirname = path.dirname(__filename);
 const SITE_URL = 'https://blog.youmake.dev';
 const SITE_NAME = 'Youmake Blog';
 const DEFAULT_IMAGE = `${SITE_URL}/og-image.svg`;
-const TWITTER_HANDLE = '@youmake_dev';
+const TWITTER_HANDLE = '@BabaKhaliid';
 
 const distDir = path.join(__dirname, '../dist');
 const articlesDir = path.join(__dirname, '../src/articles');
 const templateHtml = fs.readFileSync(path.join(distDir, 'index.html'), 'utf-8');
+const site = JSON.parse(fs.readFileSync(path.join(__dirname, '../src/data/site.json'), 'utf-8'));
+const topicFor = (frontmatter) => site.topics.find(t => t.slug === frontmatter.topic) || site.topics.find(t => t.slug === 'ai-industry');
+
+function personSchema(name) {
+  if (name !== site.author.name) return { '@type': 'Person', name: name || 'Youmake Team' };
+  return {
+    '@type': 'Person',
+    name: site.author.name,
+    url: `${SITE_URL}/about`,
+    jobTitle: site.author.jobTitle,
+    description: site.author.bio,
+    sameAs: site.author.sameAs,
+    worksFor: { '@type': 'Organization', name: 'Youmake', url: 'https://www.youmake.dev/' },
+  };
+}
+
+const linkList = (articles) => articles.map(({ slug, frontmatter }) =>
+  `<li><a href="/articles/${slug}">${escapeHtml(frontmatter.title)}</a></li>`).join('');
 
 // ── Helpers ──────────────────────────────────────────────────────────
 
@@ -173,9 +191,9 @@ const PRERENDER_STYLE = `<style>#root>.prerender{max-width:720px;margin:0 auto;p
 function injectSeoContent(html, seoHtml) {
   if (!seoHtml) return html;
   const block = `<div class="prerender">
-      <header><a href="/">${SITE_NAME}</a><a href="/articles">All articles</a><a href="https://www.youmake.dev/">Youmake</a></header>
+      <header><a href="/">${SITE_NAME}</a><a href="/articles">All articles</a><a href="/about">About</a><a href="https://www.youmake.dev/">Youmake</a></header>
       ${seoHtml}
-      <footer><a href="/articles">More articles</a><a href="https://www.youmake.dev/">Build with Youmake</a></footer>
+      <footer>${site.topics.map(t => `<a href="/topics/${t.slug}">${escapeHtml(t.name)}</a>`).join('')}<a href="https://www.youmake.dev/">Build with Youmake</a></footer>
     </div>`;
   return html
     .replace('</head>', `${PRERENDER_STYLE}</head>`)
@@ -341,6 +359,8 @@ function generateArticlePages(articles) {
 
   for (const { slug, content, frontmatter } of articles) {
     const articleUrl = `/articles/${slug}`;
+    const topic = topicFor(frontmatter);
+    const moreInTopic = articles.filter(a => a.slug !== slug && topicFor(a.frontmatter).slug === topic.slug).slice(0, 5);
 
     // Article structured data
     const fullUrl = `${SITE_URL}${articleUrl}`;
@@ -356,14 +376,12 @@ function generateArticlePages(articles) {
       image: fullImage,
       url: fullUrl,
       datePublished: frontmatter.date,
-      dateModified: frontmatter.date,
-      author: {
-        '@type': 'Person',
-        name: frontmatter.author || 'Youmake Team',
-      },
+      dateModified: frontmatter.updated || frontmatter.date,
+      author: personSchema(frontmatter.author),
       publisher: {
         '@type': 'Organization',
         name: 'Youmake',
+        url: 'https://www.youmake.dev/',
         logo: {
           '@type': 'ImageObject',
           url: `${SITE_URL}/youmake_logo.svg`,
@@ -381,7 +399,7 @@ function generateArticlePages(articles) {
       '@type': 'BreadcrumbList',
       itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'Home', item: SITE_URL },
-        { '@type': 'ListItem', position: 2, name: 'Articles', item: `${SITE_URL}/articles` },
+        { '@type': 'ListItem', position: 2, name: topic.name, item: `${SITE_URL}/topics/${topic.slug}` },
         { '@type': 'ListItem', position: 3, name: frontmatter.title, item: fullUrl },
       ],
     };
@@ -403,9 +421,14 @@ function generateArticlePages(articles) {
     const bodyHtml = markdownToHtml(bodyMd);
     const articleSeoHtml = `
       <article>
+        <p><a href="/topics/${topic.slug}">${escapeHtml(topic.name)}</a></p>
         <h1>${escapeHtml(frontmatter.title)}</h1>
-        <p><time datetime="${frontmatter.date}">${frontmatter.date}</time> · ${escapeHtml(frontmatter.author || 'Youmake Team')}</p>
+        <p><time datetime="${frontmatter.date}">${frontmatter.date}</time>${frontmatter.updated && frontmatter.updated !== frontmatter.date ? ` · Updated <time datetime="${frontmatter.updated}">${frontmatter.updated}</time>` : ''} · by <a href="/about">${escapeHtml(frontmatter.author || 'Youmake Team')}</a></p>
+        <p>${escapeHtml(frontmatter.description || '')}</p>
+        <div class="prerender-body" data-path="${articleUrl}">
         ${bodyHtml}
+        </div>
+        ${moreInTopic.length ? `<nav><h2>More in <a href="/topics/${topic.slug}">${escapeHtml(topic.name)}</a></h2><ul>${linkList(moreInTopic)}</ul></nav>` : ''}
       </article>`;
     html = injectSeoContent(html, articleSeoHtml);
 
@@ -466,6 +489,10 @@ function generateHomepage(articles) {
       <main>
         <h1>${SITE_NAME} — Ideas, Tutorials &amp; Insights for Building with AI</h1>
         <p>Discover tutorials, tips, and insights about vibe coding and AI-powered web development. Learn how to build websites and web apps with Youmake.</p>
+        <h2>Topics</h2>
+        <ul>
+        ${site.topics.map(topic => `<li><a href="/topics/${topic.slug}">${escapeHtml(topic.name)}</a> — ${escapeHtml(topic.description)}</li>`).join('')}
+        </ul>
         <h2>Latest Articles</h2>
         <ul>
         ${listItems}
@@ -475,6 +502,79 @@ function generateHomepage(articles) {
   html = injectSeoContent(html, homeSeoHtml);
 
   fs.writeFileSync(path.join(distDir, 'index.html'), html);
+}
+
+// ── Topic hubs + author page ─────────────────────────────────────────
+
+function writePage(route, html) {
+  const outDir = path.join(distDir, route);
+  fs.mkdirSync(outDir, { recursive: true });
+  fs.writeFileSync(path.join(outDir, 'index.html'), html);
+}
+
+function generateTopicPages(articles) {
+  for (const topic of site.topics) {
+    const url = `/topics/${topic.slug}`;
+    const inTopic = articles.filter(a => topicFor(a.frontmatter).slug === topic.slug);
+    let html = replaceMeta(templateHtml, {
+      title: topic.name,
+      description: topic.description,
+      url,
+      type: 'website',
+      structuredData: [
+        {
+          '@context': 'https://schema.org',
+          '@type': 'CollectionPage',
+          name: topic.name,
+          description: topic.description,
+          url: `${SITE_URL}${url}`,
+          hasPart: inTopic.map(({ slug, frontmatter }) => ({ '@type': 'BlogPosting', headline: frontmatter.title, url: `${SITE_URL}/articles/${slug}` })),
+        },
+        {
+          '@context': 'https://schema.org',
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: SITE_URL },
+            { '@type': 'ListItem', position: 2, name: topic.name, item: `${SITE_URL}${url}` },
+          ],
+        },
+      ],
+    });
+    const items = inTopic.map(({ slug, frontmatter }) =>
+      `<li><a href="/articles/${slug}">${escapeHtml(frontmatter.title)}</a> — ${escapeHtml(frontmatter.description || '')}</li>`).join('\n        ');
+    html = injectSeoContent(html, `
+      <main>
+        <h1>${escapeHtml(topic.name)}</h1>
+        <p>${escapeHtml(topic.description)} ${inTopic.length} articles.</p>
+        <p>Other topics: ${site.topics.filter(t => t.slug !== topic.slug).map(t => `<a href="/topics/${t.slug}">${escapeHtml(t.name)}</a>`).join(' · ')}</p>
+        <ul>
+        ${items}
+        </ul>
+      </main>`);
+    writePage(path.join('topics', topic.slug), html);
+  }
+}
+
+function generateAboutPage(articles) {
+  const { author } = site;
+  let html = replaceMeta(templateHtml, {
+    title: `${author.name}, ${author.jobTitle}`,
+    description: author.bio,
+    url: '/about',
+    type: 'website',
+    structuredData: [{ '@context': 'https://schema.org', '@type': 'ProfilePage', url: `${SITE_URL}/about`, mainEntity: personSchema(author.name) }],
+  });
+  html = injectSeoContent(html, `
+      <main>
+        <h1>${escapeHtml(author.name)}</h1>
+        <p>${escapeHtml(author.bio)}</p>
+        <p>Find me on <a href="${author.sameAs[0]}" rel="me">LinkedIn</a> and <a href="${author.sameAs[1]}" rel="me">X</a>, or try <a href="https://www.youmake.dev/">Youmake</a>.</p>
+        <h2>Topics I write about</h2>
+        <ul>${site.topics.map(t => `<li><a href="/topics/${t.slug}">${escapeHtml(t.name)}</a></li>`).join('')}</ul>
+        <h2>Recent articles</h2>
+        <ul>${linkList(articles.slice(0, 10))}</ul>
+      </main>`);
+  writePage('about', html);
 }
 
 // ── 404 page ─────────────────────────────────────────────────────────
@@ -527,6 +627,9 @@ console.log('  ✅ Homepage enhanced with SEO content');
 
 generateArticlesPage(allArticles);
 generateNotFoundPage(allArticles);
+generateTopicPages(allArticles);
+generateAboutPage(allArticles);
+console.log(`  ✅ ${site.topics.length} topic hubs + /about generated`);
 console.log('  ✅ 404.html generated');
 console.log('  ✅ /articles page generated with article listing');
 

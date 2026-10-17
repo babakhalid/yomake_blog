@@ -2,8 +2,9 @@
 title: "OpenAI's Jalapeño Chip Changes Everything About AI Infrastructure"
 description: "OpenAI unveiled Jalapeño, its first custom AI chip built with Broadcom. Here's why this vertical integration play reshapes the entire AI industry."
 date: "2026-06-29"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Infrastructure", "OpenAI"]
+topic: "ai-industry"
 image: "/images/blog/openai-jalapeno-chip-vertical-integration-ai-infrastructure.png"
 keywords: ["OpenAI Jalapeño chip", "custom AI chip", "AI infrastructure", "Broadcom AI", "vertical integration AI"]
 published: true

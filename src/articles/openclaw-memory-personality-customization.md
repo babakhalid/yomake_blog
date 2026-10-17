@@ -2,8 +2,9 @@
 title: "Customize Your OpenClaw: Memory, Personality, and Making It Yours"
 description: "Learn how to personalize your OpenClaw assistant with custom memory, personality traits, and workspace configuration."
 date: "2026-01-31"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["OpenClaw", "Customization", "Memory", "Personality"]
+topic: "ai-agents-tools"
 image: "/images/blog/openclaw-customization.png"
 published: true
 ---

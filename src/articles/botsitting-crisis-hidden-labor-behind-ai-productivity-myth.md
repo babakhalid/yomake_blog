@@ -2,8 +2,9 @@
 title: "The Botsitting Crisis: The Hidden Labor Devouring Your AI Productivity Gains"
 description: "Workers save 11 hours per week with AI but burn 6.4 hours botsitting it. The 2026 Work AI Index reveals why organizational AI gains remain elusive."
 date: "2026-06-17"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Productivity", "Enterprise AI", "Workplace"]
+topic: "future-of-work"
 image: "/images/blog/botsitting-crisis-hidden-labor-behind-ai-productivity-myth.png"
 keywords: ["botsitting AI", "AI productivity paradox", "enterprise AI adoption 2026", "botshitting", "AI workplace labor", "Work AI Index 2026"]
 published: true

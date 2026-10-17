@@ -2,8 +2,9 @@
 title: "JD.com Just Launched Joybuy in Europe — And Amazon Should Be Nervous"
 description: "Chinese e-commerce giant JD.com enters Europe with Joybuy, undercutting Amazon Prime on price and delivery. Here's why this matters for corporate strategy."
 date: "2026-03-16"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate Strategy", "E-Commerce", "Global Competition"]
+topic: "ai-industry"
 image: "/images/blog/jd-com-joybuy-europe-amazon-challenger.png"
 keywords: ["JD.com Joybuy Europe", "Amazon competitor", "e-commerce strategy 2026", "corporate expansion"]
 published: true

@@ -2,8 +2,9 @@
 title: "Calm as a Competitive Advantage: Why the Best Builders Stay Centered"
 description: "In 2026's chaos of layoffs, AI disruption, and constant change, cultivating calm isn't soft — it's the hardest skill that separates great builders from burnout."
 date: "2026-05-11"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Productivity", "Leadership"]
+topic: "future-of-work"
 image: "/images/blog/calm-as-competitive-advantage-2026.png"
 keywords: ["calm mindset", "productivity 2026", "builder mindset", "avoiding burnout", "mental resilience"]
 published: true

@@ -2,8 +2,9 @@
 title: "Extended Context Windows: Revolutionizing Long-Form Document Analysis with Claude"
 description: "Explore how Claude's extended context windows enable comprehensive analysis of lengthy documents, entire codebases, and complex multi-document research projects."
 date: "2026-01-13"
-author: "Tech Insights Team"
+author: "Khalid BABA"
 tags: ["Context Windows", "Document Analysis", "Claude AI", "Long-form Content", "Enterprise AI"]
+topic: "ai-agents-tools"
 image: "/images/blog/extended-context-windows.svg"
 published: true
 ---

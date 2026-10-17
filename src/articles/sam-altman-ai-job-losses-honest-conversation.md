@@ -2,8 +2,9 @@
 title: "Sam Altman Admitted AI Will Kill Jobs. Now What?"
 description: "OpenAI's CEO acknowledged AI job displacement is real. The uncomfortable truth about what comes next for workers and builders."
 date: "2026-05-23"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Jobs", "Mindset", "Workforce"]
+topic: "future-of-work"
 image: "/images/blog/sam-altman-ai-job-losses-honest-conversation.png"
 keywords: ["Sam Altman AI jobs 2026", "AI job displacement", "AI workforce impact", "OpenAI job losses", "AI replacing workers"]
 published: true

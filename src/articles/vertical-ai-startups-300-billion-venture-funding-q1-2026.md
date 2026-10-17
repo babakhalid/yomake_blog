@@ -2,8 +2,9 @@
 title: "The $300 Billion Quarter: Why Vertical AI Startups Are the Real Opportunity in 2026"
 description: "Q1 2026 saw $300B in venture funding — the biggest quarter ever. But 65% went to just 4 companies. Here's where the real opportunity lies for founders."
 date: "2026-04-24"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "Startups", "Venture Capital"]
+topic: "founders"
 image: "/images/blog/vertical-ai-startups-300-billion-venture-funding-q1-2026.png"
 keywords: ["venture funding 2026", "vertical AI startups", "startup fundraising", "Q1 2026 venture capital", "unicorn startups", "AI entrepreneurship"]
 published: true

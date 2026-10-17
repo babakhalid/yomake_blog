@@ -2,8 +2,9 @@
 title: "The Solo-Corn Era: How One-Person AI Startups Are Hitting Millions in Revenue"
 description: "Solo founders are building AI companies worth tens of millions with no team, no office, and no VC. The solo-corn model is rewriting startup economics."
 date: "2026-05-15"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "AI", "Startups"]
+topic: "founders"
 image: "/images/blog/solo-corn-one-person-ai-startups-millions-revenue.png"
 keywords: ["solo founder AI startup", "one person startup", "solo-corn", "AI entrepreneur 2026", "lean AI startup", "solopreneur revenue"]
 published: true

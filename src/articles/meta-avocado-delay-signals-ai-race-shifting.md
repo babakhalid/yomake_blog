@@ -2,8 +2,9 @@
 title: "Meta's Avocado Delay Signals Something Bigger About the AI Race"
 description: "Meta pushed back its next AI model release to May 2026. What this says about the state of AI competition and why it matters for builders."
 date: "2026-03-14"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Meta", "Technology"]
+topic: "ai-industry"
 image: "/images/blog/meta-avocado-delay-signals-ai-race-shifting.png"
 keywords: ["Meta Avocado AI model", "AI competition 2026", "open source AI", "Google Gemini", "AI development"]
 published: true

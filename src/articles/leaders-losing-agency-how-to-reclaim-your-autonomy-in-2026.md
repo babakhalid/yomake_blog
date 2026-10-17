@@ -2,8 +2,9 @@
 title: "Leaders Are Losing Their Sense of Agency — Here's How to Reclaim It"
 description: "A growing number of leaders feel their autonomy eroding. Here's why it's happening and what you can do to take back control of your career and decisions."
 date: "2026-03-25"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Leadership", "Autonomy"]
+topic: "future-of-work"
 image: "/images/blog/leaders-losing-agency-how-to-reclaim-your-autonomy-in-2026.png"
 keywords: ["leadership agency", "autonomy at work", "leader burnout 2026", "reclaim control career"]
 published: true

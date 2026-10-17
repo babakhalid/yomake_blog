@@ -2,8 +2,9 @@
 title: "Build Your First OpenClaw Workflow: A Hands-On Tutorial"
 description: "Step-by-step tutorial to create your first OpenClaw automation. Build an email monitoring workflow from scratch with practical code examples."
 date: "2026-02-02"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["OpenClaw", "Tutorial", "Hands-On", "Automation", "Workflow"]
+topic: "ai-agents-tools"
 image: "/images/blog/openclaw-hands-on-tutorial.svg"
 keywords: ["openclaw tutorial", "openclaw workflow", "AI assistant tutorial", "openclaw automation guide", "build AI workflow", "openclaw step by step"]
 published: true

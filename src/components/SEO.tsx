@@ -1,9 +1,10 @@
 import { Helmet } from 'react-helmet-async';
+import site from '@/data/site.json';
 
 const SITE_URL = 'https://blog.youmake.dev';
 const SITE_NAME = 'Youmake Blog';
 const DEFAULT_IMAGE = `${SITE_URL}/og-image.svg`;
-const TWITTER_HANDLE = '@youmake_dev';
+const TWITTER_HANDLE = '@BabaKhaliid';
 
 interface SEOProps {
   title?: string;
@@ -139,13 +140,11 @@ export function generateArticleSchema({
     url: fullUrl,
     datePublished: publishedTime,
     dateModified: modifiedTime || publishedTime,
-    author: {
-      '@type': 'Person',
-      name: author,
-    },
+    author: generatePersonSchema(author),
     publisher: {
       '@type': 'Organization',
       name: 'Youmake',
+      url: 'https://www.youmake.dev/',
       logo: {
         '@type': 'ImageObject',
         url: `${SITE_URL}/youmake_logo.svg`,
@@ -156,6 +155,20 @@ export function generateArticleSchema({
       '@id': fullUrl,
     },
     keywords: tags?.join(', '),
+  };
+}
+
+// Person schema for an author; the site author gets a profile URL and sameAs links.
+export function generatePersonSchema(name: string = site.author.name) {
+  if (name !== site.author.name) return { '@type': 'Person', name };
+  return {
+    '@type': 'Person',
+    name: site.author.name,
+    url: `${SITE_URL}/about`,
+    jobTitle: site.author.jobTitle,
+    description: site.author.bio,
+    sameAs: site.author.sameAs,
+    worksFor: { '@type': 'Organization', name: 'Youmake', url: 'https://www.youmake.dev/' },
   };
 }
 

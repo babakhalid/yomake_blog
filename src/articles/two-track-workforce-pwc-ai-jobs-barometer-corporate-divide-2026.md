@@ -2,8 +2,9 @@
 title: "The Two-Track Workforce Is Real: PwC's AI Jobs Barometer Reveals the Corporate Divide"
 description: "PwC's 2026 AI Jobs Barometer shows AI is splitting the labor market into professionalized and democratized tracks. Here's what it means for your career."
 date: "2026-06-16"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate", "AI Workforce", "Career Strategy"]
+topic: "future-of-work"
 image: "/images/blog/two-track-workforce-pwc-ai-jobs-barometer-corporate-divide-2026.png"
 keywords: ["PwC AI jobs barometer 2026", "two-track workforce AI", "corporate AI adoption", "AI wage premium", "professionalized vs democratized roles"]
 published: true

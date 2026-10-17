@@ -2,8 +2,9 @@
 title: "OpenAI Wants to Buy Fusion Energy — And That Should Tell You Everything About AI's Power Problem"
 description: "Sam Altman steps down from Helion's board as OpenAI enters advanced talks to buy fusion energy. What this means for AI infrastructure and the looming compute crisis."
 date: "2026-03-24"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Energy", "OpenAI", "Infrastructure"]
+topic: "ai-industry"
 image: "/images/blog/openai-fusion-energy-helion-deal-ai-power-crisis.png"
 keywords: ["OpenAI fusion energy", "Helion Energy deal", "AI power consumption", "Sam Altman Helion", "AI infrastructure crisis"]
 published: true

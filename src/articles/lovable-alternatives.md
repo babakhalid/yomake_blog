@@ -2,8 +2,9 @@
 title: "8 Best Lovable Alternatives in 2026 (Real Pricing, Honest Tradeoffs)"
 description: "Looking for a Lovable alternative? We compare Bolt.new, Replit, v0, Base44, Youmake, Hostinger Horizons, Bubble and Cursor on pricing, code ownership, hosting and who each one fits. Prices checked October 2026."
 date: "2026-10-15"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Comparison", "Lovable", "AI App Builder", "Vibe Coding", "Tools"]
+topic: "vibe-coding"
 image: "/images/blog/lovable-alternatives-2026.jpg"
 keywords: ["lovable alternative", "lovable alternatives", "lovable ai alternative", "lovable.dev alternative", "lovable dev alternative", "sites like lovable", "lovable free alternative", "lovable vs bolt", "best lovable alternative"]
 published: true

@@ -2,8 +2,9 @@
 title: "Agentic AI Is Killing the App As We Know It"
 description: "OpenAI, Meta, and Anthropic are racing toward autonomous AI agents that don't need apps. Here's why the software industry will never look the same."
 date: "2026-05-12"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Agentic AI", "Software Development"]
+topic: "ai-agents-tools"
 image: "/images/blog/agentic-ai-is-killing-the-app-as-we-know-it.png"
 keywords: ["agentic AI", "autonomous agents", "OpenAI agents", "future of software", "AI-first devices"]
 published: true

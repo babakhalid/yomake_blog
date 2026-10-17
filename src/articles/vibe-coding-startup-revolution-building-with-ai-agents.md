@@ -2,8 +2,9 @@
 title: "The Vibe Coding Revolution: Why Non-Technical Founders Are Winning in 2026"
 description: "Vibe coding is turning the startup world upside down. Non-technical founders are shipping products faster than dev teams. Here's what's actually happening."
 date: "2026-03-30"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "Vibe Coding", "Startups", "AI Tools"]
+topic: "vibe-coding"
 image: "/images/blog/vibe-coding-startup-revolution-building-with-ai-agents.png"
 keywords: ["vibe coding", "non-technical founders", "AI startup tools", "building apps with AI", "entrepreneurship 2026"]
 published: true

@@ -2,8 +2,9 @@
 title: "27 States Are Writing AI Education Rules Right Now — And Most Schools Aren't Ready"
 description: "A wave of state legislation is reshaping how AI can be used in classrooms, from data center moratoriums to student privacy mandates. Here's what educators and builders need to know."
 date: "2026-04-22"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI Policy", "Research"]
+topic: "ai-education"
 image: "/images/blog/ai-education-legislation-2026-states-are-writing-the-rules.png"
 keywords: ["AI education legislation 2026", "state AI policy schools", "AI in classrooms regulation", "edtech AI compliance"]
 published: true

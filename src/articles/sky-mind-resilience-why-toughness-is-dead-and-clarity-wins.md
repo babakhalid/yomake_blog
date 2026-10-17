@@ -2,8 +2,9 @@
 title: "Sky Mind Resilience: Why Toughness Is Dead and Clarity Wins"
 description: "The old 'grind harder' resilience model is failing. Sky mind—a clarity-first approach to pressure—is the career skill nobody's talking about yet."
 date: "2026-05-19"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Resilience", "Career Growth"]
+topic: "future-of-work"
 image: "/images/blog/sky-mind-resilience-why-toughness-is-dead-and-clarity-wins.jpg"
 keywords: ["sky mind resilience", "career resilience 2026", "growth mindset", "mental clarity at work", "stress management career"]
 published: true

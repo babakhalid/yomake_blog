@@ -2,8 +2,9 @@
 title: "Why Planning Is Procrastination — And What To Do Instead"
 description: "Compulsive planning gives you the illusion of progress. Here's how to break the cycle and actually ship, inspired by Oliver Burkeman's radical approach to time."
 date: "2026-03-13"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Productivity", "Time Management"]
+topic: "future-of-work"
 image: "/images/blog/why-planning-is-procrastination-and-what-to-do-instead.png"
 keywords: ["planning vs doing", "procrastination", "productivity mindset", "Oliver Burkeman", "time management"]
 published: true

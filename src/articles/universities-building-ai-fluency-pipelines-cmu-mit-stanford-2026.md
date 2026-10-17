@@ -2,8 +2,9 @@
 title: "CMU, MIT, and Stanford Are Building the AI Fluency Pipeline — And It's Free"
 description: "Carnegie Mellon's Learnvia, MIT's Universal AI, and Stanford's AIMES grants are rewriting how universities teach AI. Here's what it means for everyone."
 date: "2026-06-10"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI Research", "Universities"]
+topic: "ai-education"
 image: "/images/blog/universities-building-ai-fluency-pipelines-cmu-mit-stanford-2026.jpg"
 keywords: ["AI education 2026", "Carnegie Mellon Learnvia", "MIT Universal AI", "Stanford AIMES", "AI fluency university programs"]
 published: true

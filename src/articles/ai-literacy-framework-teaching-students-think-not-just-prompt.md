@@ -2,8 +2,9 @@
 title: "The World Just Got Its First AI Literacy Rulebook for Schools — And It's About Time"
 description: "The EU and OECD launched a global AI literacy framework for K-12. Here's why it matters and what schools are still getting wrong about AI in education."
 date: "2026-06-20"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI Literacy", "Research", "EdTech"]
+topic: "ai-education"
 image: "/images/blog/ai-literacy-framework-teaching-students-think-not-just-prompt.png"
 keywords: ["AI literacy framework", "OECD AI education", "EU AI literacy", "AI in schools", "student critical thinking AI"]
 published: true
@@ -50,7 +51,7 @@ The AILit Framework is trying something different. Instead of treating AI as a t
 
 The framework includes classroom scenarios for integrating AI literacy into math, social sciences, and computer science classes. It's not a standalone "AI class." It's woven into existing curriculum, which is how literacy actually works.
 
-We explored similar challenges around [how universities are scrambling to address AI literacy](/articles/universities-scramble-ai-literacy-students-already-ahead) — many colleges found that students were already ahead of institutional policy.
+We explored similar challenges around [how universities are scrambling to address AI literacy](/articles/universities-ai-governance-crisis-95-percent-using-20-percent-ready) — many colleges found that students were already ahead of institutional policy.
 
 ## The Global Context: Who's Moving, Who's Lagging
 
@@ -111,5 +112,5 @@ The framework is the easy part. The hard part starts now.
 ## Read Next
 
 - [AI Literacy Is the New Core Competency Every Student Needs — And We're Failing to Teach It](/articles/ai-literacy-new-core-competency-every-student-needs)
-- [92% of Students Use AI — But Barely Half Have Been Taught How](/articles/ai-skills-gap-crisis-92-percent-students-using-ai-no-training)
 - [The Ed-Tech Evidence Crisis: Why Schools Are Finally Asking 'Does This Actually Work?'](/articles/ed-tech-evidence-crisis-schools-rethinking-digital-tools)
+- [Metacognitive Laziness: Are AI Tools Making Students Think Less?](/articles/metacognitive-laziness-ai-students-thinking-less)

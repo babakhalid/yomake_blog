@@ -2,8 +2,9 @@
 title: "Apple's AI App Store Is Coming — And It Changes Everything"
 description: "iOS 27 Siri Extensions will let users install third-party AI chatbots inside Siri, effectively creating an AI marketplace. Here's why this matters."
 date: "2026-03-30"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Apple", "Siri", "iOS 27"]
+topic: "ai-industry"
 image: "/images/blog/apple-ai-app-store-ios-27-siri-extensions.png"
 keywords: ["Apple AI App Store", "iOS 27 Siri Extensions", "Apple Intelligence", "third-party AI chatbots", "Siri AI marketplace"]
 published: true

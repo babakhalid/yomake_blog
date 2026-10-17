@@ -1,10 +1,10 @@
 import { Link } from 'react-router-dom';
-import type { Article } from '@/types';
+import type { ArticleMeta } from '@/types';
 import { formatDate } from '@/utils';
 import './ArticleCard.css';
 
 interface ArticleCardProps {
-  article: Article;
+  article: ArticleMeta;
 }
 
 export function ArticleCard({ article }: ArticleCardProps) {

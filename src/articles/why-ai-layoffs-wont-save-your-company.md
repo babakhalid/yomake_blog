@@ -2,8 +2,9 @@
 title: "Why AI Layoffs Won't Save Your Company"
 description: "Mass layoffs in the name of AI transformation are a strategic dead end. Here's what actually works when corporations embrace intelligent automation."
 date: "2026-05-04"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate", "AI Transformation", "Leadership"]
+topic: "future-of-work"
 image: "/images/blog/why-ai-layoffs-wont-save-your-company.png"
 keywords: ["AI layoffs", "corporate transformation", "AI strategy", "workforce automation", "CEO mandate"]
 published: true

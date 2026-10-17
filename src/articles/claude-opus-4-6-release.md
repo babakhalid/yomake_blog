@@ -2,8 +2,9 @@
 title: "Claude Opus 4.6: Anthropic's Most Powerful AI Model Yet"
 description: "Anthropic releases Claude Opus 4.6 with 1M token context, state-of-the-art agentic coding, and breakthrough performance on complex reasoning tasks. Here's everything you need to know."
 date: "2026-02-06"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Claude", "Opus 4.6", "Anthropic", "AI News", "LLM", "Agentic AI", "AI Development"]
+topic: "ai-agents-tools"
 image: "/images/blog/claude-opus-4-6-release.svg"
 keywords: ["Claude Opus 4.6", "Anthropic", "AI model", "1M context window", "agentic coding", "Claude API", "AI news 2026"]
 published: true

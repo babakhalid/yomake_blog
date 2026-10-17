@@ -2,8 +2,9 @@
 title: "A Developer Bought Friendster for $30K — And It's the Most Interesting Startup Move of 2026"
 description: "Someone bought the original social network's domain for $30K and rebuilt it around in-person connections. Here's why this matters for every founder."
 date: "2026-04-27"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "Startups", "Social Media"]
+topic: "ai-industry"
 image: "/images/blog/friendster-revival-30k-bet-on-real-human-connection.png"
 keywords: ["Friendster revival", "social network startup", "domain acquisition strategy", "in-person social network", "startup entrepreneurship 2026"]
 published: true

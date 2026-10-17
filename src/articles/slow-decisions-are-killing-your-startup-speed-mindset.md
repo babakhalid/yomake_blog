@@ -2,8 +2,9 @@
 title: "Slow Decisions Are Killing Your Startup: The Speed Mindset That Separates Winners from Zombies"
 description: "Most startups don't die from bad decisions — they die from slow ones. Here's how to build a speed-first decision-making mindset that actually works."
 date: "2026-04-03"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Decision Making", "Leadership"]
+topic: "founders"
 image: "/images/blog/slow-decisions-are-killing-your-startup-speed-mindset.png"
 keywords: ["decision making speed", "startup mindset", "fast decisions", "leadership psychology", "founder mindset"]
 published: true

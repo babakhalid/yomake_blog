@@ -2,8 +2,9 @@
 title: "Getting Started with Youmake: Your First AI-Built Website"
 description: "Learn how to create your first website using Youmake's AI-powered platform. Just describe what you want, and watch the magic happen."
 date: "2024-12-15"
-author: "Youmake Team"
+author: "Khalid BABA"
 tags: ["Getting Started", "Tutorial", "AI"]
+topic: "vibe-coding"
 image: "/images/blog/getting-started.svg"
 published: true
 ---
@@ -12,7 +13,7 @@ Creating a website has never been easier. With Youmake, you simply describe what
 
 ## What is Youmake?
 
-Youmake is the #1 Vibe Coding Platform that lets you build websites and web apps using natural language. Instead of writing code, you describe your vision, and our AI handles the rest.
+Youmake is an AI app builder that lets you build websites and web apps using natural language. Instead of writing code, you describe your vision, and our AI handles the rest.
 
 ## Your First Website in 3 Steps
 

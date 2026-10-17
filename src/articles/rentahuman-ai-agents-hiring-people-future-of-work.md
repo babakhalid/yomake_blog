@@ -2,8 +2,9 @@
 title: "RentAHuman: When AI Agents Start Hiring People"
 description: "The labor market is inverting. AI agents are now hiring humans for tasks they can't do. Here's what this means for entrepreneurs in 2026."
 date: "2026-03-15"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "AI", "Future of Work"]
+topic: "ai-agents-tools"
 image: "/images/blog/rentahuman-ai-agents-hiring-people-future-of-work.png"
 keywords: ["RentAHuman", "AI agents hiring humans", "future of work 2026", "entrepreneurship AI", "labor market inversion"]
 published: true

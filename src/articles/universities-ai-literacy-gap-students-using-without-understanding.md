@@ -2,8 +2,9 @@
 title: "The AI Literacy Gap: 90% of Students Use AI, But Almost Nobody's Teaching Them How"
 description: "Universities face a critical disconnect — students are deep into AI tools while institutions scramble to create policies and training. Here's what needs to change."
 date: "2026-05-14"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI Literacy", "Higher Education"]
+topic: "ai-education"
 image: "/images/blog/universities-ai-literacy-gap-students-using-without-understanding.png"
 keywords: ["AI literacy gap", "students using AI", "university AI policy", "higher education AI training", "Stanford AIMES", "AI in education 2026"]
 published: true
@@ -119,5 +120,5 @@ The 90% adoption rate isn't a crisis. It's a starting point. The question is whe
 ## Read Next
 
 - [Universities Are Making AI Literacy Mandatory — But Teachers Say It's Killing Critical Thinking](/articles/universities-ai-literacy-mandate-critical-thinking-crisis-2026)
-- [95% of Students Already Use AI — Universities Are Scrambling to Catch Up](/articles/universities-scramble-ai-literacy-students-already-ahead)
 - [95% of Students Use AI, But Only 20% of Universities Have a Policy. That's a Crisis.](/articles/universities-ai-governance-crisis-95-percent-using-20-percent-ready)
+- [The AI Grade Inflation Crisis: Universities Are Producing A-Students Who Can't Think](/articles/ai-grade-inflation-crisis-universities-learning-without-learning-2026)

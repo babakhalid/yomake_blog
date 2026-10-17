@@ -2,8 +2,9 @@
 title: "Google's TurboQuant Is a Wake-Up Call for Enterprise AI Teams"
 description: "Google's new TurboQuant compression algorithm cuts AI memory usage by 6x with zero accuracy loss. Here's why enterprise teams should pay attention."
 date: "2026-03-28"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate", "AI Infrastructure", "Enterprise"]
+topic: "ai-agents-tools"
 image: "/images/blog/google-turboquant-enterprise-ai-efficiency.png"
 keywords: ["TurboQuant", "Google AI compression", "enterprise AI efficiency", "LLM memory optimization"]
 published: true

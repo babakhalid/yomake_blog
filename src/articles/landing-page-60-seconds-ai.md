@@ -2,8 +2,9 @@
 title: "How to Build a Landing Page in 60 Seconds with AI"
 description: "Step-by-step guide to creating professional landing pages in under a minute using Youmake's AI-powered vibe coding. Perfect for startups, marketers, and entrepreneurs."
 date: "2026-02-01"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Landing Page", "AI Web Builder", "Tutorial", "Marketing", "Youmake", "Vibe Coding"]
+topic: "vibe-coding"
 image: "/images/blog/build-landing-page-60-seconds-ai.png"
 keywords: ["build landing page fast", "AI landing page generator", "landing page in seconds", "quick landing page builder", "youmake landing page", "vibe coding landing page"]
 published: true
@@ -174,7 +175,7 @@ Traditional development makes this loop take weeks. With vibe coding, it's hours
 
 Want to take this further?
 
-- Learn about [vibe coding fundamentals](/articles/vibe-coding-future-2026)
+- Learn about [vibe coding fundamentals](/articles/what-is-vibe-coding)
 - See [10 portfolio examples](/articles/10-portfolio-websites) for design inspiration
 - Understand [why this beats no-code](/articles/no-code-dead-vibe-coding)
 - Build [complete apps in 5 minutes](/articles/idea-to-production-5-minutes)

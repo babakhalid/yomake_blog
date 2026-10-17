@@ -2,8 +2,9 @@
 title: "Less Is More: Why Removing Features Is the New Startup Superpower"
 description: "Whoop, Oura, and Fitbit Air prove that stripping features can be worth billions. Here's what every founder can learn from the screenless revolution."
 date: "2026-05-09"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "Product Strategy", "Startups"]
+topic: "founders"
 image: "/images/blog/less-is-more-why-removing-features-is-the-new-startup-superpower.png"
 keywords: ["startup product strategy", "feature removal", "less is more business", "Whoop screenless", "Oura Ring valuation"]
 published: true

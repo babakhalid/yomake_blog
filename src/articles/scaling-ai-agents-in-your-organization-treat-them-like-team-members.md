@@ -2,8 +2,9 @@
 title: "Scaling AI Agents in Your Organization? Treat Them Like Team Members"
 description: "The companies winning with AI agents aren't deploying tools — they're onboarding teammates. Here's the corporate playbook for scaling AI agents in 2026."
 date: "2026-03-25"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate", "AI Agents", "Strategy"]
+topic: "ai-agents-tools"
 image: "/images/blog/scaling-ai-agents-in-your-organization-treat-them-like-team-members.png"
 keywords: ["AI agents enterprise", "scaling AI agents 2026", "corporate AI strategy", "AI team members"]
 published: true

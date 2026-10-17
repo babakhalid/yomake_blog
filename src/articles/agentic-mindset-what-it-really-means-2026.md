@@ -2,8 +2,9 @@
 title: "The 'Agentic' Mindset: Silicon Valley's Hottest Buzzword Actually Has a Point"
 description: "Everyone in tech is talking about being 'agentic.' Behind the cringe, there's a genuine mindset shift worth understanding. Here's what it means."
 date: "2026-03-15"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "AI", "Personal Development"]
+topic: "ai-agents-tools"
 image: "/images/blog/agentic-mindset-what-it-really-means-2026.png"
 keywords: ["agentic mindset", "agentic individual", "future of work mindset", "AI era mindset", "personal agency 2026"]
 published: true

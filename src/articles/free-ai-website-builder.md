@@ -2,8 +2,9 @@
 title: "Free AI Website Builders in 2026: What's Actually Free (and When to Pay)"
 description: "Which AI website builders are actually free in 2026? We compare the free plans of Framer, Wix, Durable, Lovable, Bolt.new, v0, Base44 and Hostinger Horizons: what you get, the catch, and when paying makes sense. Checked October 2026."
 date: "2026-10-15"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI Website Builder", "Free Tools", "Web Development", "Vibe Coding", "Comparison"]
+topic: "vibe-coding"
 image: "/images/blog/free-ai-website-builder.png"
 keywords: ["free ai website builder", "website maker free", "free website builder ai", "build website free", "free ai website creator", "ai website generator free", "free website builder no coding"]
 published: true

@@ -2,8 +2,9 @@
 title: "95% of Students Use AI, But Only 20% of Universities Have a Policy. That's a Crisis."
 description: "Coursera's 2026 report reveals a massive AI governance gap in higher education. Nearly everyone uses AI on campus — but almost nobody has rules for it."
 date: "2026-06-08"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI Governance", "Higher Education", "AI Policy"]
+topic: "ai-education"
 image: "/images/blog/universities-ai-governance-crisis-95-percent-using-20-percent-ready.png"
 keywords: ["AI governance higher education", "university AI policy", "Coursera AI report 2026", "AI ethics education", "AI literacy universities"]
 published: true

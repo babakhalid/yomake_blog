@@ -2,8 +2,9 @@
 title: "The Rise of the AI Generalist: Why Corporate Job Titles Are Being Rewritten in 2026"
 description: "PwC and Deloitte predict a new workforce shape. The AI Generalist is replacing specialists, and most companies aren't ready for the shift."
 date: "2026-06-10"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate", "AI Workforce", "Enterprise AI"]
+topic: "future-of-work"
 image: "/images/blog/corporate-ai-generalist-workforce-hourglass-2026.jpg"
 keywords: ["AI generalist", "corporate workforce redesign 2026", "hourglass workforce", "enterprise AI adoption", "Deloitte human capital trends"]
 published: true

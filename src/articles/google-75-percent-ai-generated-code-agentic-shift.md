@@ -2,8 +2,9 @@
 title: "Google Now Generates 75% of Its Code With AI — Here's Why That Changes Everything"
 description: "Google revealed that 75% of all new code is AI-generated. Combined with their agentic coding workflows, this signals a fundamental shift in how software gets built."
 date: "2026-04-24"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Software Development", "Google"]
+topic: "ai-agents-tools"
 image: "/images/blog/google-75-percent-ai-generated-code-agentic-shift.png"
 keywords: ["AI code generation", "Google AI coding", "agentic workflows", "AI software development 2026", "TPU 8", "Gemini Enterprise"]
 published: true

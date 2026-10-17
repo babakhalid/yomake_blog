@@ -2,8 +2,9 @@
 title: "The AI Fluency Gap: Why Mindset, Not Technology, Is the Real Bottleneck in 2026"
 description: "Gallup says engagement is at a 5-year low. Microsoft says AI productivity gains aren't enough. The real problem? How leaders think."
 date: "2026-06-09"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Leadership", "AI Fluency", "Productivity"]
+topic: "future-of-work"
 image: "/images/blog/ai-fluency-gap-mindset-not-technology-bottleneck-2026.png"
 keywords: ["AI fluency", "growth mindset", "employee engagement 2026", "leadership mindset", "AI productivity gap"]
 published: true

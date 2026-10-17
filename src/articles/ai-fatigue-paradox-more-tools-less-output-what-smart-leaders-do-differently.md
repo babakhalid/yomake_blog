@@ -2,8 +2,9 @@
 title: "The AI Fatigue Paradox: More Tools, Less Output — What Smart Leaders Do Differently"
 description: "88% of heavy AI users report burnout while 95% of companies see no AI ROI. Here's why the productivity paradox is real and what actually works."
 date: "2026-06-21"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "AI Fatigue", "Workplace Wellbeing", "Leadership", "Productivity"]
+topic: "future-of-work"
 image: "/images/blog/ai-fatigue-paradox-more-tools-less-output-what-smart-leaders-do-differently.png"
 keywords: ["AI fatigue", "AI burnout workplace", "productivity paradox AI", "AI anxiety employees", "workplace mental health 2026", "AI tool overload"]
 published: true

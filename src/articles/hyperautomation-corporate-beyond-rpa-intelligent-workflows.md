@@ -2,8 +2,9 @@
 title: "Beyond RPA: Hyperautomation Is Rewriting How Corporations Actually Work"
 description: "Combining AI, RPA, and low-code platforms into end-to-end workflow automation. The companies that get hyperautomation right will operate differently."
 date: "2026-05-28"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate", "Hyperautomation", "AI", "Enterprise"]
+topic: "ai-industry"
 image: "/images/blog/hyperautomation-corporate-beyond-rpa-intelligent-workflows.png"
 keywords: ["hyperautomation 2026", "corporate workflow automation", "RPA AI integration", "intelligent automation enterprise", "end-to-end business automation"]
 published: true

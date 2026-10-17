@@ -2,8 +2,9 @@
 title: "The Screen-Free Schools Movement Is Missing the Point"
 description: "Legislators are pushing to ban screens in schools, but the real problem isn't technology — it's how we use it. Here's what the debate gets wrong."
 date: "2026-03-14"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "EdTech", "Screen Time"]
+topic: "ai-education"
 image: "/images/blog/screen-free-schools-movement-missing-the-point.png"
 keywords: ["screen-free schools", "education technology", "screen time debate", "edtech policy", "digital literacy"]
 published: true

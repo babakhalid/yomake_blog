@@ -2,8 +2,9 @@
 title: "From Lab to Launch: How AI Is Collapsing the Gap Between University Research and Industry"
 description: "Universities are rethinking research workflows with AI. From Microsoft fellowships to Penn State programs, the academic-industry gap is shrinking fast."
 date: "2026-04-28"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "Research", "AI"]
+topic: "ai-education"
 image: "/images/blog/ai-reshaping-university-research-from-lab-to-industry.png"
 keywords: ["AI in higher education", "university research AI 2026", "academic industry collaboration", "AI graduate research", "education technology"]
 published: true

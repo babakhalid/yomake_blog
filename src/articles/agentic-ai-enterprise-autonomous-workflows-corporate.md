@@ -2,8 +2,9 @@
 title: "Agentic AI in the Enterprise: Why Autonomous Workflows Are Becoming the Default"
 description: "26% of financial firms already use agentic AI operationally. The shift from static automation to autonomous decision-making is accelerating."
 date: "2026-05-22"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate", "Agentic AI", "Enterprise", "Automation"]
+topic: "ai-agents-tools"
 image: "/images/blog/agentic-ai-enterprise-autonomous-workflows-corporate.png"
 keywords: ["agentic AI enterprise 2026", "autonomous workflows business", "corporate AI automation", "agentic AI financial services", "enterprise AI adoption"]
 published: true

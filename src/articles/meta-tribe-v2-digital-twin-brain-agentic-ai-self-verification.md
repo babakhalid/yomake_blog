@@ -2,8 +2,9 @@
 title: "Meta's TRIBE v2 and the New AI Frontier: Digital Twins of the Brain, Self-Verifying Agents, and Why It All Matters"
 description: "Meta built a digital twin of human neural activity. AI agents are learning to check their own work. Here's why these breakthroughs change the game for builders."
 date: "2026-05-14"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Artificial Intelligence", "Agentic AI", "Neuroscience"]
+topic: "ai-agents-tools"
 image: "/images/blog/meta-tribe-v2-digital-twin-brain-agentic-ai-self-verification.png"
 keywords: ["Meta TRIBE v2", "agentic AI 2026", "AI self-verification", "digital twin brain", "AI breakthroughs 2026", "autonomous AI agents"]
 published: true

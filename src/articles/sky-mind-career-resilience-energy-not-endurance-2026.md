@@ -2,8 +2,9 @@
 title: "The Sky Mind Framework: Why Career Resilience in 2026 Is About Energy, Not Endurance"
 description: "Career resilience has been redefined. The Sky Mind approach replaces grinding and grit with intelligent energy management — here's how to make the shift."
 date: "2026-05-13"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Career Growth", "Resilience"]
+topic: "future-of-work"
 image: "/images/blog/sky-mind-career-resilience-energy-not-endurance-2026.png"
 keywords: ["sky mind resilience", "career resilience 2026", "energy management work", "intelligent grit", "burnout prevention"]
 published: true

@@ -2,8 +2,9 @@
 title: "Growth Mindset in the AI Era: Why Learning Speed Now Beats Expertise"
 description: "When tools change every month, the person who learns fastest wins. How to build the mindset that keeps you relevant in 2026."
 date: "2026-05-25"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Growth Mindset", "AI", "Career"]
+topic: "future-of-work"
 image: "/images/blog/growth-mindset-ai-era-why-learning-speed-beats-expertise.png"
 keywords: ["growth mindset AI 2026", "learning speed career", "AI adaptability skills", "continuous learning mindset", "professional development AI era"]
 published: true

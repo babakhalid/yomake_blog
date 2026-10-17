@@ -2,8 +2,9 @@
 title: "Universities Are Finally Treating AI as Infrastructure, Not an Experiment"
 description: "The shift from pilot programs to embedded AI across operations, research, and security is redefining what a modern university looks like."
 date: "2026-05-22"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "Research", "AI Infrastructure", "University"]
+topic: "ai-education"
 image: "/images/blog/universities-treating-ai-infrastructure-not-experiment.png"
 keywords: ["university AI infrastructure 2026", "higher education AI strategy", "AI campus operations", "university digital transformation", "AI research infrastructure"]
 published: true

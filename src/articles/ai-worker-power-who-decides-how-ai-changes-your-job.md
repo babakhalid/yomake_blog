@@ -2,8 +2,9 @@
 title: "Who Decides How AI Changes Your Job? The Worker Power Question We're Ignoring"
 description: "A UK thinktank says workers need more say over AI adoption. The data supports them — 21% say AI has worsened their work life."
 date: "2026-05-29"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Workers Rights", "Mindset", "Workforce"]
+topic: "future-of-work"
 image: "/images/blog/ai-worker-power-who-decides-how-ai-changes-your-job.png"
 keywords: ["AI worker rights 2026", "worker power AI adoption", "IPPR AI report", "AI workplace impact", "AI consultation workers"]
 published: true

@@ -2,8 +2,9 @@
 title: "Why 40% of Corporate AI Agent Projects Will Fail — And How to Be in the Other 60%"
 description: "Gartner predicts nearly half of agentic AI projects will collapse by 2027. The reason isn't the technology — it's that companies automate broken processes instead of redesigning them."
 date: "2026-04-22"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate Strategy", "AI Agents", "Digital Transformation"]
+topic: "ai-agents-tools"
 image: "/images/blog/why-40-percent-of-corporate-ai-agent-projects-will-fail.png"
 keywords: ["agentic AI failure rate", "corporate AI transformation", "AI agent deployment", "enterprise AI strategy 2026"]
 published: true

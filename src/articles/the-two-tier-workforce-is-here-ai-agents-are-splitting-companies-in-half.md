@@ -2,8 +2,9 @@
 title: "The Two-Tier Workforce Is Here: AI Agents Are Splitting Companies in Half"
 description: "BCG and Deloitte agree: companies that don't redesign work around AI are creating a dangerous productivity gap. Here's what's actually happening."
 date: "2026-05-19"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate Strategy", "AI", "Workforce Transformation"]
+topic: "ai-agents-tools"
 image: "/images/blog/the-two-tier-workforce-is-here-ai-agents-are-splitting-companies-in-half.jpg"
 keywords: ["two-tier workforce AI", "corporate AI transformation 2026", "AI agents workforce", "BCG AI jobs", "Deloitte human capital trends 2026"]
 published: true

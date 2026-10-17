@@ -2,8 +2,9 @@
 title: "AI's $7.6 Trillion Buildout Has an Environmental Bill Nobody Budgeted For"
 description: "Goldman Sachs projects $7.6T in AI spending by 2031. A new UN report says the environmental cost — water, land, energy — is staggering. Can AI scale sustainably?"
 date: "2026-06-20"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Environment", "Infrastructure", "Sustainability"]
+topic: "future-of-work"
 image: "/images/blog/ai-trillion-dollar-buildout-environmental-cost-nobody-budgeted-for.png"
 keywords: ["AI environmental cost", "AI data centers water usage", "AI infrastructure spending", "Goldman Sachs AI capex", "UN AI environmental report"]
 published: true

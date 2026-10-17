@@ -2,8 +2,9 @@
 title: "The Great Flattening: AI Is Gutting Middle Management and Nobody's Ready for What Comes Next"
 description: "Tech companies have cut 123,000 jobs in 2026, with middle managers as the primary target. The Great Flattening is reshaping corporate America — and the consequences are just starting."
 date: "2026-06-07"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate", "AI", "Leadership", "Future of Work"]
+topic: "future-of-work"
 image: "/images/blog/great-flattening-ai-gutting-middle-management-whats-next.png"
 keywords: ["great flattening", "middle management layoffs AI", "corporate restructuring 2026", "AI replacing managers", "organizational flattening"]
 published: true

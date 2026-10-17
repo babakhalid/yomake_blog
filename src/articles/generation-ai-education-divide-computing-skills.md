@@ -2,8 +2,9 @@
 title: "Generation AI Is Here — And We're Already Failing Half of Them"
 description: "The digital divide is becoming an AI divide. Without universal computing education, we're creating two classes of citizens. Here's what needs to change."
 date: "2026-03-20"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI Literacy", "Digital Divide"]
+topic: "ai-education"
 image: "/images/blog/generation-ai-education-divide-computing-skills.png"
 keywords: ["AI education divide", "computing skills gap", "generation AI", "digital literacy 2026"]
 published: true
@@ -100,5 +101,5 @@ The technology is moving fast. Education needs to move faster. And honestly? Rig
 ## Read Next
 
 - [AI Literacy Is the New Core Competency Every Student Needs — And We're Failing to Teach It](/articles/ai-literacy-new-core-competency-every-student-needs)
-- [92% of Students Use AI — But Barely Half Have Been Taught How](/articles/ai-skills-gap-crisis-92-percent-students-using-ai-no-training)
 - [The AI Literacy Gap: 90% of Students Use AI, But Almost Nobody's Teaching Them How](/articles/universities-ai-literacy-gap-students-using-without-understanding)
+- [Universities Are Making AI Literacy Mandatory — But Teachers Say It's Killing Critical Thinking](/articles/universities-ai-literacy-mandate-critical-thinking-crisis-2026)

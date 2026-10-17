@@ -2,8 +2,9 @@
 title: "Creator Founders: Why Influencers Are Ditching Sponsorships for Startup Equity"
 description: "The creator economy is evolving. Smart influencers are trading brand deals for equity stakes, and it's reshaping how startups get built and funded."
 date: "2026-04-03"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "Creator Economy", "Startups"]
+topic: "founders"
 image: "/images/blog/creator-founders-turning-fame-into-startup-equity.png"
 keywords: ["creator founders", "influencer equity", "creator economy startups", "celebrity entrepreneurs"]
 published: true

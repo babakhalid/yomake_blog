@@ -2,8 +2,9 @@
 title: "The White House Wants to Vet AI Models Before Release — Here's What It Means for Builders"
 description: "The US government is considering pre-release oversight of AI models. What this shift means for startups, developers, and the future of AI innovation."
 date: "2026-05-05"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Regulation", "Startups"]
+topic: "ai-industry"
 image: "/images/blog/white-house-ai-oversight-what-it-means-for-builders.png"
 keywords: ["AI regulation 2026", "White House AI oversight", "AI model vetting", "AI safety policy"]
 published: true

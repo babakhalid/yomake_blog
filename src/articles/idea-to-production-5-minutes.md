@@ -2,8 +2,9 @@
 title: "From Idea to Production: Deploy Your First App in 5 Minutes with AI"
 description: "Learn how to go from a simple idea to a fully deployed web application in just 5 minutes using Youmake's AI-powered vibe coding platform. No coding experience required."
 date: "2026-02-01"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Youmake", "AI Web Builder", "Deployment", "Tutorial", "Vibe Coding", "No Code Alternative"]
+topic: "vibe-coding"
 image: "/images/blog/idea-to-production-deploy-app-5-minutes.png"
 keywords: ["deploy app in 5 minutes", "AI web builder", "vibe coding tutorial", "fast app deployment", "youmake tutorial", "build website with AI"]
 published: true
@@ -35,7 +36,7 @@ Or keep it simple:
 
 > "A clean landing page for my consulting business"
 
-The AI understands context, intent, and even aesthetic preferences. This is [vibe coding](/articles/vibe-coding-future-2026) in action—you describe the *vibe*, and AI handles the code.
+The AI understands context, intent, and even aesthetic preferences. This is [vibe coding](/articles/what-is-vibe-coding) in action—you describe the *vibe*, and AI handles the code.
 
 ### Minute 2: Watch AI Build
 

@@ -2,8 +2,9 @@
 title: "Nearly 3,000 Papers Have Fake Citations: The AI-Fueled Crisis Threatening Academic Research"
 description: "A landmark audit of 2.5 million papers reveals fabricated citations are surging 12x. Here's why this matters far beyond academia."
 date: "2026-05-10"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI Research", "Academic Integrity"]
+topic: "ai-education"
 image: "/images/blog/fake-citations-ai-crisis-threatening-academic-research.png"
 keywords: ["fake citations academic papers", "AI generated research papers 2026", "academic integrity AI", "fabricated references scientific literature"]
 published: true

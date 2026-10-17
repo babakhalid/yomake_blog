@@ -2,8 +2,9 @@
 title: "The 80% Founder: Why Strategic Incompletion Beats Burnout"
 description: "Over 65% of founders report burnout. Three emerging frameworks — Strategic Incompletion, Energy Banking, and the Ice Cube Approach — are changing how we think about sustainable performance."
 date: "2026-06-03"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Founder Wellness", "Burnout"]
+topic: "founders"
 image: "/images/blog/the-80-percent-founder-why-strategic-incompletion-beats-burnout.png"
 keywords: ["founder burnout 2026", "strategic incompletion", "energy banking system", "entrepreneur mental health", "startup burnout prevention"]
 published: true

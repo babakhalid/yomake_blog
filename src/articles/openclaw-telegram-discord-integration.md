@@ -2,8 +2,9 @@
 title: "Connect OpenClaw to Telegram and Discord: Complete Integration Guide"
 description: "Step-by-step tutorial on connecting OpenClaw to Telegram bots and Discord servers. Chat with your AI assistant anywhere."
 date: "2026-01-31"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["OpenClaw", "Telegram", "Discord", "Integration"]
+topic: "ai-agents-tools"
 image: "/images/blog/openclaw-telegram-discord.png"
 published: true
 ---

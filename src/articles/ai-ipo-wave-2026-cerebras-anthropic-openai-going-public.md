@@ -2,8 +2,9 @@
 title: "The AI IPO Wave Is Here: What Cerebras, Anthropic, and OpenAI Going Public Means for the Industry"
 description: "Cerebras just pulled off the biggest semiconductor IPO ever. Anthropic and OpenAI are next. Here's what the 2026 AI IPO wave signals about where the industry is headed."
 date: "2026-06-24"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "IPO", "Startups", "Investing"]
+topic: "ai-industry"
 image: "/images/blog/ai-ipo-wave-2026-cerebras-anthropic-openai-going-public.png"
 keywords: ["AI IPO 2026", "Cerebras IPO", "Anthropic IPO", "OpenAI IPO", "AI startups going public"]
 published: true

@@ -2,8 +2,9 @@
 title: "AI Won't Replace You. A Person Using AI Will. Here's How to Be That Person."
 description: "The 144% spike in AI-skilled job postings tells the story. The practical guide to becoming irreplaceable in the AI era."
 date: "2026-05-29"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Mindset", "Career", "Skills"]
+topic: "ai-industry"
 image: "/images/blog/ai-not-replacing-you-person-using-ai-is.png"
 keywords: ["AI career skills 2026", "AI replacing jobs", "AI augmented worker", "AI skills job market", "becoming AI literate professional"]
 published: true

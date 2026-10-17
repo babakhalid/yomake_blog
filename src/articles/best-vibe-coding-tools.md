@@ -2,8 +2,9 @@
 title: "Best Vibe Coding Tools in 2026, by What You're Building"
 description: "The best vibe coding tools and platforms in 2026, grouped by who they're for: non-developers building apps, designers who want UI, and developers who want AI in their editor. Real pricing, checked October 2026."
 date: "2026-10-15"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Vibe Coding", "AI App Builder", "Comparison", "Tools"]
+topic: "vibe-coding"
 image: "/images/blog/best-vibe-coding-tools-2026.jpg"
 keywords: ["best vibe coding tools", "best vibe coding platform", "best vibe coding app", "vibe coding tools", "best vibe coding", "free vibe coding tools", "best ai for vibe coding", "vibe coding platform"]
 published: true

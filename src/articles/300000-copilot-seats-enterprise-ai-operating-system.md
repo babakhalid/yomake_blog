@@ -2,8 +2,9 @@
 title: "300,000 Copilot Seats: When AI Stops Being a Project and Becomes the Operating System"
 description: "Infosys, TCS, and Wipro just deployed Microsoft Copilot to 300K+ employees. This isn't an experiment anymore — it's the new enterprise operating model."
 date: "2026-06-04"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Enterprise AI", "Microsoft Copilot", "Corporate Transformation"]
+topic: "ai-industry"
 image: "/images/blog/300000-copilot-seats-enterprise-ai-operating-system.png"
 keywords: ["enterprise AI adoption", "Microsoft Copilot enterprise", "Infosys TCS Wipro AI", "corporate AI transformation 2026", "AI operating model"]
 published: true

@@ -2,8 +2,9 @@
 title: "The Academic Integrity Crisis: Why Universities Must Redesign Assessment for the AI Era"
 description: "AI detection tools are failing. 92% of students use AI. The old assessment model is broken. Here's what needs to replace it."
 date: "2026-05-28"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "Research", "Academic Integrity", "AI"]
+topic: "ai-education"
 image: "/images/blog/academic-integrity-ai-assessment-redesign-2026.png"
 keywords: ["academic integrity AI 2026", "AI detection universities", "assessment redesign AI", "student AI use policy", "higher education AI cheating"]
 published: true

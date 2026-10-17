@@ -2,8 +2,9 @@
 title: "The Growth Mindset Lie: Why 'Just Try Harder' Is Breaking People"
 description: "Growth mindset has been weaponized into toxic hustle culture. Here's why the most popular self-improvement framework is burning out founders, employees, and students."
 date: "2026-06-07"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Burnout", "Leadership", "Mental Health"]
+topic: "future-of-work"
 image: "/images/blog/growth-mindset-lie-why-just-try-harder-is-breaking-people.png"
 keywords: ["growth mindset criticism", "hustle culture burnout", "toxic positivity workplace", "founder burnout 2026", "growth mindset overrated"]
 published: true

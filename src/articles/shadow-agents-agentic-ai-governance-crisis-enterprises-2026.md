@@ -2,8 +2,9 @@
 title: "Shadow Agents Are Tearing Companies Apart: The Agentic AI Governance Crisis of 2026"
 description: "54% of C-suite executives say AI is tearing their company apart. Shadow agents — AI bots deployed without oversight — are a key reason why."
 date: "2026-05-13"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate", "AI", "Enterprise"]
+topic: "ai-agents-tools"
 image: "/images/blog/shadow-agents-agentic-ai-governance-crisis-enterprises-2026.png"
 keywords: ["shadow agents AI", "agentic AI governance", "EU AI Act 2026", "enterprise AI challenges", "corporate AI strategy"]
 published: true

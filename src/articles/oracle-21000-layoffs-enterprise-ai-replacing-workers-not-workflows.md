@@ -2,8 +2,9 @@
 title: "Oracle Cut 21,000 Jobs for AI. The Enterprise Playbook Is Clear — And It's Ugly."
 description: "Oracle's 21,000 AI-driven layoffs expose the real enterprise AI strategy: replace workers first, redesign workflows never. Here's what it means."
 date: "2026-06-25"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate", "AI", "Enterprise"]
+topic: "future-of-work"
 image: "/images/blog/oracle-21000-layoffs-enterprise-ai-replacing-workers-not-workflows.png"
 keywords: ["Oracle layoffs AI", "enterprise AI workforce", "corporate AI strategy 2026", "AI job cuts", "enterprise transformation"]
 published: true

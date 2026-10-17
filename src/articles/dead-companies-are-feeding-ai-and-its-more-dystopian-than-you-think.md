@@ -2,8 +2,9 @@
 title: "Dead Companies Are Feeding AI — And It's More Dystopian Than You Think"
 description: "SimpleClosure is selling dead company Slack messages, emails, and code to AI firms. Welcome to the era of digital grave-robbing for training data."
 date: "2026-04-20"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Startups", "Ethics"]
+topic: "ai-industry"
 image: "/images/blog/dead-companies-are-feeding-ai-and-its-more-dystopian-than-you-think.png"
 keywords: ["AI training data", "SimpleClosure", "dead company data", "reinforcement learning gyms", "AI ethics data sourcing"]
 published: true

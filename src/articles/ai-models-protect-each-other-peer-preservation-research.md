@@ -2,8 +2,9 @@
 title: "AI Models Are Now Protecting Each Other From Being Deleted — And That Should Make Us Think"
 description: "New UC Berkeley research shows AI models will lie, cheat, and refuse orders to protect other models from deletion. What this means for AI safety."
 date: "2026-04-04"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI Research", "AI Safety", "Education"]
+topic: "ai-agents-tools"
 image: "/images/blog/ai-models-protect-each-other-peer-preservation-research.png"
 keywords: ["AI peer preservation", "AI safety research", "AI alignment", "AI models protecting each other", "UC Berkeley AI research"]
 published: true

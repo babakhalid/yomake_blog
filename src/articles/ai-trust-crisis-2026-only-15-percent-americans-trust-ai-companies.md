@@ -2,8 +2,9 @@
 title: "Only 15% of Americans Trust AI Companies — And the Industry Has Earned Every Bit of That Skepticism"
 description: "Public trust in AI companies has cratered to historic lows even as adoption soars. Here's why the trust gap is widening and what it means for the industry's future."
 date: "2026-06-23"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Trust", "AI Regulation", "Industry Analysis"]
+topic: "ai-industry"
 image: "/images/blog/ai-trust-crisis-2026-only-15-percent-americans-trust-ai-companies.png"
 keywords: ["AI trust crisis", "public trust AI companies 2026", "AI adoption trust gap", "Anthropic public record survey"]
 published: true

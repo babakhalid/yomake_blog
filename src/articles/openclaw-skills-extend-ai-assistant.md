@@ -2,8 +2,9 @@
 title: "OpenClaw Skills: How to Extend Your AI Assistant with Powerful Plugins"
 description: "Discover how to install, use, and create custom skills for OpenClaw. Transform your AI assistant into a productivity powerhouse."
 date: "2026-01-31"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["OpenClaw", "Skills", "Plugins", "Tutorial"]
+topic: "ai-agents-tools"
 image: "/images/blog/openclaw-skills-plugins.png"
 published: true
 ---

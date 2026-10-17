@@ -2,8 +2,9 @@
 title: "Meta Is Tracking Employee Keystrokes for AI Training — And It Should Worry All of Us"
 description: "Meta's new program captures employee mouse movements and keystrokes to train AI models. Here's why this crosses a line and what it signals for the industry."
 date: "2026-04-23"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Workplace Surveillance", "Meta"]
+topic: "future-of-work"
 image: "/images/blog/meta-tracking-employee-keystrokes-ai-training-data-surveillance.png"
 keywords: ["Meta AI training data", "employee surveillance AI", "keystroke tracking workplace", "AI ethics 2026", "Meta mouse tracking"]
 published: true

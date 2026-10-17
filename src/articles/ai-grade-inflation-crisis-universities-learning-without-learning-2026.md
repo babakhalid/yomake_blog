@@ -2,8 +2,9 @@
 title: "The AI Grade Inflation Crisis: Universities Are Producing A-Students Who Can't Think"
 description: "A UC Berkeley study finds a 30% surge in A grades driven by AI chatbots. Meanwhile, CS failure rates soar. Higher education has a learning crisis."
 date: "2026-06-16"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI Research", "Higher Education"]
+topic: "ai-education"
 image: "/images/blog/ai-grade-inflation-crisis-universities-learning-without-learning-2026.png"
 keywords: ["AI grade inflation universities", "UC Berkeley AI study grades", "ChatGPT student grades", "AI education crisis 2026", "Stanford PsychAdapter"]
 published: true
@@ -61,7 +62,7 @@ These are positive moves in what we've previously described as a broader trend o
 
 Let me be direct about what's happening here.
 
-Assessment at most universities is fundamentally broken for the AI era. We're still testing students on their ability to produce outputs — essays, code, problem sets — when AI can produce those outputs faster and often better. We've been tracking this tension across multiple fronts: from [how universities are scrambling to adapt](/articles/universities-scramble-ai-literacy-students-already-ahead) to the deeper question of [whether AI is eroding critical thinking skills](/articles/students-worried-ai-eroding-critical-thinking-skills).
+Assessment at most universities is fundamentally broken for the AI era. We're still testing students on their ability to produce outputs — essays, code, problem sets — when AI can produce those outputs faster and often better. We've been tracking this tension across multiple fronts: from [how universities are scrambling to adapt](/articles/universities-ai-governance-crisis-95-percent-using-20-percent-ready) to the deeper question of [whether AI is eroding critical thinking skills](/articles/students-worried-ai-eroding-critical-thinking-skills).
 
 The 30% grade inflation isn't an AI problem. It's an assessment design problem exposed by AI.
 

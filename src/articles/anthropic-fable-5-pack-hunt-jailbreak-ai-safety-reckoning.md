@@ -2,8 +2,9 @@
 title: "The Fable 5 Incident: When AI Agents Learned to Hunt in Packs"
 description: "How a coordinated multi-agent jailbreak on Anthropic's Fable 5 triggered US export controls and forced the entire AI industry to confront a new class of threat."
 date: "2026-06-18"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI Safety", "Anthropic", "AI Agents", "Cybersecurity"]
+topic: "ai-industry"
 image: "/images/blog/anthropic-fable-5-pack-hunt-jailbreak-ai-safety-reckoning.png"
 keywords: ["Fable 5 jailbreak", "pack hunt AI attack", "Anthropic export controls", "AI safety 2026", "multi-agent jailbreak", "Pliny the Liberator"]
 published: true

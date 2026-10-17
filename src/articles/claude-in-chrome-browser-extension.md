@@ -2,8 +2,9 @@
 title: "Claude in Chrome: AI-Powered Browser Assistance at Your Fingertips"
 description: "Explore how the Claude in Chrome browser extension brings AI capabilities directly into your browsing experience, enabling page summarization, research assistance, and intelligent web interaction."
 date: "2026-01-13"
-author: "Tech Insights Team"
+author: "Khalid BABA"
 tags: ["Claude Chrome", "Browser Extension", "AI Assistant", "Web Browsing", "Productivity"]
+topic: "ai-agents-tools"
 image: "/images/blog/claude-in-chrome.svg"
 published: true
 ---

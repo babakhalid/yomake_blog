@@ -2,8 +2,9 @@
 title: "Defense Tech Is the New SaaS: Why Founders Are Flocking to Military Startups"
 description: "Defense tech startups raised $14.6B in 5 months, surpassing all of 2025. Here's why the smartest founders are building for national security — and what it means for you."
 date: "2026-06-03"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "Defense Tech", "Startups"]
+topic: "founders"
 image: "/images/blog/defense-tech-is-the-new-saas-why-founders-are-flocking-to-military-startups.png"
 keywords: ["defense tech startups 2026", "Anduril funding", "Shield AI", "military startup funding", "venture capital defense"]
 published: true

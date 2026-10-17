@@ -2,8 +2,9 @@
 title: "File Creation and Editing on Mobile: Claude's Expanded Mobile Capabilities"
 description: "Discover how Claude's mobile apps now support file creation and editing, enabling productive AI-assisted work from your smartphone or tablet."
 date: "2026-01-13"
-author: "Tech Insights Team"
+author: "Khalid BABA"
 tags: ["Claude Mobile", "File Editing", "Mobile Productivity", "AI Assistant", "iOS Android"]
+topic: "ai-agents-tools"
 image: "/images/blog/claude-mobile-editing.svg"
 published: true
 ---

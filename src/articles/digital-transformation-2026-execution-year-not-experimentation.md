@@ -2,8 +2,9 @@
 title: "2026 Is the Year of Execution: Why Digital Transformation Finally Got Serious"
 description: "After years of pilots and proofs of concept, enterprises are committing real budgets and real organizational change. What changed?"
 date: "2026-05-31"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate", "Digital Transformation", "Mindset", "Enterprise"]
+topic: "ai-industry"
 image: "/images/blog/digital-transformation-2026-execution-year-not-experimentation.png"
 keywords: ["digital transformation 2026 execution", "enterprise AI deployment", "corporate transformation strategy", "digital transformation ROI", "AI enterprise adoption 2026"]
 published: true

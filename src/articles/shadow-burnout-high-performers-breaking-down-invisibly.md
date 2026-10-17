@@ -2,8 +2,9 @@
 title: "Shadow Burnout: Why the Highest Performers Are Breaking Down — and Nobody Can Tell"
 description: "73% of startup executives experience shadow burnout — performing well while silently deteriorating. Here's the science behind it and what to actually do."
 date: "2026-04-21"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Burnout", "Entrepreneurship"]
+topic: "future-of-work"
 image: "/images/blog/shadow-burnout-high-performers-breaking-down-invisibly.png"
 keywords: ["shadow burnout", "founder burnout", "entrepreneur mental health", "high performer burnout", "startup burnout recovery"]
 published: true

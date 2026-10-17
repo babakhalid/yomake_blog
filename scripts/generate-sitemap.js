@@ -79,7 +79,10 @@ function getArticles() {
 function generateSitemap() {
   const articles = getArticles();
   const today = new Date().toISOString().split('T')[0];
-  const latestArticleDate = articles[0]?.date || today;
+  const lastmodOf = (article) => article.updated || article.date;
+  const latestArticleDate = articles.map(lastmodOf).sort().pop() || today;
+  const site = JSON.parse(fs.readFileSync(path.join(articlesDir, '../data/site.json'), 'utf-8'));
+  const topicOf = (article) => site.topics.some(t => t.slug === article.topic) ? article.topic : 'ai-industry';
 
   let xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -89,27 +92,35 @@ function generateSitemap() {
   <url>
     <loc>${SITE_URL}/</loc>
     <lastmod>${latestArticleDate}</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+
   </url>
 
   <!-- Articles Index -->
   <url>
     <loc>${SITE_URL}/articles</loc>
     <lastmod>${latestArticleDate}</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
+
   </url>
 
+  <!-- Author -->
+  <url>
+    <loc>${SITE_URL}/about</loc>
+    <lastmod>${latestArticleDate}</lastmod>
+  </url>
+
+  <!-- Topic hubs -->
+${site.topics.map(topic => `  <url>
+    <loc>${SITE_URL}/topics/${topic.slug}</loc>
+    <lastmod>${articles.filter(a => topicOf(a) === topic.slug).map(lastmodOf).sort().pop() || latestArticleDate}</lastmod>
+  </url>
+`).join('')}
   <!-- Individual Articles -->
 `;
 
   for (const article of articles) {
     xml += `  <url>
     <loc>${SITE_URL}/articles/${article.slug}</loc>
-    <lastmod>${article.date}</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>`;
+    <lastmod>${lastmodOf(article)}</lastmod>`;
 
     if (article.image) {
       const imageUrl = article.image.startsWith('http')

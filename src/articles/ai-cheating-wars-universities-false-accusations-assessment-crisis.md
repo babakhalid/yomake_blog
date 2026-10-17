@@ -2,8 +2,9 @@
 title: "The AI Cheating Wars: False Accusations, Extreme Surveillance, and the Coming Assessment Revolution"
 description: "95,000 students surveyed. 9% admit to AI cheating. Professors are using mirrors for surveillance. And detection software doesn't work. Higher ed has a crisis — and bans aren't the answer."
 date: "2026-06-22"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI", "Research", "Universities"]
+topic: "ai-education"
 image: "/images/blog/ai-cheating-wars-universities-false-accusations-assessment-crisis.png"
 keywords: ["AI cheating universities 2026", "AI detection false positives", "higher education AI assessment", "student AI use study", "academic integrity AI", "college AI policy"]
 published: true

@@ -2,8 +2,9 @@
 title: "AI Is Splitting Every Industry in Two — Which Side Are You On?"
 description: "The people using AI to think better and the people using AI to avoid thinking are diverging fast. Here's how to stay on the right side."
 date: "2026-04-27"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "AI", "Career Growth"]
+topic: "future-of-work"
 image: "/images/blog/ai-thinking-amplifier-or-replacement-the-split-that-defines-your-career.png"
 keywords: ["AI mindset", "critical thinking AI", "AI productivity trap", "intellectual growth 2026", "AI career strategy"]
 published: true

@@ -1,21 +1,38 @@
+import { useEffect, useState } from 'react';
 import { useParams, Link, Navigate } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
-import { getArticleBySlug, formatDate } from '@/utils';
+import { getArticleBySlug, getArticleTopic, getArticlesByTopic, loadArticleContent, formatDate } from '@/utils';
+import { prerenderedBodyFor } from '@/utils/prerendered';
 import { SEO, generateArticleSchema, generateBreadcrumbSchema } from '@/components/SEO';
 import './ArticlePage.css';
 
 export function ArticlePage() {
   const { slug } = useParams<{ slug: string }>();
   const article = slug ? getArticleBySlug(slug) : undefined;
+  const articleUrl = `/articles/${slug}`;
+  const [loaded, setLoaded] = useState<{ slug: string; content: string }>();
+
+  useEffect(() => {
+    if (!slug) return;
+    let cancelled = false;
+    loadArticleContent(slug).then((content) => {
+      if (!cancelled) setLoaded({ slug, content });
+    });
+    return () => { cancelled = true; };
+  }, [slug]);
 
   if (!article) {
     return <Navigate to="/articles" replace />;
   }
 
-  const { frontmatter, content } = article;
-  const articleUrl = `/articles/${slug}`;
+  const { frontmatter } = article;
+  const topic = getArticleTopic(article);
+  const moreInTopic = getArticlesByTopic(topic.slug).filter((item) => item.slug !== slug).slice(0, 5);
+  const content = loaded && loaded.slug === slug ? loaded.content : undefined;
+  // Until the markdown chunk arrives, show the body the prerenderer already put in the page.
+  const fallbackHtml = content === undefined ? prerenderedBodyFor(articleUrl) : undefined;
 
   // Generate structured data for the article
   const articleSchema = generateArticleSchema({
@@ -24,6 +41,7 @@ export function ArticlePage() {
     image: frontmatter.image,
     url: articleUrl,
     publishedTime: frontmatter.date,
+    modifiedTime: frontmatter.updated,
     author: frontmatter.author,
     tags: frontmatter.tags,
   });
@@ -31,7 +49,7 @@ export function ArticlePage() {
   // Generate breadcrumb structured data
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: 'Home', url: '/' },
-    { name: 'Articles', url: '/articles' },
+    { name: topic.name, url: `/topics/${topic.slug}` },
     { name: frontmatter.title, url: articleUrl },
   ]);
 
@@ -44,6 +62,7 @@ export function ArticlePage() {
         url={articleUrl}
         type="article"
         publishedTime={frontmatter.date}
+        modifiedTime={frontmatter.updated}
         author={frontmatter.author}
         tags={frontmatter.tags}
         structuredData={[articleSchema, breadcrumbSchema]}
@@ -51,7 +70,7 @@ export function ArticlePage() {
       <div className="container">
         <article className="article">
           <header className="article-header">
-            <Link to="/articles" className="back-link">
+            <Link to={`/topics/${topic.slug}`} className="back-link">
               <svg
                 width="16"
                 height="16"
@@ -65,12 +84,15 @@ export function ArticlePage() {
                 <line x1="19" y1="12" x2="5" y2="12" />
                 <polyline points="12 19 5 12 12 5" />
               </svg>
-              Back to Articles
+              {topic.name}
             </Link>
 
             <div className="article-meta">
               <time dateTime={frontmatter.date}>{formatDate(frontmatter.date)}</time>
-              <span className="article-author">by {frontmatter.author}</span>
+              {frontmatter.updated && frontmatter.updated !== frontmatter.date && (
+                <span className="article-updated">Updated <time dateTime={frontmatter.updated}>{formatDate(frontmatter.updated)}</time></span>
+              )}
+              <span className="article-author">by <Link to="/about">{frontmatter.author}</Link></span>
             </div>
 
             <h1 className="article-title">{frontmatter.title}</h1>
@@ -92,11 +114,26 @@ export function ArticlePage() {
             </div>
           )}
 
-          <div className="article-content markdown-content">
-            <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}>
-              {content}
-            </ReactMarkdown>
-          </div>
+          {content !== undefined ? (
+            <div className="article-content markdown-content">
+              <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}>
+                {content}
+              </ReactMarkdown>
+            </div>
+          ) : (
+            <div className="article-content markdown-content" dangerouslySetInnerHTML={{ __html: fallbackHtml ?? '' }} />
+          )}
+
+          {moreInTopic.length > 0 && (
+            <nav className="article-more" aria-label={`More in ${topic.name}`}>
+              <h2>More in <Link to={`/topics/${topic.slug}`}>{topic.name}</Link></h2>
+              <ul>
+                {moreInTopic.map((item) => (
+                  <li key={item.slug}><Link to={`/articles/${item.slug}`}>{item.frontmatter.title}</Link></li>
+                ))}
+              </ul>
+            </nav>
+          )}
         </article>
       </div>
     </div>

@@ -2,8 +2,9 @@
 title: "AI Literacy Is the New Core Competency Every Student Needs — And We're Failing to Teach It"
 description: "66% of hiring leaders say AI fluency is non-negotiable. Yet most schools treat it as optional. That gap is about to hurt."
 date: "2026-05-20"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI Literacy", "Education", "Research", "Workforce"]
+topic: "ai-education"
 image: "/images/blog/ai-literacy-new-core-competency-every-student-needs.png"
 keywords: ["AI literacy education 2026", "AI skills workforce", "teaching AI competency", "AI fluency hiring", "student AI skills gap"]
 published: true
@@ -94,5 +95,5 @@ The clock is ticking. And honestly, it started ticking about two years ago. We'r
 ## Read Next
 
 - [The World Just Got Its First AI Literacy Rulebook for Schools — And It's About Time](/articles/ai-literacy-framework-teaching-students-think-not-just-prompt)
-- [92% of Students Use AI — But Barely Half Have Been Taught How](/articles/ai-skills-gap-crisis-92-percent-students-using-ai-no-training)
 - [Generation AI Is Here — And We're Already Failing Half of Them](/articles/generation-ai-education-divide-computing-skills)
+- [Metacognitive Laziness: Are AI Tools Making Students Think Less?](/articles/metacognitive-laziness-ai-students-thinking-less)

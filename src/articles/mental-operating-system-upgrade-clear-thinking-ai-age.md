@@ -2,8 +2,9 @@
 title: "Your Mental Operating System Needs an Upgrade: Why Clear Thinking Is the Real Competitive Edge in the AI Age"
 description: "As AI handles more cognitive tasks, the mental models you run on matter more than ever. Here's how to upgrade your internal operating system for 2026."
 date: "2026-06-23"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Productivity", "Mental Models", "AI Age"]
+topic: "future-of-work"
 image: "/images/blog/mental-operating-system-upgrade-clear-thinking-ai-age.png"
 keywords: ["mental operating system", "mental models 2026", "clear thinking AI age", "productivity mindset", "cognitive frameworks"]
 published: true

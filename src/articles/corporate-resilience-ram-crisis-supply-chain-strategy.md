@@ -2,8 +2,9 @@
 title: "What the Global RAM Crisis Teaches Every Business About Corporate Resilience"
 description: "The memory shortage hitting tech could last until 2030. Here's what smart companies are doing differently — and why every business should pay attention."
 date: "2026-04-19"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate Strategy", "Supply Chain", "Business"]
+topic: "future-of-work"
 image: "/images/blog/corporate-resilience-ram-crisis-supply-chain-strategy.png"
 keywords: ["RAM shortage 2026", "corporate resilience strategy", "supply chain management", "business continuity", "enterprise risk management"]
 published: true

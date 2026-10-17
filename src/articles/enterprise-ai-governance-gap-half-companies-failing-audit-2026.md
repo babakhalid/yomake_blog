@@ -2,8 +2,9 @@
 title: "The Enterprise AI Governance Gap: Half Your AI Projects Won't Survive an Audit"
 description: "78% of executives can't pass an AI governance audit. As agentic AI scales to 40% of enterprise apps, the governance gap is becoming an existential corporate risk."
 date: "2026-06-19"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate", "AI Governance", "Enterprise", "Agentic AI", "Digital Transformation"]
+topic: "ai-industry"
 image: "/images/blog/enterprise-ai-governance-gap-half-companies-failing-audit-2026.png"
 keywords: ["AI governance enterprise 2026", "agentic AI corporate adoption", "enterprise AI audit", "AI strategy corporate failure", "Nadella learning systems"]
 published: true

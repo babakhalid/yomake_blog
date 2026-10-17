@@ -2,8 +2,9 @@
 title: "Schools Are Done Experimenting With AI — Now Comes the Hard Part"
 description: "A new CoSN report reveals K-12 districts are shifting from AI experimentation to governance. Here's why that transition matters more than any tool launch."
 date: "2026-05-08"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI Policy", "EdTech"]
+topic: "ai-education"
 image: "/images/blog/ai-education-governance-schools-moving-beyond-experimentation.png"
 keywords: ["AI in education", "CoSN 2026 report", "edtech governance", "school cybersecurity", "AI policy K-12"]
 published: true

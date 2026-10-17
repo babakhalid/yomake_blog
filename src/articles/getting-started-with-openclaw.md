@@ -2,8 +2,9 @@
 title: "Getting Started with OpenClaw: Your AI-Powered Personal Assistant"
 description: "Learn how to set up and use OpenClaw, the open-source AI assistant that connects to your tools, automates tasks, and works across all your devices."
 date: "2026-01-31"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["OpenClaw", "AI Assistant", "Tutorial", "Automation"]
+topic: "ai-agents-tools"
 image: "/images/blog/getting-started-openclaw.png"
 published: true
 ---

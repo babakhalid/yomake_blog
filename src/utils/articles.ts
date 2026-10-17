@@ -1,99 +1,52 @@
-import type { Article, ArticleFrontmatter } from '@/types';
+import type { ArticleMeta, Topic } from '@/types';
+import articlesIndex from '@/generated/articles-index.json';
+import site from '@/data/site.json';
 
-// Simple frontmatter parser (browser-compatible)
-function parseFrontmatter(rawContent: string): { data: Record<string, unknown>; content: string } {
-  const frontmatterRegex = /^---\s*\n([\s\S]*?)\n---\s*\n([\s\S]*)$/;
-  const match = rawContent.match(frontmatterRegex);
+// Listings use the small generated index (scripts/generate-index.mjs); article
+// bodies are separate chunks loaded on demand, so a page no longer ships all
+// markdown in its bundle.
+const articles = articlesIndex as ArticleMeta[];
+const loaders = import.meta.glob<string>('/src/articles/*.md', { query: '?raw', import: 'default' });
 
-  if (!match) {
-    return { data: {}, content: rawContent };
-  }
+export const author = site.author;
+export const topics: Topic[] = site.topics;
+const DEFAULT_TOPIC = 'ai-industry';
 
-  const [, frontmatterStr, content] = match;
-  const data: Record<string, unknown> = {};
-
-  // Parse YAML-like frontmatter
-  const lines = frontmatterStr.split('\n');
-  for (const line of lines) {
-    const colonIndex = line.indexOf(':');
-    if (colonIndex === -1) continue;
-
-    const key = line.slice(0, colonIndex).trim();
-    let value: unknown = line.slice(colonIndex + 1).trim();
-
-    // Handle arrays like ["tag1", "tag2"]
-    if (typeof value === 'string' && value.startsWith('[') && value.endsWith(']')) {
-      try {
-        value = JSON.parse(value.replace(/'/g, '"'));
-      } catch {
-        // Keep as string if parsing fails
-      }
-    }
-    // Handle booleans
-    else if (value === 'true') {
-      value = true;
-    } else if (value === 'false') {
-      value = false;
-    }
-    // Handle quoted strings
-    else if (typeof value === 'string' && value.startsWith('"') && value.endsWith('"')) {
-      value = value.slice(1, -1);
-    }
-
-    data[key] = value;
-  }
-
-  return { data, content: content.trim() };
+export function getAllArticles(): ArticleMeta[] {
+  return articles;
 }
 
-// Import all markdown files from articles directory
-const articleModules = import.meta.glob('/src/articles/*.md', {
-  query: '?raw',
-  import: 'default',
-  eager: true,
-});
-
-export function getAllArticles(): Article[] {
-  const articles: Article[] = [];
-
-  for (const path in articleModules) {
-    const rawContent = articleModules[path] as string;
-    const slug = path.replace('/src/articles/', '').replace('.md', '');
-
-    const { data, content } = parseFrontmatter(rawContent);
-    const frontmatter = data as unknown as ArticleFrontmatter;
-
-    // Only include published articles (or those without published field)
-    if (frontmatter.published !== false) {
-      articles.push({
-        slug,
-        frontmatter,
-        // The page already renders the title as the H1; drop a leading body "# title" so there is only one.
-        content: content.replace(/^\s*#\s+[^\n]*\n/, ''),
-      });
-    }
-  }
-
-  // Sort by date (newest first)
-  return articles.sort((a, b) => {
-    return new Date(b.frontmatter.date).getTime() - new Date(a.frontmatter.date).getTime();
-  });
-}
-
-export function getArticleBySlug(slug: string): Article | undefined {
-  const articles = getAllArticles();
+export function getArticleBySlug(slug: string): ArticleMeta | undefined {
   return articles.find((article) => article.slug === slug);
 }
 
-export function getArticlesByTag(tag: string): Article[] {
-  const articles = getAllArticles();
+export function getTopic(slug: string | undefined): Topic | undefined {
+  return topics.find((topic) => topic.slug === slug);
+}
+
+export function getArticleTopic(article: ArticleMeta): Topic {
+  return getTopic(article.frontmatter.topic) ?? getTopic(DEFAULT_TOPIC)!;
+}
+
+export function getArticlesByTopic(topicSlug: string): ArticleMeta[] {
+  return articles.filter((article) => getArticleTopic(article).slug === topicSlug);
+}
+
+export async function loadArticleContent(slug: string): Promise<string> {
+  const load = loaders[`/src/articles/${slug}.md`];
+  if (!load) return '';
+  const raw = await load();
+  // Drop frontmatter, then a leading "# title": the page already renders the title as the H1.
+  return raw.replace(/^---\s*\n[\s\S]*?\n---\s*\n/, '').replace(/^\s*#\s+[^\n]*\n/, '').trim();
+}
+
+export function getArticlesByTag(tag: string): ArticleMeta[] {
   return articles.filter((article) =>
     article.frontmatter.tags.map(t => t.toLowerCase()).includes(tag.toLowerCase())
   );
 }
 
 export function getAllTags(): string[] {
-  const articles = getAllArticles();
   const tagsSet = new Set<string>();
 
   articles.forEach((article) => {

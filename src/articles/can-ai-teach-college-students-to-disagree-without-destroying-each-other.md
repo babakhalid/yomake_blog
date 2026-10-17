@@ -2,8 +2,9 @@
 title: "Can AI Teach College Students to Disagree Without Destroying Each Other?"
 description: "Universities are deploying AI chatbots to teach constructive dialogue as campus polarization hits a 40-year high. Here's what's working and what's not."
 date: "2026-04-20"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI in Education", "Higher Education"]
+topic: "ai-education"
 image: "/images/blog/can-ai-teach-college-students-to-disagree-without-destroying-each-other.png"
 keywords: ["AI constructive dialogue", "campus polarization", "AI education tools", "college students political divide", "Constructive Dialogue Institute"]
 published: true
@@ -78,6 +79,6 @@ That's not just an education problem. It's an everyone problem.
 
 ## Read Next
 
-- [95% of Students Already Use AI — Universities Are Scrambling to Catch Up](/articles/universities-scramble-ai-literacy-students-already-ahead)
 - [The AI Grade Inflation Crisis: Universities Are Producing A-Students Who Can't Think](/articles/ai-grade-inflation-crisis-universities-learning-without-learning-2026)
 - [95% of Students Use AI, But Only 20% of Universities Have a Policy. That's a Crisis.](/articles/universities-ai-governance-crisis-95-percent-using-20-percent-ready)
+- [The AI Literacy Gap: 90% of Students Use AI, But Almost Nobody's Teaching Them How](/articles/universities-ai-literacy-gap-students-using-without-understanding)

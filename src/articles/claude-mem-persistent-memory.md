@@ -2,8 +2,9 @@
 title: "Claude Mem: Persistent Memory That Transforms AI Assistance"
 description: "Explore how Claude Mem enables persistent memory across sessions, building continuous understanding of your projects, preferences, and working patterns over time."
 date: "2026-01-13"
-author: "Tech Insights Team"
+author: "Khalid BABA"
 tags: ["Claude Mem", "Persistent Memory", "AI Memory", "Session Continuity", "Personalization"]
+topic: "ai-agents-tools"
 image: "/images/blog/claude-mem.svg"
 published: true
 ---

@@ -2,8 +2,9 @@
 title: "AI PhDs Are Going Back to Academia — And That Changes Everything"
 description: "For the first time in a decade, new AI PhDs are choosing universities over Big Tech. Stanford's 2026 AI Index reveals a brain drain reversal with massive implications."
 date: "2026-05-16"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI Research", "Academia"]
+topic: "ai-education"
 image: "/images/blog/ai-phds-returning-academia-2026-industry-brain-drain-reversal.jpg"
 keywords: ["AI PhDs academia 2026", "Stanford AI Index education", "brain drain reversal AI", "AI research universities", "AI talent academia vs industry"]
 published: true

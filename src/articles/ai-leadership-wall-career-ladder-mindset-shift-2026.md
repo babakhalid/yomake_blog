@@ -2,8 +2,9 @@
 title: "The Leadership Wall: AI Is Destroying the Career Ladder and Nobody's Building a New One"
 description: "AI is automating entry-level jobs that trained future leaders. The result? A looming leadership crisis and a burnout epidemic that demands a complete mindset overhaul."
 date: "2026-06-19"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Leadership", "AI", "Burnout", "Career Development"]
+topic: "future-of-work"
 image: "/images/blog/ai-leadership-wall-career-ladder-mindset-shift-2026.png"
 keywords: ["AI leadership crisis", "career ladder AI", "mindset shift 2026", "burnout AI age", "Gen Z entry level jobs AI"]
 published: true

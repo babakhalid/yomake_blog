@@ -2,8 +2,9 @@
 title: "Claude in Excel: AI-Powered Spreadsheet Intelligence for Enterprise Users"
 description: "Discover how the Claude in Excel beta brings advanced AI capabilities directly into Microsoft Excel, enabling formula generation, data analysis, and intelligent automation for Max, Team, and Enterprise users."
 date: "2026-01-13"
-author: "Tech Insights Team"
+author: "Khalid BABA"
 tags: ["Claude Excel", "Microsoft Excel", "AI Integration", "Enterprise Tools", "Data Analysis"]
+topic: "ai-agents-tools"
 image: "/images/blog/claude-in-excel.svg"
 published: true
 ---

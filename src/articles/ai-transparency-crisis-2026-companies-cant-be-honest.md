@@ -2,8 +2,9 @@
 title: "The AI Transparency Crisis: Why Companies That Preach Openness Can't Be Honest With Each Other"
 description: "From Anthropic's security lapse to Google's quiet compression breakthroughs, the AI industry's transparency problem is getting worse — not better."
 date: "2026-03-29"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Transparency", "Tech Industry"]
+topic: "ai-industry"
 image: "/images/blog/ai-transparency-crisis-2026-companies-cant-be-honest.png"
 keywords: ["AI transparency", "Anthropic Mythos leak", "Google TurboQuant", "AI industry honesty", "open source AI"]
 published: true

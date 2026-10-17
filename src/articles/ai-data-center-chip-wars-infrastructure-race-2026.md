@@ -2,8 +2,9 @@
 title: "The AI Infrastructure Race: Data Centers, Chip Wars, and the $200B Bet on Compute"
 description: "The physical backbone of the AI revolution is being built right now. Data centers, custom chips, and energy demands are reshaping tech geography."
 date: "2026-05-30"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Infrastructure", "Data Centers", "Entrepreneurship"]
+topic: "ai-industry"
 image: "/images/blog/ai-data-center-chip-wars-infrastructure-race-2026.png"
 keywords: ["AI data centers 2026", "AI chip wars", "compute infrastructure AI", "AI energy consumption", "GPU cloud infrastructure"]
 published: true

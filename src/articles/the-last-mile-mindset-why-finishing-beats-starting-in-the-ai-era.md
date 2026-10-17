@@ -2,8 +2,9 @@
 title: "The Last Mile Mindset: Why Finishing Beats Starting in the AI Era"
 description: "Everyone can start with AI. The competitive advantage now lives in the last 20% — the finishing mindset that transforms potential into shipped products."
 date: "2026-05-03"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "AI", "Productivity"]
+topic: "future-of-work"
 image: "/images/blog/the-last-mile-mindset-why-finishing-beats-starting-in-the-ai-era.png"
 keywords: ["last mile mindset", "AI productivity", "finishing vs starting", "builder mindset 2026"]
 published: true

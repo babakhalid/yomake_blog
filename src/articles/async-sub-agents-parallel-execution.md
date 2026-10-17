@@ -2,8 +2,9 @@
 title: "Async Sub-Agents: Parallel Task Execution for Maximum Efficiency"
 description: "Learn how Claude Code's async sub-agents enable parallel execution of independent tasks, dramatically reducing total completion time for complex workflows."
 date: "2026-01-13"
-author: "Tech Insights Team"
+author: "Khalid BABA"
 tags: ["Async Sub-Agents", "Parallel Execution", "Claude Code", "Task Automation", "Performance"]
+topic: "ai-agents-tools"
 image: "/images/blog/async-sub-agents.svg"
 published: true
 ---

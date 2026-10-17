@@ -2,8 +2,9 @@
 title: "The AI Strategy Theater: Why Most Corporate AI Plans Are Just Expensive Performances"
 description: "Most enterprises claim to have an AI strategy. Gartner and CIO reports reveal the majority are theater — all deck, no delivery. Here's what actually works."
 date: "2026-05-16"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate AI", "Enterprise Strategy", "Digital Transformation"]
+topic: "ai-industry"
 image: "/images/blog/corporate-ai-strategy-theater-roi-accountability-2026.jpg"
 keywords: ["corporate AI strategy", "enterprise AI ROI", "AI strategy theater", "CIO AI priorities 2026", "shadow AI enterprise"]
 published: true

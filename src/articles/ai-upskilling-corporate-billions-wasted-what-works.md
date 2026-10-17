@@ -2,8 +2,9 @@
 title: "Companies Are Spending Billions on AI Training. Most of It Will Fail."
 description: "Corporate AI upskilling is a $40B+ market. But episodic training can't keep pace with weekly AI changes. Here's what actually works."
 date: "2026-05-25"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Corporate", "AI Training", "Upskilling"]
+topic: "future-of-work"
 image: "/images/blog/ai-upskilling-corporate-billions-wasted-what-works.png"
 keywords: ["corporate AI training 2026", "AI upskilling programs", "employee AI training", "workforce AI skills", "corporate AI adoption"]
 published: true

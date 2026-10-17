@@ -2,8 +2,9 @@
 title: "The Revenue-First Revolution: Why Gen Z Founders Are Rejecting VC Money and Winning"
 description: "Gen Z entrepreneurs are building profitable businesses from day one using AI tools, portfolio careers, and lean operations — no venture capital required."
 date: "2026-06-21"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "Gen Z", "Bootstrapping", "AI Tools", "Startups"]
+topic: "founders"
 image: "/images/blog/gen-z-revenue-first-revolution-rejecting-vc-winning-2026.png"
 keywords: ["gen z entrepreneurs", "revenue first startup", "bootstrapping with AI", "portfolio career", "solopreneur AI tools", "startup without VC"]
 published: true

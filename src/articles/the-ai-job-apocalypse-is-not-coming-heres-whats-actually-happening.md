@@ -2,8 +2,9 @@
 title: "The AI Job Apocalypse Isn't Coming — Here's What's Actually Happening"
 description: "Everyone's panicking about AI taking jobs. The reality is more nuanced, more human, and requires a completely different mindset to navigate."
 date: "2026-05-05"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "AI", "Career"]
+topic: "future-of-work"
 image: "/images/blog/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening.png"
 keywords: ["AI jobs 2026", "AI replacing workers", "career mindset AI", "future of work"]
 published: true

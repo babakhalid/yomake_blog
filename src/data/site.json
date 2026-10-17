@@ -1,0 +1,44 @@
+{
+  "author": {
+    "name": "Khalid BABA",
+    "slug": "khalid-baba",
+    "jobTitle": "Founder of Youmake",
+    "bio": "Khalid BABA is the founder of Youmake, an AI app builder for websites, web apps, mobile apps and slide decks. He writes about building software with AI, AI agents, and how AI is changing startups, education and work.",
+    "sameAs": [
+      "https://www.linkedin.com/in/khalidbaba/",
+      "https://x.com/BabaKhaliid"
+    ]
+  },
+  "topics": [
+    {
+      "slug": "vibe-coding",
+      "name": "Vibe Coding & AI App Building",
+      "description": "Guides, comparisons and tutorials for building websites and apps with AI: vibe coding, AI website builders, and the tools behind them."
+    },
+    {
+      "slug": "ai-agents-tools",
+      "name": "AI Agents & Tools",
+      "description": "AI agents, assistants and models in practice: OpenClaw, Claude, coding agents, and what new releases mean for builders."
+    },
+    {
+      "slug": "founders",
+      "name": "Startups & Solo Founders",
+      "description": "How founders and small teams use AI to build and grow companies: solo founders, lean startups, funding and strategy."
+    },
+    {
+      "slug": "ai-education",
+      "name": "AI in Education",
+      "description": "How AI is changing schools and universities: AI literacy, assessment, research, policy and the student experience."
+    },
+    {
+      "slug": "future-of-work",
+      "name": "Work, Careers & Mindset",
+      "description": "AI and the workplace: careers, skills, burnout, leadership and the habits that help people do their best work."
+    },
+    {
+      "slug": "ai-industry",
+      "name": "AI Industry & Business",
+      "description": "The business of AI: big tech moves, infrastructure, enterprise adoption, regulation and the market forces behind them."
+    }
+  ]
+}

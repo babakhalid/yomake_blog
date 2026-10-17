@@ -2,8 +2,9 @@
 title: "10 Real-World OpenClaw Use Cases: How People Actually Use Their AI Assistant"
 description: "Discover practical ways people use OpenClaw daily—from automating emails to managing smart homes. Real examples with implementation tips for each use case."
 date: "2026-02-02"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["OpenClaw", "Use Cases", "Automation", "Productivity", "AI Assistant"]
+topic: "ai-agents-tools"
 image: "/images/blog/openclaw-use-cases-real-world.svg"
 keywords: ["openclaw use cases", "AI assistant examples", "openclaw automation", "personal AI assistant", "openclaw workflows", "AI productivity"]
 published: true

@@ -2,8 +2,9 @@
 title: "Apple's Gemini Distillation Deal With Google Changes Everything About On-Device AI"
 description: "Apple now has complete access to Google's Gemini models for training smaller AI. Here's why this deal reshapes the AI industry."
 date: "2026-03-26"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Artificial Intelligence", "Apple", "Google"]
+topic: "ai-industry"
 image: "/images/blog/apple-google-gemini-distillation-deal-what-it-means-for-ai.png"
 keywords: ["Apple Gemini deal", "AI distillation", "on-device AI", "Apple Intelligence Google"]
 published: true
@@ -108,4 +109,4 @@ And if they do, every other tech company will need to answer a suddenly urgent q
 
 - [Apple's AI App Store Is Coming — And It Changes Everything](/articles/apple-ai-app-store-ios-27-siri-extensions)
 - [Google Now Generates 75% of Its Code With AI — Here's Why That Changes Everything](/articles/google-75-percent-ai-generated-code-agentic-shift)
-- [Meta Is Replacing Human Moderators With AI — And Signal's Creator Wants to Encrypt the Whole Thing](/articles/meta-ai-moderation-encrypted-ai-privacy-race)
+- [Meta's TRIBE v2 and the New AI Frontier: Digital Twins of the Brain, Self-Verifying Agents, and Why It All Matters](/articles/meta-tribe-v2-digital-twin-brain-agentic-ai-self-verification)

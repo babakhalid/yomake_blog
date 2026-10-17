@@ -35,11 +35,6 @@
   margin-bottom: 1rem;
 }
 
-.article-author::before {
-  content: "\2022";
-  margin-right: 0.5rem;
-}
-
 .article-title {
   font-size: 2.5rem;
   font-weight: 700;
@@ -97,4 +92,39 @@
   .article-content {
     font-size: 1rem;
   }
+}
+
+.article-updated::before,
+.article-author::before {
+  content: "\2022";
+  margin-right: 0.5rem;
+}
+
+.article-author a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.article-more {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
+}
+
+.article-more h2 {
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.article-more ul {
+  display: grid;
+  gap: 0.75rem;
+  padding-left: 1.25rem;
+}
+
+.article-more a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }

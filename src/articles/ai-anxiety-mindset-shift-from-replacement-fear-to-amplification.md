@@ -2,8 +2,9 @@
 title: "The AI Anxiety Epidemic: Why the Mindset Shift from Fear to Amplification Is the Only Career Move That Matters"
 description: "Only 22% of workers feel safe from AI job displacement. The difference between thriving and spiraling isn't skills — it's mindset."
 date: "2026-06-17"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "AI Anxiety", "Career", "Workforce"]
+topic: "future-of-work"
 image: "/images/blog/ai-anxiety-mindset-shift-from-replacement-fear-to-amplification.png"
 keywords: ["AI anxiety workforce", "AI job displacement fear", "mindset shift AI era", "AI career resilience", "workforce mental health 2026", "AI amplification mindset"]
 published: true

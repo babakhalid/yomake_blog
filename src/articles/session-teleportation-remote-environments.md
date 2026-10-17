@@ -2,8 +2,9 @@
 title: "Session Teleportation: Seamlessly Move Claude Conversations Across Environments"
 description: "Discover how Claude's session teleportation feature enables seamless continuation of work across different devices, environments, and remote development setups."
 date: "2026-01-13"
-author: "Tech Insights Team"
+author: "Khalid BABA"
 tags: ["Session Teleportation", "Remote Development", "Claude Code", "Developer Tools", "Cross-Platform"]
+topic: "ai-agents-tools"
 image: "/images/blog/session-teleportation.svg"
 published: true
 ---

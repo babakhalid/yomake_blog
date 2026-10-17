@@ -2,8 +2,9 @@
 title: "The Abstraction Trap: Why Vibe Coding Breaks and What It Teaches About Thinking"
 description: "Vibe coding feels precise until it isn't. What the debate over AI-generated code reveals about how we think, learn, and build mental models."
 date: "2026-03-23"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Vibe Coding", "Mental Models"]
+topic: "vibe-coding"
 image: "/images/blog/the-abstraction-trap-why-vibe-coding-breaks-and-what-it-teaches-about-thinking.png"
 keywords: ["vibe coding", "mental models", "abstraction", "AI coding", "mindset for builders"]
 published: true

@@ -2,8 +2,9 @@
 title: "One-Person Billion-Dollar Companies: How AI Solo Founders Are Rewriting Every Rule"
 description: "From Medvi's $1.8B trajectory to Pieter Levels' indie empire, solo AI founders are building what used to require hundreds of employees. Here's how."
 date: "2026-06-06"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "AI", "Solo Founders", "Startups"]
+topic: "founders"
 image: "/images/blog/one-person-billion-dollar-companies-ai-solo-founders-rewriting-the-rules.png"
 keywords: ["solo founder AI", "one person billion dollar company", "AI entrepreneurship 2026", "Medvi AI startup", "solopreneur AI tools"]
 published: true
@@ -55,7 +56,7 @@ Traditional SaaS companies celebrate when they hit $300,000-500,000 in revenue p
 
 These solo founders are operating at $1.5 million to $10 million per "employee." Medvi is on track for nearly $1 billion per employee if you count only Gallagher and his brother. Even the more modest examples are generating revenue-per-head numbers that would have been fantasy five years ago.
 
-This isn't a quirk. It's the new benchmark. And it's going to [reshape how investors evaluate startups](/articles/why-80-percent-of-vc-money-is-chasing-ai-and-what-smart-founders-do-differently). Why fund a 50-person team when a 3-person team with the right AI stack can generate equivalent revenue?
+This isn't a quirk. It's the new benchmark. And it's going to [reshape how investors evaluate startups](/articles/ai-funding-monopoly-where-smart-founders-raise-money-2026). Why fund a 50-person team when a 3-person team with the right AI stack can generate equivalent revenue?
 
 ### The Venture Capital Rebalancing
 

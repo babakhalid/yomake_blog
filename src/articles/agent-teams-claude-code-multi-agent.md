@@ -2,8 +2,9 @@
 title: "Agent Teams in Claude Code: Multi-Agent AI Development Is Here"
 description: "Claude Code now supports Agent Teams—coordinate multiple AI instances working together on complex coding tasks. Learn how to use this game-changing feature."
 date: "2026-02-06"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Claude Code", "Agent Teams", "Multi-Agent", "AI Development", "Coding", "Anthropic"]
+topic: "ai-agents-tools"
 image: "/images/blog/agent-teams-claude-code.svg"
 keywords: ["Agent Teams", "Claude Code", "multi-agent AI", "AI coding", "parallel development", "Anthropic Claude"]
 published: true
@@ -113,5 +114,5 @@ Agent Teams represent a fundamental shift: from single AI assistant to **AI deve
 ## Read Next
 
 - [Claude Opus 4.6: Anthropic's Most Powerful AI Model Yet](/articles/claude-opus-4-6-release)
-- [Vibe Coding: The Future of Web Development in 2026](/articles/vibe-coding-future-2026)
 - [Claude Code 2.1.0: Agent Lifecycle Hooks and Skill Improvements Transform Developer Workflows](/articles/claude-code-2-1-0-agent-lifecycle-hooks)
+- [Claude Sonnet 4.5: The Optimal Choice for Coding and Agentic Tasks](/articles/claude-sonnet-4-5-coding-agentic-tasks)

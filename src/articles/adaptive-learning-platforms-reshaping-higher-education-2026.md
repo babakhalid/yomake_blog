@@ -2,8 +2,9 @@
 title: "Adaptive Learning Platforms Are Reshaping Higher Education — And Most Schools Aren't Ready"
 description: "71% of universities will deploy adaptive AI by 2026. Here's why most are fumbling the transition and what actually works."
 date: "2026-05-20"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI", "Adaptive Learning", "EdTech"]
+topic: "ai-education"
 image: "/images/blog/adaptive-learning-platforms-reshaping-higher-education-2026.png"
 keywords: ["adaptive learning platforms 2026", "AI higher education", "personalized learning AI", "edtech trends 2026", "university AI adoption"]
 published: true

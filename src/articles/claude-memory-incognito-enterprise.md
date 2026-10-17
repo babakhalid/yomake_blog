@@ -2,8 +2,9 @@
 title: "Memory and Incognito Chat: Enterprise Privacy Controls for Claude"
 description: "Learn how Claude's memory features and incognito chat options give enterprise users powerful control over data retention, privacy, and personalized AI experiences."
 date: "2026-01-13"
-author: "Tech Insights Team"
+author: "Khalid BABA"
 tags: ["Claude Memory", "Enterprise Privacy", "Incognito Chat", "Data Control", "AI Security"]
+topic: "ai-agents-tools"
 image: "/images/blog/claude-memory-incognito.svg"
 published: true
 ---

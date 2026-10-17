@@ -2,8 +2,9 @@
 title: "Vim Motions and Terminal UX: Claude Code's Enhanced Developer Experience"
 description: "Explore how Claude Code's support for Vim motions and terminal UX improvements creates a more efficient, comfortable experience for developers."
 date: "2026-01-13"
-author: "Tech Insights Team"
+author: "Khalid BABA"
 tags: ["Vim Motions", "Claude Code", "Terminal UX", "Developer Experience", "Productivity"]
+topic: "ai-agents-tools"
 image: "/images/blog/vim-terminal-ux.svg"
 published: true
 ---

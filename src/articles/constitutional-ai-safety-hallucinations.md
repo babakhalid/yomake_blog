@@ -2,8 +2,9 @@
 title: "Constitutional AI: How Anthropic Reduces Hallucinations and Ensures Safety"
 description: "Understand how Constitutional AI training methodology enables Claude to provide more accurate responses with fewer hallucinations while maintaining helpful, harmless, and honest behavior."
 date: "2026-01-13"
-author: "Tech Insights Team"
+author: "Khalid BABA"
 tags: ["Constitutional AI", "AI Safety", "Hallucinations", "Anthropic", "AI Ethics"]
+topic: "ai-agents-tools"
 image: "/images/blog/constitutional-ai-safety.svg"
 published: true
 ---

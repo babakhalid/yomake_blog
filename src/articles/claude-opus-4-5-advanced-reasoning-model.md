@@ -2,8 +2,9 @@
 title: "Claude Opus 4.5: Inside Anthropic's Most Advanced Reasoning Model"
 description: "Explore the capabilities of Claude Opus 4.5, Anthropic's flagship AI model featuring unprecedented reasoning abilities, extended thinking, and breakthrough performance on complex tasks."
 date: "2026-01-13"
-author: "Tech Insights Team"
+author: "Khalid BABA"
 tags: ["Claude AI", "Opus 4.5", "Anthropic", "AI Models", "Machine Learning"]
+topic: "ai-agents-tools"
 image: "/images/blog/claude-opus-4-5.svg"
 published: true
 ---

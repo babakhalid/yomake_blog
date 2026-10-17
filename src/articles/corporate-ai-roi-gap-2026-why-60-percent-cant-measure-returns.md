@@ -2,8 +2,9 @@
 title: "The Corporate AI ROI Gap: Why 60% of Enterprises Still Can't Measure Their Returns"
 description: "Only 40% of enterprises report measurable AI ROI despite $35B in spending. Here's what separates companies that prove value from those burning cash."
 date: "2026-06-28"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate AI", "ROI", "Enterprise Strategy"]
+topic: "ai-industry"
 image: "/images/blog/corporate-ai-roi-gap-2026-why-60-percent-cant-measure-returns.png"
 keywords: ["enterprise AI ROI", "corporate AI transformation 2026", "AI spending returns", "agentic AI enterprise"]
 published: true

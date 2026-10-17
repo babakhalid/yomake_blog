@@ -24,8 +24,11 @@ export function Header() {
           <Link to="/articles" className="nav-link">
             Articles
           </Link>
+          <Link to="/about" className="nav-link">
+            About
+          </Link>
           <a
-            href="https://youmake.dev"
+            href="https://www.youmake.dev/"
             target="_blank"
             rel="noopener noreferrer"
             className="nav-button"

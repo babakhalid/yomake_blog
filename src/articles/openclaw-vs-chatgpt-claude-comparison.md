@@ -2,8 +2,9 @@
 title: "OpenClaw vs ChatGPT vs Claude: Which AI Assistant Is Right for You?"
 description: "Comprehensive comparison of OpenClaw, ChatGPT, and Claude. Features, pricing, privacy, and use cases explained to help you choose the best AI assistant."
 date: "2026-02-02"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["OpenClaw", "ChatGPT", "Claude", "Comparison", "AI Assistant"]
+topic: "ai-agents-tools"
 image: "/images/blog/openclaw-vs-chatgpt-claude.svg"
 keywords: ["openclaw vs chatgpt", "claude vs chatgpt", "best AI assistant", "AI assistant comparison 2026", "openclaw review", "self-hosted AI assistant"]
 published: true

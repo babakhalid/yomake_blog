@@ -2,8 +2,9 @@
 title: "Ultrafast Unicorns and the New Rules of Startup Fundraising"
 description: "207 AI startups hit unicorn status since 2024. Seed rounds now average what Series A used to be. Here's what this means for founders in 2026."
 date: "2026-05-03"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "Startups", "Fundraising"]
+topic: "founders"
 image: "/images/blog/ultrafast-unicorns-and-the-new-rules-of-startup-fundraising.png"
 keywords: ["startup fundraising 2026", "ultrafast unicorns", "seed funding trends", "AI startup valuations"]
 published: true

@@ -2,8 +2,9 @@
 title: "Automate Everything with OpenClaw: Cron Jobs and Scheduled Tasks"
 description: "Learn how to set up automated tasks, reminders, and scheduled workflows with OpenClaw's powerful cron system."
 date: "2026-01-31"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["OpenClaw", "Automation", "Cron", "Productivity"]
+topic: "ai-agents-tools"
 image: "/images/blog/openclaw-automation-cron.png"
 published: true
 ---

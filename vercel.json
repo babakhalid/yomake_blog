@@ -38,6 +38,36 @@
       "source": "/articles/the-leadership-paradox-why-successful-leaders-have-worse-days",
       "destination": "/articles/the-leadership-paradox-why-the-most-successful-people-have-the-worst-days",
       "permanent": true
+    },
+    {
+      "source": "/articles/vibe-coding-explained",
+      "destination": "/articles/what-is-vibe-coding",
+      "permanent": true
+    },
+    {
+      "source": "/articles/vibe-coding-future-2026",
+      "destination": "/articles/what-is-vibe-coding",
+      "permanent": true
+    },
+    {
+      "source": "/articles/ai-skills-gap-crisis-92-percent-students-using-ai-no-training",
+      "destination": "/articles/microsoft-ai-education-report-2026-92-percent-adoption-zero-training",
+      "permanent": true
+    },
+    {
+      "source": "/articles/universities-scramble-ai-literacy-students-already-ahead",
+      "destination": "/articles/universities-ai-governance-crisis-95-percent-using-20-percent-ready",
+      "permanent": true
+    },
+    {
+      "source": "/articles/meta-ai-moderation-encrypted-ai-privacy-race",
+      "destination": "/articles/corporate-ai-replacing-human-moderators-meta-automation",
+      "permanent": true
+    },
+    {
+      "source": "/articles/why-80-percent-of-vc-money-is-chasing-ai-and-what-smart-founders-do-differently",
+      "destination": "/articles/ai-funding-monopoly-where-smart-founders-raise-money-2026",
+      "permanent": true
     }
   ]
 }

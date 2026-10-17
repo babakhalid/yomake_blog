@@ -2,8 +2,9 @@
 title: "Claude Pro vs Max: Understanding Anthropic's Pricing Tiers"
 description: "A comprehensive comparison of Claude Pro ($20/month) and Claude Max ($100-200/month) subscription tiers, helping you choose the right plan for your AI needs."
 date: "2026-01-13"
-author: "Tech Insights Team"
+author: "Khalid BABA"
 tags: ["Claude Pricing", "Claude Pro", "Claude Max", "Subscription Plans", "Anthropic"]
+topic: "ai-agents-tools"
 image: "/images/blog/claude-pricing-tiers.svg"
 published: true
 ---

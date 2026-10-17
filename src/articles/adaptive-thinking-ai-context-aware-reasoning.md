@@ -2,8 +2,9 @@
 title: "Adaptive Thinking: AI That Knows When to Think Deeper"
 description: "Anthropic introduces Adaptive Thinking—Claude automatically adjusts its reasoning depth based on problem complexity. Plus new effort controls for developers."
 date: "2026-02-06"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Adaptive Thinking", "Claude", "AI Reasoning", "Anthropic", "Extended Thinking", "Developer Tools"]
+topic: "ai-agents-tools"
 image: "/images/blog/adaptive-thinking-ai-reasoning.svg"
 keywords: ["adaptive thinking", "Claude reasoning", "extended thinking", "AI effort control", "context-aware AI", "Anthropic"]
 published: true

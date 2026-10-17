@@ -2,8 +2,9 @@
 title: "Open Source AI Tools Are Eating the Startup Stack"
 description: "From coding agents to model architectures, open source is reshaping how startups build in 2026. Here's why that changes everything."
 date: "2026-03-21"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "Open Source", "AI Tools"]
+topic: "founders"
 image: "/images/blog/open-source-ai-tools-are-eating-the-startup-stack.png"
 keywords: ["open source AI tools 2026", "startup tech stack", "OpenCode AI", "open source coding agent", "Mamba-3", "startup infrastructure"]
 published: true

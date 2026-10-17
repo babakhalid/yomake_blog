@@ -2,8 +2,9 @@
 title: "81% of VC Money Goes to AI Startups. Here's Where Smart Founders Go Instead."
 description: "AI captured $243B of Q1 2026 venture funding. Non-AI startups got scraps. But the smartest founders are finding capital in defense tech, govtech, and contrarian bets."
 date: "2026-06-18"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "Venture Capital", "Startups", "Fundraising"]
+topic: "founders"
 image: "/images/blog/ai-funding-monopoly-where-smart-founders-raise-money-2026.png"
 keywords: ["startup funding 2026", "venture capital AI concentration", "non-AI startups", "defense tech funding", "startup fundraising strategy", "VC trends 2026"]
 published: true
@@ -25,7 +26,7 @@ The 2025 data tells the backstory: [20% of venture rounds were down rounds](http
 
 This isn't a temporary market correction. It's a structural shift. When [88% of AI-related startup funding](https://news.crunchbase.com/venture/us-ai-startup-funding-boom-data/) goes to US-headquartered companies, and the majority of that goes to three or four companies, "venture capital" as an industry has effectively become "AI infrastructure capital."
 
-We wrote about this dynamic in [why 80% of VC money is chasing AI and what smart founders do differently](/articles/why-80-percent-of-vc-money-is-chasing-ai-and-what-smart-founders-do-differently). The trend hasn't just continued — it's intensified.
+We wrote about this dynamic in [why 80% of VC money is chasing AI and what smart founders do differently](/articles/ai-funding-monopoly-where-smart-founders-raise-money-2026). The trend hasn't just continued — it's intensified.
 
 ## Where the Money Actually Is
 

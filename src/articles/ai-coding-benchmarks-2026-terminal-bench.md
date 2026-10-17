@@ -2,8 +2,9 @@
 title: "AI Coding Benchmarks 2026: Who's Actually Winning?"
 description: "Terminal-Bench 2.0, Humanity's Last Exam, GDPval-AA—the benchmarks that matter in 2026. See how Opus 4.6, GPT-5.2, and others stack up on real-world tasks."
 date: "2026-02-06"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI Benchmarks", "Terminal-Bench", "Coding AI", "GPT-5", "Claude Opus", "AI Comparison"]
+topic: "ai-agents-tools"
 image: "/images/blog/ai-coding-benchmarks-2026.svg"
 keywords: ["AI benchmarks 2026", "Terminal-Bench 2.0", "Humanity's Last Exam", "AI coding comparison", "GPT-5.2 vs Claude", "best AI for coding"]
 published: true

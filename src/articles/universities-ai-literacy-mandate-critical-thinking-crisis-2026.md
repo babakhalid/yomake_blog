@@ -2,8 +2,9 @@
 title: "Universities Are Making AI Literacy Mandatory — But Teachers Say It's Killing Critical Thinking"
 description: "SUNY's new AI literacy mandate highlights higher ed's biggest tension: students need AI fluency, but teachers warn it's eroding the thinking skills that matter most."
 date: "2026-06-14"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI Literacy", "Higher Education", "Critical Thinking"]
+topic: "ai-education"
 image: "/images/blog/universities-ai-literacy-mandate-critical-thinking-crisis-2026.png"
 keywords: ["AI literacy mandate", "SUNY AI policy 2026", "critical thinking AI", "higher education AI", "AI in universities"]
 published: true
@@ -103,5 +104,5 @@ The [universities treating AI as infrastructure rather than experiment](/article
 ## Read Next
 
 - [The AI Literacy Gap: 90% of Students Use AI, But Almost Nobody's Teaching Them How](/articles/universities-ai-literacy-gap-students-using-without-understanding)
-- [95% of Students Already Use AI — Universities Are Scrambling to Catch Up](/articles/universities-scramble-ai-literacy-students-already-ahead)
 - [95% of Students Use AI, But Only 20% of Universities Have a Policy. That's a Crisis.](/articles/universities-ai-governance-crisis-95-percent-using-20-percent-ready)
+- [Metacognitive Laziness: Are AI Tools Making Students Think Less?](/articles/metacognitive-laziness-ai-students-thinking-less)

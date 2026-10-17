@@ -2,8 +2,9 @@
 title: "Permission to Slow Down: Why Strategic Patience Is the Most Underrated Skill in the AI Age"
 description: "Everyone's sprinting. The smartest professionals are learning when to pause, reflect, and move deliberately. Here's why that matters."
 date: "2026-06-01"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Strategic Thinking", "Career", "Professional Growth"]
+topic: "future-of-work"
 image: "/images/blog/permission-to-slow-down-strategic-patience-ai-age.png"
 keywords: ["strategic patience 2026", "slow down AI age", "deliberate thinking career", "mindful professional development", "strategic thinking AI era"]
 published: true

@@ -2,8 +2,9 @@
 title: "The Four AI Mindsets: A Practical Guide to McKinsey's Framework for Thriving in 2026"
 description: "Curiosity, adaptability, responsibility, and human-centered thinking. Here's what each mindset actually looks like in practice."
 date: "2026-05-23"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Mindset", "Career Development", "Professional Growth"]
+topic: "future-of-work"
 image: "/images/blog/four-ai-mindsets-mckinsey-framework-practical-guide.png"
 keywords: ["McKinsey AI mindsets 2026", "AI career development", "curiosity adaptability AI", "professional growth AI era", "AI mindset framework"]
 published: true

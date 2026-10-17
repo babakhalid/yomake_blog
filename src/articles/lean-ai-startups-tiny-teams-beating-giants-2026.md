@@ -2,8 +2,9 @@
 title: "Lean AI Startups: How Tiny Teams Are Beating Giants in 2026"
 description: "No-code stacks, vertical AI, and two-person teams are outshipping companies with 200 engineers. Here's the playbook."
 date: "2026-05-21"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "AI Startups", "Lean Building", "Startups"]
+topic: "founders"
 image: "/images/blog/lean-ai-startups-tiny-teams-beating-giants-2026.png"
 keywords: ["lean AI startups 2026", "small team startup strategy", "no-code AI building", "vertical AI startups", "startup efficiency 2026"]
 published: true

@@ -2,8 +2,9 @@
 title: "Claude in PowerPoint: AI-Powered Presentations Are Here"
 description: "Anthropic launches Claude in PowerPoint as a research preview. Create, edit, and enhance presentations with AI assistance directly in Microsoft Office."
 date: "2026-02-06"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Claude", "PowerPoint", "Microsoft Office", "AI Presentations", "Anthropic", "Productivity"]
+topic: "ai-agents-tools"
 image: "/images/blog/claude-powerpoint-ai-presentations.svg"
 keywords: ["Claude PowerPoint", "AI presentations", "Claude in Office", "AI productivity", "Anthropic Microsoft", "presentation AI"]
 published: true

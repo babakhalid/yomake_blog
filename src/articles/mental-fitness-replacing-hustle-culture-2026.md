@@ -2,8 +2,9 @@
 title: "The Death of Hustle Culture: Why Mental Fitness Is the Real Productivity Hack in 2026"
 description: "Hustle culture is dead. In 2026, the most productive companies are investing in mental fitness — and the results are crushing traditional productivity methods."
 date: "2026-06-05"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Productivity", "Mental Health"]
+topic: "future-of-work"
 image: "/images/blog/mental-fitness-replacing-hustle-culture-2026.jpg"
 keywords: ["mental fitness 2026", "hustle culture dead", "workplace mental health", "productivity mindset", "burnout prevention"]
 published: true

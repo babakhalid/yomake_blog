@@ -2,8 +2,9 @@
 title: "Enterprise AI Co-Innovation: Why Corporations Are Finally Getting Adoption Right"
 description: "The corporate AI playbook has shifted from internal experiments to co-innovation partnerships. Here's why this matters for 2026."
 date: "2026-05-01"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate", "AI", "Enterprise"]
+topic: "ai-industry"
 image: "/images/blog/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right.png"
 keywords: ["enterprise AI adoption", "co-innovation", "corporate AI strategy 2026", "AI transformation", "enterprise digital transformation"]
 published: true

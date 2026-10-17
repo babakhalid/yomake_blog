@@ -2,8 +2,9 @@
 title: "AI's Attention Deficit: The Smartest Models Still Can't Focus"
 description: "New research reveals AI models suffer dramatic accuracy collapses on sustained tasks. Here's what this cognitive blind spot means for builders and the industry."
 date: "2026-06-11"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Research", "Machine Learning"]
+topic: "ai-agents-tools"
 image: "/images/blog/ai-attention-deficit-smartest-models-cant-focus-june-2026.png"
 keywords: ["AI attention span", "AI cognitive collapse", "Stroop task AI", "AI limitations 2026", "large language model focus"]
 published: true

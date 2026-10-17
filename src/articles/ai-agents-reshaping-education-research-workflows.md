@@ -2,8 +2,9 @@
 title: "AI Agents Are Quietly Reshaping How We Learn, Research, and Publish"
 description: "From WordPress MCP to browser-based AI tools, autonomous agents are transforming education and research workflows in 2026."
 date: "2026-03-22"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI Research", "Autonomous Agents", "EdTech"]
+topic: "ai-education"
 image: "/images/blog/ai-agents-reshaping-education-research-workflows.png"
 keywords: ["AI agents education", "AI research tools 2026", "autonomous agents learning", "AI publishing workflow", "edtech AI agents"]
 published: true

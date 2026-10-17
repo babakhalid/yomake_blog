@@ -2,8 +2,9 @@
 title: "Vertical AI Agents Are the Biggest Founder Opportunity of 2026 — Here's Why"
 description: "Generic AI is a commodity. Vertical AI agents solving specific industry problems are where the real money and impact live. A founder's guide to the opportunity."
 date: "2026-06-24"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "AI Agents", "Startups", "Business"]
+topic: "founders"
 image: "/images/blog/vertical-ai-agents-biggest-founder-opportunity-2026.png"
 keywords: ["vertical AI agents", "AI startup ideas 2026", "AI entrepreneurship", "niche AI agents", "AI agent market"]
 published: true

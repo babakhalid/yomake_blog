@@ -2,8 +2,9 @@
 title: "Universities Are Finally Writing the AI Rulebook—And It's About Time"
 description: "SUNY's systemwide AI policy and ASU's controversial course builder reveal higher education's AI growing pains. What it means for the future of learning."
 date: "2026-05-04"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI Policy", "Research"]
+topic: "ai-education"
 image: "/images/blog/universities-are-finally-writing-the-ai-rulebook.png"
 keywords: ["AI in education", "SUNY AI policy", "university AI governance", "higher education technology", "AI course builder"]
 published: true

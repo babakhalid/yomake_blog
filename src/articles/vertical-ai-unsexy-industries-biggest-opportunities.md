@@ -2,8 +2,9 @@
 title: "Vertical AI: Why the Biggest Opportunities Are in the Most Unsexy Industries"
 description: "Dental practices, property management, agricultural supply chains — vertical AI is where domain expertise beats engineering talent."
 date: "2026-05-30"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Entrepreneurship", "Vertical AI", "Startup Strategy"]
+topic: "ai-industry"
 image: "/images/blog/vertical-ai-unsexy-industries-biggest-opportunities.png"
 keywords: ["vertical AI startups 2026", "industry-specific AI", "vertical AI opportunities", "domain expertise AI", "niche AI applications"]
 published: true

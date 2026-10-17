@@ -2,8 +2,9 @@
 title: "The Mercor Breach Exposes the Fragile Underbelly of Corporate AI"
 description: "Meta paused work with AI data vendor Mercor after a major breach. Here's why every enterprise should be rethinking their AI supply chain right now."
 date: "2026-04-04"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate AI", "Data Security", "Enterprise"]
+topic: "ai-industry"
 image: "/images/blog/ai-training-data-breach-mercor-corporate-supply-chain-risk.png"
 keywords: ["AI data breach", "Mercor breach", "corporate AI security", "AI training data", "enterprise AI risk"]
 published: true

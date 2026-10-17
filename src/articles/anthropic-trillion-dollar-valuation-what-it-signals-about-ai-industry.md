@@ -2,8 +2,9 @@
 title: "Anthropic at $965 Billion: What a Near-Trillion Dollar AI Company Tells Us About Where the Industry Is Headed"
 description: "Anthropic just closed $65B at a $965B valuation. Beyond the jaw-dropping numbers, this funding round reveals where AI is actually going — and it's not where most people think."
 date: "2026-06-02"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Startups", "Technology"]
+topic: "ai-industry"
 image: "/images/blog/anthropic-trillion-dollar-valuation-what-it-signals-about-ai-industry.png"
 keywords: ["Anthropic funding", "AI industry 2026", "AI valuation", "Claude AI", "AI infrastructure"]
 published: true

@@ -2,8 +2,9 @@
 title: "Universities Have an AI Trust Crisis — And It's About to Get Worse"
 description: "As the THE Asia Summit debates 'trusted AI' and US research funding evaporates, higher education faces an existential question: who controls the research agenda?"
 date: "2026-04-26"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI in Research", "Higher Education"]
+topic: "ai-education"
 image: "/images/blog/universities-ai-trust-crisis-who-controls-research-agenda.png"
 keywords: ["AI in higher education", "university research funding", "trusted AI", "THE Asia Universities Summit 2026", "education research crisis"]
 published: true

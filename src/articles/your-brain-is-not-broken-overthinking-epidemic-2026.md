@@ -2,8 +2,9 @@
 title: "Your Brain Isn't Broken: The Overthinking Epidemic and What to Do About It"
 description: "Overthinking has become the default mode for knowledge workers. Here's why boredom might be the cure nobody wants to hear about."
 date: "2026-03-17"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Productivity", "Mental Health"]
+topic: "future-of-work"
 image: "/images/blog/your-brain-is-not-broken-overthinking-epidemic-2026.png"
 keywords: ["overthinking", "productivity mindset", "cognitive overload", "boredom productivity", "mental health work"]
 published: true

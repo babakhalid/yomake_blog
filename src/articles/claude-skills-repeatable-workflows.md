@@ -2,8 +2,9 @@
 title: "Skills Feature: Teaching Claude Repeatable Workflows for Consistent Results"
 description: "Learn how Claude's Skills feature enables teams to create standardized, repeatable workflows that ensure consistency across common tasks like code review, documentation, and deployment."
 date: "2026-01-13"
-author: "Tech Insights Team"
+author: "Khalid BABA"
 tags: ["Claude Skills", "Workflow Automation", "AI Productivity", "Developer Tools", "Team Collaboration"]
+topic: "ai-agents-tools"
 image: "/images/blog/claude-skills.svg"
 published: true
 ---

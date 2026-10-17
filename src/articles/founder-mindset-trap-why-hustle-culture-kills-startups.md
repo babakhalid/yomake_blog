@@ -2,8 +2,9 @@
 title: "The Founder Mindset Trap: Why Hustle Culture Is Killing More Startups Than Competition"
 description: "Burnout isn't a badge of honor. The founders actually winning in 2026 are the ones who learned to think differently about work."
 date: "2026-05-21"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Entrepreneurship", "Founder Wellbeing", "Startups"]
+topic: "founders"
 image: "/images/blog/founder-mindset-trap-why-hustle-culture-kills-startups.png"
 keywords: ["founder burnout 2026", "hustle culture startups", "entrepreneur mindset", "startup mental health", "founder wellbeing"]
 published: true

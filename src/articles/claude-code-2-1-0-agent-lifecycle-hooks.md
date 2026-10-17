@@ -2,8 +2,9 @@
 title: "Claude Code 2.1.0: Agent Lifecycle Hooks and Skill Improvements Transform Developer Workflows"
 description: "Discover how Claude Code 2.1.0's new agent lifecycle hooks, skill improvements, and hot reload capabilities are revolutionizing the way developers build and automate software."
 date: "2026-01-13"
-author: "Tech Insights Team"
+author: "Khalid BABA"
 tags: ["Claude Code", "Developer Tools", "AI Coding", "Automation", "Skills"]
+topic: "ai-agents-tools"
 image: "/images/blog/claude-code-2-1-0.svg"
 published: true
 ---

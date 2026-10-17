@@ -2,8 +2,9 @@
 title: "Zuckerberg Is Building an AI Agent to Do His Job as CEO — Here's Why Every Founder Should Pay Attention"
 description: "Mark Zuckerberg is reportedly building an AI CEO agent at Meta. What this signals about the future of leadership, delegation, and building companies in the age of AI."
 date: "2026-03-24"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "AI Agents", "Leadership", "Startups"]
+topic: "founders"
 image: "/images/blog/zuckerberg-ai-ceo-agent-future-of-founders.png"
 keywords: ["Zuckerberg AI CEO agent", "AI agents for founders", "future of CEO role", "Meta AI agent", "AI entrepreneurship"]
 published: true

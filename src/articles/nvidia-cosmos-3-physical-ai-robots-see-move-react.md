@@ -2,8 +2,9 @@
 title: "NVIDIA's Cosmos 3 Is the GPT Moment for Robots — And It's Open Source"
 description: "NVIDIA Cosmos 3 lets robots see, think, and act in the real world. With ABB, FANUC, and LG already building on it, physical AI just got its foundation model."
 date: "2026-06-14"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Robotics", "NVIDIA", "Physical AI"]
+topic: "ai-agents-tools"
 image: "/images/blog/nvidia-cosmos-3-physical-ai-robots-see-move-react.png"
 keywords: ["NVIDIA Cosmos 3", "physical AI", "robotics AI model", "factory robots AI", "open source AI robotics"]
 published: true

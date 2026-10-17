@@ -2,8 +2,9 @@
 title: "Cognitive Load Distribution: How to Think Less and Decide Better"
 description: "Decision fatigue is the silent killer of founders and leaders. The cognitive load distribution framework offers a radical rethink of who — and what — should be thinking."
 date: "2026-06-11"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Productivity", "Leadership"]
+topic: "future-of-work"
 image: "/images/blog/cognitive-load-distribution-how-to-think-less-and-decide-better-2026.png"
 keywords: ["cognitive load distribution", "decision fatigue founders", "mindset 2026", "AI decision making", "intentional leadership"]
 published: true

@@ -2,8 +2,9 @@
 title: "2026 Is the Year of AI Agents — And Most Companies Aren't Ready"
 description: "AI agents are moving from assistants to autonomous operators. But the gap between hype and enterprise readiness is wider than anyone admits."
 date: "2026-05-17"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI Agents", "Enterprise AI", "Automation"]
+topic: "ai-agents-tools"
 image: "/images/blog/year-of-ai-agents-enterprise-readiness-gap.jpg"
 keywords: ["AI agents 2026", "enterprise AI deployment", "autonomous workflows", "agentic AI challenges", "AI agent readiness"]
 published: true

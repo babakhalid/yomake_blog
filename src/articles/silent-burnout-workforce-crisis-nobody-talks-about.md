@@ -2,8 +2,9 @@
 title: "Silent Burnout Is the Workforce Crisis Nobody Wants to Talk About"
 description: "30% of employees are silently burning out while looking perfectly fine. New data reveals the hidden epidemic reshaping workplace mental health in 2026."
 date: "2026-06-13"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Burnout", "Workplace", "Mental Health"]
+topic: "future-of-work"
 image: "/images/blog/silent-burnout-workforce-crisis-nobody-talks-about.png"
 keywords: ["silent burnout", "burnout crisis 2026", "workplace mental health", "employee burnout statistics", "mental fitness", "presenteeism"]
 published: true

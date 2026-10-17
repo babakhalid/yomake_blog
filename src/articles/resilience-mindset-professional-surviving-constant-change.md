@@ -2,8 +2,9 @@
 title: "The Resilience Mindset: How to Survive (and Thrive) When Everything Changes Quarterly"
 description: "AI tools change monthly. Job requirements change quarterly. The professionals who last are the ones who build resilience as a core skill."
 date: "2026-05-31"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Resilience", "Career", "Professional Growth"]
+topic: "future-of-work"
 image: "/images/blog/resilience-mindset-professional-surviving-constant-change.png"
 keywords: ["professional resilience 2026", "resilience mindset career", "adapting constant change", "career resilience AI era", "managing change fatigue"]
 published: true

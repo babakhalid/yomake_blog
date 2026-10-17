@@ -2,8 +2,9 @@
 title: "The CFO Is the New CEO: How Corporate Strategy Shifted in 2026"
 description: "In volatile markets, C-suites are turning to CFOs for strategic guidance. Here's why financial leadership now drives corporate direction."
 date: "2026-03-13"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate Strategy", "Leadership", "Finance"]
+topic: "ai-industry"
 image: "/images/blog/the-cfo-is-the-new-ceo-how-corporate-strategy-shifted-in-2026.png"
 keywords: ["CFO strategy", "corporate leadership 2026", "C-suite transformation", "financial strategy", "corporate governance"]
 published: true

@@ -2,8 +2,9 @@
 title: "The Ed-Tech Evidence Crisis: Why Schools Are Finally Asking 'Does This Actually Work?'"
 description: "A new study reveals only 2% of common classroom tech tools meet the highest evidence standards. The ed-tech reckoning is overdue."
 date: "2026-05-02"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "EdTech", "Research"]
+topic: "ai-education"
 image: "/images/blog/ed-tech-evidence-crisis-schools-rethinking-digital-tools.png"
 keywords: ["ed-tech evidence", "classroom technology effectiveness", "ESSA standards", "education technology research", "school technology procurement"]
 published: true

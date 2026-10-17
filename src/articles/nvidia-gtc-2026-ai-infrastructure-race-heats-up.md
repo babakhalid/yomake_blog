@@ -2,8 +2,9 @@
 title: "Nvidia GTC 2026: The AI Infrastructure Race Just Entered a New Phase"
 description: "From NemoClaw's secure AI agents to data centers in space, Nvidia's GTC 2026 keynote reveals where the AI industry is actually heading next."
 date: "2026-03-17"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Nvidia", "Infrastructure"]
+topic: "ai-industry"
 image: "/images/blog/nvidia-gtc-2026-ai-infrastructure-race-heats-up.png"
 keywords: ["Nvidia GTC 2026", "NemoClaw", "AI infrastructure", "AI agents", "Vera Ruben Space"]
 published: true

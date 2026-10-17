@@ -2,8 +2,9 @@
 title: "Amazon Just Put Guardrails on AI Coding — Here's What Every Engineering Team Should Learn"
 description: "After AWS outages caused by AI coding agents, Amazon now requires senior sign-off on AI-assisted changes. What this means for your team."
 date: "2026-03-12"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Software Engineering", "Developer Tools"]
+topic: "ai-industry"
 image: "/images/blog/amazon-ai-coding-guardrails-what-every-engineering-team-should-learn.png"
 keywords: ["AI coding guardrails", "AI assisted development", "Amazon AWS outages AI", "AI code review", "engineering best practices AI"]
 published: true

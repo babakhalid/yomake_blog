@@ -2,8 +2,9 @@
 title: "Metacognitive Laziness: Are AI Tools Making Students Think Less?"
 description: "The OECD warns about students offloading cognitive work to AI. The data is concerning, but the solution isn't banning tools."
 date: "2026-05-26"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI", "Critical Thinking", "Research"]
+topic: "ai-education"
 image: "/images/blog/metacognitive-laziness-ai-students-thinking-less.png"
 keywords: ["metacognitive laziness AI", "AI students critical thinking", "OECD education AI 2026", "AI impact learning", "student cognitive skills AI"]
 published: true

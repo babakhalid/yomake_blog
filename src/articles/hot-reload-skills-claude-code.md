@@ -2,8 +2,9 @@
 title: "Hot Reload for Skills: Accelerating Skill Development in Claude Code"
 description: "Discover how Claude Code's hot reload capability enables rapid skill iteration, allowing developers to refine AI workflows without restarting sessions."
 date: "2026-01-13"
-author: "Tech Insights Team"
+author: "Khalid BABA"
 tags: ["Claude Code", "Hot Reload", "Skill Development", "Developer Tools", "Productivity"]
+topic: "ai-agents-tools"
 image: "/images/blog/hot-reload-skills.svg"
 published: true
 ---

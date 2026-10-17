@@ -2,8 +2,9 @@
 title: "Frontier Professionals: The New Workforce Class Created by AI Agents"
 description: "AI agents aren't replacing workers — they're creating Frontier Professionals. Here's what separates the top 16% of AI users and why it matters for your career."
 date: "2026-06-05"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Future of Work", "AI Agents"]
+topic: "ai-agents-tools"
 image: "/images/blog/frontier-professionals-ai-agents-new-workforce.jpg"
 keywords: ["frontier professionals", "AI agents 2026", "agentic AI workforce", "AI productivity", "future of work AI"]
 published: true

@@ -2,8 +2,9 @@
 title: "ChatGPT Just Hit 1 Billion Users. The Age of AI Agents Is What Comes Next."
 description: "ChatGPT crossed one billion monthly users in June 2026. But the real story isn't chatbots — it's the agent revolution brewing underneath."
 date: "2026-06-26"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "AI Agents", "Technology"]
+topic: "ai-agents-tools"
 image: "/images/blog/chatgpt-one-billion-users-ai-agents-era-what-happens-next.png"
 keywords: ["ChatGPT billion users", "AI agents 2026", "agentic AI", "Claude Opus", "Gemini Spark", "AI future"]
 published: true

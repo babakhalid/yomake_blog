@@ -2,8 +2,9 @@
 title: "OpenAI's Codex Now Lives in Your Browser — And That Changes Everything"
 description: "OpenAI launched a Codex Chrome extension that works inside your existing apps. Here's why browser-native AI agents represent a fundamental shift in how we'll work."
 date: "2026-05-08"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "OpenAI", "Browser Agents"]
+topic: "ai-agents-tools"
 image: "/images/blog/openai-codex-chrome-extension-ai-agents-enter-your-browser.png"
 keywords: ["OpenAI Codex Chrome extension", "AI browser agents", "AI automation 2026", "agentic AI", "Codex Chrome"]
 published: true

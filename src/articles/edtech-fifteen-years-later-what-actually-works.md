@@ -2,8 +2,9 @@
 title: "Fifteen Years and Billions Later: EdTech's Honest Reckoning With What Actually Works"
 description: "After 15 years and billions invested, learning technology faces hard questions. Here's what the research says about what works and what doesn't."
 date: "2026-03-10"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education Technology", "AI in Education", "Research", "EdTech"]
+topic: "ai-education"
 image: "/images/blog/edtech-fifteen-years-later-what-actually-works.svg"
 keywords: ["edtech effectiveness", "AI in education", "learning technology research", "education reform", "digital learning"]
 published: true

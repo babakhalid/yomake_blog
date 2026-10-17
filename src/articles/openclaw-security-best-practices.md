@@ -2,8 +2,9 @@
 title: "OpenClaw Security Best Practices: Keeping Your AI Assistant Safe"
 description: "Learn essential security practices for running OpenClaw safely. From API key management to access controls, protect your AI assistant and data with these proven strategies."
 date: "2026-02-02"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["OpenClaw", "Security", "Best Practices", "Privacy", "Self-Hosted AI"]
+topic: "ai-agents-tools"
 image: "/images/blog/openclaw-security-best-practices.svg"
 keywords: ["openclaw security", "AI assistant security", "self-hosted AI safety", "API key management", "openclaw privacy", "secure AI setup"]
 published: true

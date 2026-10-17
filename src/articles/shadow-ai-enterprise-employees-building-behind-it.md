@@ -2,8 +2,9 @@
 title: "Shadow AI Is Winning: Why Your Employees Are Building Behind IT's Back"
 description: "29% of Fortune 500 companies now use AI startups, but the real revolution is happening in the shadows. Employees are adopting AI faster than IT can govern it."
 date: "2026-04-28"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate", "AI Adoption", "Enterprise"]
+topic: "future-of-work"
 image: "/images/blog/shadow-ai-enterprise-employees-building-behind-it.png"
 keywords: ["shadow AI enterprise", "corporate AI adoption 2026", "enterprise AI governance", "Fortune 500 AI", "AI at work"]
 published: true

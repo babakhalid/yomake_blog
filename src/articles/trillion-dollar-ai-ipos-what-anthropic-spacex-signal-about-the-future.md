@@ -2,8 +2,9 @@
 title: "Trillion-Dollar AI IPOs Are Here — What Anthropic, SpaceX, and OpenAI Signal About the Future"
 description: "Anthropic's $965B valuation, SpaceX's June IPO, and OpenAI's public plans mark a new era. What the trillion-dollar AI IPO wave means for builders and investors."
 date: "2026-06-06"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "IPO", "Anthropic", "SpaceX", "OpenAI"]
+topic: "ai-industry"
 image: "/images/blog/trillion-dollar-ai-ipos-what-anthropic-spacex-signal-about-the-future.png"
 keywords: ["AI IPO 2026", "Anthropic valuation", "SpaceX IPO", "trillion dollar tech companies", "AI investment"]
 published: true

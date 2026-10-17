@@ -2,8 +2,9 @@
 title: "Students Know AI Is Making Them Worse at Thinking — And They Can't Stop Using It"
 description: "A RAND Corp survey reveals 7 in 10 students worry AI is eroding their critical thinking skills, yet usage keeps climbing. Here's what this means."
 date: "2026-04-02"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI in Schools", "Critical Thinking"]
+topic: "ai-education"
 image: "/images/blog/students-worried-ai-eroding-critical-thinking-skills.png"
 keywords: ["AI critical thinking students", "RAND Corp AI survey 2026", "AI in education", "student AI usage"]
 published: true

@@ -2,8 +2,9 @@
 title: "The ChatGPT Moment for Robotics Is Here — And It Changes Everything for Founders"
 description: "A startup called Eka just built a robot that can screw in a lightbulb. Why this matters for entrepreneurs more than any new language model."
 date: "2026-04-30"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Robotics", "Entrepreneurship", "Physical AI"]
+topic: "ai-agents-tools"
 image: "/images/blog/physical-ai-chatgpt-moment-for-robotics-is-here.png"
 keywords: ["physical AI startups", "Eka robotics", "robot dexterity breakthrough", "AI entrepreneurship 2026", "robotics startup opportunity"]
 published: true

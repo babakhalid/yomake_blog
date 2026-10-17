@@ -2,8 +2,9 @@
 title: "The Great Startup Bifurcation: $2 Billion Seeds and Solo Founders Are Rewriting the Rules"
 description: "Startup fundraising is splitting in two: mega-rounds for AI labs and zero-funding solo founders both winning. Here's what this means for builders in 2026."
 date: "2026-06-15"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "Startups", "Fundraising", "AI", "Solo Founders"]
+topic: "founders"
 image: "/images/blog/startup-fundraising-bifurcation-billion-dollar-seeds-and-solo-founders-2026.png"
 keywords: ["startup fundraising 2026", "solo founder AI startup", "Thinking Machines Lab seed round", "billion dollar seed round", "Base44 Wix acquisition", "venture capital trends 2026"]
 published: true

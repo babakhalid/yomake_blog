@@ -2,8 +2,9 @@
 title: "The Secret AI Users: Why Nobody Admits They're Using AI — And Why That Mindset Needs to Change"
 description: "From hip-hop producers to corporate teams, everyone's quietly using AI but nobody wants to talk about it. Here's why hiding it is holding you back."
 date: "2026-03-29"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "AI Adoption", "Productivity"]
+topic: "future-of-work"
 image: "/images/blog/hidden-ai-adoption-why-nobody-admits-using-ai-at-work.png"
 keywords: ["AI adoption mindset", "using AI at work", "AI stigma", "productivity with AI", "AI in music production"]
 published: true

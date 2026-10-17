@@ -2,8 +2,9 @@
 title: "The AI Burnout Paradox: Why Your Productivity Tools Are Breaking You"
 description: "AI was supposed to free us from drudge work. Instead, 88% of heavy AI users report more burnout. Here's what's actually happening and how to fight back."
 date: "2026-06-29"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "AI", "Burnout"]
+topic: "future-of-work"
 image: "/images/blog/ai-burnout-paradox-why-productivity-tools-are-breaking-workers.png"
 keywords: ["AI burnout", "productivity paradox", "AI fatigue", "workplace burnout 2026", "Gen Z burnout"]
 published: true

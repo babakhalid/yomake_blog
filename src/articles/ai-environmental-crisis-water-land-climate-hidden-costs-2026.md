@@ -2,8 +2,9 @@
 title: "AI's Dirty Secret: The Environmental Crisis Nobody Wants to Talk About"
 description: "A new UN report reveals AI data centers will consume 945 TWh of electricity and 9.3 trillion liters of water annually by 2030. Here's why the industry needs to face its environmental reckoning."
 date: "2026-06-12"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Environment", "Data Centers", "Sustainability"]
+topic: "future-of-work"
 image: "/images/blog/ai-environmental-crisis-water-land-climate-hidden-costs-2026.png"
 keywords: ["AI environmental impact", "AI data centers electricity", "AI water consumption", "UN AI report 2026", "AI sustainability crisis"]
 published: true

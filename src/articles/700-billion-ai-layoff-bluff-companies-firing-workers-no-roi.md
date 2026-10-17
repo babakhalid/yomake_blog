@@ -2,8 +2,9 @@
 title: "The $700 Billion Bluff: Why Companies Are Cutting Workers to Fund AI That Isn't Delivering"
 description: "Tech giants are firing workers at record profits to fund AI infrastructure. But Gartner's data shows zero correlation between layoffs and ROI. Here's what actually works."
 date: "2026-06-22"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate", "AI", "Layoffs", "Workforce"]
+topic: "future-of-work"
 image: "/images/blog/700-billion-ai-layoff-bluff-companies-firing-workers-no-roi.png"
 keywords: ["AI layoffs 2026", "corporate AI ROI", "Gartner AI study", "tech layoffs", "people amplification", "AI workforce strategy"]
 published: true

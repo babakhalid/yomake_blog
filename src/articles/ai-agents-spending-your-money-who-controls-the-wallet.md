@@ -2,8 +2,9 @@
 title: "AI Agents Are About to Spend Your Money — Who Controls the Wallet?"
 description: "The FIDO Alliance, Google, and Mastercard are racing to build security standards for AI agent commerce before things go sideways."
 date: "2026-04-30"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI Agents", "Fintech", "Security"]
+topic: "ai-agents-tools"
 image: "/images/blog/ai-agents-spending-your-money-who-controls-the-wallet.png"
 keywords: ["AI agent payments", "FIDO Alliance AI", "agent commerce security", "Google AP2 protocol", "Mastercard verifiable intent"]
 published: true

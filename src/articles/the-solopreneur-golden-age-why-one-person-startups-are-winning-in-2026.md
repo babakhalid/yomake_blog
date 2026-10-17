@@ -2,8 +2,9 @@
 title: "The Solopreneur Golden Age: Why One-Person Startups Are Winning in 2026"
 description: "Solo founders are building profitable businesses faster than ever. Here's how AI and micro-SaaS are rewriting the rules of entrepreneurship."
 date: "2026-05-18"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "Solopreneur", "Micro-SaaS", "Startups"]
+topic: "founders"
 image: "/images/blog/the-solopreneur-golden-age-why-one-person-startups-are-winning-in-2026.png"
 keywords: ["solopreneur 2026", "micro-SaaS AI", "bootstrapping startup", "one person startup", "solo founder success"]
 published: true

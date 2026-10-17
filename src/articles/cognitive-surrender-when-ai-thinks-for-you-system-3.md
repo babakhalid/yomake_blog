@@ -2,8 +2,9 @@
 title: "Cognitive Surrender: What Happens When You Let AI Think for You"
 description: "New research proposes AI as 'System 3' thinking — and warns of cognitive surrender. Here's what it means for your mind and how to stay sharp."
 date: "2026-04-23"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "AI", "Productivity"]
+topic: "future-of-work"
 image: "/images/blog/cognitive-surrender-when-ai-thinks-for-you-system-3.png"
 keywords: ["cognitive surrender AI", "System 3 thinking", "AI mindset", "cognitive debt", "thinking with AI 2026"]
 published: true

@@ -2,8 +2,9 @@
 title: "AI Research Is Splitting Along Geopolitical Lines — And Universities Are Caught in the Middle"
 description: "Made-in-China AI research is diverging from Western labs. Universities face a critical choice about collaboration, funding, and academic freedom."
 date: "2026-03-28"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Education", "AI Research", "Geopolitics"]
+topic: "ai-education"
 image: "/images/blog/ai-research-geopolitical-split-what-universities-must-do.png"
 keywords: ["AI research geopolitics", "university AI collaboration", "China AI research", "academic AI independence"]
 published: true

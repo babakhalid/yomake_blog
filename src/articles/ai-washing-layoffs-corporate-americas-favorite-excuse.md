@@ -2,8 +2,9 @@
 title: "AI-Washing Layoffs: Corporate America's Favorite New Excuse"
 description: "87,000+ jobs cut in 2026 citing AI — but how many were actually replaced by it? Inside the growing phenomenon of companies using AI as cover for old-fashioned cost cutting."
 date: "2026-06-13"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate", "AI", "Layoffs", "Strategy"]
+topic: "future-of-work"
 image: "/images/blog/ai-washing-layoffs-corporate-americas-favorite-excuse.png"
 keywords: ["AI washing", "AI layoffs 2026", "corporate layoffs", "corporate restructuring AI", "AI job cuts", "AI-native company"]
 published: true

@@ -2,8 +2,9 @@
 title: "The AI Productivity Paradox: 80% of Workers Use AI Tools, Focus Is at a 3-Year Low"
 description: "AI adoption is everywhere but focus efficiency just hit rock bottom. Here's what's really happening and how the best performers are navigating it."
 date: "2026-06-27"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "Productivity", "AI"]
+topic: "future-of-work"
 image: "/images/blog/ai-productivity-paradox-focus-crisis-what-high-performers-do-differently.png"
 keywords: ["AI productivity paradox", "focus efficiency 2026", "employee disengagement AI", "cognitive overload AI tools", "deep work AI era"]
 published: true

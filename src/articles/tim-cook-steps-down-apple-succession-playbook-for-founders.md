@@ -2,8 +2,9 @@
 title: "Tim Cook Just Stepped Down From Apple. Here's the Succession Playbook Every Founder Should Steal."
 description: "Tim Cook's exit as Apple CEO after 15 years offers founders a masterclass in succession planning, leadership transitions, and building companies that outlive you."
 date: "2026-04-21"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Entrepreneurship", "Leadership", "Apple"]
+topic: "founders"
 image: "/images/blog/tim-cook-steps-down-apple-succession-playbook-for-founders.png"
 keywords: ["Tim Cook stepping down", "Apple CEO succession", "founder succession planning", "John Ternus Apple CEO", "leadership transition startup"]
 published: true

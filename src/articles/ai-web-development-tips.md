@@ -2,8 +2,9 @@
 title: "5 Tips for Better AI-Generated Websites"
 description: "Get the most out of AI web development with these proven tips for crafting effective prompts and iterating on your designs."
 date: "2024-12-05"
-author: "Youmake Team"
+author: "Khalid BABA"
 tags: ["Tips", "AI", "Best Practices"]
+topic: "vibe-coding"
 image: "/images/blog/ai-tips.svg"
 published: true
 ---

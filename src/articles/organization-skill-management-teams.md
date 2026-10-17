@@ -2,8 +2,9 @@
 title: "Organization-Wide Skill Management: Standardizing AI Workflows Across Teams"
 description: "Learn how enterprise administrators can deploy, manage, and standardize Claude skills across their organizations for consistent AI-assisted workflows."
 date: "2026-01-13"
-author: "Tech Insights Team"
+author: "Khalid BABA"
 tags: ["Skill Management", "Enterprise AI", "Team Collaboration", "Claude Skills", "Organizational Standards"]
+topic: "ai-agents-tools"
 image: "/images/blog/org-skill-management.svg"
 published: true
 ---

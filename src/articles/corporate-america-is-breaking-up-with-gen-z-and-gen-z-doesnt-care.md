@@ -2,8 +2,9 @@
 title: "Corporate America Is Breaking Up With Gen Z — And Gen Z Doesn't Care"
 description: "Entry-level jobs are vanishing, AI layoffs are accelerating, and Gen Z is building their own path. The corporate ladder might be broken for good."
 date: "2026-04-25"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate", "Future of Work", "Gen Z"]
+topic: "future-of-work"
 image: "/images/blog/corporate-america-is-breaking-up-with-gen-z-and-gen-z-doesnt-care.png"
 keywords: ["gen z careers", "entry level jobs disappearing", "AI layoffs 2026", "future of work", "corporate ladder broken"]
 published: true

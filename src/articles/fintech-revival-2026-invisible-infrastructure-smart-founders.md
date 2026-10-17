@@ -2,8 +2,9 @@
 title: "The Fintech Revival Nobody Saw Coming: Why Invisible Infrastructure Is the Smartest Bet in 2026"
 description: "Fintech funding is surging again in Q2 2026, but the winners look nothing like the neobanks of 2021. Here's where smart founders are building."
 date: "2026-06-27"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Fintech", "Entrepreneurship", "Startup Funding"]
+topic: "founders"
 image: "/images/blog/fintech-revival-2026-invisible-infrastructure-smart-founders.png"
 keywords: ["fintech revival 2026", "invisible infrastructure fintech", "embedded finance startups", "startup funding Q2 2026", "fintech founders"]
 published: true

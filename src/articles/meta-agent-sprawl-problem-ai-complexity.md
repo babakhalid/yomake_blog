@@ -2,8 +2,9 @@
 title: "Meta's Agent Sprawl Problem Is a Warning for Every Company Building with AI"
 description: "Meta built so many AI agents that employees need agents to find agents. Here's what the 'agent sprawl' crisis teaches us about AI adoption gone wrong."
 date: "2026-05-11"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Enterprise AI", "Agents"]
+topic: "ai-agents-tools"
 image: "/images/blog/meta-agent-sprawl-problem-ai-complexity.png"
 keywords: ["AI agents", "Meta AI problems", "enterprise AI adoption", "agent sprawl", "AI complexity"]
 published: true

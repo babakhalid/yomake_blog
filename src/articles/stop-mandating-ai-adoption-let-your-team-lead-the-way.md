@@ -2,8 +2,9 @@
 title: "Stop Mandating AI Adoption — Let Your Team Lead the Way"
 description: "Top-down AI mandates are failing. BBVA's employee-led approach proves that trust and autonomy drive real adoption. Here's how to think about it."
 date: "2026-04-29"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Mindset", "AI Adoption", "Leadership"]
+topic: "ai-industry"
 image: "/images/blog/stop-mandating-ai-adoption-let-your-team-lead-the-way.png"
 keywords: ["AI adoption strategy", "employee-led AI", "mindset shift leadership", "bottom-up innovation", "AI implementation"]
 published: true

@@ -2,8 +2,9 @@
 title: "Zero Trust in the AI Era: Why Corporate Cybersecurity Just Got Exponentially Harder"
 description: "AI agents accessing enterprise systems, autonomous workflows making decisions — the attack surface has exploded. Zero Trust is no longer optional."
 date: "2026-06-01"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate", "Cybersecurity", "AI Security", "Zero Trust"]
+topic: "ai-industry"
 image: "/images/blog/zero-trust-security-ai-era-corporate-cybersecurity-2026.png"
 keywords: ["zero trust AI 2026", "corporate cybersecurity AI", "AI security enterprise", "agentic AI security risks", "zero trust architecture 2026"]
 published: true

@@ -2,8 +2,9 @@
 title: "The Trillion-Dollar AI Bet: Are We Watching a Breakthrough or a Bubble?"
 description: "Tech giants will spend $700B+ on AI infrastructure in 2026. The Guardian, Goldman Sachs, and Gartner paint a picture of unprecedented investment — with uncertain returns."
 date: "2026-06-08"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "AI Infrastructure", "Tech Industry", "Investment"]
+topic: "ai-industry"
 image: "/images/blog/trillion-dollar-ai-spending-boom-bubble-or-breakthrough.png"
 keywords: ["AI spending boom 2026", "AI infrastructure investment", "AI bubble", "data center spending", "agentic AI enterprise"]
 published: true

@@ -2,8 +2,9 @@
 title: "Why AI Shopping Agents Are Failing — And What It Means for Builders"
 description: "Walmart's ChatGPT checkout converted 3x worse than its website. Here's why agentic commerce isn't ready and what builders should learn from it."
 date: "2026-03-23"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["AI", "Agentic Commerce", "Product Design"]
+topic: "ai-agents-tools"
 image: "/images/blog/why-ai-shopping-agents-are-failing-and-what-it-means-for-builders.png"
 keywords: ["AI shopping agents", "agentic commerce", "ChatGPT checkout", "Walmart AI", "AI product design"]
 published: true

@@ -2,8 +2,9 @@
 title: "10 Portfolio Websites You Can Build with Youmake Today"
 description: "Discover 10 stunning portfolio website ideas you can create in minutes using Youmake's AI-powered builder. Perfect for designers, developers, photographers, and creatives."
 date: "2026-02-01"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Portfolio", "Web Design", "Youmake", "AI Web Builder", "Creative", "Templates"]
+topic: "vibe-coding"
 image: "/images/blog/10-portfolio-websites-build-youmake.png"
 keywords: ["portfolio website builder", "AI portfolio creator", "designer portfolio", "photographer portfolio website", "creative portfolio examples", "youmake portfolio"]
 published: true
@@ -11,7 +12,7 @@ published: true
 
 Your portfolio is your digital handshake—the first impression that can make or break opportunities. But building a stunning portfolio website traditionally required weeks of work or expensive designers.
 
-With [Youmake](https://www.youmake.dev/), you can create any of these 10 portfolio styles in minutes using [vibe coding](/articles/vibe-coding-future-2026). Just describe what you want, and AI builds it.
+With [Youmake](https://www.youmake.dev/), you can create any of these 10 portfolio styles in minutes using [vibe coding](/articles/what-is-vibe-coding). Just describe what you want, and AI builds it.
 
 ## 1. The Minimalist Designer Portfolio
 

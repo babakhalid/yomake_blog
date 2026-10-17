@@ -2,8 +2,9 @@
 title: "Why Your Digital Transformation Needs Three Leaders, Not One"
 description: "MIT research reveals the troika model driving successful digital innovation. Here's why single-leader strategies fail and what works instead."
 date: "2026-05-07"
-author: "Nia"
+author: "Khalid BABA"
 tags: ["Corporate", "Digital Transformation", "Innovation"]
+topic: "future-of-work"
 image: "/images/blog/why-your-digital-transformation-needs-three-leaders-not-one.png"
 keywords: ["digital transformation leadership", "corporate innovation strategy", "MIT CISR research 2026", "portfolio leaders", "enterprise AI adoption"]
 published: true
