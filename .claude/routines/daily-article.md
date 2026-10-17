@@ -14,16 +14,27 @@ Read and follow these skills in this repo before writing:
 ## 1. Pick a story (AI news and trends)
 
 1. `git pull origin main` first. The other run may have published today.
-2. Use WebSearch for the most important AI news and trends of the last 48 hours (widen to 7 days if nothing qualifies). Any area of AI is allowed: new models and features (OpenAI, Anthropic, Google, Meta, Mistral, xAI and others), AI products and tools, AI agents, vibe coding and app builders, AI in business and work, AI regulation and policy, AI adoption data and research.
-3. Rank candidates by: how many people are searching or talking about it, and how directly it affects someone building a website, app, product or business. Skip celebrity gossip, stock-price chatter and stories with no practical consequence for builders.
-4. **Required angle (Google indexes these, not generic news):** the article must answer "what does this change for people who build with AI, and what should they do now?" A generic summary of the news is not allowed. Examples:
+2. **Topic rotation (publish across all six hubs).** From `src/generated/articles-index.json` (run `node scripts/generate-index.mjs` first), count articles per `frontmatter.topic` with `frontmatter.date` in the last 7 days. Target the topic with the fewest (ties: follow the order below), and never the same topic as today's other run. Search that topic first; only switch topic if nothing in it passes the gates. Each topic has its own builder angle and Youmake tie-in:
+
+   | Topic (`topic` value) | Hub | News to look for | Builder angle + Youmake tie-in |
+   |---|---|---|---|
+   | Vibe Coding & AI App Building (`vibe-coding`) | /topics/vibe-coding | AI app/website builders, vibe coding tools, launches | build the same result with Youmake, step by step |
+   | AI Agents & Tools (`ai-agents-tools`) | /topics/ai-agents-tools | new models, agents, AI dev tools, MCP, APIs | add the capability to a product; build the app around it in Youmake |
+   | Startups & Solo Founders (`founders`) | /topics/founders | solo founders, lean teams, funding, AI-native startups | ship an MVP or landing page fast with Youmake |
+   | AI in Education (`ai-education`) | /topics/ai-education | AI in schools/universities, edtech, AI literacy, policy | teachers, trainers and course creators building a course site, quiz app or student portal with Youmake |
+   | Work, Careers & Mindset (`future-of-work`) | /topics/future-of-work | AI and jobs, skills, productivity, freelancing | freelancers and job seekers building a portfolio, side business or client offer with Youmake |
+   | AI Industry & Business (`ai-industry`) | /topics/ai-industry | company moves, regulation, adoption data, enterprise AI | what it means for a small business, and a site or internal tool to build with Youmake |
+
+3. Use WebSearch for the most important AI news and trends in the target topic from the last 48 hours (widen to 7 days if nothing qualifies). Any area of AI is allowed: new models and features (OpenAI, Anthropic, Google, Meta, Mistral, xAI and others), AI products and tools, AI agents, vibe coding and app builders, AI in business and work, AI regulation and policy, AI adoption data and research.
+4. Rank candidates by: how many people are searching or talking about it, and how directly it affects someone building a website, app, product or business. Skip celebrity gossip, stock-price chatter and stories with no practical consequence for builders.
+5. **Required angle (Google indexes these, not generic news):** the article must answer "what does this change for people who build with AI, and what should they do now?" A generic summary of the news is not allowed. Examples:
    - A new model launch → what it is better at, what it costs, and how to use it in a product, then how Youmake lets you build that product.
    - A regulation or policy story → what a small business or app builder must do, then how to ship a compliant site or app with Youmake.
    - An adoption or jobs study → what it means for freelancers and founders, and a concrete project they can build with Youmake this week.
    - A competitor's news (Lovable, Bolt, Replit, v0, Cursor) → the hook only; show how to get the result with Youmake. Never recommend the competitor.
-5. **Duplicate check:** run `node scripts/generate-index.mjs`, then read `src/generated/articles-index.json` (an array of `{ slug, frontmatter: { title, description, date, tags, topic, keywords, ... }, minutes }`; dates are in `frontmatter.date`). Search titles, descriptions and keywords for the product, company and event names. Reject a story already covered (same event or same angle), including by today's other run. Avoid a third article on the same company within 7 days.
-6. **Verify** the facts from at least 2 independent sources, at least one primary (the company's blog, docs, changelog, official announcement, the study itself, or the official government text). Note exact dates.
-7. If web pages cannot be fetched at all (DNS errors, 403 from the proxy), skip news, go to step 1b, and say "network blocked: enable network access for this routine's environment" in the report.
+6. **Duplicate check:** run `node scripts/generate-index.mjs`, then read `src/generated/articles-index.json` (an array of `{ slug, frontmatter: { title, description, date, tags, topic, keywords, ... }, minutes }`; dates are in `frontmatter.date`). Search titles, descriptions and keywords for the product, company and event names. Reject a story already covered (same event or same angle), including by today's other run. Avoid a third article on the same company within 7 days.
+7. **Verify** the facts from at least 2 independent sources, at least one primary (the company's blog, docs, changelog, official announcement, the study itself, or the official government text). Note exact dates.
+8. If web pages cannot be fetched at all (DNS errors, 403 from the proxy), skip news, go to step 1b, and say "network blocked: enable network access for this routine's environment" in the report.
 
 ## 1b. Fallback: evergreen article (when no story qualifies)
 
@@ -76,4 +87,4 @@ published: true
 
 ## 4. Report
 
-Finish with: the article URL, trending story or evergreen fallback, the story and its sources, the primary keyword, the builder angle, how the article positions Youmake ("How to" section and CTAs), why it passed the duplicate check, the outbound internal links, the 2 articles that now link to it, and the word count. List the news candidates you rejected and why.
+Finish with: the article URL, the topic hub it was published in (and the 7-day topic counts that chose it), trending story or evergreen fallback, the story and its sources, the primary keyword, the builder angle, how the article positions Youmake ("How to" section and CTAs), why it passed the duplicate check, the outbound internal links, the 2 articles that now link to it, and the word count. List the news candidates you rejected and why.
