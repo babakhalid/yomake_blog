@@ -5,6 +5,7 @@ date: "2026-10-17"
 author: "Khalid BABA"
 tags: ["Meta", "Open-Weight Models", "AI Apps", "Vibe Coding"]
 topic: "ai-industry"
+image: "/images/blog/muse-spark-open-for-app-builders.jpg"
 keywords: ["muse spark open", "muse spark open for apps", "open-weight model for apps", "meta open weight model license"]
 published: true
 ---

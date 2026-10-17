@@ -54,7 +54,7 @@ published: true
 ```
 
 - `topic`: the best fit among the six hubs (`ai-industry` for model/company/policy news, `ai-agents-tools` for tools and agents, `future-of-work` for jobs and skills, `founders` for startups, `vibe-coding` for builders and app makers, `ai-education` for schools).
-- Omit `image` unless an existing file in `public/images/blog` is genuinely relevant. Never invent image paths.
+- **Cover image (every article):** write a one-sentence scene that visualizes the article's idea (concrete objects and setting, e.g. "a glowing translucent cube on a desk beside a laptop running an app, linked by a thin light line to a cloud server"). No text, logos, real people or brand marks in the scene. Then run `node scripts/generate-cover.mjs <slug> "<scene>"`. It generates the image with GPT Image 2 on Replicate (Flux Schnell as fallback), applies the Youmake Sky art direction, and saves `public/images/blog/<slug>.jpg`. Set `image: "/images/blog/<slug>.jpg"` in the frontmatter. If the script fails (no Replicate access), publish without `image` and say so in the report. Never download or reuse images from the web: they are usually copyrighted.
 - Run the ai-copywriter humanizer pass on the full draft before saving.
 
 ## 2b. Self-check (mandatory, before building)
@@ -64,12 +64,13 @@ published: true
    - `title` is 65 characters or fewer and `description` is 140 to 160 characters (count them with a one-line `node -e` script).
    - No em dashes in the body, no emojis, no "free plan" / "try free" / "#1" claims about Youmake.
    - Every `/articles/<slug>` link points to an existing file in `src/articles`, and every `/topics/<slug>` is one of the six hubs.
+   - The cover exists at `public/images/blog/<slug>.jpg` and is under 400 KB, and the frontmatter `image` points to it (unless generation failed).
    - At least 2 links to www.youmake.dev, a "How to ... with Youmake" H2, two CTAs, and Youmake in the first 150 words.
 
 ## 3. Build and publish
 
 1. `npm ci`, then `npm run build`. It must succeed. If it fails, fix only your article (or your inbound-link sentences) and retry. Never edit app code.
-2. Note the 2 files you edited for inbound links BEFORE building. The build rewrites every article's "Read Next" section and the sitemap; discard those with `git checkout -- src/articles public/sitemap.xml`, then re-apply only your two inbound-link sentences (and their `updated` dates). Stage exactly 3 files: `git add src/articles/<new-file>.md src/articles/<inbound-1>.md src/articles/<inbound-2>.md`.
+2. Note the 2 files you edited for inbound links BEFORE building. The build rewrites every article's "Read Next" section and the sitemap; discard those with `git checkout -- src/articles public/sitemap.xml`, then re-apply only your two inbound-link sentences (and their `updated` dates). Stage exactly these files: `git add src/articles/<new-file>.md src/articles/<inbound-1>.md src/articles/<inbound-2>.md public/images/blog/<slug>.jpg` (the image only if it was generated).
 3. `git pull --rebase origin main`, commit `Add article: <title>`, push to `main`.
 4. Notify search engines: `node scripts/ping-search-engines.js https://blog.youmake.dev/articles/<slug>`.
 
