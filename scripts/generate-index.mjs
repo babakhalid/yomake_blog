@@ -35,7 +35,12 @@ function parseFrontmatter(raw) {
 
 const articles = fs.readdirSync(articlesDir)
   .filter(file => file.endsWith('.md'))
-  .map(file => ({ slug: file.slice(0, -3), frontmatter: parseFrontmatter(fs.readFileSync(path.join(articlesDir, file), 'utf8')) }))
+  .map(file => {
+    const raw = fs.readFileSync(path.join(articlesDir, file), 'utf8');
+    const body = raw.replace(/^---\s*\n[\s\S]*?\n---\s*\n/, '').split(/\n---\s*\n##\s*Read Next/)[0];
+    const words = body.replace(/[#*_`>|\[\]()-]/g, ' ').split(/\s+/).filter(Boolean).length;
+    return { slug: file.slice(0, -3), frontmatter: parseFrontmatter(raw), minutes: Math.max(1, Math.round(words / 230)) };
+  })
   .filter(({ frontmatter }) => frontmatter && frontmatter.published !== false)
   .sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
 

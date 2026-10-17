@@ -2,22 +2,18 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 36px;
-  height: 36px;
+  width: 2.5rem;
+  height: 2.5rem;
   padding: 0;
-  background-color: var(--secondary);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  color: var(--foreground);
+  background: transparent;
+  border: 0;
+  border-radius: 999px;
+  color: color-mix(in srgb, var(--foreground) 78%, transparent);
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: background 0.2s var(--ease), color 0.2s var(--ease);
 }
 
 .theme-toggle:hover {
-  background-color: var(--muted);
-}
-
-.theme-toggle:focus-visible {
-  outline: 2px solid var(--ring);
-  outline-offset: 2px;
+  background: var(--ym-muted);
+  color: var(--foreground);
 }

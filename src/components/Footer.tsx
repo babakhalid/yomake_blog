@@ -11,7 +11,7 @@ export function Footer() {
         <div className="footer-brand">
           <span className="footer-logo">Youmake</span>
           <p className="footer-tagline">
-            Build websites and web apps with AI - just describe what you want
+            Notes on building websites, apps and agents with AI. Describe it. Ship it.
           </p>
         </div>
 

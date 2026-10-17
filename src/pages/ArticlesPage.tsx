@@ -95,7 +95,8 @@ export function ArticlesPage() {
       />
       <div className="container">
         <header className="articles-header">
-          <h1 className="articles-title">All Articles</h1>
+          <span className="eyebrow">The Youmake blog</span>
+          <h1 className="articles-title">All articles</h1>
           <p className="articles-description">
             Explore our latest tutorials, insights, and updates about building with AI.
           </p>

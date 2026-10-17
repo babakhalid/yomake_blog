@@ -165,6 +165,7 @@ export function generatePersonSchema(name: string = site.author.name) {
     '@type': 'Person',
     name: site.author.name,
     url: `${SITE_URL}/about`,
+    image: site.author.image,
     jobTitle: site.author.jobTitle,
     description: site.author.bio,
     sameAs: site.author.sameAs,

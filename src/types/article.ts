@@ -15,6 +15,8 @@ export interface ArticleFrontmatter {
 export interface ArticleMeta {
   slug: string;
   frontmatter: ArticleFrontmatter;
+  /** Estimated reading time, from scripts/generate-index.mjs. */
+  minutes?: number;
 }
 
 export interface Article extends ArticleMeta {

@@ -6,6 +6,7 @@ import rehypeRaw from 'rehype-raw';
 import { getArticleBySlug, getArticleTopic, getArticlesByTopic, loadArticleContent, formatDate } from '@/utils';
 import { prerenderedBodyFor } from '@/utils/prerendered';
 import { SEO, generateArticleSchema, generateBreadcrumbSchema } from '@/components/SEO';
+import { AuthorAvatar, AuthorCard } from '@/components';
 import './ArticlePage.css';
 
 export function ArticlePage() {
@@ -70,41 +71,27 @@ export function ArticlePage() {
       <div className="container">
         <article className="article">
           <header className="article-header">
-            <Link to={`/topics/${topic.slug}`} className="back-link">
-              <svg
-                width="16"
-                height="16"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-              >
-                <line x1="19" y1="12" x2="5" y2="12" />
-                <polyline points="12 19 5 12 12 5" />
-              </svg>
-              {topic.name}
-            </Link>
-
-            <div className="article-meta">
-              <time dateTime={frontmatter.date}>{formatDate(frontmatter.date)}</time>
-              {frontmatter.updated && frontmatter.updated !== frontmatter.date && (
-                <span className="article-updated">Updated <time dateTime={frontmatter.updated}>{formatDate(frontmatter.updated)}</time></span>
-              )}
-              <span className="article-author">by <Link to="/about">{frontmatter.author}</Link></span>
-            </div>
+            <Link to={`/topics/${topic.slug}`} className="eyebrow article-topic">{topic.name}</Link>
 
             <h1 className="article-title">{frontmatter.title}</h1>
 
             <p className="article-description">{frontmatter.description}</p>
 
-            <div className="article-tags">
-              {frontmatter.tags.map((tag) => (
-                <span key={tag} className="article-tag">
-                  {tag}
+            <div className="article-byline">
+              <Link to="/about" className="article-byline-author">
+                <AuthorAvatar size={40} />
+                <span>
+                  <span className="article-byline-name">{frontmatter.author}</span>
+                  <span className="article-byline-role">Founder of Youmake</span>
                 </span>
-              ))}
+              </Link>
+              <div className="article-byline-meta">
+                <time dateTime={frontmatter.date}>{formatDate(frontmatter.date)}</time>
+                {frontmatter.updated && frontmatter.updated !== frontmatter.date && (
+                  <span>Updated <time dateTime={frontmatter.updated}>{formatDate(frontmatter.updated)}</time></span>
+                )}
+                {article.minutes && <span>{article.minutes} min read</span>}
+              </div>
             </div>
           </header>
 
@@ -123,6 +110,10 @@ export function ArticlePage() {
           ) : (
             <div className="article-content markdown-content" dangerouslySetInnerHTML={{ __html: fallbackHtml ?? '' }} />
           )}
+
+          <div className="article-author-end">
+            <AuthorCard />
+          </div>
 
           {moreInTopic.length > 0 && (
             <nav className="article-more" aria-label={`More in ${topic.name}`}>

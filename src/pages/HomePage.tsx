@@ -1,188 +1,165 @@
-import { useState, useRef } from 'react';
+import { lazy, Suspense, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { getAllArticles, formatDate } from '@/utils';
+import { getAllArticles, getArticleBySlug, getArticleTopic, getArticlesByTopic, topics, formatDate } from '@/utils';
 import { SEO, generateBlogSchema } from '@/components/SEO';
+import { AuthorCard } from '@/components';
+import type { ArticleMeta } from '@/types';
 import './HomePage.css';
 
-const INITIAL_ARTICLES = 6;
-const ARTICLES_PER_LOAD = 6;
+// WebGL sky from the main app; split out so article pages never load it.
+const HeroSky = lazy(() => import('@/components/HeroSky'));
+
+const START_HERE = ['best-ai-website-builders-2026', 'lovable-alternatives', 'best-vibe-coding-tools', 'what-is-vibe-coding'];
+const PAGE_SIZE = 8;
+
+function Meta({ article }: { article: ArticleMeta }) {
+  return (
+    <span className="meta">
+      <span>{getArticleTopic(article).name}</span>
+      <span aria-hidden="true">·</span>
+      <time dateTime={article.frontmatter.date}>{formatDate(article.frontmatter.date)}</time>
+      {article.minutes && <><span aria-hidden="true">·</span><span>{article.minutes} min read</span></>}
+    </span>
+  );
+}
 
 export function HomePage() {
   const articles = getAllArticles();
-  const [featuredArticle, ...restArticles] = articles;
-
-  const [displayCount, setDisplayCount] = useState(INITIAL_ARTICLES);
-  const [hoveredImage, setHoveredImage] = useState<string | null>(null);
-  const [mousePos, setMousePos] = useState({ x: 0, y: 0 });
-  const listRef = useRef<HTMLDivElement>(null);
-
-  const displayedArticles = restArticles.slice(0, displayCount);
-  const hasMore = displayCount < restArticles.length;
-
-  const loadMore = () => {
-    setDisplayCount((prev) => Math.min(prev + ARTICLES_PER_LOAD, restArticles.length));
-  };
-
-  const handleMouseMove = (e: React.MouseEvent) => {
-    if (listRef.current) {
-      const rect = listRef.current.getBoundingClientRect();
-      setMousePos({
-        x: e.clientX - rect.left,
-        y: e.clientY - rect.top
-      });
-    }
-  };
+  const startHere = START_HERE.map(getArticleBySlug).filter((a): a is ArticleMeta => Boolean(a));
+  // The buyer guides have their own "Start here" block, so the news-style feature skips them.
+  const stream = articles.filter((article) => !START_HERE.includes(article.slug));
+  const [lead, ...rest] = stream;
+  const side = rest.slice(0, 3);
+  const latest = rest.slice(3);
+  const [shown, setShown] = useState(PAGE_SIZE);
 
   return (
     <div className="home-page">
       <SEO
         title="Ideas, Tutorials & Insights for Building with AI"
-        description="Discover tutorials, tips, and insights about vibe coding and AI-powered web development. Learn how to build websites and web apps with Youmake."
+        description="Practical guides and analysis on vibe coding, AI app builders, AI agents and building products with AI, by Khalid BABA, founder of Youmake."
         url="/"
         structuredData={generateBlogSchema()}
       />
-      <section className="hero">
-        <div className="hero-bg">
-          <div className="hero-gradient" />
-          <div className="hero-grid" />
-        </div>
-        <div className="container hero-content">
-          <div className="hero-badge-wrapper">
-            <span className="hero-badge">
-              <span className="hero-badge-dot" />
-              Youmake Blog
-            </span>
-          </div>
-          <h1 className="hero-title">
-            Ideas, tutorials & insights
-            <br />
-            <span className="hero-title-accent">for building with AI</span>
-          </h1>
-          <p className="hero-subtitle">
-            Explore the future of web development with vibe coding
+
+      <section className="home-hero">
+        <Suspense fallback={<div className="hero-sky" aria-hidden="true"><div className="hero-sky-fallback" /></div>}>
+          <HeroSky />
+        </Suspense>
+        <div className="home-hero-veil" aria-hidden="true" />
+        <div className="container home-hero-inner">
+          <span className="eyebrow">The Youmake blog</span>
+          <h1 className="home-hero-title">Build with AI.<br />Read what actually works.</h1>
+          <p className="home-hero-sub">
+            Honest guides on vibe coding, AI app builders and agents, written for people who ship products, not demos.
           </p>
+          <nav className="home-hero-topics" aria-label="Topics">
+            {topics.map((topic) => (
+              <Link key={topic.slug} to={`/topics/${topic.slug}`} className="chip">{topic.name}</Link>
+            ))}
+          </nav>
         </div>
       </section>
 
-      {featuredArticle && (
-        <section className="featured">
-          <div className="container">
-            <Link to={`/articles/${featuredArticle.slug}`} className="featured-article">
-              {featuredArticle.frontmatter.image && (
-                <div className="featured-image">
-                  <img
-                    src={featuredArticle.frontmatter.image}
-                    alt={featuredArticle.frontmatter.title}
-                  />
-                </div>
-              )}
-              <div className="featured-content">
-                <span className="featured-label">Featured</span>
-                <h2 className="featured-title">{featuredArticle.frontmatter.title}</h2>
-                <p className="featured-description">{featuredArticle.frontmatter.description}</p>
-                <div className="featured-meta">
-                  <time dateTime={featuredArticle.frontmatter.date}>
-                    {formatDate(featuredArticle.frontmatter.date)}
-                  </time>
-                  <span className="featured-divider">/</span>
-                  <span>{featuredArticle.frontmatter.author}</span>
-                </div>
-              </div>
-              <span className="featured-arrow">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                  <line x1="5" y1="12" x2="19" y2="12" />
-                  <polyline points="12 5 19 12 12 19" />
-                </svg>
-              </span>
-            </Link>
+      {lead && (
+        <section className="container home-featured" aria-label="Latest">
+          <Link to={`/articles/${lead.slug}`} className="lead-story">
+            {lead.frontmatter.image && (
+              <div className="lead-media"><img src={lead.frontmatter.image} alt="" /></div>
+            )}
+            <div className="lead-body">
+              <Meta article={lead} />
+              <h2 className="lead-title">{lead.frontmatter.title}</h2>
+              <p className="lead-desc">{lead.frontmatter.description}</p>
+            </div>
+          </Link>
+          <div className="side-stories">
+            <span className="eyebrow">Also new</span>
+            {side.map((article) => (
+              <Link key={article.slug} to={`/articles/${article.slug}`} className="side-story">
+                <Meta article={article} />
+                <h3>{article.frontmatter.title}</h3>
+              </Link>
+            ))}
           </div>
         </section>
       )}
 
-      <section className="recent">
-        <div className="container">
-          <div className="recent-header">
-            <h2 className="recent-title">Recent</h2>
-            <Link to="/articles" className="recent-link">
-              View all
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                <line x1="5" y1="12" x2="19" y2="12" />
-                <polyline points="12 5 19 12 12 19" />
-              </svg>
-            </Link>
+      {startHere.length > 0 && (
+        <section className="container home-section">
+          <div className="section-head">
+            <span className="eyebrow">Start here</span>
+            <h2>Choosing an AI builder</h2>
           </div>
-
-          <div
-            className="articles-list"
-            ref={listRef}
-            onMouseMove={handleMouseMove}
-            onMouseLeave={() => setHoveredImage(null)}
-          >
-            {displayedArticles.map((article, index) => (
-              <Link
-                key={article.slug}
-                to={`/articles/${article.slug}`}
-                className="article-row"
-                onMouseEnter={() => setHoveredImage(article.frontmatter.image || null)}
-              >
-                <span className="article-number">{String(index + 1).padStart(2, '0')}</span>
-                <div className="article-info">
-                  <h3 className="article-title">{article.frontmatter.title}</h3>
-                  <p className="article-excerpt">{article.frontmatter.description}</p>
+          <div className="start-grid">
+            {startHere.map((article, i) => (
+              <Link key={article.slug} to={`/articles/${article.slug}`} className="start-item">
+                <span className="start-index">{String(i + 1).padStart(2, '0')}</span>
+                <div>
+                  <h3>{article.frontmatter.title}</h3>
+                  <p>{article.frontmatter.description}</p>
                 </div>
-                <time className="article-date" dateTime={article.frontmatter.date}>
-                  {formatDate(article.frontmatter.date)}
-                </time>
               </Link>
             ))}
+          </div>
+        </section>
+      )}
 
-            {hoveredImage && (
-              <div
-                className="hover-image"
-                style={{
-                  left: mousePos.x,
-                  top: mousePos.y
-                }}
-              >
-                <img src={hoveredImage} alt="" />
+      <section className="container home-section">
+        <div className="section-head">
+          <span className="eyebrow">Topics</span>
+          <h2>Browse by what you’re building</h2>
+        </div>
+        <div className="topic-index">
+          {topics.map((topic) => (
+            <Link key={topic.slug} to={`/topics/${topic.slug}`} className="topic-row">
+              <div>
+                <h3>{topic.name}</h3>
+                <p>{topic.description}</p>
               </div>
-            )}
-          </div>
-
-          <div className="articles-footer">
-            <span className="articles-count">
-              Showing {displayedArticles.length + 1} of {restArticles.length + 1} articles
-            </span>
-            {hasMore && (
-              <button className="load-more-btn" onClick={loadMore}>
-                Load more
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                  <polyline points="6 9 12 15 18 9" />
-                </svg>
-              </button>
-            )}
-          </div>
+              <span className="topic-count">{getArticlesByTopic(topic.slug).length}</span>
+            </Link>
+          ))}
         </div>
       </section>
 
-      <section className="cta">
-        <div className="container">
-          <div className="cta-content">
-            <p className="cta-label">Start building</p>
-            <h2 className="cta-title">Ready to create with AI?</h2>
-            <a
-              href="https://youmake.dev"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="cta-button"
-            >
-              Try Youmake
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                <line x1="7" y1="17" x2="17" y2="7" />
-                <polyline points="7 7 17 7 17 17" />
-              </svg>
-            </a>
+      <section className="container home-section">
+        <div className="section-head section-head-row">
+          <div>
+            <span className="eyebrow">Latest</span>
+            <h2>All articles</h2>
           </div>
+          <Link to="/articles" className="btn">View all</Link>
+        </div>
+        <ol className="latest-list">
+          {latest.slice(0, shown).map((article) => (
+            <li key={article.slug}>
+              <Link to={`/articles/${article.slug}`} className="latest-row">
+                <Meta article={article} />
+                <h3>{article.frontmatter.title}</h3>
+                <p>{article.frontmatter.description}</p>
+              </Link>
+            </li>
+          ))}
+        </ol>
+        {shown < latest.length && (
+          <button type="button" className="btn latest-more" onClick={() => setShown((n) => n + PAGE_SIZE)}>
+            Show more articles
+          </button>
+        )}
+      </section>
+
+      <section className="container home-section">
+        <AuthorCard heading="Who writes this" />
+      </section>
+
+      <section className="container home-section">
+        <div className="ink-cta">
+          <div className="ink-cta-glow" aria-hidden="true" />
+          <span className="eyebrow ink-eyebrow">Youmake</span>
+          <h2>Describe it. Ship it.</h2>
+          <p>Turn a sentence into a website, web app, mobile app or slide deck, then publish it on your own domain.</p>
+          <a href="https://www.youmake.dev/" className="btn ink-btn">Start building</a>
         </div>
       </section>
     </div>

@@ -35,6 +35,7 @@ function personSchema(name) {
     '@type': 'Person',
     name: site.author.name,
     url: `${SITE_URL}/about`,
+    image: site.author.image,
     jobTitle: site.author.jobTitle,
     description: site.author.bio,
     sameAs: site.author.sameAs,
@@ -566,6 +567,7 @@ function generateAboutPage(articles) {
   });
   html = injectSeoContent(html, `
       <main>
+        <img src="/images/authors/khalid-baba.webp" alt="Portrait of ${escapeHtml(author.name)}" width="320" height="412" />
         <h1>${escapeHtml(author.name)}</h1>
         <p>${escapeHtml(author.bio)}</p>
         <p>Find me on <a href="${author.sameAs[0]}" rel="me">LinkedIn</a> and <a href="${author.sameAs[1]}" rel="me">X</a>, or try <a href="https://www.youmake.dev/">Youmake</a>.</p>

@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import type { ArticleMeta } from '@/types';
-import { formatDate } from '@/utils';
+import { formatDate, getArticleTopic } from '@/utils';
 import './ArticleCard.css';
 
 interface ArticleCardProps {
@@ -13,29 +13,22 @@ export function ArticleCard({ article }: ArticleCardProps) {
   return (
     <article className="article-card">
       <Link to={`/articles/${slug}`} className="article-card-link">
-        {frontmatter.image && (
-          <div className="article-card-image">
-            <img src={frontmatter.image} alt={frontmatter.title} />
-          </div>
-        )}
-
+        <div className="article-card-image">
+          {frontmatter.image ? (
+            <img src={frontmatter.image} alt="" loading="lazy" />
+          ) : (
+            <span className="article-card-placeholder" aria-hidden="true" />
+          )}
+        </div>
         <div className="article-card-content">
-          <div className="article-card-meta">
+          <span className="meta">
+            <span>{getArticleTopic(article).name}</span>
+            <span aria-hidden="true">·</span>
             <time dateTime={frontmatter.date}>{formatDate(frontmatter.date)}</time>
-            <span className="article-card-author">by {frontmatter.author}</span>
-          </div>
-
+          </span>
           <h2 className="article-card-title">{frontmatter.title}</h2>
-
           <p className="article-card-description">{frontmatter.description}</p>
-
-          <div className="article-card-tags">
-            {frontmatter.tags.map((tag) => (
-              <span key={tag} className="article-card-tag">
-                {tag}
-              </span>
-            ))}
-          </div>
+          {article.minutes && <span className="article-card-read">{article.minutes} min read</span>}
         </div>
       </Link>
     </article>

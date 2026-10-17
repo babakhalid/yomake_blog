@@ -33,8 +33,9 @@ export function TopicPage() {
       />
       <div className="container">
         <header className="articles-header">
+          <span className="eyebrow">Topic · {articles.length} articles</span>
           <h1 className="articles-title">{topic.name}</h1>
-          <p className="articles-description">{topic.description} {articles.length} articles.</p>
+          <p className="articles-description">{topic.description}</p>
           <nav className="tags-filter" aria-label="Topics">
             {topics.map((item) => (
               <Link key={item.slug} to={`/topics/${item.slug}`} className={`tag-btn ${item.slug === topic.slug ? 'active' : ''}`}>

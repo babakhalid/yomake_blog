@@ -1,19 +1,22 @@
 import { Link } from 'react-router-dom';
 import { SEO, generatePersonSchema } from '@/components/SEO';
-import { author, getAllArticles, topics } from '@/utils';
-import './ArticlesPage.css';
+import { AUTHOR_PHOTO } from '@/components';
+import { author, getAllArticles, getArticleTopic, getArticlesByTopic, topics, formatDate } from '@/utils';
+import './AboutPage.css';
 
-// Author page: the byline on every article links here, and the Person schema
-// (with LinkedIn and X in sameAs) points search engines at a real, verifiable author.
+// Author page: every byline links here, and the Person schema (with LinkedIn and X
+// in sameAs) points search engines at a real, verifiable author.
 export function AboutPage() {
-  const recent = getAllArticles().slice(0, 10);
+  const articles = getAllArticles();
+  const recent = articles.slice(0, 8);
 
   return (
-    <div className="articles-page">
+    <div className="about-page">
       <SEO
         title={`${author.name}, ${author.jobTitle}`}
         description={author.bio}
         url="/about"
+        image="/images/authors/khalid-baba.jpg"
         structuredData={{
           '@context': 'https://schema.org',
           '@type': 'ProfilePage',
@@ -21,29 +24,65 @@ export function AboutPage() {
           mainEntity: generatePersonSchema(author.name),
         }}
       />
+
       <div className="container">
-        <header className="articles-header">
-          <h1 className="articles-title">{author.name}</h1>
-          <p className="articles-description">{author.bio}</p>
-          <p className="articles-description">
-            Find me on <a href={author.sameAs[0]} rel="me noopener" target="_blank">LinkedIn</a> and{' '}
-            <a href={author.sameAs[1]} rel="me noopener" target="_blank">X</a>, or try{' '}
-            <a href="https://www.youmake.dev/">Youmake</a>.
-          </p>
-        </header>
-        <section className="articles-header">
-          <h2>Topics I write about</h2>
-          <ul>
+        <section className="about-hero">
+          <div className="about-portrait">
+            <div className="about-portrait-glow" aria-hidden="true" />
+            <img src={AUTHOR_PHOTO} alt={`Portrait of ${author.name}`} width="640" height="824" />
+          </div>
+
+          <div className="about-intro">
+            <span className="eyebrow">About the author</span>
+            <h1 className="about-name">{author.name}</h1>
+            <p className="about-role">{author.jobTitle}</p>
+            <p className="about-bio">{author.bio}</p>
+            <p className="about-bio">
+              Everything on this blog is written for people who build: freelancers, small teams and founders deciding which AI tools to trust with real projects.
+            </p>
+            <div className="about-actions">
+              <a href={author.sameAs[0]} target="_blank" rel="me noopener noreferrer" className="btn btn-primary">LinkedIn</a>
+              <a href={author.sameAs[1]} target="_blank" rel="me noopener noreferrer" className="btn">X (Twitter)</a>
+              <a href="https://www.youmake.dev/" className="btn">Try Youmake</a>
+            </div>
+            <dl className="about-facts">
+              <div><dt>Articles</dt><dd>{articles.length}</dd></div>
+              <div><dt>Topics</dt><dd>{topics.length}</dd></div>
+              <div><dt>Building</dt><dd><a href="https://www.youmake.dev/">Youmake</a></dd></div>
+            </dl>
+          </div>
+        </section>
+
+        <section className="about-section">
+          <span className="eyebrow">What I write about</span>
+          <div className="about-topics">
             {topics.map((topic) => (
-              <li key={topic.slug}><Link to={`/topics/${topic.slug}`}>{topic.name}</Link></li>
+              <Link key={topic.slug} to={`/topics/${topic.slug}`} className="about-topic">
+                <h2>{topic.name}</h2>
+                <p>{topic.description}</p>
+                <span>{getArticlesByTopic(topic.slug).length} articles</span>
+              </Link>
             ))}
-          </ul>
-          <h2>Recent articles</h2>
-          <ul>
+          </div>
+        </section>
+
+        <section className="about-section">
+          <span className="eyebrow">Recent articles</span>
+          <ol className="about-recent">
             {recent.map((article) => (
-              <li key={article.slug}><Link to={`/articles/${article.slug}`}>{article.frontmatter.title}</Link></li>
+              <li key={article.slug}>
+                <Link to={`/articles/${article.slug}`}>
+                  <span className="meta">
+                    <span>{getArticleTopic(article).name}</span>
+                    <span aria-hidden="true">·</span>
+                    <time dateTime={article.frontmatter.date}>{formatDate(article.frontmatter.date)}</time>
+                  </span>
+                  <h3>{article.frontmatter.title}</h3>
+                </Link>
+              </li>
             ))}
-          </ul>
+          </ol>
+          <Link to="/articles" className="btn about-all">All {articles.length} articles</Link>
         </section>
       </div>
     </div>
