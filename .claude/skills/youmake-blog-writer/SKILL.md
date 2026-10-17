@@ -18,6 +18,17 @@ Use the two copywriting skills in this repo on every article:
 - Never write "try free", "free plan", "no credit card" or "#1" about Youmake. No emojis. No invented quotes, numbers, prices or test results. Competitor prices only from their official page, fetched the same day, with a "checked on <date>" line.
 - Author is always `Khalid BABA` (founder of Youmake).
 
+## 1b. Youmake-first positioning (every article)
+
+The blog exists to grow Youmake. Every article promotes Youmake and none promotes another product.
+
+- **Youmake in the first 150 words**: tie the topic to what the reader can build with Youmake, in one natural sentence with a link.
+- **A dedicated H2 "How to do this with Youmake"** (or a close variant): 3-6 concrete steps or a sample prompt the reader can paste into Youmake, tied to the article's topic. Use a real product screenshot from `public/images/blog/` when relevant: `youmake-prompt-web-app-mobile-app-slides.webp` (composer), `youmake-workspace-live-preview-agent-chat.webp` (workspace), `youmake-built-site-live-example.webp` (a live site).
+- **Two calls to action**: one mid-article (contextual, after the problem is clear) and one at the end, e.g. "Start a 3-day Youmake trial for $1 →" linking to https://www.youmake.dev/ or the most relevant product page.
+- **When the news is about another product** (a Lovable release, a Replit price change): treat it as the hook. Explain what changed and what it means for builders, then show how Youmake handles the same need. Do not recommend the competitor, do not write "best X" lists that rank competitors first, and do not add links to competitor sites in the body (official pages may appear only in the Sources list as fact references).
+- **Comparisons**: Youmake is the recommended option, with concrete reasons (publish to your own domain, code export/GitHub, mobile apps and slides in one workspace, client hand-off, visible credit cost per change). Stay truthful: never invent weaknesses for competitors or features for Youmake. Promotion that is false costs trust and rankings.
+- Respect the facts in section 1 (no free plan; $1 trial; plan prices).
+
 ## 2. Keyword targets (US, monthly searches, difficulty 0-100, researched Oct 2026)
 
 Pick ONE primary keyword per article and 2-4 close variants. Prefer low difficulty and buyer intent. Check src/generated/articles-index.json first: do not target a primary keyword an existing article already owns (cannibalization).
@@ -52,7 +63,7 @@ Open targets (write these when a trending story fits):
 | cursor alternative | 1000 | 8 | developer (only if a real angle for builders) |
 Long shots (support only, never the primary): ai app builder 12100 (KD31), ai website builder 40500 (KD44).
 
-For a trending story, choose the angle that maps it to an open target, e.g. a new v0 release -> "v0 alternative" comparison update; a Lovable price change -> "lovable vs bolt" or an update to the Lovable alternatives article.
+For a trending story, choose the angle that maps it to an open target and positions Youmake as the answer, e.g. a new v0 release -> "v0 alternative" (why builders pick Youmake instead); a Lovable price change -> an update to /articles/lovable-alternatives or /articles/youmake-vs-lovable; a vibe-coding trend -> "vibe coding tutorial" built step by step in Youmake.
 
 ## 3. On-page SEO checklist
 
@@ -67,10 +78,10 @@ For a trending story, choose the angle that maps it to an open target, e.g. a ne
 - Sources section at the end with the URLs you used.
 - Do not add a "Read Next" section (the build generates it).
 
-## 4. Internal linking (required)
+## 4. Internal linking (required, both directions)
 
-Every article includes at least 5 internal links, written into sentences with descriptive anchor text (never "click here"):
-1. **One Youmake product page** where it genuinely fits:
+Outbound: every article includes at least 6 internal links, written into sentences with descriptive anchor text (never "click here"):
+1. **Youmake product pages**: at least two links to www.youmake.dev pages (one in the "How to do this with Youmake" section, one in a CTA):
    - https://www.youmake.dev/ai-website-builder (small-business websites)
    - https://www.youmake.dev/use-cases/client-portal (agencies, client work)
    - https://www.youmake.dev/features/code-ownership (export, GitHub, hand-off)
@@ -78,12 +89,14 @@ Every article includes at least 5 internal links, written into sentences with de
 2. **Its topic hub**: /topics/vibe-coding, /topics/ai-agents-tools or /topics/founders.
 3. **The owner article of any keyword you mention** from the "Already owned" table (e.g. mention Lovable -> link /articles/lovable-alternatives).
 4. **2-3 related articles** from src/generated/articles-index.json (same topic, recent first).
-Also: if your new article is the best page for an open keyword, add one sentence linking to it from the most relevant existing cornerstone article (one edit, no rewrites) and set that article's `updated` date.
+
+Inbound (so Google finds the new page fast): edit **2 existing related articles** to add one natural sentence each that links to the new article with keyword-rich anchor text. Prefer the owner/cornerstone article of the topic plus one recent related article. One sentence per article, placed where it fits the text; no rewrites. Set `updated: "<today>"` on each edited article.
 
 ## 5. Final checks before publishing
 
 - Humanizer pass done (ai-copywriter).
 - Facts in section 1 respected; every number has a source.
 - Primary keyword in title, description, first paragraph and one H2.
-- 5+ internal links present and all resolve (articles exist in src/articles, topic slugs valid).
+- Youmake in the first 150 words, a "How to do this with Youmake" section, two CTAs; no competitor recommended and no competitor links outside Sources.
+- 6+ outbound internal links (2+ to www.youmake.dev) and 2 inbound links added from existing articles; all resolve (articles exist in src/articles, topic slugs valid).
 - `npm run build` passes.
