@@ -6,10 +6,13 @@ author: "Khalid BABA"
 tags: ["Agent SDK", "AI Agents", "Cloud Computing", "Sandboxed Environments", "Developer Tools"]
 topic: "ai-agents-tools"
 image: "/images/blog/agent-sdk-sandbox.svg"
+updated: "2026-10-18"
 published: true
 ---
 
 Autonomous AI agents represent the next evolution of AI assistance—systems that can pursue complex goals across multiple steps without constant human guidance. Anthropic's Agent SDK provides the tools to build such systems, while sandboxed cloud environments ensure they operate safely within controlled boundaries.
+
+If you are choosing which model to put inside an agent, our guide to [using Reflection Beam in an app](/articles/reflection-beam-for-app-builders) covers a new open-weight option built for agent work.
 
 ## The Agent Paradigm
 

@@ -7,6 +7,7 @@ tags: ["Meta", "Open-Weight Models", "AI Apps", "Vibe Coding"]
 topic: "ai-industry"
 image: "/images/blog/muse-spark-open-for-app-builders.jpg"
 keywords: ["muse spark open", "muse spark open for apps", "open-weight model for apps", "meta open weight model license"]
+updated: "2026-10-18"
 published: true
 ---
 
@@ -69,6 +70,8 @@ Then work through it in four steps:
 Pricing is simple to plan for: there is no free plan, and you can [start a 3-day Youmake trial for $1](https://www.youmake.dev/) (card required) to build the first version. If you are new to this way of working, our guide on [how to build an app without coding](/articles/how-to-build-app-without-coding) walks through the basics, and [what is vibe coding](/articles/what-is-vibe-coding) explains the approach.
 
 ## Honest limits
+
+If you want a permissively licensed alternative, see [Reflection Beam for apps](/articles/reflection-beam-for-app-builders), an Apache 2.0 open-weight model released the day after this one.
 
 - I have not benchmarked Muse Spark Open myself, and the scores above are Meta's own. Independent results could rank it differently.
 - Youmake builds the app around the model. Whether the AI call works depends on the endpoint you choose and the way you set up the server function, so check the generated code and test it before you invite users.
