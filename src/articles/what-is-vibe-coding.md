@@ -7,6 +7,7 @@ tags: ["Vibe Coding", "AI Development", "Web Development", "Tutorial", "Youmake"
 topic: "vibe-coding"
 image: "/images/blog/what-is-vibe-coding-guide.png"
 keywords: ["vibe coding", "what is vibe coding", "vibe coding meaning", "vibecoding", "vibe coding definition", "how does vibe coding work", "vibe coding examples"]
+updated: "2026-10-19"
 published: true
 ---
 
@@ -162,7 +163,7 @@ Both are used. "Vibe coding" (two words) is more common, but "vibecoding" as one
 
 ## Start Building
 
-The best way to understand vibe coding is to experience it. Your first project is literally one prompt away.
+The best way to understand vibe coding is to experience it. Your first project is literally one prompt away. Not sure what to build? Try one of these [vibe coding project ideas](/articles/vibe-coding-project-ideas).
 
 **[Try Youmake for $1 →](https://www.youmake.dev/)**
 ---
