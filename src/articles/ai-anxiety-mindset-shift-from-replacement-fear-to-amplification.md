@@ -2,6 +2,7 @@
 title: "The AI Anxiety Epidemic: Why the Mindset Shift from Fear to Amplification Is the Only Career Move That Matters"
 description: "Only 22% of workers feel safe from AI job displacement. The difference between thriving and spiraling isn't skills — it's mindset."
 date: "2026-06-17"
+updated: "2026-10-21"
 author: "Khalid BABA"
 tags: ["Mindset", "AI Anxiety", "Career", "Workforce"]
 topic: "future-of-work"
@@ -75,6 +76,8 @@ I'd be doing a disservice if I framed this purely as an individual responsibilit
 The [Adler University research on reducing decision fatigue](https://www.adler.edu/news/how-leaders-can-help-reduce-decision-fatigue-and-burnout-in-the-ai-workplace/) in the AI workplace emphasizes that leaders need to create psychological safety — normalizing the questioning of AI outputs as a responsibility rather than a disruption. When workers feel they'll be penalized for overriding an AI recommendation, they stop thinking. And that's when both mistakes and burnout accelerate.
 
 Companies also need to stop treating AI rollouts as purely technical projects. [Inc. reported](https://www.inc.com/kit-eaton/ai-workplace-burnout-bosses-managers-unprepared-leaders/91359766) that bosses and managers remain chronically unprepared for the mental health impact of AI transformation. The tool is deployed; the humans are left to cope.
+
+One practical way to start is building a [client portal](/articles/client-portal-builder) that turns your skills into a more professional offer.
 
 ## The Bottom Line
 

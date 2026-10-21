@@ -2,7 +2,7 @@
 title: "Vibe Coding Project Ideas: 7 Builds to Ship This Week"
 description: "Vibe coding project ideas for founders and side-project builders: 7 small apps you can ship in a weekend, with a sample prompt to paste into Youmake for each."
 date: "2026-10-19"
-updated: "2026-10-20"
+updated: "2026-10-21"
 author: "Khalid BABA"
 tags: ["Vibe Coding", "Project Ideas", "Founders", "MVP", "Youmake"]
 topic: "founders"
@@ -78,6 +78,8 @@ Starter prompt: *"Build a course site with a landing page, five lesson pages wit
 **Why it works:** a deck is a small, finite project with a deadline, and Youmake builds slide decks from the same kind of description.
 
 Starter prompt: *"Create a 10-slide pitch deck for [your idea]: problem, solution, product, market, business model, traction, team, ask."*
+
+If you work with clients, a [client portal builder](/articles/client-portal-builder) project is one of the most useful things to build first.
 
 ## How to do this with Youmake
 
