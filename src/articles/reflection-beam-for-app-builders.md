@@ -6,6 +6,7 @@ author: "Khalid BABA"
 tags: ["Reflection AI", "Open-Weight Models", "AI Agents", "Vibe Coding"]
 topic: "ai-agents-tools"
 keywords: ["reflection beam", "reflection beam for apps", "open-weight model for coding agents", "apache 2.0 open model"]
+updated: "2026-10-22"
 published: true
 ---
 
@@ -68,6 +69,8 @@ Then:
 4. Run the security scan before publishing, then connect your domain.
 
 Want a low-risk start? You can [start a 3-day Youmake trial for $1](https://www.youmake.dev/) (card required) and have a first version running before the trial ends. If this is your first build, read [how to build an app without coding](/articles/how-to-build-app-without-coding) and [what is vibe coding](/articles/what-is-vibe-coding). More articles on this theme live in the [AI Agents & Tools hub](/topics/ai-agents-tools).
+
+If you would rather pay per token than host anything, our breakdown of [Gemini 4 Argon API pricing](/articles/gemini-4-argon-api-pricing) shows how to budget before its price doubles on December 1.
 
 ## Honest limits
 

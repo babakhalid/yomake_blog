@@ -7,7 +7,7 @@ tags: ["Meta", "Open-Weight Models", "AI Apps", "Vibe Coding"]
 topic: "ai-industry"
 image: "/images/blog/muse-spark-open-for-app-builders.jpg"
 keywords: ["muse spark open", "muse spark open for apps", "open-weight model for apps", "meta open weight model license"]
-updated: "2026-10-18"
+updated: "2026-10-22"
 published: true
 ---
 
@@ -68,6 +68,8 @@ Then work through it in four steps:
 4. Run the security scan before publishing, then connect your domain.
 
 Pricing is simple to plan for: there is no free plan, and you can [start a 3-day Youmake trial for $1](https://www.youmake.dev/) (card required) to build the first version. If you are new to this way of working, our guide on [how to build an app without coding](/articles/how-to-build-app-without-coding) walks through the basics, and [what is vibe coding](/articles/what-is-vibe-coding) explains the approach.
+
+For a hosted, pay-per-token alternative, see [Gemini 4 Argon API pricing](/articles/gemini-4-argon-api-pricing) and what to build before the December 1 increase.
 
 ## Honest limits
 
