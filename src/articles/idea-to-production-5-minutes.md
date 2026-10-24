@@ -8,9 +8,10 @@ topic: "vibe-coding"
 image: "/images/blog/idea-to-production-deploy-app-5-minutes.png"
 keywords: ["deploy app in 5 minutes", "AI web builder", "vibe coding tutorial", "fast app deployment", "youmake tutorial", "build website with AI"]
 published: true
+updated: "2026-10-24"
 ---
 
-What if you could turn an idea into a live, production-ready web application in less time than it takes to make coffee? With [Youmake](https://www.youmake.dev/), that's not a hypothetical—it's your new reality.
+What if you could turn an idea into a live, production-ready web application in less time than it takes to make coffee? With [Youmake](https://www.youmake.dev/), that's not a hypothetical—it's your new reality. Once the app is live, set up [monitoring for your vibe-coded app](/articles/monitor-vibe-coded-app-production) so you hear about errors before your users do.
 
 ## The Old Way vs. The Youmake Way
 

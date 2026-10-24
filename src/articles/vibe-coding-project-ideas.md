@@ -2,7 +2,7 @@
 title: "Vibe Coding Project Ideas: 7 Builds to Ship This Week"
 description: "Vibe coding project ideas for founders and side-project builders: 7 small apps you can ship in a weekend, with a sample prompt to paste into Youmake for each."
 date: "2026-10-19"
-updated: "2026-10-21"
+updated: "2026-10-24"
 author: "Khalid BABA"
 tags: ["Vibe Coding", "Project Ideas", "Founders", "MVP", "Youmake"]
 topic: "founders"
@@ -12,7 +12,7 @@ published: true
 
 The hardest part of vibe coding is not the prompt. It is picking something worth building. Most people start with an app so big it never ships, or one so small it teaches them nothing. The best vibe coding project ideas sit in between: one user, one job, one weekend.
 
-Below are seven projects that fit that size. Each one has a clear user, a first prompt you can paste into [Youmake](https://www.youmake.dev/), and a note on what makes it a useful test of an idea. If you are new to the approach, read [what vibe coding is](/articles/what-is-vibe-coding) first, then come back. Total beginner? The guide on [how to start vibe coding](/articles/how-to-start-vibe-coding) walks through your first build step by step.
+Below are seven projects that fit that size. Each one has a clear user, a first prompt you can paste into [Youmake](https://www.youmake.dev/), and a note on what makes it a useful test of an idea. If you are new to the approach, read [what vibe coding is](/articles/what-is-vibe-coding) first, then come back. Total beginner? The guide on [how to start vibe coding](/articles/how-to-start-vibe-coding) walks through your first build step by step. Whichever you ship, [add monitoring to your vibe-coded app](/articles/monitor-vibe-coded-app-production) once real users arrive.
 
 ## How to pick a vibe coding project
 
