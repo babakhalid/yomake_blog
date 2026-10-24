@@ -79,7 +79,11 @@ function getArticles() {
 function generateSitemap() {
   const articles = getArticles();
   const today = new Date().toISOString().split('T')[0];
-  const lastmodOf = (article) => article.updated || article.date;
+  // Every article page changed materially on 2026-10-17 (visible prerendered body, author,
+  // topic hubs, redesign). Floor lastmod at that date so Google recrawls pages it last saw
+  // before the fix; later edits still win via the `updated` frontmatter field.
+  const TEMPLATE_UPDATED = '2026-10-17';
+  const lastmodOf = (article) => [article.updated || article.date, TEMPLATE_UPDATED].sort().pop();
   const latestArticleDate = articles.map(lastmodOf).sort().pop() || today;
   const site = JSON.parse(fs.readFileSync(path.join(articlesDir, '../data/site.json'), 'utf-8'));
   const topicOf = (article) => site.topics.some(t => t.slug === article.topic) ? article.topic : 'ai-industry';

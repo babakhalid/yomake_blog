@@ -22,6 +22,8 @@ const SITE_URL = 'https://blog.youmake.dev';
 const SITE_NAME = 'Youmake Blog';
 const DEFAULT_IMAGE = `${SITE_URL}/og-image.svg`;
 const TWITTER_HANDLE = '@BabaKhaliid';
+// Date every article page last changed materially (visible body, author, hubs). Keep in sync with generate-sitemap.js.
+const TEMPLATE_UPDATED = '2026-10-17';
 
 const distDir = path.join(__dirname, '../dist');
 const articlesDir = path.join(__dirname, '../src/articles');
@@ -377,7 +379,7 @@ function generateArticlePages(articles) {
       image: fullImage,
       url: fullUrl,
       datePublished: frontmatter.date,
-      dateModified: frontmatter.updated || frontmatter.date,
+      dateModified: [frontmatter.updated || frontmatter.date, TEMPLATE_UPDATED].sort().pop(),
       author: personSchema(frontmatter.author),
       publisher: {
         '@type': 'Organization',
