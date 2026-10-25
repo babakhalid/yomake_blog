@@ -54,7 +54,7 @@ Already using v0 and hitting its limits? Here is a practical [v0 alternative](/a
 
 ### Youmake
 
-[Youmake](https://www.youmake.dev/) builds websites, web apps, mobile apps and slide decks from the same workspace. You describe the project, watch it appear in a live preview, and refine it in chat.
+[Youmake](https://www.youmake.dev/) builds websites, web apps, mobile apps and slide decks from the same workspace. You describe the project, watch it appear in a live preview, and refine it in chat. If you want an app for phones specifically, see our guide to the [AI mobile app builder](/articles/ai-mobile-app-builder).
 
 ![The Youmake composer: pick Web App, Mobile App or Slides and describe your idea](/images/blog/youmake-prompt-web-app-mobile-app-slides.webp)
 
