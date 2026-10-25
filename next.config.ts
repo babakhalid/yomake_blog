@@ -20,6 +20,13 @@ const nextConfig: NextConfig = {
   images: {
     formats: ['image/avif', 'image/webp'],
   },
+  // src/utils/articles.ts reads covers from public/ at build time (sizes, social
+  // cards), so the tracer would copy all ~300 MB of images into every function and
+  // break Vercel's 250 MB limit. Every page is prerendered and the CDN serves
+  // public/ itself, so the functions never need those files.
+  outputFileTracingExcludes: {
+    '*': ['public/**/*'],
+  },
   async redirects() {
     return [
       { source: '/blog', destination: '/', permanent: true },
