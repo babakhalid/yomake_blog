@@ -28,3 +28,15 @@ export interface Topic {
   name: string;
   description: string;
 }
+
+/** Serializable listing data passed from server pages to client components. */
+export interface ArticleSummary {
+  slug: string;
+  title: string;
+  description: string;
+  date: string;
+  image?: string;
+  minutes?: number;
+  /** Topic hub slug (already resolved to a valid hub). */
+  topic: string;
+}

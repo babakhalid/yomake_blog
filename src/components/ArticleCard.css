@@ -1,3 +1,8 @@
+.article-card {
+  animation: rise 0.7s var(--ease) both;
+  animation-delay: calc(var(--i, 0) * 55ms);
+}
+
 .article-card-link {
   display: flex;
   flex-direction: column;
@@ -6,6 +11,7 @@
 }
 
 .article-card-image {
+  position: relative;
   aspect-ratio: 16 / 10;
   border-radius: 1.25rem;
   border: 1px solid var(--ym-border);
@@ -21,6 +27,8 @@
 }
 
 .article-card-link:hover .article-card-image img { transform: scale(1.03); }
+.article-card-link { transition: transform 0.2s var(--ease); }
+.article-card-link:active { transform: scale(0.99); }
 
 .article-card-placeholder {
   display: block;
@@ -32,6 +40,9 @@
 }
 
 .dark .article-card-placeholder { background: radial-gradient(ellipse at 90% 100%, #34465f, transparent 50%), linear-gradient(180deg, #071221, #122339); }
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) .article-card-placeholder { background: radial-gradient(ellipse at 90% 100%, #34465f, transparent 50%), linear-gradient(180deg, #071221, #122339); }
+}
 
 .article-card-title {
   margin-top: 0.5rem;
@@ -66,3 +77,9 @@
   text-transform: uppercase;
   color: var(--ym-tertiary);
 }
+
+/* Lead cards (first two of every five in a grid) get a wider frame and a larger headline. */
+.articles-grid > .article-card:nth-child(5n + 1) .article-card-image,
+.articles-grid > .article-card:nth-child(5n + 2) .article-card-image { aspect-ratio: 16 / 9; }
+.articles-grid > .article-card:nth-child(5n + 1) .article-card-title,
+.articles-grid > .article-card:nth-child(5n + 2) .article-card-title { font-size: clamp(1.25rem, 2vw, 1.5rem); letter-spacing: -0.035em; }

@@ -45,7 +45,7 @@
   
   <!-- Evolution timeline at bottom -->
   <g transform="translate(200, 480)">
-    <text x="0" y="0" fill="#EDE8DC" font-family="system-ui" font-size="14" opacity="0.5">2015: Drag & Drop</text>
+    <text x="0" y="0" fill="#EDE8DC" font-family="system-ui" font-size="14" opacity="0.5">2015: Drag &amp; Drop</text>
     <text x="250" y="0" fill="#EDE8DC" font-family="system-ui" font-size="14" opacity="0.5">2020: No-Code</text>
     <text x="500" y="0" fill="#22c55e" font-family="system-ui" font-size="14" font-weight="600">2026: Vibe Coding</text>
     <text x="750" y="0" fill="#3b82f6" font-family="system-ui" font-size="14" opacity="0.7">Future: AI-Native</text>

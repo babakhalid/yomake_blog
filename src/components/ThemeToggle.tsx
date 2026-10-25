@@ -1,35 +1,45 @@
-import { useEffect, useState } from 'react';
+'use client';
+
+import { useSyncExternalStore } from 'react';
 import './ThemeToggle.css';
 
 type Theme = 'light' | 'dark' | 'system';
 
+// The theme lives on <html> as .light / .dark (none = follow the system). The
+// root layout's inline script applies the saved choice before first paint, so
+// this reads it back from the DOM instead of holding its own copy.
+function readTheme(): Theme {
+  const classes = document.documentElement.classList;
+  if (classes.contains('dark')) return 'dark';
+  if (classes.contains('light')) return 'light';
+  return 'system';
+}
+
+function subscribe(onChange: () => void) {
+  const observer = new MutationObserver(onChange);
+  observer.observe(document.documentElement, { attributes: true, attributeFilter: ['class'] });
+  return () => observer.disconnect();
+}
+
+function applyTheme(theme: Theme) {
+  const root = document.documentElement;
+  root.classList.remove('light', 'dark');
+  if (theme !== 'system') root.classList.add(theme);
+  try {
+    if (theme === 'system') localStorage.removeItem('theme');
+    else localStorage.setItem('theme', theme);
+  } catch {
+    // Storage blocked: the choice still applies for this page view.
+  }
+}
+
 export function ThemeToggle() {
-  const [theme, setTheme] = useState<Theme>(() => {
-    if (typeof window !== 'undefined') {
-      return (localStorage.getItem('theme') as Theme) || 'system';
-    }
-    return 'system';
-  });
-
-  useEffect(() => {
-    const root = document.documentElement;
-
-    if (theme === 'system') {
-      root.classList.remove('light', 'dark');
-      localStorage.removeItem('theme');
-    } else {
-      root.classList.remove('light', 'dark');
-      root.classList.add(theme);
-      localStorage.setItem('theme', theme);
-    }
-  }, [theme]);
+  const theme = useSyncExternalStore(subscribe, readTheme, () => 'system' as Theme);
 
   const toggleTheme = () => {
-    setTheme((current) => {
-      if (current === 'light') return 'dark';
-      if (current === 'dark') return 'system';
-      return 'light';
-    });
+    if (theme === 'light') applyTheme('dark');
+    else if (theme === 'dark') applyTheme('system');
+    else applyTheme('light');
   };
 
   const getIcon = () => {

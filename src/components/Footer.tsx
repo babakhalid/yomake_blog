@@ -1,5 +1,5 @@
-import { Link } from 'react-router-dom';
-import { author, topics } from '@/utils';
+import Link from 'next/link';
+import { author, topics } from '@/utils/site';
 import './Footer.css';
 
 export function Footer() {
@@ -20,7 +20,7 @@ export function Footer() {
           <div className="footer-column">
             <h4>Topics</h4>
             {topics.map((topic) => (
-              <Link key={topic.slug} to={`/topics/${topic.slug}`}>{topic.name}</Link>
+              <Link key={topic.slug} href={`/topics/${topic.slug}`}>{topic.name}</Link>
             ))}
           </div>
 
@@ -39,8 +39,8 @@ export function Footer() {
 
           <div className="footer-column">
             <h4>Blog</h4>
-            <Link to="/articles">All articles</Link>
-            <Link to="/about">About {author.name}</Link>
+            <Link href="/articles">All articles</Link>
+            <Link href="/about">About {author.name}</Link>
             <a href={author.sameAs[0]} target="_blank" rel="noopener noreferrer">LinkedIn</a>
             <a href={author.sameAs[1]} target="_blank" rel="noopener noreferrer">X</a>
           </div>

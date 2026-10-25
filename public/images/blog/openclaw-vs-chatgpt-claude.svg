@@ -44,7 +44,7 @@
     
     <text x="0" y="30" fill="#EDE8DC" font-family="system-ui" font-size="14" opacity="0.7">❌ No Automation</text>
     <text x="375" y="30" fill="#EDE8DC" font-family="system-ui" font-size="14" opacity="0.7">❌ No Automation</text>
-    <text x="750" y="30" fill="#22c55e" font-family="system-ui" font-size="14" font-weight="600">✅ Cron Jobs & Workflows</text>
+    <text x="750" y="30" fill="#22c55e" font-family="system-ui" font-size="14" font-weight="600">✅ Cron Jobs &amp; Workflows</text>
   </g>
   
   <!-- Text -->

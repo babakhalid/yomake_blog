@@ -80,8 +80,22 @@
 
 .header-cta { height: 2.5rem; }
 
+/* Phones: the nav drops to a second row inside the pill instead of disappearing,
+   so Articles and About stay one tap away. */
 @media (max-width: 760px) {
-  .header-pill { grid-template-columns: auto 1fr; padding-left: 0.9rem; }
-  .nav { display: none; }
+  .header { padding: 0.5rem 0.75rem 0; }
+  .header-pill {
+    height: auto;
+    grid-template-columns: auto 1fr;
+    grid-template-areas: "logo actions" "nav nav";
+    row-gap: 0.25rem;
+    padding: 0.5rem 0.5rem 0.4rem 0.9rem;
+    border-radius: 1.5rem;
+  }
+  .logo { grid-area: logo; }
+  .header-actions { grid-area: actions; }
+  .nav { grid-area: nav; justify-content: space-between; margin-left: -0.5rem; }
+  .nav-link { padding: 0.4rem 0.7rem; font-size: 0.8125rem; }
+  .header-cta { height: 2.25rem; padding: 0 0.95rem; font-size: 0.8125rem; }
   .logo-tag { display: none; }
 }

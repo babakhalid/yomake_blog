@@ -36,6 +36,7 @@ Pick ONE primary keyword per article and 2-4 close variants. Prefer low difficul
 Already owned (link to these, don't compete):
 | Keyword | Vol | KD | Owner article |
 |---|---|---|---|
+| ai app builder(s) / best ai app builder(s) / ai app maker / ai-powered app builder / ai app builder free | 12100 / 1300 / 4400 / 6600 / 1300 | 26-36 / 6-20 | /articles/best-ai-app-builders (pillar: link to it with "AI app builder" anchors whenever the topic fits) |
 | lovable alternative(s) | 590 | 0 | /articles/lovable-alternatives |
 | replit alternative | 880 | 0 | /articles/replit-alternatives |
 | best vibe coding tools / platform / app | 1600 / 590 / 480 | 6-11 | /articles/best-vibe-coding-tools |
@@ -61,7 +62,7 @@ Open targets (write these when a trending story fits):
 | ai web app builder | 210 | 41 | buyer |
 | client portal builder / white label ai website builder | 30 / 30 | 0-8 | buyer (agencies) |
 | cursor alternative | 1000 | 8 | developer (only if a real angle for builders) |
-Long shots (support only, never the primary): ai app builder 12100 (KD31), ai website builder 40500 (KD44).
+Long shots (support only, never the primary): ai website builder 33100 (KD44).
 
 For a trending story, choose the angle that maps it to an open target and positions Youmake as the answer, e.g. a new v0 release -> "v0 alternative" (why builders pick Youmake instead); a Lovable price change -> an update to /articles/lovable-alternatives or /articles/youmake-vs-lovable; a vibe-coding trend -> "vibe coding tutorial" built step by step in Youmake.
 
