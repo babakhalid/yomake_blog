@@ -2,7 +2,7 @@
 title: "Vibe Coding Project Ideas: 7 Builds to Ship This Week"
 description: "Vibe coding project ideas for founders and side-project builders: 7 small apps you can ship in a weekend, with a sample prompt to paste into Youmake for each."
 date: "2026-10-19"
-updated: "2026-10-24"
+updated: "2026-10-25"
 author: "Khalid BABA"
 tags: ["Vibe Coding", "Project Ideas", "Founders", "MVP", "Youmake"]
 topic: "founders"
@@ -85,7 +85,7 @@ If you work with clients, a [client portal builder](/articles/client-portal-buil
 
 Here is the loop that works for any of the seven ideas.
 
-1. **Open the composer and choose what you are building.** Youmake handles websites, web apps, mobile apps and slide decks from a description.
+1. **Open the composer and choose what you are building.** Youmake handles websites, web apps, mobile apps and slide decks from a description. For the phone-app route, follow the [AI mobile app builder guide](/articles/ai-mobile-app-builder).
 
 ![The Youmake prompt box for web apps, mobile apps and slides](/images/blog/youmake-prompt-web-app-mobile-app-slides.webp)
 
