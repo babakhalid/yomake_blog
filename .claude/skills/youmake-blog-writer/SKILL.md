@@ -37,6 +37,7 @@ Already owned (link to these, don't compete):
 | Keyword | Vol | KD | Owner article |
 |---|---|---|---|
 | ai app builder(s) / best ai app builder(s) / ai app maker / ai-powered app builder / ai app builder free | 12100 / 1300 / 4400 / 6600 / 1300 | 26-36 / 6-20 | /articles/best-ai-app-builders (pillar: link to it with "AI app builder" anchors whenever the topic fits) |
+| ai website builder code export / ai app builder export code (AI-answer target: "What AI website builder gives me access to the code?") | - | - | /articles/ai-app-builder-code-export |
 | lovable alternative(s) | 590 | 0 | /articles/lovable-alternatives |
 | replit alternative | 880 | 0 | /articles/replit-alternatives |
 | best vibe coding tools / platform / app | 1600 / 590 / 480 | 6-11 | /articles/best-vibe-coding-tools |
