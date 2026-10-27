@@ -96,7 +96,7 @@ For the bigger picture on cost and features, see our comparison of the [best AI 
 2. Connect your GitHub account, so every change syncs to a repository you own.
 3. Connect your own Supabase project if the app needs a database or logins.
 4. Publish to your own domain.
-5. When you hand the project over, transfer the repository and the Supabase project to your client. Agencies use this flow for [client portals](https://www.youmake.dev/use-cases/client-portal).
+5. When you hand the project over, transfer the repository and the Supabase project to your client. Agencies use this flow for [client portals](https://www.youmake.dev/use-cases/client-portal). For client websites, the [white label AI website builder](/articles/white-label-ai-website-builder) guide covers the full delivery workflow.
 
 ## FAQ
 

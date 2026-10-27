@@ -63,7 +63,7 @@ Youmake is an AI app builder for websites, web apps, mobile apps and slide decks
 - **Also included:** a security scan before you publish, a visible credit cost on every change, and team seats on Builder and above.
 - **The catch:** no free plan, and a smaller community than Lovable or Replit, so there are fewer third-party tutorials.
 
-**Choose Youmake if** you build for clients or for your own business and want one tool for the site, the app and the pitch deck, published on your domain with code you can take with you. Agencies use it for [client portals](https://www.youmake.dev/use-cases/client-portal); small businesses use it as an [AI website builder](https://www.youmake.dev/ai-website-builder).
+**Choose Youmake if** you build for clients or for your own business and want one tool for the site, the app and the pitch deck, published on your domain with code you can take with you. Agencies use it for [client portals](https://www.youmake.dev/use-cases/client-portal); small businesses use it as an [AI website builder](https://www.youmake.dev/ai-website-builder). If you resell sites, see our guide to a [white label AI website builder for agencies](/articles/white-label-ai-website-builder).
 
 ## 2. Lovable: best for polished full-stack web apps
 
