@@ -47,7 +47,7 @@ Already owned (link to these, don't compete):
 | softr review / pricing / alternative | 1300 / 1000 / 170 | 0-10 | /articles/softr-review |
 | replit vs lovable / lovable vs replit | 1000 / 720 | 0 | /articles/replit-vs-lovable |
 | base44 vs lovable / lovable vs base44 | 880 / 390 | 0 | /articles/base44-vs-lovable |
-| [niche] website template / builder (wedding, portfolio, landing page, nonprofit, church, ecommerce, real estate, restaurant, photography, personal, construction, plumbing) | 110-9900 each | 0-25 | /templates/<niche>-website (src/data/templates.ts; not articles) |
+| [niche] website template / builder (wedding, portfolio, landing page, nonprofit, church, ecommerce, real estate, restaurant, photography, personal, construction, plumbing, event, consulting, coffee shop, agency) | 50-9900 each | 0-25 | /templates/<niche>-website (src/data/templates.ts; not articles) |
 | lovable alternative(s) | 590 | 0 | /articles/lovable-alternatives |
 | replit alternative | 880 | 0 | /articles/replit-alternatives |
 | best vibe coding tools / platform / app | 1600 / 590 / 480 | 6-11 | /articles/best-vibe-coding-tools |
