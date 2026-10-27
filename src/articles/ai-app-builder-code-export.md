@@ -2,6 +2,7 @@
 title: "AI App Builders That Let You Export Your Code (2026)"
 description: "Which AI app and website builders let you export or own the code? Youmake, Lovable, Bolt.new, v0, Replit, Base44, FlutterFlow and Bubble, checked against their docs."
 date: "2026-10-26"
+updated: "2026-10-27"
 author: "Khalid BABA"
 tags: ["AI App Builder", "Code Export", "Comparison", "Vibe Coding"]
 topic: "vibe-coding"
@@ -69,7 +70,7 @@ Replit lets you download a project as a zip from the file tree menu. On team wor
 
 ## Base44
 
-Base44's FAQ says two-way GitHub sync exports the full source code to your own repository. On the pricing page, GitHub integration is listed on the Builder, Pro and Elite plans, not on Free or Starter.
+Base44's FAQ says two-way GitHub sync exports the full source code to your own repository. On the pricing page, GitHub integration is listed on the Builder, Pro and Elite plans, not on Free or Starter. Our [Base44 review](/articles/base44-review) covers its pricing and backend in full.
 
 ## FlutterFlow
 
