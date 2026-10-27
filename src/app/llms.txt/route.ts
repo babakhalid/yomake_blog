@@ -1,4 +1,5 @@
 import { getAllArticles, getArticleBySlug, getArticlesByTopic } from '@/utils/articles';
+import { templates } from '@/data/templates';
 import { SITE_DESCRIPTION, SITE_NAME, SITE_URL, topics } from '@/utils/site';
 
 // llms.txt (llmstxt.org): a plain-text map of the blog for AI assistants and their
@@ -48,6 +49,10 @@ ${YOUMAKE_FACTS}
 ## Key guides
 
 ${KEY_GUIDES.map(link).filter(Boolean).join('\n')}
+
+## Website templates (build with a Youmake prompt)
+
+${templates.map((template) => `- [${template.title}](${SITE_URL}/templates/${template.slug}): ${template.description}`).join('\n')}
 
 ## All articles by topic
 

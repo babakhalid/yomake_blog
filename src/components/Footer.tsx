@@ -40,6 +40,7 @@ export function Footer() {
           <div className="footer-column">
             <h4>Blog</h4>
             <Link href="/articles">All articles</Link>
+            <Link href="/templates">Website templates</Link>
             <Link href="/about">About {author.name}</Link>
             <a href={author.sameAs[0]} target="_blank" rel="noopener noreferrer">LinkedIn</a>
             <a href={author.sameAs[1]} target="_blank" rel="noopener noreferrer">X</a>

@@ -7,6 +7,7 @@ import './Header.css';
 
 const NAV = [
   { href: '/articles', label: 'Articles', exact: true },
+  { href: '/templates', label: 'Templates', exact: false },
   { href: '/topics/vibe-coding', label: 'Vibe coding', exact: false },
   { href: '/about', label: 'About', exact: false },
 ];

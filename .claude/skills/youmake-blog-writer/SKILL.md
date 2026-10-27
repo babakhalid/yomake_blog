@@ -39,6 +39,15 @@ Already owned (link to these, don't compete):
 | ai app builder(s) / best ai app builder(s) / ai app maker / ai-powered app builder / ai app builder free | 12100 / 1300 / 4400 / 6600 / 1300 | 26-36 / 6-20 | /articles/best-ai-app-builders (pillar: link to it with "AI app builder" anchors whenever the topic fits) |
 | ai website builder code export / ai app builder export code (AI-answer target: "What AI website builder gives me access to the code?") | - | - | /articles/ai-app-builder-code-export |
 | base44 review / base44 pricing / base44 ai app builder | 4400 / 3600 / 2900 | 3-4 | /articles/base44-review |
+| squarespace pricing / review | 18100 / 140 | 11-13 | /articles/squarespace-pricing |
+| wix pricing / wix review | 9900 / 1000 | 28-30 | /articles/wix-pricing |
+| wix vs squarespace | 5400 | 0 | /articles/wix-vs-squarespace |
+| webflow pricing / review / alternative | 2900 / 320 / 320 | 0-13 | /articles/webflow-pricing |
+| lovable pricing / review | 2400 / 720 | 12-14 | /articles/lovable-pricing |
+| softr review / pricing / alternative | 1300 / 1000 / 170 | 0-10 | /articles/softr-review |
+| replit vs lovable / lovable vs replit | 1000 / 720 | 0 | /articles/replit-vs-lovable |
+| base44 vs lovable / lovable vs base44 | 880 / 390 | 0 | /articles/base44-vs-lovable |
+| [niche] website template / builder (wedding, portfolio, landing page, nonprofit, church, ecommerce, real estate, restaurant, photography, personal, construction, plumbing) | 110-9900 each | 0-25 | /templates/<niche>-website (src/data/templates.ts; not articles) |
 | lovable alternative(s) | 590 | 0 | /articles/lovable-alternatives |
 | replit alternative | 880 | 0 | /articles/replit-alternatives |
 | best vibe coding tools / platform / app | 1600 / 590 / 480 | 6-11 | /articles/best-vibe-coding-tools |

@@ -2,6 +2,7 @@
 title: "Client Portal Builder: Make One With AI, No Code"
 description: "Client portal builder guide for freelancers and agencies: what to include, a prompt to paste into Youmake, and how to white label and hand it off."
 date: "2026-10-21"
+updated: "2026-10-27"
 author: "Khalid BABA"
 tags: ["Client Portal", "Freelancers", "Agencies", "No-Code", "Youmake"]
 topic: "future-of-work"
@@ -33,7 +34,7 @@ You need one when you handle more than a few clients at once and keep answering 
 | Shared folders and docs | One or two clients | No login separation, no status view, looks improvised |
 | Custom build with an AI builder | A portal shaped exactly like your process | You own the review and testing work |
 
-The third path used to mean hiring a developer. An AI builder changes the cost, not the need for judgment: you still decide what the portal should do.
+The third path used to mean hiring a developer. An AI builder changes the cost, not the need for judgment: you still decide what the portal should do. If you're weighing a no-code portal tool instead, our [Softr review](/articles/softr-review) lays out its plans, client user limits and pricing.
 
 ## How to do this with Youmake
 

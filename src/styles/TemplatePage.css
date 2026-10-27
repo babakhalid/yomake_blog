@@ -1,0 +1,82 @@
+.template-page { padding-top: 2.5rem; }
+.template-layout { max-width: 820px; }
+
+.template-hero { max-width: 760px; }
+.template-hero h1 { margin-top: 1rem; font-size: clamp(2rem, 4.6vw, 3.25rem); letter-spacing: -0.045em; line-height: 1.08; }
+.template-intro { margin-top: 1.1rem; font-size: 1.1875rem; line-height: 1.6; color: var(--ym-secondary); }
+.template-actions { margin-top: 1.75rem; display: flex; flex-wrap: wrap; gap: 0.6rem; }
+
+.template-section { margin-top: 3.5rem; }
+.template-section > h2 { font-size: clamp(1.4rem, 2.6vw, 1.75rem); letter-spacing: -0.035em; }
+.template-section > p { margin-top: 0.6rem; color: var(--ym-secondary); }
+
+.template-sections { list-style: none; counter-reset: section; margin-top: 1.25rem; border-top: 1px solid var(--ym-border); }
+.template-sections li {
+  counter-increment: section;
+  display: grid;
+  grid-template-columns: 2.5rem 1fr;
+  grid-template-areas: "num title" "num text";
+  column-gap: 0.75rem;
+  padding: 1.1rem 0;
+  border-bottom: 1px solid var(--ym-border);
+}
+.template-sections li::before {
+  content: counter(section, decimal-leading-zero);
+  grid-area: num;
+  font-family: var(--font-mono);
+  font-size: 0.8125rem;
+  color: var(--ym-tertiary);
+  padding-top: 0.2rem;
+}
+.template-sections h3 { grid-area: title; font-size: 1.0625rem; }
+.template-sections p { grid-area: text; margin-top: 0.3rem; color: var(--ym-secondary); font-size: 0.9375rem; line-height: 1.6; }
+
+.template-features, .template-steps { margin-top: 1.1rem; padding-left: 1.3rem; display: grid; gap: 0.6rem; line-height: 1.6; }
+.template-features li::marker, .template-steps li::marker { color: var(--ym-tertiary); }
+.template-steps a { text-decoration: underline; text-underline-offset: 3px; }
+
+.prompt-box {
+  margin-top: 1.1rem;
+  padding: 1.25rem 1.25rem 1rem;
+  border: 1px solid var(--ym-border);
+  border-radius: var(--radius-card);
+  background: var(--ym-surface);
+}
+.prompt-text { font-family: var(--font-mono); font-size: 0.8125rem; line-height: 1.7; white-space: pre-wrap; }
+.prompt-copy { margin-top: 1rem; }
+
+.template-tips { margin-top: 1.25rem; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.5rem; }
+.template-tips h3 { font-size: 1rem; }
+.template-tips p { margin-top: 0.4rem; color: var(--ym-secondary); font-size: 0.9375rem; line-height: 1.6; }
+
+.template-faq { margin-top: 1rem; border-top: 1px solid var(--ym-border); }
+.template-faq > div { padding: 1.1rem 0; border-bottom: 1px solid var(--ym-border); }
+.template-faq dt { font-weight: 600; }
+.template-faq dd { margin-top: 0.4rem; color: var(--ym-secondary); line-height: 1.6; }
+
+.template-example-link { margin-top: 1rem; display: grid; gap: 0.75rem; font-weight: 500; }
+.template-example-link img { border-radius: var(--radius-card); border: 1px solid var(--ym-border); }
+.template-example-link:hover span { text-decoration: underline; text-underline-offset: 3px; }
+
+.template-cta {
+  padding: clamp(1.75rem, 5vw, 2.75rem);
+  border-radius: var(--radius-card);
+  background: var(--ym-surface);
+  border: 1px solid var(--ym-border);
+}
+.template-cta .btn { margin-top: 1.25rem; }
+
+.template-related ul { margin-top: 1rem; list-style: none; border-top: 1px solid var(--ym-border); }
+.template-related li a { display: block; padding: 0.85rem 0; border-bottom: 1px solid var(--ym-border); font-weight: 500; }
+.template-related li a:hover { color: var(--ym-blue-text); }
+.template-related p a { text-decoration: underline; text-underline-offset: 3px; }
+
+.template-index { list-style: none; margin-top: 3rem; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 2.5rem; border-top: 1px solid var(--ym-border); }
+.template-index a { display: block; padding: 1.5rem 0; border-bottom: 1px solid var(--ym-border); height: 100%; }
+.template-index h2 { margin-top: 0.5rem; font-size: 1.25rem; letter-spacing: -0.025em; }
+.template-index p { margin-top: 0.4rem; color: var(--ym-secondary); font-size: 0.9375rem; line-height: 1.6; }
+.template-index a:hover h2 { text-decoration: underline; text-underline-offset: 4px; text-decoration-color: color-mix(in srgb, var(--foreground) 30%, transparent); }
+
+@media (max-width: 760px) {
+  .template-tips, .template-index { grid-template-columns: minmax(0, 1fr); }
+}

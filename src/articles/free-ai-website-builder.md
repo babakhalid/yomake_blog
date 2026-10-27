@@ -2,6 +2,7 @@
 title: "Free AI Website Builders in 2026: What's Actually Free (and When to Pay)"
 description: "Which AI website builders are actually free in 2026? We compare the free plans of Framer, Wix, Durable, Lovable, Bolt.new, v0, Base44 and Hostinger Horizons: what you get, the catch, and when paying makes sense. Checked October 2026."
 date: "2026-10-15"
+updated: "2026-10-27"
 author: "Khalid BABA"
 tags: ["AI Website Builder", "Free Tools", "Web Development", "Vibe Coding", "Comparison"]
 topic: "vibe-coding"
@@ -31,7 +32,7 @@ Most free plans give you the first, part of the second, and none of the third. A
 | Builder | Free plan includes | Main catch | Cheapest paid plan |
 |---------|-------------------|------------|-------------------|
 | **Framer** | Site on a framer domain, 500 AI credits | No custom domain, 1 GB bandwidth | Basic, $10/mo |
-| **Wix** | Site on a wixsite.com subdomain | Wix branding, no code export | Light, $17.77/mo (yearly) |
+| **Wix** | Site on a wixsite.com subdomain | Wix branding, no code export | Light, $17/mo (yearly) |
 | **Durable** | 300 AI credits, durable.site subdomain | Credits are a one-time total | Launch, $25/mo |
 | **Lovable** | 5 build credits a day (30 a month) | Custom domain and export need Pro | Pro, from $25/mo |
 | **Bolt.new** | 300K tokens a day, 1M a month | Bolt branding; tokens go fast | Pro, $25/mo |
@@ -47,7 +48,7 @@ Most free plans give you the first, part of the second, and none of the third. A
 
 ### A small business presence: Wix or Durable
 
-[Wix](https://www.wix.com) and [Durable](https://durable.com) both generate a business site quickly and host it on a subdomain for free. Durable is faster for a basic local-business site; Wix has the bigger ecosystem. Neither lets you export the code.
+[Wix](https://www.wix.com) and [Durable](https://durable.com) both generate a business site quickly and host it on a subdomain for free. Durable is faster for a basic local-business site; Wix has the bigger ecosystem. If you're also weighing a paid plan, our [Wix vs Squarespace comparison](/articles/wix-vs-squarespace) matches their prices, ecommerce fees and AI tools plan by plan. Neither lets you export the code. Squarespace has no free plan at all, only a 14-day trial; see our [Squarespace pricing guide](/articles/squarespace-pricing) for what each plan costs after it ends. If you outgrow Wix's free plan, our [Wix pricing guide](/articles/wix-pricing) shows what each paid Wix plan costs per year.
 
 ### A web app, not just a site: Lovable, Bolt.new or v0
 

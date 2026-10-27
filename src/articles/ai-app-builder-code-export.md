@@ -78,7 +78,7 @@ FlutterFlow's Basic plan ($39/month) adds code download: you can download the Fl
 
 ## Bubble
 
-Bubble apps run only on Bubble. Its manual says there's no way to export an application as code; you can export your data (for example as CSV or JSON) and get help exporting the design. Choose Bubble only if you're happy to stay on it long term.
+Bubble apps run only on Bubble. Its manual says there's no way to export an application as code; you can export your data (for example as CSV or JSON) and get help exporting the design. Choose Bubble only if you're happy to stay on it long term. Webflow is a visual site builder rather than an AI app builder, but its export has similar gaps: our [Webflow pricing guide](/articles/webflow-pricing) explains which plan includes code export and what it leaves out.
 
 ## Checklist before you choose a builder
 

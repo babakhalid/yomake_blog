@@ -72,7 +72,7 @@ Lovable is the best-known prompt-to-app tool and builds full-stack web apps with
 - **Price:** Pro is $25/month for 100 credits; Business is $50/month for 100 credits plus team and security features.
 - **Free plan:** 5 build credits a day, up to 30 a month.
 - **Code:** Git sync (GitHub, GitLab, Bitbucket) on every plan; code download and custom domains start on Pro.
-- **The catch:** one credit balance covers building, hosting and AI features, so heavy iteration gets expensive. Lovable's docs say its current chat pricing applies through October 31, 2026, so expect a change.
+- **The catch:** one credit balance covers building, hosting and AI features, so heavy iteration gets expensive. Lovable's docs say its current chat pricing applies through October 31, 2026, so expect a change. For every tier and how Lovable credits work, see our [Lovable pricing breakdown](/articles/lovable-pricing).
 
 If Lovable is close but not quite right, our [Lovable alternatives guide](/articles/lovable-alternatives) goes deeper.
 

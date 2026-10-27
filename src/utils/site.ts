@@ -36,3 +36,9 @@ export function formatDate(dateString: string): string {
     timeZone: 'UTC',
   });
 }
+
+/**
+ * Where "Build this with AI" buttons go. The builder doesn't accept a prefilled
+ * prompt yet; once it does, make this a function of the template's prompt.
+ */
+export const BUILDER_URL = 'https://www.youmake.dev/';
