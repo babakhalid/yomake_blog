@@ -2,6 +2,7 @@
 title: "27 States Are Writing AI Education Rules Right Now — And Most Schools Aren't Ready"
 description: "A wave of state legislation is reshaping how AI can be used in classrooms, from data center moratoriums to student privacy mandates. Here's what educators and builders need to know."
 date: "2026-04-22"
+updated: "2026-10-28"
 author: "Khalid BABA"
 tags: ["Education", "AI Policy", "Research"]
 topic: "ai-education"
@@ -89,6 +90,8 @@ If you're building AI tools for education — and many of our readers at Youmake
 **Think local, not federal.** The federal government isn't going to standardize this. State-by-state regulation is the reality, and it's going to stay that way for the foreseeable future. Your compliance strategy needs to account for variation across jurisdictions.
 
 **Partner with educators.** The legislation reflects a clear message from the education community: *stop building tools for us without us.* The states that are getting this right — Oregon, Colorado, and others — are centering teacher input in their policy design. Your product development should do the same.
+
+If you are a teacher or trainer rather than a company, the same logic applies to your own course site: see how to [build a course website with AI](/articles/build-course-website-with-ai) while controlling what student data you collect.
 
 ## The Bigger Picture
 

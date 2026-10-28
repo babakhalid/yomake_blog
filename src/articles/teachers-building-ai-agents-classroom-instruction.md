@@ -2,6 +2,7 @@
 title: "400,000 Teachers Are Learning to Build AI Agents — This Changes Everything"
 description: "The AFT partnered with Anthropic, Microsoft, and OpenAI on a $23M initiative to train teachers in agentic AI. Here's why this is the most important AI story in education."
 date: "2026-04-02"
+updated: "2026-10-28"
 author: "Khalid BABA"
 tags: ["AI", "Education Technology", "Agentic AI"]
 topic: "ai-education"
@@ -55,6 +56,8 @@ AFT President Randi Weingarten framed it perfectly: "There is a real demand from
 This is the crux of it. Every other AI-in-education story is about things being done *to* teachers — new policies, new mandates, new tools dropped on their desks. This is about teachers seizing agency over the technology.
 
 And that changes the power dynamic entirely.
+
+Teachers who want to go one step further than an agent can [build a course website with AI](/articles/build-course-website-with-ai) and keep it on their own domain.
 
 When a teacher builds their own AI agent, they understand its limitations. They know what data it's drawing from. They can tune it to their classroom, their students, their teaching philosophy. They're not a passive consumer of someone else's product — they're a creator.
 
