@@ -2,7 +2,7 @@
 title: "Client Portal Builder: Make One With AI, No Code"
 description: "Client portal builder guide for freelancers and agencies: what to include, a prompt to paste into Youmake, and how to white label and hand it off."
 date: "2026-10-21"
-updated: "2026-10-27"
+updated: "2026-10-29"
 author: "Khalid BABA"
 tags: ["Client Portal", "Freelancers", "Agencies", "No-Code", "Youmake"]
 topic: "future-of-work"
@@ -12,7 +12,7 @@ published: true
 
 A client portal builder lets you give each client one private place for project updates, files, invoices and approvals, instead of a trail of email threads. You no longer need a developer or an expensive SaaS seat per client to get one. With [Youmake](https://www.youmake.dev/), an AI app builder for websites, web apps, mobile apps and slide decks, you can describe the portal in plain English and have a working first version in an afternoon.
 
-This guide is for freelancers, consultants and small agencies. It covers what a portal needs, a prompt you can paste, and how to hand the result over to a client. If you are new to building this way, start with [what vibe coding is](/articles/what-is-vibe-coding) and the [7-step beginner plan](/articles/how-to-start-vibe-coding).
+This guide is for freelancers, consultants and small agencies. It covers what a portal needs, a prompt you can paste, and how to hand the result over to a client. If you are new to building this way, start with [what vibe coding is](/articles/what-is-vibe-coding) and the [7-step beginner plan](/articles/how-to-start-vibe-coding). If you are leaving a big employer and heading into consulting, the [Microsoft Voluntary Exit Offer](/articles/microsoft-voluntary-exit-offer) guide shows how to pair a portal with a one-page site. If you are leaving a big employer and heading into consulting, the [Microsoft Voluntary Exit Offer](/articles/microsoft-voluntary-exit-offer) guide shows how to pair a portal with a one-page site.
 
 ## What is a client portal, and who needs one?
 
@@ -97,6 +97,6 @@ A basic version often takes an afternoon. Testing access rules and polishing the
 
 ## Read Next
 
+- [White Label AI Website Builder for Agencies (2026 Guide)](/articles/white-label-ai-website-builder)
+- [AI Mobile App Builder: Make an App From a Prompt (2026)](/articles/ai-mobile-app-builder)
 - [How to Build an App Without Coding in 2026 (Step-by-Step Guide)](/articles/how-to-build-app-without-coding)
-- [Why No-Code is Dead and Vibe Coding is Taking Over](/articles/no-code-dead-vibe-coding)
-- [7 Best AI Website Builders in 2026 (Compared with Current Pricing)](/articles/best-ai-website-builders-2026)

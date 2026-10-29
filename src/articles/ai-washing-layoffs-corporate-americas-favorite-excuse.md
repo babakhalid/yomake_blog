@@ -7,10 +7,16 @@ tags: ["Corporate", "AI", "Layoffs", "Strategy"]
 topic: "future-of-work"
 image: "/images/blog/ai-washing-layoffs-corporate-americas-favorite-excuse.png"
 keywords: ["AI washing", "AI layoffs 2026", "corporate layoffs", "corporate restructuring AI", "AI job cuts", "AI-native company"]
+updated: "2026-10-29"
+updated: "2026-10-29"
 published: true
 ---
 
 Let me paint you a picture: a Fortune 500 CEO stands on stage, talks about "becoming AI-native," announces 10,000 layoffs, and then watches the stock price tick up. Wall Street applauds. The narrative writes itself — visionary leadership, embracing the future, leaner and meaner.
+
+For a recent example of a big employer changing its headcount, see our guide to the [Microsoft Voluntary Exit Offer](/articles/microsoft-voluntary-exit-offer) and what to build if you are affected.
+
+For a recent example of a big employer changing its headcount, see our guide to the [Microsoft Voluntary Exit Offer](/articles/microsoft-voluntary-exit-offer) and what to build if you are affected.
 
 Except here's the uncomfortable question: does the AI actually exist yet?
 
