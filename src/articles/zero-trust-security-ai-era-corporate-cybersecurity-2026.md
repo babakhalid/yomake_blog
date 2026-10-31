@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/zero-trust-security-ai-era-corporate-cybersecurity-2026.png"
 keywords: ["zero trust AI 2026", "corporate cybersecurity AI", "AI security enterprise", "agentic AI security risks", "zero trust architecture 2026"]
 published: true
+noindex: true
 ---
 
 # Zero Trust in the AI Era: Why Corporate Cybersecurity Just Got Exponentially Harder

@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/sam-altman-ai-job-losses-honest-conversation.png"
 keywords: ["Sam Altman AI jobs 2026", "AI job displacement", "AI workforce impact", "OpenAI job losses", "AI replacing workers"]
 published: true
+noindex: true
 ---
 
 # Sam Altman Admitted AI Will Kill Jobs. Now What?

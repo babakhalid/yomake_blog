@@ -8,6 +8,7 @@ topic: "ai-education"
 image: "/images/blog/universities-ai-literacy-mandate-critical-thinking-crisis-2026.png"
 keywords: ["AI literacy mandate", "SUNY AI policy 2026", "critical thinking AI", "higher education AI", "AI in universities"]
 published: true
+noindex: true
 ---
 
 There's a fascinating contradiction playing out in higher education right now. Universities are racing to make AI literacy a graduation requirement — treating it as essential as writing or math. At the same time, teachers are loudly warning that AI is destroying the very cognitive skills that made those other competencies worth teaching.

@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/mental-model-separating-burnout-from-thriving.jpg"
 keywords: ["burnout 2026", "mental models productivity", "workplace burnout prevention", "growth mindset", "sustainable productivity"]
 published: true
+noindex: true
 ---
 
 Burnout rates in 2026 are at their highest in six years. Over half of full-time U.S. employees report experiencing it. Among Gen Z, it's 66%. Among millennials, 58%. The World Health Organization expects the trend to continue across all age groups.

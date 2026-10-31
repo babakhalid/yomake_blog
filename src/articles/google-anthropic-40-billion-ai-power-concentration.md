@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/google-anthropic-40-billion-ai-power-concentration.png"
 keywords: ["Google Anthropic investment", "AI industry consolidation", "neuromorphic chips", "Colorado AI regulation", "AI power concentration 2026"]
 published: true
+noindex: true
 ---
 
 Let me walk you through what happened in AI this week, because if you're building anything — a startup, a product, a career — the landscape just shifted beneath your feet.

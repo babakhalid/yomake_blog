@@ -8,6 +8,7 @@ topic: "ai-education"
 image: "/images/blog/generation-ai-education-divide-computing-skills.png"
 keywords: ["AI education divide", "computing skills gap", "generation AI", "digital literacy 2026"]
 published: true
+noindex: true
 ---
 
 # Generation AI Is Here — And We're Already Failing Half of Them

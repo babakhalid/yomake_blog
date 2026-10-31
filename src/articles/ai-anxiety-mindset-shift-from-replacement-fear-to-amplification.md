@@ -9,6 +9,7 @@ topic: "future-of-work"
 image: "/images/blog/ai-anxiety-mindset-shift-from-replacement-fear-to-amplification.png"
 keywords: ["AI anxiety workforce", "AI job displacement fear", "mindset shift AI era", "AI career resilience", "workforce mental health 2026", "AI amplification mindset"]
 published: true
+noindex: true
 ---
 
 Only 22% of the global workforce feels confident their job is safe from AI-driven elimination. For individual contributors — people doing the actual work — that number drops to 18%.

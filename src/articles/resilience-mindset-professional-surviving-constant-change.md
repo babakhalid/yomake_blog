@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/resilience-mindset-professional-surviving-constant-change.png"
 keywords: ["professional resilience 2026", "resilience mindset career", "adapting constant change", "career resilience AI era", "managing change fatigue"]
 published: true
+noindex: true
 ---
 
 # The Resilience Mindset: How to Survive (and Thrive) When Everything Changes Quarterly

@@ -8,6 +8,7 @@ topic: "ai-education"
 image: "/images/blog/ai-literacy-new-core-competency-every-student-needs.png"
 keywords: ["AI literacy education 2026", "AI skills workforce", "teaching AI competency", "AI fluency hiring", "student AI skills gap"]
 published: true
+noindex: true
 ---
 
 # AI Literacy Is the New Core Competency Every Student Needs — And We're Failing to Teach It

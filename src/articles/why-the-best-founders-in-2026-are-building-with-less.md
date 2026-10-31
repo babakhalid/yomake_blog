@@ -8,6 +8,7 @@ topic: "founders"
 image: "/images/blog/why-the-best-founders-in-2026-are-building-with-less.png"
 keywords: ["lean startup 2026", "AI for founders", "bootstrap startup", "startup efficiency", "solopreneur AI tools"]
 published: true
+noindex: true
 ---
 
 # Why the Best Founders in 2026 Are Building With Less

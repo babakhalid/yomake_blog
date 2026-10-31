@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/corporate-ai-replacing-human-moderators-meta-automation.png"
 keywords: ["AI content moderation", "Meta AI automation", "corporate AI replacement", "AI replacing workers", "enterprise automation 2026"]
 published: true
+noindex: true
 ---
 
 # Meta Is Replacing Human Moderators With AI — And Every Corporation Will Follow

@@ -8,6 +8,7 @@ topic: "founders"
 image: "/images/blog/decision-fatigue-ai-paradox-of-choice-founders.png"
 keywords: ["decision fatigue founders", "AI tool overload", "paradox of choice startup", "founder productivity 2026", "cognitive overload entrepreneurs"]
 published: true
+noindex: true
 ---
 
 # The Paradox of Infinite Tools: Why More AI Options Are Making Founders Worse at Deciding

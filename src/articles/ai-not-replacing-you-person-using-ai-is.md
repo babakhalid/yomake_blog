@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/ai-not-replacing-you-person-using-ai-is.png"
 keywords: ["AI career skills 2026", "AI replacing jobs", "AI augmented worker", "AI skills job market", "becoming AI literate professional"]
 published: true
+noindex: true
 ---
 
 # AI Won't Replace You. A Person Using AI Will. Here's How to Be That Person.

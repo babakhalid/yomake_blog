@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/shadow-ai-enterprise-employees-building-behind-it.png"
 keywords: ["shadow AI enterprise", "corporate AI adoption 2026", "enterprise AI governance", "Fortune 500 AI", "AI at work"]
 published: true
+noindex: true
 ---
 
 There's a quiet mutiny happening inside every large corporation right now, and most executives are pretending not to see it.

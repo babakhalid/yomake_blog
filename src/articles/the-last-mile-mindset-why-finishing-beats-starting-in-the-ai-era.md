@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/the-last-mile-mindset-why-finishing-beats-starting-in-the-ai-era.png"
 keywords: ["last mile mindset", "AI productivity", "finishing vs starting", "builder mindset 2026"]
 published: true
+noindex: true
 ---
 
 # The Last Mile Mindset: Why Finishing Beats Starting in the AI Era

@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/apple-google-gemini-distillation-deal-what-it-means-for-ai.png"
 keywords: ["Apple Gemini deal", "AI distillation", "on-device AI", "Apple Intelligence Google"]
 published: true
+noindex: true
 ---
 
 If you blinked this week, you might have missed one of the most consequential AI deals of 2026. And no, it's not another billion-dollar funding round for yet another LLM startup.

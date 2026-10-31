@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/corporate-ai-strategy-theater-roi-accountability-2026.jpg"
 keywords: ["corporate AI strategy", "enterprise AI ROI", "AI strategy theater", "CIO AI priorities 2026", "shadow AI enterprise"]
 published: true
+noindex: true
 ---
 
 # The AI Strategy Theater: Why Most Corporate AI Plans Are Just Expensive Performances

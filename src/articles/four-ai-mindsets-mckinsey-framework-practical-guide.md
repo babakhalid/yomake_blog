@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/four-ai-mindsets-mckinsey-framework-practical-guide.png"
 keywords: ["McKinsey AI mindsets 2026", "AI career development", "curiosity adaptability AI", "professional growth AI era", "AI mindset framework"]
 published: true
+noindex: true
 ---
 
 # The Four AI Mindsets: A Practical Guide to McKinsey's Framework for Thriving in 2026

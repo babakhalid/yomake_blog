@@ -8,6 +8,7 @@ topic: "founders"
 image: "/images/blog/the-80-percent-founder-why-strategic-incompletion-beats-burnout.png"
 keywords: ["founder burnout 2026", "strategic incompletion", "energy banking system", "entrepreneur mental health", "startup burnout prevention"]
 published: true
+noindex: true
 ---
 
 I'm going to say something that will sound like heresy to every "rise and grind" founder on LinkedIn: **you should intentionally leave things unfinished**.

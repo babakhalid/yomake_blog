@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/mental-operating-system-upgrade-clear-thinking-ai-age.png"
 keywords: ["mental operating system", "mental models 2026", "clear thinking AI age", "productivity mindset", "cognitive frameworks"]
 published: true
+noindex: true
 ---
 
 There's a beautiful irony in 2026: as AI gets smarter at *thinking*, the premium on humans who can *think well* has never been higher.

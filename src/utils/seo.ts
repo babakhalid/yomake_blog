@@ -34,6 +34,8 @@ interface PageMetadataInput {
   modifiedTime?: string;
   authors?: string[];
   tags?: string[];
+  /** Keep the page out of the index but let crawlers follow its links. */
+  noindex?: boolean;
 }
 
 // One place for canonical, Open Graph and Twitter tags, so every route gets the
@@ -50,6 +52,7 @@ export function pageMetadata({
   modifiedTime,
   authors,
   tags,
+  noindex,
 }: PageMetadataInput): Metadata {
   const socialTitle = title ? `${title} | ${SITE_NAME}` : `${SITE_NAME} - Ideas, Tutorials & Insights for Building with AI`;
   const images = [{ url: image, ...imageSize, alt: imageAlt ?? title ?? SITE_NAME }];
@@ -62,6 +65,7 @@ export function pageMetadata({
     authors: authors?.map((name) => (name === author.name ? { name, url: `${SITE_URL}/about` } : { name })),
     // Pages replace the layout's `alternates` wholesale, so the RSS link is repeated here.
     alternates: { canonical: path, types: RSS_ALTERNATE },
+    ...(noindex && { robots: { index: false, follow: true } }),
     openGraph: {
       type,
       url: path,

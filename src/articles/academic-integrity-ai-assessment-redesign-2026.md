@@ -8,6 +8,7 @@ topic: "ai-education"
 image: "/images/blog/academic-integrity-ai-assessment-redesign-2026.png"
 keywords: ["academic integrity AI 2026", "AI detection universities", "assessment redesign AI", "student AI use policy", "higher education AI cheating"]
 published: true
+noindex: true
 ---
 
 # The Academic Integrity Crisis: Why Universities Must Redesign Assessment for the AI Era

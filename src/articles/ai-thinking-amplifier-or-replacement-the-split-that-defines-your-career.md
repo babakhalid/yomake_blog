@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/ai-thinking-amplifier-or-replacement-the-split-that-defines-your-career.png"
 keywords: ["AI mindset", "critical thinking AI", "AI productivity trap", "intellectual growth 2026", "AI career strategy"]
 published: true
+noindex: true
 ---
 
 A post hit the top of Hacker News this week with a title that stopped me cold: "AI Should Elevate Your Thinking, Not Replace It." It drew nearly 500 upvotes and over 340 comments — not because it was controversial, but because it named something everyone feels but nobody wants to say out loud.

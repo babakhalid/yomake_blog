@@ -8,6 +8,7 @@ topic: "founders"
 image: "/images/blog/trust-transparency-startup-competitive-advantage-2026.png"
 keywords: ["startup trust transparency 2026", "consumer trust AI", "brand transparency", "privacy by design startups", "trust as competitive advantage"]
 published: true
+noindex: true
 ---
 
 # Trust and Transparency: The Startup Competitive Advantage Nobody's Talking About

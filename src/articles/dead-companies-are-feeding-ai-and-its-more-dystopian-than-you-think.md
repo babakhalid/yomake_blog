@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/dead-companies-are-feeding-ai-and-its-more-dystopian-than-you-think.png"
 keywords: ["AI training data", "SimpleClosure", "dead company data", "reinforcement learning gyms", "AI ethics data sourcing"]
 published: true
+noindex: true
 ---
 
 There's a new industry emerging in Silicon Valley, and it's equal parts fascinating and unsettling: selling the digital remains of dead companies to train artificial intelligence.

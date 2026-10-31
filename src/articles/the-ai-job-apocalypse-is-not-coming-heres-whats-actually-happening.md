@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening.png"
 keywords: ["AI jobs 2026", "AI replacing workers", "career mindset AI", "future of work"]
 published: true
+noindex: true
 ---
 
 # The AI Job Apocalypse Isn't Coming — Here's What's Actually Happening

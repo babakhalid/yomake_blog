@@ -8,6 +8,7 @@ topic: "ai-education"
 image: "/images/blog/kpmg-critical-thinking-over-technical-skills-ai-era.png"
 keywords: ["critical thinking AI era", "KPMG intern program 2026", "soft skills vs technical skills", "future of work mindset"]
 published: true
+noindex: true
 ---
 
 # KPMG Just Told Us What Skills Actually Matter in the AI Era — And It's Not Coding

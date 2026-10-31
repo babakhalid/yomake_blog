@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/corporate-resilience-energy-crisis-2026-lessons.png"
 keywords: ["corporate resilience 2026", "energy crisis business strategy", "oil price impact companies", "corporate adaptability"]
 published: true
+noindex: true
 ---
 
 # What the 2026 Energy Crisis Is Teaching Companies About Real Resilience

@@ -12,11 +12,13 @@ const articles = articlesIndex as ArticleMeta[];
 const ARTICLES_DIR = path.join(process.cwd(), 'src/articles');
 const PUBLIC_DIR = path.join(process.cwd(), 'public');
 
-/** Date every article page last changed materially (visible body, author, hubs). Floors dateModified and sitemap lastmod. */
-export const TEMPLATE_UPDATED = '2026-10-17';
-
 export function getAllArticles(): ArticleMeta[] {
   return articles;
+}
+
+/** Articles meant for search: everything except those marked noindex. */
+export function getIndexableArticles(): ArticleMeta[] {
+  return articles.filter((article) => !article.frontmatter.noindex);
 }
 
 export function getArticleBySlug(slug: string): ArticleMeta | undefined {
@@ -31,10 +33,10 @@ export function getArticlesByTopic(topicSlug: string): ArticleMeta[] {
   return articles.filter((article) => getArticleTopic(article).slug === topicSlug);
 }
 
-/** Last substantive change, floored at the template change so recrawls pick up the new pages. */
+/** Last substantive change. Keep it honest: Google stops trusting lastmod that moves in bulk. */
 export function lastModified(article: ArticleMeta): string {
   const { date, updated } = article.frontmatter;
-  return [updated || date, TEMPLATE_UPDATED].sort().pop()!;
+  return updated || date;
 }
 
 /** The small, serializable shape client components get (cards, filters, lists). */

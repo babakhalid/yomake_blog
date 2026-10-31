@@ -10,6 +10,8 @@ export interface ArticleFrontmatter {
   topic?: string;
   image?: string;
   published?: boolean;
+  /** Kept live for readers and links, but out of the search index and the sitemap. */
+  noindex?: boolean;
 }
 
 export interface ArticleMeta {

@@ -47,6 +47,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     modifiedTime: lastModified(article),
     authors: [frontmatter.author],
     tags: frontmatter.tags,
+    noindex: frontmatter.noindex,
   });
 }
 

@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/meta-avocado-delay-signals-ai-race-shifting.png"
 keywords: ["Meta Avocado AI model", "AI competition 2026", "open source AI", "Google Gemini", "AI development"]
 published: true
+noindex: true
 ---
 
 # Meta's Avocado Delay Signals Something Bigger About the AI Race

@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/oracle-21000-layoffs-enterprise-ai-replacing-workers-not-workflows.png"
 keywords: ["Oracle layoffs AI", "enterprise AI workforce", "corporate AI strategy 2026", "AI job cuts", "enterprise transformation"]
 published: true
+noindex: true
 ---
 
 Let's cut through the corporate comms and say what happened: Oracle fired 21,000 people because it's cheaper to run AI than to pay humans. That's 13% of its entire workforce, gone in twelve months, and the company explicitly said in its [annual regulatory filing](https://www.forbes.com/sites/maryroeloffs/2026/06/23/ai-cost-21000-jobs-at-oracle-this-year-and-more-layoffs-could-be-coming/) that more cuts are coming.

@@ -10,6 +10,7 @@ keywords: ["AI washing", "AI layoffs 2026", "corporate layoffs", "corporate rest
 updated: "2026-10-29"
 updated: "2026-10-29"
 published: true
+noindex: true
 ---
 
 Let me paint you a picture: a Fortune 500 CEO stands on stage, talks about "becoming AI-native," announces 10,000 layoffs, and then watches the stock price tick up. Wall Street applauds. The narrative writes itself — visionary leadership, embracing the future, leaner and meaner.

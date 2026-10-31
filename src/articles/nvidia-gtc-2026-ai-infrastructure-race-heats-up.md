@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/nvidia-gtc-2026-ai-infrastructure-race-heats-up.png"
 keywords: ["Nvidia GTC 2026", "NemoClaw", "AI infrastructure", "AI agents", "Vera Ruben Space"]
 published: true
+noindex: true
 ---
 
 # Nvidia GTC 2026: The AI Infrastructure Race Just Entered a New Phase

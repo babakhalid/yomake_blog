@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/openai-aws-deal-end-of-cloud-exclusivity-ai-infrastructure.png"
 keywords: ["OpenAI AWS deal", "Azure exclusivity ends", "AI cloud infrastructure", "Bedrock Managed Agents", "multi-cloud AI"]
 published: true
+noindex: true
 ---
 
 # OpenAI Just Broke Free From Azure — And the AI Cloud Wars Will Never Be the Same

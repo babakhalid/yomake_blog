@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/ai-transparency-crisis-2026-companies-cant-be-honest.png"
 keywords: ["AI transparency", "Anthropic Mythos leak", "Google TurboQuant", "AI industry honesty", "open source AI"]
 published: true
+noindex: true
 ---
 
 # The AI Transparency Crisis: Why Companies That Preach Openness Can't Be Honest With Each Other

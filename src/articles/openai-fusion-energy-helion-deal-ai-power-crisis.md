@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/openai-fusion-energy-helion-deal-ai-power-crisis.png"
 keywords: ["OpenAI fusion energy", "Helion Energy deal", "AI power consumption", "Sam Altman Helion", "AI infrastructure crisis"]
 published: true
+noindex: true
 ---
 
 # OpenAI Wants to Buy Fusion Energy — And That Should Tell You Everything About AI's Power Problem

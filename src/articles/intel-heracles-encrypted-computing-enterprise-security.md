@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/intel-heracles-encrypted-computing-enterprise-security.svg"
 keywords: ["fully homomorphic encryption", "Intel Heracles", "enterprise data security", "encrypted computing", "FHE accelerator"]
 published: true
+noindex: true
 ---
 
 # Intel's Heracles Chip Just Made Encrypted Computing 5,000x Faster — Here's Why Every Enterprise Should Care

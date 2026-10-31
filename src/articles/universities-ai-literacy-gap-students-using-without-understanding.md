@@ -8,6 +8,7 @@ topic: "ai-education"
 image: "/images/blog/universities-ai-literacy-gap-students-using-without-understanding.png"
 keywords: ["AI literacy gap", "students using AI", "university AI policy", "higher education AI training", "Stanford AIMES", "AI in education 2026"]
 published: true
+noindex: true
 ---
 
 Here's a number that should make every university administrator uncomfortable: over 90% of college students are now using AI in their studies. And here's the part that should keep them up at night — the vast majority of those students have received zero formal training on how to use it effectively, ethically, or even safely.

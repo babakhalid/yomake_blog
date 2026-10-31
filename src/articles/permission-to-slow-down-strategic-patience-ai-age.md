@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/permission-to-slow-down-strategic-patience-ai-age.png"
 keywords: ["strategic patience 2026", "slow down AI age", "deliberate thinking career", "mindful professional development", "strategic thinking AI era"]
 published: true
+noindex: true
 ---
 
 # Permission to Slow Down: Why Strategic Patience Is the Most Underrated Skill in the AI Age

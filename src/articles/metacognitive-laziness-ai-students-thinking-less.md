@@ -8,6 +8,7 @@ topic: "ai-education"
 image: "/images/blog/metacognitive-laziness-ai-students-thinking-less.png"
 keywords: ["metacognitive laziness AI", "AI students critical thinking", "OECD education AI 2026", "AI impact learning", "student cognitive skills AI"]
 published: true
+noindex: true
 ---
 
 # Metacognitive Laziness: Are AI Tools Making Students Think Less?

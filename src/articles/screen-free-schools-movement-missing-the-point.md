@@ -8,6 +8,7 @@ topic: "ai-education"
 image: "/images/blog/screen-free-schools-movement-missing-the-point.png"
 keywords: ["screen-free schools", "education technology", "screen time debate", "edtech policy", "digital literacy"]
 published: true
+noindex: true
 ---
 
 # The Screen-Free Schools Movement Is Missing the Point

@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/anthropic-trillion-dollar-valuation-what-it-signals-about-ai-industry.png"
 keywords: ["Anthropic funding", "AI industry 2026", "AI valuation", "Claude AI", "AI infrastructure"]
 published: true
+noindex: true
 ---
 
 Let that number sink in: **$965 billion**.

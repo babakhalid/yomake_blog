@@ -8,6 +8,7 @@ topic: "ai-education"
 image: "/images/blog/specialized-educational-ai-end-of-one-size-fits-all-learning.png"
 keywords: ["specialized educational AI", "AI tutoring platforms 2026", "personalized learning AI", "edtech trends"]
 published: true
+noindex: true
 ---
 
 There's a quiet revolution happening in education, and it has nothing to do with making ChatGPT available in classrooms.

@@ -8,6 +8,7 @@ topic: "founders"
 image: "/images/blog/building-ai-products-without-raising-millions.png"
 keywords: ["bootstrap AI startup 2026", "bootstrapped AI business", "AI product without funding", "profitable AI startup", "no-code AI product"]
 published: true
+noindex: true
 ---
 
 # Building AI Products Without Raising Millions: The Bootstrap Founder's Guide for 2026

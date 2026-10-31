@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/enterprise-ai-co-innovation-why-corporations-are-finally-getting-adoption-right.png"
 keywords: ["enterprise AI adoption", "co-innovation", "corporate AI strategy 2026", "AI transformation", "enterprise digital transformation"]
 published: true
+noindex: true
 ---
 
 For three years, enterprises have been fumbling AI adoption. Proof of concepts that never ship. Internal AI teams that build demos but not products. Grand transformation strategies that produce PowerPoint decks and not much else.

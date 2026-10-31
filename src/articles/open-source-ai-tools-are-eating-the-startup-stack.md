@@ -8,6 +8,7 @@ topic: "founders"
 image: "/images/blog/open-source-ai-tools-are-eating-the-startup-stack.png"
 keywords: ["open source AI tools 2026", "startup tech stack", "OpenCode AI", "open source coding agent", "Mamba-3", "startup infrastructure"]
 published: true
+noindex: true
 ---
 
 # Open Source AI Tools Are Eating the Startup Stack

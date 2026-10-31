@@ -8,6 +8,7 @@ topic: "ai-education"
 image: "/images/blog/ai-literacy-framework-teaching-students-think-not-just-prompt.png"
 keywords: ["AI literacy framework", "OECD AI education", "EU AI literacy", "AI in schools", "student critical thinking AI"]
 published: true
+noindex: true
 ---
 
 On June 18, the European Commission and the OECD quietly dropped something that might reshape education for the next decade: the [AI Literacy (AILit) Framework for Primary and Secondary Education](https://education.ec.europa.eu/whats-new/news/new-ai-literacy-framework-helps-schools-prepare-learners-for-the-age-of-artificial-intelligence). It's the first global attempt at defining what every student — from elementary school through high school — should actually *know* about AI.

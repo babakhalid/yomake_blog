@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/ai-leadership-wall-career-ladder-mindset-shift-2026.png"
 keywords: ["AI leadership crisis", "career ladder AI", "mindset shift 2026", "burnout AI age", "Gen Z entry level jobs AI"]
 published: true
+noindex: true
 ---
 
 Here's the uncomfortable truth nobody in your C-suite wants to say out loud: AI isn't just changing how we work — it's destroying the very mechanism that produced competent leaders in the first place.

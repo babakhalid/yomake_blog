@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/ai-research-pipeline-literature-review-to-publication.png"
 keywords: ["AI academic research 2026", "AI literature review", "AI research publication", "AI tools researchers", "academic research pipeline AI"]
 published: true
+noindex: true
 ---
 
 # How AI Is Rewriting the Research Pipeline: From Literature Review to Publication

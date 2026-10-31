@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/the-overthinking-trap-why-smart-people-build-nothing.png"
 keywords: ["overthinking productivity", "analysis paralysis", "builder mindset", "shipping products", "perfectionism trap", "mindset for entrepreneurs"]
 published: true
+noindex: true
 ---
 
 # The Overthinking Trap: Why Smart People Build Nothing

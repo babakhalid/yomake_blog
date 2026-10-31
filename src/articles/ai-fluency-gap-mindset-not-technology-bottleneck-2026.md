@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/ai-fluency-gap-mindset-not-technology-bottleneck-2026.png"
 keywords: ["AI fluency", "growth mindset", "employee engagement 2026", "leadership mindset", "AI productivity gap"]
 published: true
+noindex: true
 ---
 
 Here's a stat that should make every executive uncomfortable: according to [Gallup's 2026 State of the Global Workplace report](https://www.gallup.com/workplace/708071/global-employee-engagement-continues-decline.aspx), global employee engagement has dropped to 20% — the lowest since 2020. That decline cost the world economy approximately **$10 trillion** in lost productivity last year. That's 9% of global GDP, vanishing into the void of disengaged workers.

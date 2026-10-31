@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/corporate-america-is-breaking-up-with-gen-z-and-gen-z-doesnt-care.png"
 keywords: ["gen z careers", "entry level jobs disappearing", "AI layoffs 2026", "future of work", "corporate ladder broken"]
 published: true
+noindex: true
 ---
 
 Something quietly historic is happening in the American labor market, and it's not the AI layoffs everyone's talking about — though those are part of the story.

@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/cognitive-load-distribution-how-to-think-less-and-decide-better-2026.png"
 keywords: ["cognitive load distribution", "decision fatigue founders", "mindset 2026", "AI decision making", "intentional leadership"]
 published: true
+noindex: true
 ---
 
 I'm going to say something that sounds counterintuitive: the most productive people in 2026 aren't thinking more. They're thinking *less*.

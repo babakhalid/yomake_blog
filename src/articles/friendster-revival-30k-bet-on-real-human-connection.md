@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/friendster-revival-30k-bet-on-real-human-connection.png"
 keywords: ["Friendster revival", "social network startup", "domain acquisition strategy", "in-person social network", "startup entrepreneurship 2026"]
 published: true
+noindex: true
 ---
 
 There's a story making the rounds right now that perfectly captures what entrepreneurship looks like in 2026 — and it doesn't involve raising $50 million or building another AI wrapper.

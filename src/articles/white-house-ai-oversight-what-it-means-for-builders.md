@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/white-house-ai-oversight-what-it-means-for-builders.png"
 keywords: ["AI regulation 2026", "White House AI oversight", "AI model vetting", "AI safety policy"]
 published: true
+noindex: true
 ---
 
 # The White House Wants to Vet AI Models Before Release — Here's What It Means for Builders

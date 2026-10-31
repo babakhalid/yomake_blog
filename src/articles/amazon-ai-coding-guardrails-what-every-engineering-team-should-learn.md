@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/amazon-ai-coding-guardrails-what-every-engineering-team-should-learn.png"
 keywords: ["AI coding guardrails", "AI assisted development", "Amazon AWS outages AI", "AI code review", "engineering best practices AI"]
 published: true
+noindex: true
 ---
 
 # Amazon Just Put Guardrails on AI Coding — Here's What Every Engineering Team Should Learn

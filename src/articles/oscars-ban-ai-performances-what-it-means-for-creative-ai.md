@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/oscars-ban-ai-performances-what-it-means-for-creative-ai.png"
 keywords: ["Oscars AI ban", "Academy Awards AI rules", "artificial intelligence creativity", "AI generated content", "human authorship AI"]
 published: true
+noindex: true
 ---
 
 # The Oscars Just Banned AI Performances — And It Reveals Something Bigger About Creative AI

@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/vertical-ai-unsexy-industries-biggest-opportunities.png"
 keywords: ["vertical AI startups 2026", "industry-specific AI", "vertical AI opportunities", "domain expertise AI", "niche AI applications"]
 published: true
+noindex: true
 ---
 
 # Vertical AI: Why the Biggest Opportunities Are in the Most Unsexy Industries

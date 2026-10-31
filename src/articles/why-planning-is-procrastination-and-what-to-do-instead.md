@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/why-planning-is-procrastination-and-what-to-do-instead.png"
 keywords: ["planning vs doing", "procrastination", "productivity mindset", "Oliver Burkeman", "time management"]
 published: true
+noindex: true
 ---
 
 There's a particular breed of procrastination that disguises itself so well that most people never catch it. It wears a blazer. It carries a Notion template. It looks, to everyone around you, like *work*.

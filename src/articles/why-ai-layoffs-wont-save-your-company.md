@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/why-ai-layoffs-wont-save-your-company.png"
 keywords: ["AI layoffs", "corporate transformation", "AI strategy", "workforce automation", "CEO mandate"]
 published: true
+noindex: true
 ---
 
 There's a playbook spreading through boardrooms right now that goes something like this: announce an AI initiative, cut 20% of headcount, declare transformation achieved, watch stock price bump. Rinse, repeat.

@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/why-your-digital-transformation-needs-three-leaders-not-one.png"
 keywords: ["digital transformation leadership", "corporate innovation strategy", "MIT CISR research 2026", "portfolio leaders", "enterprise AI adoption"]
 published: true
+noindex: true
 ---
 
 Here's a pattern I keep seeing in companies struggling with digital transformation: they appoint a single leader — a Chief Digital Officer, a VP of Innovation, a Head of AI — hand them a budget and a mandate, and wait for magic to happen.

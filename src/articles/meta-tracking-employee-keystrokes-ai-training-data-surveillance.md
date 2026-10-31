@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/meta-tracking-employee-keystrokes-ai-training-data-surveillance.png"
 keywords: ["Meta AI training data", "employee surveillance AI", "keystroke tracking workplace", "AI ethics 2026", "Meta mouse tracking"]
 published: true
+noindex: true
 ---
 
 There's a Reuters exclusive making the rounds this week that stopped me mid-scroll: **Meta is rolling out a program to capture its employees' mouse movements, keystrokes, and screen interactions** — all to feed its AI training pipeline.

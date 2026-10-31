@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/ai-upskilling-corporate-billions-wasted-what-works.png"
 keywords: ["corporate AI training 2026", "AI upskilling programs", "employee AI training", "workforce AI skills", "corporate AI adoption"]
 published: true
+noindex: true
 ---
 
 # Companies Are Spending Billions on AI Training. Most of It Will Fail.

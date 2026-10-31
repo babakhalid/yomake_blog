@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/stop-waiting-to-feel-ready-the-myth-of-the-perfect-moment.png"
 keywords: ["confidence mindset", "stop waiting to feel ready", "imposter syndrome entrepreneurs", "action over analysis", "leadership confidence"]
 published: true
+noindex: true
 ---
 
 There's a moment most ambitious people know intimately. You've done the research. You've mapped the plan. You know what needs to happen next. And yet — you don't move.

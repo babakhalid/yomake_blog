@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/sky-mind-career-resilience-energy-not-endurance-2026.png"
 keywords: ["sky mind resilience", "career resilience 2026", "energy management work", "intelligent grit", "burnout prevention"]
 published: true
+noindex: true
 ---
 
 # The Sky Mind Framework: Why Career Resilience in 2026 Is About Energy, Not Endurance

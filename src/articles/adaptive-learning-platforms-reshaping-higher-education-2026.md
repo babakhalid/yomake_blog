@@ -8,6 +8,7 @@ topic: "ai-education"
 image: "/images/blog/adaptive-learning-platforms-reshaping-higher-education-2026.png"
 keywords: ["adaptive learning platforms 2026", "AI higher education", "personalized learning AI", "edtech trends 2026", "university AI adoption"]
 published: true
+noindex: true
 ---
 
 # Adaptive Learning Platforms Are Reshaping Higher Education — And Most Schools Aren't Ready

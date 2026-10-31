@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/jd-com-joybuy-europe-amazon-challenger.png"
 keywords: ["JD.com Joybuy Europe", "Amazon competitor", "e-commerce strategy 2026", "corporate expansion"]
 published: true
+noindex: true
 ---
 
 # JD.com Just Launched Joybuy in Europe — And Amazon Should Be Nervous

@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/ai-mega-rounds-65-billion-anthropic-what-it-means.png"
 keywords: ["Anthropic funding 2026", "AI mega rounds venture capital", "AI startup funding", "venture capital AI concentration", "startup funding landscape 2026"]
 published: true
+noindex: true
 ---
 
 # Anthropic's $65B Round and the AI Funding Frenzy: What It Means for Everyone Else

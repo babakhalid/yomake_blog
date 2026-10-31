@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/the-leadership-paradox-why-the-most-successful-people-have-the-worst-days.png"
 keywords: ["leadership paradox", "gallup 2026 workplace report", "leader burnout", "emotional cost of leadership", "leadership wellbeing"]
 published: true
+noindex: true
 ---
 
 There's a story we tell ourselves about success. Get promoted. Lead the team. Make the big decisions. And then — presumably — feel great about it.

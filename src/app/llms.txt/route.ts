@@ -34,7 +34,7 @@ export function GET() {
   };
 
   const sections = topics.map((topic) => {
-    const lines = getArticlesByTopic(topic.slug).map(
+    const lines = getArticlesByTopic(topic.slug).filter((article) => !article.frontmatter.noindex).map(
       (article) => `- [${article.frontmatter.title}](${SITE_URL}/articles/${article.slug})`,
     );
     return `### [${topic.name}](${SITE_URL}/topics/${topic.slug})\n\n${topic.description}\n\n${lines.join('\n')}`;

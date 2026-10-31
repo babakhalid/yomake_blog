@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/stop-optimizing-start-doing-clarity-over-perfection.png"
 keywords: ["analysis paralysis", "clarity over perfection", "productivity mindset", "overthinking solutions", "success criteria"]
 published: true
+noindex: true
 ---
 
 There's a particular kind of failure that doesn't look like failure at all. It looks like research. It looks like preparation. It looks like being thorough.

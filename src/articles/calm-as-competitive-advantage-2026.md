@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/calm-as-competitive-advantage-2026.png"
 keywords: ["calm mindset", "productivity 2026", "builder mindset", "avoiding burnout", "mental resilience"]
 published: true
+noindex: true
 ---
 
 # Calm as a Competitive Advantage: Why the Best Builders Stay Centered

@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/cognitive-surrender-when-ai-thinks-for-you-system-3.png"
 keywords: ["cognitive surrender AI", "System 3 thinking", "AI mindset", "cognitive debt", "thinking with AI 2026"]
 published: true
+noindex: true
 ---
 
 There's a concept making waves in the research world right now that I think every builder, creator, and knowledge worker needs to understand. It's called **cognitive surrender**, and if you use AI tools daily — which, let's be honest, most of us do — it might already be happening to you.

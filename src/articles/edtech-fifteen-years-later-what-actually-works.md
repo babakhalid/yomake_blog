@@ -8,6 +8,7 @@ topic: "ai-education"
 image: "/images/blog/edtech-fifteen-years-later-what-actually-works.svg"
 keywords: ["edtech effectiveness", "AI in education", "learning technology research", "education reform", "digital learning"]
 published: true
+noindex: true
 ---
 
 # Fifteen Years and Billions Later: EdTech's Honest Reckoning With What Actually Works

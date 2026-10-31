@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/your-brain-is-not-broken-overthinking-epidemic-2026.png"
 keywords: ["overthinking", "productivity mindset", "cognitive overload", "boredom productivity", "mental health work"]
 published: true
+noindex: true
 ---
 
 # Your Brain Isn't Broken: The Overthinking Epidemic and What to Do About It

@@ -8,6 +8,7 @@ topic: "ai-education"
 image: "/images/blog/can-ai-teach-college-students-to-disagree-without-destroying-each-other.png"
 keywords: ["AI constructive dialogue", "campus polarization", "AI education tools", "college students political divide", "Constructive Dialogue Institute"]
 published: true
+noindex: true
 ---
 
 Here's a stat that should make every educator uncomfortable: the share of college students who say they're uncomfortable sharing their political views on campus jumped from 13% to 33% between 2015 and 2024. That's not a blip — it's a full third of students self-censoring during what's supposed to be the most intellectually open period of their lives.

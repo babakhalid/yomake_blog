@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/ai-worker-power-who-decides-how-ai-changes-your-job.png"
 keywords: ["AI worker rights 2026", "worker power AI adoption", "IPPR AI report", "AI workplace impact", "AI consultation workers"]
 published: true
+noindex: true
 ---
 
 # Who Decides How AI Changes Your Job? The Worker Power Question We're Ignoring

@@ -8,6 +8,7 @@ topic: "ai-education"
 image: "/images/blog/ai-research-geopolitical-split-what-universities-must-do.png"
 keywords: ["AI research geopolitics", "university AI collaboration", "China AI research", "academic AI independence"]
 published: true
+noindex: true
 ---
 
 # AI Research Is Splitting Along Geopolitical Lines — And Universities Are Caught in the Middle

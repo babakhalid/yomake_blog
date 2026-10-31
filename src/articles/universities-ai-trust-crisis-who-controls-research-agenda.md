@@ -8,6 +8,7 @@ topic: "ai-education"
 image: "/images/blog/universities-ai-trust-crisis-who-controls-research-agenda.png"
 keywords: ["AI in higher education", "university research funding", "trusted AI", "THE Asia Universities Summit 2026", "education research crisis"]
 published: true
+noindex: true
 ---
 
 This week, university leaders gathered at HKUST for the Times Higher Education Asia Universities Summit 2026. The headline topic? "Trusted AI in Higher Education and Research." Meanwhile, across the Pacific, the US Institute of Education Sciences (IES) is on track to lose $289 million in education research funding before September. Faculty are fleeing red states over academic freedom concerns. The humanities are shrinking so fast that CUNY just launched an emergency $250K scholarship fund to keep undergrads in the field.

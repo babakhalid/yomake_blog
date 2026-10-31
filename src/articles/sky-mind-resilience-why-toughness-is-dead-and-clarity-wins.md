@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/sky-mind-resilience-why-toughness-is-dead-and-clarity-wins.jpg"
 keywords: ["sky mind resilience", "career resilience 2026", "growth mindset", "mental clarity at work", "stress management career"]
 published: true
+noindex: true
 ---
 
 There's a persistent lie circulating in every productivity space, leadership podcast, and LinkedIn motivational post: that resilience means enduring more. That the person who survives the most pressure wins. That grit is just a fancy word for suffering longer than the next person.

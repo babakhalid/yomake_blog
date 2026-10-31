@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/the-cfo-is-the-new-ceo-how-corporate-strategy-shifted-in-2026.png"
 keywords: ["CFO strategy", "corporate leadership 2026", "C-suite transformation", "financial strategy", "corporate governance"]
 published: true
+noindex: true
 ---
 
 Something quietly shifted in corporate America over the past eighteen months, and most people haven't noticed yet. The person actually calling the shots in Fortune 500 boardrooms isn't the CEO. It's the CFO.

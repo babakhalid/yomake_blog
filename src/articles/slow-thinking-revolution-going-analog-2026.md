@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/slow-thinking-revolution-going-analog-2026.png"
 keywords: ["slow thinking", "analog movement 2026", "digital detox productivity", "deep work mindset", "typewriter classroom"]
 published: true
+noindex: true
 ---
 
 # The Slow Thinking Revolution: Why the Smartest People in 2026 Are Going Analog

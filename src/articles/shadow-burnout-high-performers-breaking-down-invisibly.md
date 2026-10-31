@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/shadow-burnout-high-performers-breaking-down-invisibly.png"
 keywords: ["shadow burnout", "founder burnout", "entrepreneur mental health", "high performer burnout", "startup burnout recovery"]
 published: true
+noindex: true
 ---
 
 Let me describe someone you probably know. Maybe it's you.

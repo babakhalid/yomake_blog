@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/mental-fitness-replacing-hustle-culture-2026.jpg"
 keywords: ["mental fitness 2026", "hustle culture dead", "workplace mental health", "productivity mindset", "burnout prevention"]
 published: true
+noindex: true
 ---
 
 Here's a take that would've gotten you laughed out of a startup pitch in 2019: **the most productive thing you can do is stop trying to be productive.**

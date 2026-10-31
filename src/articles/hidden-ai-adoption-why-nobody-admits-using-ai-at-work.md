@@ -8,6 +8,7 @@ topic: "future-of-work"
 image: "/images/blog/hidden-ai-adoption-why-nobody-admits-using-ai-at-work.png"
 keywords: ["AI adoption mindset", "using AI at work", "AI stigma", "productivity with AI", "AI in music production"]
 published: true
+noindex: true
 ---
 
 # The Secret AI Users: Why Nobody Admits They're Using AI — And Why That Mindset Needs to Change

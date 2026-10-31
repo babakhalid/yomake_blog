@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/stop-mandating-ai-adoption-let-your-team-lead-the-way.png"
 keywords: ["AI adoption strategy", "employee-led AI", "mindset shift leadership", "bottom-up innovation", "AI implementation"]
 published: true
+noindex: true
 ---
 
 # Stop Mandating AI Adoption — Let Your Team Lead the Way

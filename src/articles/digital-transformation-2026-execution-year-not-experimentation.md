@@ -8,6 +8,7 @@ topic: "ai-industry"
 image: "/images/blog/digital-transformation-2026-execution-year-not-experimentation.png"
 keywords: ["digital transformation 2026 execution", "enterprise AI deployment", "corporate transformation strategy", "digital transformation ROI", "AI enterprise adoption 2026"]
 published: true
+noindex: true
 ---
 
 # 2026 Is the Year of Execution: Why Digital Transformation Finally Got Serious

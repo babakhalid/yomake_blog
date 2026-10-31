@@ -8,6 +8,7 @@ topic: "founders"
 image: "/images/blog/zuckerberg-ai-ceo-agent-future-of-founders.png"
 keywords: ["Zuckerberg AI CEO agent", "AI agents for founders", "future of CEO role", "Meta AI agent", "AI entrepreneurship"]
 published: true
+noindex: true
 ---
 
 # Zuckerberg Is Building an AI Agent to Do His Job as CEO — Here's Why Every Founder Should Pay Attention
