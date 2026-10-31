@@ -2,6 +2,7 @@
 title: "White Label AI Website Builder for Agencies (2026 Guide)"
 description: "White label AI website builder guide for agencies: what white label means, a delivery checklist, and how to ship client sites under your brand with Youmake."
 date: "2026-10-27"
+updated: "2026-10-31"
 author: "Khalid BABA"
 tags: ["Agencies", "White Label", "AI Website Builder", "Youmake"]
 topic: "founders"
@@ -68,6 +69,8 @@ For ongoing client work that needs logins and shared files, pair the site with a
 Price the outcome, not the hours the builder saved you. A client is buying a site that brings in inquiries, plus someone who answers when it breaks. Many agencies split the work into a fixed build fee and a monthly care fee for updates and monitoring.
 
 On the tool side, Youmake has no free plan. There is a 3-day trial for $1 (card required), then Starter at $20 per month (40 credits, or $16 per month billed yearly), Builder at $45 (90 credits) and Agency at $120. Team seats are available from Builder up. Credits are used per change, so a tight brief and focused edits keep cost per client down. See the [Youmake site](https://www.youmake.dev/) for current plan details before you quote a client.
+
+If you want to turn this into a business, our [Lovable agency guide](/articles/lovable-agency) covers what clients buy, pricing and the hand-off.
 
 ## Honest limits
 
