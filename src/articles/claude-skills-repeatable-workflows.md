@@ -2,6 +2,7 @@
 title: "Skills Feature: Teaching Claude Repeatable Workflows for Consistent Results"
 description: "Learn how Claude's Skills feature enables teams to create standardized, repeatable workflows that ensure consistency across common tasks like code review, documentation, and deployment."
 date: "2026-01-13"
+updated: "2026-11-01"
 author: "Khalid BABA"
 tags: ["Claude Skills", "Workflow Automation", "AI Productivity", "Developer Tools", "Team Collaboration"]
 topic: "ai-agents-tools"
@@ -10,6 +11,8 @@ published: true
 ---
 
 Every team develops preferred approaches for common tasks—specific code review criteria, documentation formats, deployment checklists, and communication styles. Claude's Skills feature captures these preferences, enabling consistent execution of routine tasks without requiring detailed instructions each time.
+
+Skills have since become an open format: see how the [Agent Skills open standard](/articles/agent-skills-open-standard) moved to the Linux Foundation's AAIF in October 2026.
 
 ## What Are Skills?
 

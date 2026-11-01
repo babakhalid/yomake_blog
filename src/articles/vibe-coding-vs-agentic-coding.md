@@ -2,6 +2,7 @@
 title: "Vibe Coding vs Agentic Coding: Which One Should You Use?"
 description: "Vibe coding vs agentic coding explained for builders: how each works, where each breaks, and a simple rule for choosing, with a prompt to try in Youmake."
 date: "2026-10-26"
+updated: "2026-11-01"
 author: "Khalid BABA"
 tags: ["Vibe Coding", "Agentic Coding", "AI Agents", "Guide"]
 topic: "ai-agents-tools"
@@ -99,6 +100,8 @@ Yes, and most people do. Vibe code the interface, hand the multi-file logic to a
 
 - Youmake product overview: https://www.youmake.dev/
 - Youmake code ownership: https://www.youmake.dev/features/code-ownership
+
+If you delegate work to agents, the [Agent Skills open standard](/articles/agent-skills-open-standard) shows how to write reusable instructions that work across platforms.
 
 *Facts checked on October 26, 2026.*
 ---
