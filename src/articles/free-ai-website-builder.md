@@ -2,7 +2,7 @@
 title: "Free AI Website Builders in 2026: What's Actually Free (and When to Pay)"
 description: "Which AI website builders are actually free in 2026? We compare the free plans of Framer, Wix, Durable, Lovable, Bolt.new, v0, Base44 and Hostinger Horizons: what you get, the catch, and when paying makes sense. Checked October 2026."
 date: "2026-10-15"
-updated: "2026-10-27"
+updated: "2026-11-05"
 author: "Khalid BABA"
 tags: ["AI Website Builder", "Free Tools", "Web Development", "Vibe Coding", "Comparison"]
 topic: "vibe-coding"
@@ -13,7 +13,7 @@ published: true
 
 You want a website, you'd like AI to do the heavy lifting, and you'd rather not pay yet. Good news: several AI website builders have genuinely usable free plans in 2026. The catch is that "free" almost always means **a subdomain, a badge, or a usage cap**.
 
-This guide shows what each free plan actually includes, checked on the vendors' own pricing pages on **October 15, 2026**, and when it's worth paying.
+This guide shows what each free plan actually includes, checked on the vendors' own pricing pages on **October 15, 2026**, and when it's worth paying. If you are building an app rather than a site, see [free vibe coding tools](/articles/free-vibe-coding-tools).
 
 > **Disclosure:** this guide is published by Youmake. Youmake does **not** have a free plan (it offers a 3-day trial for $1), so it isn't ranked among the free options below. We explain where it fits at the end.
 
