@@ -2,7 +2,7 @@
 title: "Vibe Coding vs Agentic Coding: Which One Should You Use?"
 description: "Vibe coding vs agentic coding explained for builders: how each works, where each breaks, and a simple rule for choosing, with a prompt to try in Youmake."
 date: "2026-10-26"
-updated: "2026-11-01"
+updated: "2026-11-08"
 author: "Khalid BABA"
 tags: ["Vibe Coding", "Agentic Coding", "AI Agents", "Guide"]
 topic: "ai-agents-tools"
@@ -44,6 +44,8 @@ Vibe coding breaks when the project outgrows what you can judge by eye. Authenti
 Agentic coding breaks when the brief is vague or the checks are weak. An agent that cannot tell whether it succeeded will report success anyway. A big change you approve without reading is a liability, because you are now responsible for code you never saw. Once an agent-built app is live, you also need a plan for watching it, which is what [monitoring a vibe-coded app in production](/articles/monitor-vibe-coded-app-production) is about.
 
 ## A simple rule for choosing
+
+If you landed here because you were comparing editors, our [Cursor alternative for non-developers](/articles/cursor-alternative) guide covers when a builder fits better.
 
 Ask two questions.
 
