@@ -2,7 +2,7 @@
 title: "Vibe Coding Project Ideas: 7 Builds to Ship This Week"
 description: "Vibe coding project ideas for founders and side-project builders: 7 small apps you can ship in a weekend, with a sample prompt to paste into Youmake for each."
 date: "2026-10-19"
-updated: "2026-10-25"
+updated: "2026-11-11"
 author: "Khalid BABA"
 tags: ["Vibe Coding", "Project Ideas", "Founders", "MVP", "Youmake"]
 topic: "founders"
@@ -22,7 +22,7 @@ Use three filters before you open any tool:
 2. **One job.** If you need the word "and" to describe the app, cut one half.
 3. **Something you would use or sell.** A project you care about gets finished. A tutorial clone does not.
 
-For founders, there is a fourth filter: can a stranger pay for it, or at least sign up? Projects that end in an email list or a booking give you a real signal. Projects that end in a screenshot do not. This is the same logic behind the [solo founder playbook](/articles/solo-founder-era-one-person-startup-ai-tools-2026): ship small, learn from real people, repeat.
+For founders, there is a fourth filter: can a stranger pay for it, or at least sign up? Projects that end in an email list or a booking give you a real signal. Projects that end in a screenshot do not. This is the same logic behind the [solo founder playbook](/articles/solo-founder-era-one-person-startup-ai-tools-2026): ship small, learn from real people, repeat. For a recent example of a narrow product paying off, see [what founders can learn from OpenAI acquiring Odessia](/articles/openai-acquires-odessia), 27 days after its public launch.
 
 ## 7 vibe coding project ideas
 
