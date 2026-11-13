@@ -2,6 +2,7 @@
 title: "AI Web App Builder: 6 Checks Before You Pick One"
 description: "An AI web app builder should give you logins, a database, your own domain and your code. Six checks to run before you commit, plus a first build in Youmake."
 date: "2026-10-30"
+updated: "2026-11-13"
 author: "Khalid BABA"
 tags: ["AI Web App Builder", "Vibe Coding", "Youmake"]
 topic: "vibe-coding"
@@ -15,7 +16,7 @@ If you are still comparing the whole field, start with our [best AI app builders
 
 ## What is the difference between a website builder and a web app builder?
 
-A website mostly shows information. A web app lets people do something: sign in, save data, pay, submit a request, see their own records. Many AI tools produce the first very well and stumble on the second.
+A website mostly shows information. A web app lets people do something: sign in, save data, pay, submit a request, see their own records. Many AI tools produce the first very well and stumble on the second. Some stop at a clickable prototype, as our guide to [what Adobe Firefly Builder makes](/articles/adobe-firefly-builder) explains.
 
 | You want | You need |
 |---|---|
