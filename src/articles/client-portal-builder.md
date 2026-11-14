@@ -2,7 +2,7 @@
 title: "Client Portal Builder: Make One With AI, No Code"
 description: "Client portal builder guide for freelancers and agencies: what to include, a prompt to paste into Youmake, and how to white label and hand it off."
 date: "2026-10-21"
-updated: "2026-10-29"
+updated: "2026-11-14"
 author: "Khalid BABA"
 tags: ["Client Portal", "Freelancers", "Agencies", "No-Code", "Youmake"]
 topic: "future-of-work"
@@ -24,7 +24,7 @@ A client portal is a login-protected web app where one client sees only their ow
 - Invoices or a link to pay them
 - A message thread, so decisions live in one place
 
-You need one when you handle more than a few clients at once and keep answering "where is that file?" or "what is the status?". Freelancers use portals to look more established and to cut status emails. Agencies use them to keep many clients organized under one brand. Both groups are part of the shift covered in our [Work, Careers & Mindset hub](/topics/future-of-work), where people turn skills into small, repeatable offers.
+You need one when you handle more than a few clients at once and keep answering "where is that file?" or "what is the status?". Freelancers use portals to look more established and to cut status emails. Agencies use them to keep many clients organized under one brand. Recent Upwork data on [AI freelance projects](/articles/ai-freelance-projects) shows clients posting wider, multi-part jobs, which means more files and approvals to track. Both groups are part of the shift covered in our [Work, Careers & Mindset hub](/topics/future-of-work), where people turn skills into small, repeatable offers.
 
 ## Build, buy or use a template?
 

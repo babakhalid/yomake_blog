@@ -2,6 +2,7 @@
 title: "Microsoft Voluntary Exit Offer: What to Build Next"
 description: "Microsoft's Voluntary Exit Offer reaches about 60,000 employees. What it means if you're considering leaving, and a site you can build with Youmake this week."
 date: "2026-10-29"
+updated: "2026-11-14"
 author: "Khalid BABA"
 tags: ["Microsoft", "Careers", "Freelancing", "Side Business"]
 topic: "future-of-work"
@@ -28,7 +29,7 @@ Microsoft's post does not mention AI. Some coverage frames the offer against AI 
 
 A buyout is a rare moment when a skilled person gets a lump of runway and a deadline. The people who do best with it tend to have a clear next step lined up. That usually means an offer they can describe in one sentence and a place to send people.
 
-AI app builders have cut the cost of that second part. The skills Microsoft staff already have, such as program management, cloud architecture, security, sales engineering and training, are things small businesses buy. What those workers often lack is a professional web presence and a way to deliver work to clients. If you have been following the wider debate, our pieces on [AI-washing in layoffs](/articles/ai-washing-layoffs-corporate-americas-favorite-excuse) and [what is actually happening to AI jobs](/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening) cover the labor-market side. This one is about the practical next step.
+AI app builders have cut the cost of that second part. The skills Microsoft staff already have, such as program management, cloud architecture, security, sales engineering and training, are things small businesses buy. What those workers often lack is a professional web presence and a way to deliver work to clients. A November 2026 OpenAI and Upwork report on [AI freelance projects](/articles/ai-freelance-projects) found that clients put bigger budgets on wider, finished projects while hourly rates stayed almost flat. If you have been following the wider debate, our pieces on [AI-washing in layoffs](/articles/ai-washing-layoffs-corporate-americas-favorite-excuse) and [what is actually happening to AI jobs](/articles/the-ai-job-apocalypse-is-not-coming-heres-whats-actually-happening) cover the labor-market side. This one is about the practical next step.
 
 ## What to do before you decide
 
