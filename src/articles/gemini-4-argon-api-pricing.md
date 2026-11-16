@@ -2,6 +2,7 @@
 title: "Gemini 4 Argon API Pricing: What to Build Before Dec 1"
 description: "Gemini 4 Argon costs $2 in and $10 out per million tokens until Nov 30, then doubles. Here is how to budget, pick a tier and build the app around it."
 date: "2026-10-22"
+updated: "2026-11-16"
 author: "Khalid BABA"
 tags: ["Gemini", "AI API", "AI Pricing", "AI Agents"]
 topic: "ai-agents-tools"
@@ -81,7 +82,7 @@ Agencies building this for clients can pair it with a [client portal](https://ww
 
 ## Related reading
 
-Argon is not the only new model builders are weighing. Our guide to [Reflection Beam for apps](/articles/reflection-beam-for-app-builders) covers an open-weight option you can host yourself, and [Muse Spark Open](/articles/muse-spark-open-for-app-builders) covers Meta's very different license terms. Before you let any model run commands, see why [agent sandboxes](/articles/agent-sdk-sandboxed-cloud-environments) matter. More articles on this theme live in the [AI Agents & Tools hub](/topics/ai-agents-tools).
+Argon is not the only new model builders are weighing. If you are comparing vendors, our breakdown of [Claude Fable 5.2 API pricing](/articles/claude-fable-5-2-api-pricing) runs the same monthly math for Anthropic's newest model. Our guide to [Reflection Beam for apps](/articles/reflection-beam-for-app-builders) covers an open-weight option you can host yourself, and [Muse Spark Open](/articles/muse-spark-open-for-app-builders) covers Meta's very different license terms. Before you let any model run commands, see why [agent sandboxes](/articles/agent-sdk-sandboxed-cloud-environments) matter. More articles on this theme live in the [AI Agents & Tools hub](/topics/ai-agents-tools).
 
 ## Honest limits
 
