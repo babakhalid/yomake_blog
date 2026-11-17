@@ -2,6 +2,7 @@
 title: "Monitor a Vibe-Coded App in Production: Setup Guide"
 description: "Replit's new Monitoring Agent fixes production bugs on its own. Here is how to monitor a vibe-coded app on any stack, and build that safety net in Youmake."
 date: "2026-10-24"
+updated: "2026-11-17"
 author: "Khalid BABA"
 tags: ["Vibe Coding", "Monitoring", "Production", "Youmake", "AI App Builder"]
 topic: "vibe-coding"
@@ -55,7 +56,7 @@ and shows the visitor a clear message instead of a blank screen.
 Add a private /admin/errors page, visible only to me, that lists the last 50 rows.
 ```
 
-3. Run Youmake's security scan before you publish, and read what it flags. An error page that leaks stack traces is a security problem as well as a debugging aid.
+3. Run Youmake's security scan before you publish, and read what it flags. An error page that leaks stack traces is a security problem as well as a debugging aid. Watch your AI provider bill too: the [Railway breach showed how stolen AI API keys](/articles/railway-breach-ai-api-keys) can run up charges while the app itself looks healthy.
 4. Publish to your own domain, then add your uptime checker on `https://yourdomain.com/health`.
 5. Sync the project to GitHub using the [code ownership features](https://www.youmake.dev/features/code-ownership). If a developer or a hosting platform's logs are part of your setup, they can see the same repository.
 

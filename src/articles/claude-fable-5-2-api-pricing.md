@@ -2,6 +2,7 @@
 title: "Claude Fable 5.2 API Pricing: 20% Cheaper, Still 2x Opus 5.5"
 description: "Claude Fable 5.2 API pricing is $8 in and $40 out per million tokens. See the monthly math, when the cheaper Opus 5.5 is enough, and how to build around it."
 date: "2026-11-16"
+updated: "2026-11-17"
 author: "Khalid BABA"
 tags: ["Claude", "AI API", "AI Pricing", "AI Agents"]
 topic: "ai-agents-tools"
@@ -74,7 +75,7 @@ One data point runs in Fable's favor. At High effort, Anthropic says Fable 5.2 "
 4. **Make the model a setting.** Put the model ID and the API key in environment variables. Anthropic's model IDs are pinned snapshots, so an upgrade is always a deliberate change on your side.
 5. **Cache the long, repeated part of the prompt.** A system prompt or reference document that repeats on every call costs $0.20 per million tokens on a cache read instead of $8.
 6. **Send work that can wait to the Batch API.** Nightly reports and bulk document processing cost half there.
-7. **Cap daily spend in your own code.** When the cap is hit, downgrade the model or stop, and tell the user why.
+7. **Cap daily spend in your own code.** When the cap is hit, downgrade the model or stop, and tell the user why. Set a spend limit at the provider as well; our guide to the [Railway breach and stolen AI API keys](/articles/railway-breach-ai-api-keys) explains why.
 
 You can build an app that does all seven without writing the plumbing yourself. [Start a 3-day Youmake trial for $1](https://www.youmake.dev/) (card required) and use the prompt in the next section.
 
