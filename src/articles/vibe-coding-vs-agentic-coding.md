@@ -2,7 +2,7 @@
 title: "Vibe Coding vs Agentic Coding: Which One Should You Use?"
 description: "Vibe coding vs agentic coding explained for builders: how each works, where each breaks, and a simple rule for choosing, with a prompt to try in Youmake."
 date: "2026-10-26"
-updated: "2026-11-08"
+updated: "2026-11-18"
 author: "Khalid BABA"
 tags: ["Vibe Coding", "Agentic Coding", "AI Agents", "Guide"]
 topic: "ai-agents-tools"
@@ -24,7 +24,7 @@ The loop is short: prompt, preview, react, prompt again. You stay in the loop at
 
 Agentic coding hands the AI a goal instead of an instruction. A typical agentic task reads like "add Stripe checkout and email receipts" or "migrate this form to the new API and fix whatever breaks." The agent breaks the work into steps, touches several files, runs the code or the test suite, reads the errors, and tries again until it believes the goal is met.
 
-Your job shifts from steering to specifying and reviewing. You write a clear brief, set boundaries, and check the diff or the running result when the agent reports back. The [agentic mindset](/articles/agentic-mindset-what-it-really-means-2026) is mostly this: be precise about the outcome, then let the system work.
+Your job shifts from steering to specifying and reviewing. You write a clear brief, set boundaries, and check the diff or the running result when the agent reports back. The [agentic mindset](/articles/agentic-mindset-what-it-really-means-2026) is mostly this: be precise about the outcome, then let the system work. Agentic coding now also comes as always-on agent teams, and our guide to [Devin Bots](/articles/devin-bots) explains what they do and what they cost.
 
 ## Vibe coding vs agentic coding at a glance
 
