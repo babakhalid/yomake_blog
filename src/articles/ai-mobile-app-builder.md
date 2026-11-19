@@ -6,7 +6,7 @@ author: "Khalid BABA"
 tags: ["AI Mobile App Builder", "Mobile Apps", "Youmake", "Vibe Coding", "No-Code"]
 topic: "vibe-coding"
 keywords: ["ai mobile app builder", "ai app builder for mobile", "build a mobile app with ai", "mobile app builder no code", "create an app from a prompt"]
-updated: "2026-10-30"
+updated: "2026-11-19"
 published: true
 ---
 
@@ -67,7 +67,7 @@ Here is the dog walker app as a concrete build.
    > Build a mobile app for a solo dog walker. Screens: a weekly schedule, a client list with each dog's name and notes, a walk detail screen with a "walk finished" button, and a message screen to send an owner a short update. Friendly colors, large tap targets, one-handed use.
 
 3. **Refine in the agent chat.** Watch the live preview and ask for changes in plain language: "move the finished button to the bottom", "show the dog's photo on the client card". The chat shows the credit cost of each request, so you can plan your changes.
-4. **Add a backend when the screens are right.** Connect Supabase for stored clients and walks, and Stripe if you want to charge for bookings.
+4. **Add a backend when the screens are right.** Connect Supabase for stored clients and walks, and Stripe if you want to charge for bookings. For a real example of charging from the first day, see the lessons from ClockwiseTV, a [self-funded startup that launched a paid app with no ads](/articles/self-funded-startup).
 5. **Run the security scan and publish.** Youmake scans before publishing. If a developer joins later, [export the code or sync it to GitHub](https://www.youmake.dev/features/code-ownership).
 
 ![The Youmake composer where you choose Mobile App and describe your idea](/images/blog/youmake-prompt-web-app-mobile-app-slides.webp)

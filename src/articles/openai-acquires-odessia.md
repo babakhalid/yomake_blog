@@ -2,6 +2,7 @@
 title: "OpenAI Acquires Odessia 27 Days After Launch: Founder Lessons"
 description: "OpenAI acquires Odessia 27 days after its public launch and the service closes. What vertical AI founders should build, own and ship now, with a Youmake prompt."
 date: "2026-11-11"
+updated: "2026-11-19"
 author: "Khalid BABA"
 tags: ["Founders", "OpenAI", "Vertical AI", "MVP", "Youmake"]
 topic: "founders"
@@ -74,7 +75,7 @@ Once strangers start using it, [set up monitoring for your app](/articles/monito
 
 ## Honest limits
 
-One acquisition is not a trend. Davidson had already co-founded and run Sonder for about a decade before he started Odessia. A first-time founder with a similar product should not expect the same attention.
+One acquisition is not a trend. Davidson had already co-founded and run Sonder for about a decade before he started Odessia. A first-time founder with a similar product should not expect the same attention. Selling is not the only path either: a week later, ClockwiseTV launched as a [self-funded startup](/articles/self-funded-startup) with no investors and a paid plan on day one.
 
 The asset is also the slow part. Youmake can give you a working app in a day. It cannot get you accredited, visit venues for you, or negotiate a supplier deal. And an app that takes bookings or payments needs your review before real customers touch it: test every form, read the terms of the services you connect, and check what personal data you store.
 
