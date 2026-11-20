@@ -2,6 +2,7 @@
 title: "Classroom AI Policy: Write One and Publish It This Week"
 description: "Google's November 2026 report says only 18% of US teachers got formal AI guidance. Here is how to write a classroom AI policy and publish it as a site."
 date: "2026-11-12"
+updated: "2026-11-20"
 author: "Khalid BABA"
 tags: ["AI in Education", "AI Policy", "Teachers", "AI Literacy"]
 topic: "ai-education"
@@ -27,7 +28,7 @@ The second is the report, titled "AI in Education Report: From potential to prac
 | 6% of higher-ed faculty strongly agree their institution provides enough AI training | Digital Education Council, 2025 |
 | 40 states and Puerto Rico have official AI guidance frameworks | Playlab state policy directory, September 2026 |
 
-A separate survey points the same way. Hanover Research's K-12 AI Integration Trends report, covered by EdTech Magazine on November 5, asked nearly 300 parents and K-12 educators. Nearly 7 in 10 staff said they want more AI training, and 37% said they feel very comfortable showing students how to use AI for schoolwork.
+A separate survey points the same way. Hanover Research's K-12 AI Integration Trends report, covered by EdTech Magazine on November 5, asked nearly 300 parents and K-12 educators. Nearly 7 in 10 staff said they want more AI training, and 37% said they feel very comfortable showing students how to use AI for schoolwork. If you are the one asked to run that training, our guide to [AI training for teachers](/articles/ai-training-for-teachers) shows what a course should cover and how to publish it.
 
 ## Why a classroom AI policy is now your job
 

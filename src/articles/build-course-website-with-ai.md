@@ -2,7 +2,7 @@
 title: "Build a Course Website With AI: What Google's Update Changes"
 description: "Google now lets teachers read student Gemini Notebook chats and publish Gemini apps to Sites. Here is how to build your own course site with AI instead."
 date: "2026-10-28"
-updated: "2026-11-12"
+updated: "2026-11-20"
 author: "Khalid BABA"
 tags: ["AI in Education", "Course Website", "Google Classroom", "Teachers"]
 topic: "ai-education"
@@ -26,7 +26,7 @@ Admins also got external sharing controls for Gemini Notebook, including trusted
 
 The first update tells you something about where AI in teaching is going: the assignment is no longer a worksheet, it is a conversation, and the teacher reads the conversation. That is useful for a school already inside Google Workspace for Education.
 
-It also leaves a gap. Many people who teach are not inside a school Workspace. Think of a trainer selling a cohort, a tutor with 30 students, a nonprofit running a workshop series, or a teacher starting a paid course on the side. They need a public site with a clear offer, a place for lessons, and a way for students to sign in. A private Sites draft from a Gemini app is a good prototype. It is a different thing from a branded course site on your own domain that you control.
+It also leaves a gap. Many people who teach are not inside a school Workspace. Think of a trainer selling a cohort, a tutor with 30 students, a nonprofit running a workshop series, or a teacher starting a paid course on the side. They need a public site with a clear offer, a place for lessons, and a way for students to sign in. A private Sites draft from a Gemini app is a good prototype. It is a different thing from a branded course site on your own domain that you control. If the course is professional development for educators, see what a national survey says [AI training for teachers](/articles/ai-training-for-teachers) should cover.
 
 If you are weighing that choice for the first time, our guide to [AI app builders](/articles/best-ai-app-builders) compares what each type of tool gives you. For education projects, the questions that matter are where the site lives, who owns the code, and what happens to student data.
 
