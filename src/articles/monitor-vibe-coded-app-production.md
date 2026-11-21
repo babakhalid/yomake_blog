@@ -2,7 +2,7 @@
 title: "Monitor a Vibe-Coded App in Production: Setup Guide"
 description: "Replit's new Monitoring Agent fixes production bugs on its own. Here is how to monitor a vibe-coded app on any stack, and build that safety net in Youmake."
 date: "2026-10-24"
-updated: "2026-11-17"
+updated: "2026-11-21"
 author: "Khalid BABA"
 tags: ["Vibe Coding", "Monitoring", "Production", "Youmake", "AI App Builder"]
 topic: "vibe-coding"
@@ -72,7 +72,7 @@ If you build sites for clients, this setup is a selling point. A short monthly n
 
 Be selective. Autofix with a human approving the change is a good default for everyone. Auto-publish makes sense only for apps where a wrong fix is cheap: a brochure site, an internal tool, a side project. For an app that handles payments or customer data, keep the approval step. Replit's own docs warn that changes such as database migrations carry risk, which is the right instinct.
 
-A useful rule: let the machine investigate freely, and let it publish only what you could undo in one click.
+A useful rule: let the machine investigate freely, and let it publish only what you could undo in one click. Monitoring catches problems after a change ships; to prevent them in the first place, follow this [safe routine for adding features to an AI-built app](/articles/vibe-code-bench).
 
 ## Honest limits
 

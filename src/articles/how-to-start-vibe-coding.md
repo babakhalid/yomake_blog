@@ -2,6 +2,7 @@
 title: "How to Start Vibe Coding: A 7-Step Beginner Plan"
 description: "How to start vibe coding with no coding background: a 7-step plan to go from first prompt to a published site, with sample prompts you can paste into Youmake."
 date: "2026-10-20"
+updated: "2026-11-21"
 author: "Khalid BABA"
 tags: ["Vibe Coding", "Beginners", "Learning", "Tutorial", "Youmake"]
 topic: "ai-education"
@@ -41,7 +42,7 @@ Open the preview and ask: is the offer clear in five seconds? Can I find the but
 
 ### 4. Change one thing at a time
 
-Follow-ups work best when they are specific: "Make the hero headline shorter and put the booking button above the fold." Bundling ten changes in one message makes it hard to see what worked. This is the main habit that separates people who get good results from people who get stuck.
+Follow-ups work best when they are specific: "Make the hero headline shorter and put the booking button above the fold." Bundling ten changes in one message makes it hard to see what worked. This is the main habit that separates people who get good results from people who get stuck. The [Vibe Code Bench results on updating a working app](/articles/vibe-code-bench) show why: even the best AI model often stumbles once changes pile up.
 
 ### 5. Add one real feature
 
