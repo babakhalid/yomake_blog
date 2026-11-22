@@ -14,6 +14,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/`, lastModified: latest },
     { url: `${SITE_URL}/articles`, lastModified: latest },
     { url: `${SITE_URL}/about`, lastModified: latest },
+    { url: `${SITE_URL}/fde-roadmap`, lastModified: '2026-11-22' },
     { url: `${SITE_URL}/templates`, lastModified: templates.map((template) => template.updated).sort().pop() },
     ...templates.map((template) => ({ url: `${SITE_URL}/templates/${template.slug}`, lastModified: template.updated })),
     ...topics.map((topic) => ({

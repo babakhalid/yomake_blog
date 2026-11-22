@@ -1,0 +1,49 @@
+/* /fde-roadmap: the free roadmap sent to people who comment "FDE" on the forward deployed engineer video. */
+.fde-page { padding: 1rem 0 5rem; }
+.fde-page .container { max-width: 760px; display: flex; flex-direction: column; gap: 3.5rem; }
+.fde-title { font-size: clamp(2.5rem, 8vw, 4.25rem); line-height: 1; letter-spacing: -0.045em; font-weight: 600; margin: 0.9rem 0 1.25rem; text-wrap: balance; }
+.fde-lede { font-size: 1.2rem; line-height: 1.55; color: var(--muted-foreground); max-width: 34em; }
+.fde-lede strong { color: var(--foreground); font-weight: 600; }
+.fde-section { display: flex; flex-direction: column; gap: 1.25rem; }
+
+.fde-stage { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius-card); padding: 1.75rem; display: flex; flex-direction: column; gap: 1.1rem; }
+.fde-stage-head { display: flex; gap: 1rem; align-items: baseline; }
+.fde-num { font-family: var(--font-mono); font-size: 0.8rem; font-weight: 500; color: var(--ym-blue-text); flex: none; }
+.fde-stage h2 { font-size: 1.6rem; line-height: 1.2; letter-spacing: -0.03em; font-weight: 600; margin: 0; text-wrap: balance; }
+.fde-stage-sub { color: var(--muted-foreground); margin: 0.2rem 0 0; }
+.fde-cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.25rem; }
+.fde-cols > div { min-width: 0; }
+.fde-cols h3, .fde-plan h3 { font-size: 1rem; font-weight: 600; margin: 0 0 0.3rem; }
+.fde-cols ul { margin: 0; padding-left: 1.1rem; display: flex; flex-direction: column; gap: 0.35rem; }
+.fde-page a:not(.btn) { color: var(--ym-blue-text); text-underline-offset: 3px; }
+.fde-proof { border-top: 1px solid var(--border); padding-top: 1rem; margin: 0; }
+.fde-proof b { font-weight: 600; }
+
+.fde-note { background: var(--ym-blue-wash); border: 1px solid var(--border); border-radius: var(--radius-card); padding: 1.75rem; display: flex; flex-direction: column; gap: 0.75rem; }
+.fde-note p { margin: 0; color: var(--muted-foreground); }
+.fde-note .fde-big { font-size: 1.6rem; line-height: 1.2; letter-spacing: -0.03em; font-weight: 600; color: var(--foreground); text-wrap: balance; }
+
+.fde-scroll { overflow-x: auto; border: 1px solid var(--border); border-radius: 1rem; background: var(--card); }
+.fde-table { border-collapse: collapse; width: 100%; min-width: 560px; font-size: 0.95rem; }
+.fde-table th { text-align: left; font-family: var(--font-mono); font-size: 0.6875rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--muted-foreground); font-weight: 400; padding: 0.9rem 1rem; border-bottom: 1px solid var(--border); }
+.fde-table td { padding: 0.9rem 1rem; border-bottom: 1px solid var(--border); vertical-align: top; }
+.fde-table tr:last-child td { border-bottom: 0; }
+.fde-table td:first-child { font-weight: 600; }
+.fde-small { font-size: 0.875rem; color: var(--muted-foreground); margin: 0; }
+.fde-table .fde-small { font-weight: 400; }
+
+.fde-plan { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 0.9rem; }
+.fde-plan > div { background: var(--card); border: 1px solid var(--border); border-radius: 1rem; padding: 1.25rem; min-width: 0; display: flex; flex-direction: column; gap: 0.5rem; }
+.fde-plan p { margin: 0; }
+.fde-days { font-family: var(--font-mono); font-size: 0.75rem; letter-spacing: 0.14em; color: var(--ym-blue-text); }
+
+/* The one high-emphasis block: ink surface with the sky glow, the same in both themes. */
+.fde-cta { background: #14151C radial-gradient(120% 130% at 100% 100%, hsl(223 62% 46% / 0.9), transparent 55%); border-radius: var(--radius-card); padding: 2.25rem 1.75rem; display: flex; flex-direction: column; align-items: flex-start; gap: 0.9rem; box-shadow: 0 0 0 1px rgba(140, 150, 175, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.1); }
+.fde-cta .eyebrow { color: #A8C2F7; }
+.fde-cta h2 { font-size: clamp(2.25rem, 7vw, 3.5rem); line-height: 1; letter-spacing: -0.045em; font-weight: 600; color: #FFFFFF; margin: 0; }
+.fde-cta p { color: #D7DCE6; max-width: 30em; margin: 0; }
+.fde-cta-btn { display: inline-block; margin-top: 0.4rem; background: #FFFFFF; color: #101119; font-weight: 600; text-decoration: none; border-radius: 999px; padding: 0.85rem 1.75rem; transition: transform 0.2s var(--ease); }
+.fde-cta-btn:active { transform: scale(0.985); }
+.fde-cta-btn:focus-visible { outline: 2px solid #A8C2F7; outline-offset: 3px; }
+.fde-cta-url { font-family: var(--font-mono); font-size: 0.8rem; color: #A8C2F7; }
+@media (prefers-reduced-motion: reduce) { .fde-cta-btn { transition: none; } }
