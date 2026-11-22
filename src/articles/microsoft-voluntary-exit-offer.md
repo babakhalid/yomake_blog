@@ -2,7 +2,7 @@
 title: "Microsoft Voluntary Exit Offer: What to Build Next"
 description: "Microsoft's Voluntary Exit Offer reaches about 60,000 employees. What it means if you're considering leaving, and a site you can build with Youmake this week."
 date: "2026-10-29"
-updated: "2026-11-14"
+updated: "2026-11-22"
 author: "Khalid BABA"
 tags: ["Microsoft", "Careers", "Freelancing", "Side Business"]
 topic: "future-of-work"
@@ -54,7 +54,7 @@ A workable first build:
 4. Connect your own domain and publish.
 5. If you will deliver work to clients, ask for a simple portal in a second build: login, a status page per client, file uploads. Our guide to a [client portal builder](/articles/client-portal-builder) walks through it, and the [client portal use case](https://www.youmake.dev/use-cases/client-portal) shows what is possible.
 
-If you only need a showcase, start from the [portfolio website template](/templates/portfolio-website) or the [consulting website template](/templates/consulting-website). For more ideas, see [10 portfolio websites built with Youmake](/articles/10-portfolio-websites).
+If you only need a showcase, start from the [portfolio website template](/templates/portfolio-website) or the [consulting website template](/templates/consulting-website). For more ideas, see [10 portfolio websites built with Youmake](/articles/10-portfolio-websites). If you manage junior staff, our piece on [Gen Z AI skills and portfolio projects](/articles/gen-z-ai-skills) covers how younger workers can show AI work without it counting against them.
 
 [Start a 3-day Youmake trial for $1 →](https://www.youmake.dev/)
 

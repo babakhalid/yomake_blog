@@ -2,6 +2,7 @@
 title: "AI Freelance Projects: 52% Bigger Budgets, Same Hourly Rate"
 description: "AI freelance projects carry 52% bigger fixed-price budgets, an OpenAI and Upwork report finds. See what to sell now and how to package it with Youmake."
 date: "2026-11-14"
+updated: "2026-11-22"
 author: "Khalid BABA"
 tags: ["Freelancing", "Upwork", "OpenAI", "Careers"]
 topic: "future-of-work"
@@ -45,7 +46,7 @@ The second lesson is about which piece of your work a client still needs you for
 2. Attach the implementation. A copywriter can sell a landing page that is live with the copy in it. A marketer can sell the campaign plus the page it sends people to. A consultant can sell the audit plus a small internal tool that tracks the fixes.
 3. Price by scope, with a fixed fee. The premium in the data sits in fixed-price budgets. Write down what the client gets, by when, and for how much.
 4. Pair one AI skill with one traditional skill. The report's own examples are AI-generated video combined with editing and motion graphics, and chatbot development combined with application integration. In its appendix, pairs that mix an AI task with a traditional one are the largest group among the new combinations.
-5. Put the offer on a page you own. A marketplace profile lists skills. A page lets you describe one outcome, its scope, its price and an example.
+5. Put the offer on a page you own. A marketplace profile lists skills. A page lets you describe one outcome, its scope, its price and an example. If you are early in your career, the same logic applies to job hunting: our guide to [Gen Z AI skills](/articles/gen-z-ai-skills) shows why a live project beats saying you use AI.
 
 If your bundle includes a website or an app, you do not need to hire a developer to deliver it. [Start a 3-day Youmake trial for $1 →](https://www.youmake.dev/)
 
