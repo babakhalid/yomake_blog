@@ -1,11 +1,19 @@
+import Image from 'next/image';
 import { pageMetadata } from '@/utils/seo';
 import '@/styles/FdeRoadmap.css';
+
+const COVER = '/images/blog/fde-roadmap.jpg';
+const COVER_SIZE = { width: 1600, height: 1067 };
+const COVER_ALT = 'An engineer walking across a bridge of light from a desk to a customer\'s office building';
 
 export const metadata = pageMetadata({
   title: 'How to become a forward deployed engineer: free roadmap',
   description:
     'What to learn to become a forward deployed engineer, in what order, where to learn it, which certifications are worth taking, and a 90-day plan.',
   path: '/fde-roadmap',
+  image: COVER,
+  imageSize: COVER_SIZE,
+  imageAlt: COVER_ALT,
 });
 
 type Stage = { n: string; title: string; sub: string; learn: string[]; where: React.ReactNode[]; proof: string };
@@ -73,6 +81,7 @@ export default function FdeRoadmapPage() {
             A forward deployed engineer goes inside a customer&apos;s company and builds until the product works for real.{' '}
             <strong>The pay is for one skill: knowing which problem is worth solving.</strong> This is the order to learn it in, and how to prove you can do it.
           </p>
+          <Image className="fde-cover" src={COVER} alt={COVER_ALT} {...COVER_SIZE} sizes="(max-width: 760px) 100vw, 712px" priority />
         </header>
 
         <section className="fde-section" aria-label="The four stages">
