@@ -2,7 +2,7 @@
 title: "Why AI Shopping Agents Are Failing — And What It Means for Builders"
 description: "Walmart's ChatGPT checkout converted 3x worse than its website. Here's why agentic commerce isn't ready and what builders should learn from it."
 date: "2026-03-23"
-updated: "2026-11-15"
+updated: "2026-11-23"
 author: "Khalid BABA"
 tags: ["AI", "Agentic Commerce", "Product Design"]
 topic: "ai-agents-tools"
@@ -59,7 +59,7 @@ Real agents need context, memory, and judgment. We're not there yet.
 
 The pivot is telling. Walmart is embedding its own chatbot, Sparky, inside ChatGPT. Users will log into Walmart, sync carts across platforms, and complete purchases within Walmart's own system. A similar integration with Google Gemini is coming next month.
 
-This is the right move. Instead of handing the entire experience to a third party, Walmart keeps users in its ecosystem while meeting them where they are. The AI becomes a discovery layer, not a transaction layer. OpenAI's November 2026 launch follows the same logic: with [Businesses in ChatGPT](/articles/businesses-in-chatgpt), a business agent answers questions and then sends the shopper to the merchant's own site to buy.
+This is the right move. Instead of handing the entire experience to a third party, Walmart keeps users in its ecosystem while meeting them where they are. The AI becomes a discovery layer, not a transaction layer. OpenAI's November 2026 launch follows the same logic: with [Businesses in ChatGPT](/articles/businesses-in-chatgpt), a business agent answers questions and then sends the shopper to the merchant's own site to buy. Walmart has since gone further and published spending limits and terms for outside agents, which we break down in [Walmart Agent Gateway: what small online stores should do](/articles/walmart-agent-gateway).
 
 ## The Broader Pattern
 

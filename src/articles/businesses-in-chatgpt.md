@@ -2,6 +2,7 @@
 title: "Businesses in ChatGPT: How to Claim Your Business Profile"
 description: "OpenAI opened Businesses in ChatGPT on November 10. How to claim and verify a profile, what counts as a mention, and the website to build before you apply."
 date: "2026-11-15"
+updated: "2026-11-23"
 author: "Khalid BABA"
 tags: ["OpenAI", "ChatGPT", "Small Business", "AI Search", "Youmake"]
 topic: "ai-industry"
@@ -76,7 +77,7 @@ Published profiles are also hard to take back. The Keyword reports that only unp
 
 Youmake has no built-in connection to Business Hub. It builds and hosts the site, and you do the claiming, the DNS record and the feed upload yourself. A CSV export built from a prompt needs checking against OpenAI's schema before you rely on it. Youmake is also paid from the first day: the trial is 3 days for $1 with a card, then Starter is $20 a month.
 
-And agents that shop are still unreliable in places. We covered [why AI shopping agents fail](/articles/why-ai-shopping-agents-are-failing-and-what-it-means-for-builders) earlier this year, and OpenAI's own docs warn that a legitimate agent purchase can be flagged by fraud systems.
+And agents that shop are still unreliable in places. We covered [why AI shopping agents fail](/articles/why-ai-shopping-agents-are-failing-and-what-it-means-for-builders) earlier this year, and OpenAI's own docs warn that a legitimate agent purchase can be flagged by fraud systems. Retailers are now writing their own rules for these agents: see what the [Walmart Agent Gateway](/articles/walmart-agent-gateway) means for a small online store.
 
 ## FAQ
 
