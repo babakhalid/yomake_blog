@@ -1,0 +1,69 @@
+/* /founders and /founders/[slug]: the free worksheets from the "Science of founders" videos.
+   Layout, note box, table, plan cards and call to action come from FdeRoadmap.css; this file
+   adds the parts a worksheet needs: fill-in boxes, tick lists, numbered steps and print rules. */
+.fr-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem 1.25rem; margin-top: 1.5rem; }
+.fr-print { font: inherit; font-size: 0.9rem; font-weight: 600; color: var(--foreground); background: var(--card); border: 1px solid var(--border); border-radius: 999px; padding: 0.55rem 1.1rem; cursor: pointer; }
+.fr-print:hover { border-color: var(--ym-blue); }
+.fr-links { display: flex; flex-direction: column; gap: 0.3rem; margin: 0; padding: 0; list-style: none; font-size: 0.95rem; }
+
+.fr-h2 { display: flex; gap: 0.85rem; align-items: baseline; font-size: 1.6rem; line-height: 1.2; letter-spacing: -0.03em; font-weight: 600; margin: 0; text-wrap: balance; }
+.fde-cols h4 { font-size: 1rem; font-weight: 600; margin: 0 0 0.3rem; letter-spacing: 0; }
+.fr-intro { margin: 0; color: var(--muted-foreground); max-width: 38em; }
+.fr-card { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius-card); padding: 1.5rem 1.75rem; display: flex; flex-direction: column; gap: 1.25rem; }
+
+.fr-field { display: flex; flex-direction: column; gap: 0.3rem; }
+.fr-field label { font-weight: 600; }
+.fr-field textarea, .fde-table input { font: inherit; color: var(--foreground); background: var(--background); border: 1px solid var(--border); border-radius: 0.6rem; width: 100%; }
+.fr-field textarea { padding: 0.6rem 0.75rem; resize: vertical; min-height: 2.75rem; line-height: 1.5; }
+.fde-table input { padding: 0.4rem 0.5rem; min-width: 5rem; font-weight: 400; }
+.fr-field textarea:focus-visible, .fde-table input:focus-visible { outline: 2px solid var(--ring); outline-offset: 1px; }
+
+.fr-steps { margin: 0; padding: 0; list-style: none; counter-reset: fr-step; display: flex; flex-direction: column; gap: 1rem; }
+.fr-steps li { counter-increment: fr-step; display: grid; grid-template-columns: 1.75rem 1fr; gap: 0.25rem 0.5rem; }
+.fr-steps li::before { content: counter(fr-step, decimal-leading-zero); font-family: var(--font-mono); font-size: 0.8rem; font-weight: 500; color: var(--ym-blue-text); padding-top: 0.2rem; }
+.fr-steps b { font-weight: 600; display: block; }
+.fr-steps span { color: var(--muted-foreground); }
+
+.fr-checks { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 0.7rem; }
+.fr-checks label { display: grid; grid-template-columns: 1.25rem 1fr; gap: 0.7rem; align-items: start; cursor: pointer; }
+.fr-checks input { width: 1.15rem; height: 1.15rem; margin: 0.22rem 0 0; accent-color: var(--ym-blue); }
+
+.fr-example dl { margin: 0; display: flex; flex-direction: column; gap: 0.8rem; }
+.fr-example dt { font-family: var(--font-mono); font-size: 0.6875rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ym-blue-text); }
+.fr-example dd { margin: 0.15rem 0 0; color: var(--foreground); }
+
+.fr-today { border-left: 3px solid var(--ym-blue); padding: 0.25rem 0 0.25rem 1.25rem; display: flex; flex-direction: column; gap: 0.6rem; }
+.fr-today p { margin: 0; font-size: 1.3rem; line-height: 1.35; letter-spacing: -0.02em; font-weight: 600; text-wrap: pretty; }
+
+.fr-index { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 0.9rem; }
+.fr-index a { height: 100%; background: var(--card); border: 1px solid var(--border); border-radius: 1rem; padding: 1.25rem; display: flex; flex-direction: column; gap: 0.5rem; text-decoration: none; color: var(--foreground); transition: border-color 0.2s var(--ease); }
+.fr-index a:hover { border-color: var(--ym-blue); }
+.fr-index h2 { font-size: 1.2rem; line-height: 1.25; letter-spacing: -0.02em; font-weight: 600; margin: 0; color: var(--foreground); }
+.fr-index p { margin: 0; color: var(--muted-foreground); font-size: 0.95rem; }
+.fr-back { font-size: 0.9rem; }
+
+@media (max-width: 520px) {
+  .fr-card, .fde-page .fde-stage, .fde-page .fde-note { padding: 1.25rem; }
+  .fr-index { grid-template-columns: 1fr; }
+}
+@media (prefers-reduced-motion: reduce) { .fr-index a { transition: none; } }
+
+/* Print: the worksheet only, black on white, with boxes left to write in. */
+@media print {
+  .header, .footer, .fr-print, .fr-back, .fde-cta-btn { display: none !important; }
+  .main { padding: 0; }
+  .fde-page { padding: 0; }
+  .fde-page .container { max-width: none; padding: 0; gap: 1.5rem; }
+  .fde-title { font-size: 2.2rem; }
+  .fde-lede { font-size: 1rem; }
+  .fde-stage, .fr-card, .fde-note, .fde-plan > div, .fr-field, .fr-steps li, .fr-checks li, .fde-table tr, .fr-today { break-inside: avoid; }
+  .fr-h2 { break-after: avoid; }
+  .fde-scroll { overflow: visible; }
+  .fde-table { min-width: 0; font-size: 0.8rem; }
+  .fde-table input { border: 0; border-bottom: 1px solid #999; border-radius: 0; min-width: 0; height: 1.75rem; }
+  .fr-field textarea { border: 1px solid #999; }
+  .fde-cta { background: none; box-shadow: none; border: 1px solid #999; padding: 1rem 1.25rem; }
+  .fde-cta h2, .fde-cta p, .fde-cta .eyebrow, .fde-cta-url { color: #000; }
+  .fde-cta h2 { font-size: 1.5rem; }
+  .fde-page a { color: #000; }
+}

@@ -1,5 +1,6 @@
 import type { MetadataRoute } from 'next';
 import { getArticleTopic, getIndexableArticles, lastModified } from '@/utils/articles';
+import { founderResources } from '@/data/founderResources';
 import { templates } from '@/data/templates';
 import { SITE_URL, absoluteUrl, topics } from '@/utils/site';
 
@@ -15,6 +16,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/articles`, lastModified: latest },
     { url: `${SITE_URL}/about`, lastModified: latest },
     { url: `${SITE_URL}/fde-roadmap`, lastModified: '2026-11-22' },
+    { url: `${SITE_URL}/founders`, lastModified: founderResources.map((resource) => resource.updated).sort().pop() },
+    ...founderResources.map((resource) => ({ url: `${SITE_URL}/founders/${resource.slug}`, lastModified: resource.updated })),
     { url: `${SITE_URL}/templates`, lastModified: templates.map((template) => template.updated).sort().pop() },
     ...templates.map((template) => ({ url: `${SITE_URL}/templates/${template.slug}`, lastModified: template.updated })),
     ...topics.map((topic) => ({
