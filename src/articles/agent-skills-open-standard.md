@@ -2,7 +2,7 @@
 title: "Agent Skills Open Standard: What Builders Should Do Now"
 description: "Agent Skills moved to the Linux Foundation's AAIF. Learn what the open standard means for builders, how to write a SKILL.md, and what to build with Youmake."
 date: "2026-11-01"
-updated: "2026-11-16"
+updated: "2026-11-24"
 author: "Khalid BABA"
 tags: ["Agent Skills", "AI Agents", "Open Standards", "Guide"]
 topic: "ai-agents-tools"
@@ -47,7 +47,7 @@ That has three consequences for builders:
 2. **Quality becomes reviewable.** A skill is a text file, so it goes through pull requests like any other change.
 3. **Security needs attention.** The roadmap includes security guidance for people who write and install skills, which tells you the risk is recognized. A skill can include scripts, so read a skill before installing it, the same way you would read a dependency.
 
-For the product side of this feature, see our earlier piece on [Claude's Skills for repeatable workflows](/articles/claude-skills-repeatable-workflows). If you are choosing which model runs those skills, see what [Claude Fable 5.2 costs in the API](/articles/claude-fable-5-2-api-pricing) and when a cheaper model is enough. More agent and tool news lives in the [AI Agents & Tools hub](/topics/ai-agents-tools).
+For the product side of this feature, see our earlier piece on [Claude's Skills for repeatable workflows](/articles/claude-skills-repeatable-workflows). If you are choosing which model runs those skills, see what [Claude Fable 5.2 costs in the API](/articles/claude-fable-5-2-api-pricing) and when a cheaper model is enough. Skills describe how an agent works inside your tools; for how your website describes itself to an agent, read about the [WebMCP breaking changes in Chrome 160](/articles/webmcp-chrome-160). More agent and tool news lives in the [AI Agents & Tools hub](/topics/ai-agents-tools).
 
 ## What to do this week
 

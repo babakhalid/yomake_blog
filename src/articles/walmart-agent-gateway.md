@@ -2,6 +2,7 @@
 title: "Walmart Agent Gateway: What Small Online Stores Should Do Now"
 description: "Walmart Agent Gateway lets approved AI agents shop under spending limits and written terms. What Walmart published, and five things a small store can copy."
 date: "2026-11-23"
+updated: "2026-11-24"
 author: "Khalid BABA"
 tags: ["Walmart", "AI Agents", "Ecommerce", "Small Business", "Youmake"]
 topic: "ai-industry"
@@ -83,7 +84,7 @@ The gateway is a limited beta for companies and developers. Walmart said Agent P
 
 The Sparky figures are Walmart's own. A 40% larger basket at the largest US retailer tells you little about a ten-product shop.
 
-Structured data helps an agent read a page, and neither Walmart nor Google says it makes an agent pick your shop. Agents also still fail at ordinary purchases, which we covered in [why AI shopping agents are failing](/articles/why-ai-shopping-agents-are-failing-and-what-it-means-for-builders).
+Structured data helps an agent read a page, and neither Walmart nor Google says it makes an agent pick your shop. Agents also still fail at ordinary purchases, which we covered in [why AI shopping agents are failing](/articles/why-ai-shopping-agents-are-failing-and-what-it-means-for-builders). The browser standard for declaring what a form does is still moving too: see [what breaks with WebMCP in Chrome 160](/articles/webmcp-chrome-160).
 
 Youmake does not include an agent gateway or an MCP server for your store. It builds and hosts the site, and markup generated from a prompt has to be validated before you rely on it. Youmake is paid from day one: the trial is 3 days for $1 with a card, then Starter is $20 a month.
 
