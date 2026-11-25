@@ -7,7 +7,7 @@ tags: ["Vibe Coding", "AI Development", "Web Development", "Tutorial", "Youmake"
 topic: "vibe-coding"
 image: "/images/blog/what-is-vibe-coding-guide.png"
 keywords: ["vibe coding", "what is vibe coding", "vibe coding meaning", "vibecoding", "vibe coding definition", "how does vibe coding work", "vibe coding examples"]
-updated: "2026-10-26"
+updated: "2026-11-25"
 published: true
 ---
 
@@ -153,7 +153,7 @@ No. It changes what developers do. Instead of writing boilerplate, developers fo
 With the right platform, yes. [Youmake](https://www.youmake.dev/) generates production-ready code with security checks, responsive design, and performance optimization built in.
 
 ### Can I edit the generated code?
-Absolutely. Vibe coding produces standard, clean code. You can export it, modify it, and maintain it like any other codebase.
+Absolutely. Vibe coding produces standard, clean code. You can export it, modify it, and maintain it like any other codebase. Plan for that upkeep from day one: our guide to [vibe coding technical debt](/articles/vibe-coding-technical-debt) has a 6-step maintenance plan.
 
 ### What if I have no technical background at all?
 That's the whole point. Vibe coding is designed for people who have ideas but not programming skills. If you can describe what you want clearly, you can vibe code.

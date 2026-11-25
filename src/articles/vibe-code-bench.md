@@ -7,6 +7,7 @@ tags: ["Vibe Coding", "AI Models", "Benchmarks", "Youmake", "AI App Builder"]
 topic: "vibe-coding"
 keywords: ["vibe code bench", "vibe code bench 1-100", "update a vibe coded app", "add features to ai built app", "gpt-6.2 astra coding"]
 image: "/images/blog/vibe-code-bench.jpg"
+updated: "2026-11-25"
 published: true
 ---
 
@@ -50,7 +51,7 @@ First, a request the model misreads is the most common failure. Vague requests (
 
 Second, about a quarter of the stops involved breaking something that used to work. The more of your app a change touches, the more you should re-check afterward. Cross-cutting rules, such as "all prices in euros" or "only admins can delete", were the most common request type in the test and they touch everything.
 
-Third, the scoring mirrors real life. In the benchmark the first failure ends the run. In your project, a broken change you do not notice becomes the base for the next five changes, and untangling it costs more than the original feature did. Our guide to [monitoring a vibe-coded app in production](/articles/monitor-vibe-coded-app-production) covers how to catch the ones that slip through.
+Third, the scoring mirrors real life. In the benchmark the first failure ends the run. In your project, a broken change you do not notice becomes the base for the next five changes, and untangling it costs more than the original feature did. Our guide to [monitoring a vibe-coded app in production](/articles/monitor-vibe-coded-app-production) covers how to catch the ones that slip through. The budget side of the same problem shows up in Appian's survey on [vibe coding technical debt](/articles/vibe-coding-technical-debt), where 82% of large enterprises already spend at least 10% of their innovation budget on upkeep.
 
 ## A safe-change routine for any AI-built app
 
