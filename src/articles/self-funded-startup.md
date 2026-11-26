@@ -2,6 +2,7 @@
 title: "Self-Funded Startup: 5 Lessons From ClockwiseTV's $6.99 Launch"
 description: "ClockwiseTV launched as a self-funded startup: no investors, no ads, $6.99 a month. Five lessons for founders and a Youmake prompt to build a paid MVP now."
 date: "2026-11-19"
+updated: "2026-11-26"
 author: "Khalid BABA"
 tags: ["Founders", "Bootstrapping", "MVP", "Pricing", "Youmake"]
 topic: "founders"
@@ -93,7 +94,7 @@ The site lists a launch price of $6.99 a month or $69.99 a year through November
 **Can I build a subscription app without a developer?**
 Yes, for a first version. Describe the screens in Youmake, connect Stripe for the subscription and Supabase for logins, then publish to your own domain. Read every screen and test the full payment flow before you invite real customers.
 
-More guides for people starting companies with AI are in the [founders hub](/topics/founders). For a very different outcome from the same month, read the lessons from [OpenAI's acquisition of Odessia](/articles/openai-acquires-odessia).
+More guides for people starting companies with AI are in the [founders hub](/topics/founders). The latest [solo founder statistics](/articles/solo-founder-statistics) show why charging early matters: 82% of solo founders in one 2026 sample reported no revenue. For a very different outcome from the same month, read the lessons from [OpenAI's acquisition of Odessia](/articles/openai-acquires-odessia).
 
 **[Start a 3-day Youmake trial for $1 →](https://www.youmake.dev/)**
 
