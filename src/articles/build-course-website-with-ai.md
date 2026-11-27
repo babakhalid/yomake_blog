@@ -2,7 +2,7 @@
 title: "Build a Course Website With AI: What Google's Update Changes"
 description: "Google now lets teachers read student Gemini Notebook chats and publish Gemini apps to Sites. Here is how to build your own course site with AI instead."
 date: "2026-10-28"
-updated: "2026-11-20"
+updated: "2026-11-27"
 author: "Khalid BABA"
 tags: ["AI in Education", "Course Website", "Google Classroom", "Teachers"]
 topic: "ai-education"
@@ -37,6 +37,7 @@ If you are weighing that choice for the first time, our guide to [AI app builder
 3. **Tell students what is visible.** If you use the new insight summaries, say so in your syllabus. Google notifies students, but a plain sentence from you builds more trust than a banner. The same goes for AI rules: our guide to writing a [classroom AI policy](/articles/classroom-ai-policy) shows what to put on that page.
 4. **Write the minimum site first.** One page with who the course is for, what students will be able to do, the schedule, and one button. Add lesson pages and a quiz after the first sign-up.
 5. **Check your student-data rules.** Whatever you build, your district, university or country may have rules on student data. Read them before you collect anything beyond a name and an email.
+6. **Give students a list of sources.** Districts are changing what student search shows, so add a research page to the site, as in our guide to [building a class research hub](/articles/google-ai-overviews-schools).
 
 ## How to do this with Youmake
 

@@ -2,7 +2,7 @@
 title: "Classroom AI Policy: Write One and Publish It This Week"
 description: "Google's November 2026 report says only 18% of US teachers got formal AI guidance. Here is how to write a classroom AI policy and publish it as a site."
 date: "2026-11-12"
-updated: "2026-11-20"
+updated: "2026-11-27"
 author: "Khalid BABA"
 tags: ["AI in Education", "AI Policy", "Teachers", "AI Literacy"]
 topic: "ai-education"
@@ -48,7 +48,7 @@ Keep it to one page that a 14-year-old and a parent can both read in two minutes
 2. **Sort assignments into three levels.** Green: AI is allowed, for example brainstorming topics or getting feedback on a draft. Amber: AI is allowed with a note saying how you used it. Red: no AI, for example in-class writing and tests. Label every assignment with one of the three.
 3. **Say how to disclose.** One sentence is enough: "At the end of your work, write which tool you used and what you asked it."
 4. **Say what happens after a mistake.** Describe the conversation that follows a first problem, and write it before you need it.
-5. **Name the tools.** List what the school provides and what students may use at home. Update the list when your administrator makes the Google decision.
+5. **Name the tools.** List what the school provides and what students may use at home. Update the list when your administrator makes the Google decision. Since then Los Angeles Unified has switched off [Google AI Overviews in schools](/articles/google-ai-overviews-schools), so say where students should start their research too.
 6. **Add a short section for parents.** Three or four questions they ask at every conference.
 7. **Date it.** Put "Last updated" at the top and review it each term.
 
