@@ -16,6 +16,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/articles`, lastModified: latest },
     { url: `${SITE_URL}/about`, lastModified: latest },
     { url: `${SITE_URL}/fde-roadmap`, lastModified: '2026-11-22' },
+    { url: `${SITE_URL}/ai-news/apple-vs-openai`, lastModified: '2026-11-28' },
     { url: `${SITE_URL}/founders`, lastModified: founderResources.map((resource) => resource.updated).sort().pop() },
     ...founderResources.map((resource) => ({ url: `${SITE_URL}/founders/${resource.slug}`, lastModified: resource.updated })),
     { url: `${SITE_URL}/templates`, lastModified: templates.map((template) => template.updated).sort().pop() },
