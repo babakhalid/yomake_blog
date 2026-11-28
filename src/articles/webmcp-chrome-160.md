@@ -2,6 +2,7 @@
 title: "WebMCP in Chrome 160: What Breaks and What to Do Now"
 description: "WebMCP in Chrome 160 changes what getTools() returns and breaks some origin trial code. See what changed, who is affected, and how to keep your site ready."
 date: "2026-11-24"
+updated: "2026-11-28"
 author: "Khalid BABA"
 tags: ["WebMCP", "AI Agents", "Chrome", "Guide"]
 topic: "ai-agents-tools"
@@ -100,7 +101,7 @@ Youmake is an [AI app builder](/articles/best-ai-app-builders): you describe a w
 
 ## Honest limits
 
-WebMCP is an experiment. Chrome's docs describe it as mainly for local browser workflows with a person in the loop, and note that agents only learn a site has tools by visiting it. Adding tools will not bring agents to you.
+WebMCP is an experiment. Chrome's docs describe it as mainly for local browser workflows with a person in the loop, and note that agents only learn a site has tools by visiting it. Adding tools will not bring agents to you. For the reading side, [Cloudflare Search for Agents](/articles/cloudflare-search-for-agents) gives agents a search endpoint on your domain.
 
 The list of further breaking changes has not been published. Migration guides are promised through Chrome's Early Preview Program, with no date given.
 

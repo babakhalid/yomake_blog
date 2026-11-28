@@ -2,7 +2,7 @@
 title: "Businesses in ChatGPT: How to Claim Your Business Profile"
 description: "OpenAI opened Businesses in ChatGPT on November 10. How to claim and verify a profile, what counts as a mention, and the website to build before you apply."
 date: "2026-11-15"
-updated: "2026-11-23"
+updated: "2026-11-28"
 author: "Khalid BABA"
 tags: ["OpenAI", "ChatGPT", "Small Business", "AI Search", "Youmake"]
 topic: "ai-industry"
@@ -46,7 +46,7 @@ The agent and the wallet both end on your site too. A Business Agent sends the s
 1. **Claim and verify.** Start in Business Hub. If you own your domain, the TXT record is the cleanest proof, because it does not depend on a phone listing being correct somewhere else.
 2. **Put your policies on your site in plain text.** Returns, shipping, pricing and contact details. The agent answers from what you give it, and The Keyword notes that OpenAI's setup guide tells businesses to test the agent with common customer questions and correct what it gets wrong.
 3. **Prepare a product feed if you sell products.** OpenAI's docs require these fields per item: `item_id`, `title`, `description`, `url`, `brand`, `seller_name`, `image_url`, `availability` and `price`, plus the countries you sell in. It accepts CSV, TSV, JSON and JSONL, by manual upload, a hosted HTTPS URL or SFTP. Identity verification comes first, and the standard upload currently targets the US.
-4. **Check that your security settings let ChatGPT's browser in.** OpenAI says you do not need an allowlist, but a strict firewall can block its visits. Akamai, Cloudflare, HUMAN and Vercel verify ChatGPT's signed requests automatically.
+4. **Check that your security settings let ChatGPT's browser in.** OpenAI says you do not need an allowlist, but a strict firewall can block its visits. Akamai, Cloudflare, HUMAN and Vercel verify ChatGPT's signed requests automatically. If your domain is on Cloudflare, you can also [make your website searchable by AI agents with Search for Agents](/articles/cloudflare-search-for-agents).
 5. **Write down your numbers.** Note mentions and clicks on day one so you can tell later whether a change to your site moved them.
 
 **[Build the site ChatGPT can reference: start a 3-day Youmake trial for $1 →](https://www.youmake.dev/ai-website-builder)**
